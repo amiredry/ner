@@ -1,0 +1,11 @@
+
+Language Region: 0 1157 English
+Entity	Type
+Natural Law Party	ORGANIZATION
+WASHINGTON	LOCATION
+1996-08-22	TEMPORAL:DATE
+Natural Law Party	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Transcendental Meditation ( TM	ORGANIZATION
+John Hagelin	PERSON
+Nov. 5	TEMPORAL:DATE

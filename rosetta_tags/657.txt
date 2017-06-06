@@ -1,0 +1,14 @@
+
+Language Region: 0 317 English
+Entity	Type
+MOSCOW	LOCATION
+1996-08-28	TEMPORAL:DATE
+Russia	LOCATION
+Brazil	LOCATION
+Wednesday	TEMPORAL:DATE
+Russia	LOCATION
+Yuri Nikiforov	PERSON
+Vladislav Rodimov	PERSON
+Brazil	LOCATION
+Donizetti	LOCATION
+Ronaldo	PERSON

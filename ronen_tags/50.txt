@@ -1,0 +1,11 @@
+BASEBALL - ORIOLES ' MANAGER DAVEY JOHNSON HOSPITALIZED .
+BALTIMORE 1996-08-22
+<LOCATION>Baltimore</LOCATION> Orioles manager <PERSON>Davey Johnson</PERSON> will miss Thursday night's game against the <LOCATION>Seattle</LOCATION> Mariners after being admitted to a hospital with an irregular heartbeat .
+The 53-year-old Johnson was hospitalized after experiencing dizziness .
+" He is in no danger and will be treated and observed this evening , " said <PERSON>Orioles</PERSON> team physician <PERSON>Dr. William Goldiner</PERSON> , adding that Johnson is expected to be released on Friday .
+Orioles ' bench coach Andy Etchebarren will manage the club in Johnson's absence .
+Johnson is the second manager to be hospitalized this week after California Angels skipper John McNamara was admitted to <LOCATION>New York</LOCATION>'s Columbia Presbyterian Hospital on Wednesday with a blood clot in his left calf .
+Johnson , who played eight seasons in <LOCATION>Baltimore</LOCATION> , was named Orioles manager in the off-season replacing <PERSON>Phil Regan</PERSON> .
+He led the Cincinnati Reds to the National League Championship Series last year and guided the New York Mets to a World Series championship in 1986 .
+<PERSON>Baltimore</PERSON> has won 16 of its last 22 games to pull within five games of the slumping New York Yankees in the American League East Division .
+

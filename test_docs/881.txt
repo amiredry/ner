@@ -1,0 +1,15 @@
+
+Language Region: 0 423 English
+Entity	Type
+Sabourin CFO	PERSON
+1996-08-29	TEMPORAL:DATE
+Vicorp Restaurants Inc	ORGANIZATION
+Richard Sabourin	PERSON
+executive vice president and chief financial officer	TITLE
+Sabourin	PERSON
+president and chief executive	TITLE
+Bestop Inc	ORGANIZATION
+Boulder , Colo	LOCATION
+Craig Held	PERSON
+executive vice president and chief marketing officer	TITLE
+New York Newsdesk	LOCATION

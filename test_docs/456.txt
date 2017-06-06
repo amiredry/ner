@@ -1,0 +1,32 @@
+
+Language Region: 0 1616 English
+Entity	Type
+SVCD Bulgaria	ORGANIZATION
+September 3	TEMPORAL:DATE
+1996-08-26	TEMPORAL:DATE
+Bulgarian	NATIONALITY
+September 3	TEMPORAL:DATE
+chief	TITLE
+Bulgarian	NATIONALITY
+Monday	TEMPORAL:DATE
+Stefan Raichev	PERSON
+Bulgaria	LOCATION
+Europe	LOCATION
+Middle	LOCATION
+Far East	LOCATION
+Raichev	PERSON
+director general	TITLE
+Valentin Valkov	PERSON
+Friday	TEMPORAL:DATE
+Valkov	PERSON
+Balkan Airlines	ORGANIZATION
+Bulgarian	NATIONALITY
+Raichev	PERSON
+Balkan	LOCATION
+Raichev	PERSON
+Raichev	PERSON
+English	NATIONALITY
+$ 1,000	IDENTIFIER:MONEY
+$ 230	IDENTIFIER:MONEY
+Liliana Semerdjieva	PERSON
+Sofia Newsroom	ORGANIZATION

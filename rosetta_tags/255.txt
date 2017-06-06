@@ -1,0 +1,16 @@
+
+Language Region: 0 347 English
+Entity	Type
+LONDON	LOCATION
+1996-08-24	TEMPORAL:DATE
+Pakistan	LOCATION
+third day	TEMPORAL:TIME
+Saturday	TEMPORAL:DATE
+England	LOCATION
+England	LOCATION
+J. Crawley 106	PRODUCT
+G. Thorpe	PERSON
+Waqar Younis	PERSON
+Pakistan	LOCATION
+Saeed Anwar	PERSON
+Ijaz Ahmed	PERSON

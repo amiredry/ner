@@ -1,0 +1,13 @@
+
+Language Region: 0 650 English
+Entity	Type
+Kindercare	PERSON
+MONTGOMERY , Ala	LOCATION
+KinderCare Learning Centers Inc	ORGANIZATION
+Thursday	TEMPORAL:DATE
+$ 1.2 million	IDENTIFIER:MONEY
+June 1	TEMPORAL:DATE
+$ 30 million	IDENTIFIER:MONEY
+$ 31.5 million	IDENTIFIER:MONEY
+Philip Maslowe	PERSON
+chief financial officer	TITLE

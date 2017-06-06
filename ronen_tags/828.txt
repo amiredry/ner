@@ -1,0 +1,6 @@
+SOCCER - THREE PULL OUT OF DUTCH SQUAD FOR <LOCATION>BRAZIL</LOCATION> .
+AMSTERDAM 1996-08-29
+Three Dutch players have pulled out of the squad for Saturday's friendly international soccer match against <LOCATION>Brazil</LOCATION> in <LOCATION>Amsterdam</LOCATION> .
+Ajax defender <PERSON>John Veldman</PERSON> and his team mate Richard Witschge are injured , while <ORGANIZATION>PSV midfielder Philip Cocu</ORGANIZATION> has a fever .
+Dutch coach Guus Hiddink called in <PRODUCT>Feyenoord midfielder Giovanni van Bronckhorst and Vitesse defender Ferdy Vierklau for Cocu</PRODUCT> and Veldman , but did not name a replacement for midfielder Witschge .
+

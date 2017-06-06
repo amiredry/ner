@@ -1,0 +1,19 @@
+
+Language Region: 0 66 English Uppercase
+Entity	Type
+AUSTRALIA	LOCATION
+ZIMBABWE	LOCATION
+ONE-DAY	TEMPORAL:TIME
+
+Language Region: 66 296 English
+Entity	Type
+COLOMBO	LOCATION
+1996-08-26	TEMPORAL:DATE
+Australia	LOCATION
+Zimbabwe	LOCATION
+Singer	ORGANIZATION
+World	PRODUCT
+one-day	TEMPORAL:TIME
+Monday	TEMPORAL:DATE
+Australia	LOCATION
+Zimbabwe	LOCATION

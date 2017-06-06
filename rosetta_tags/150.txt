@@ -1,0 +1,24 @@
+
+Language Region: 0 933 English
+Entity	Type
+1996-08-23	TEMPORAL:DATE
+Hamburg	LOCATION
+St Pauli	LOCATION
+Schalke	LOCATION
+Friday	TEMPORAL:DATE
+Schalke	LOCATION
+St Pauli	LOCATION
+Andre Trulsen	PERSON
+Schalke	LOCATION
+Martin Max	PERSON
+Christian Springer	PERSON
+St Pauli	LOCATION
+three minutes	TEMPORAL:TIME
+Thomas Sabotzik	PERSON
+Hamburg	LOCATION
+Hansa Rostock	LOCATION
+Karsten Baeron	PERSON
+Harald Spoerl	PERSON
+Hamburg	LOCATION
+German	NATIONALITY
+Saturday	TEMPORAL:DATE

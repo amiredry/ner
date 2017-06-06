@@ -1,0 +1,6 @@
+
+Language Region: 0 271 English
+Entity	Type
+Career Horizons	ORGANIZATION
+Donaldson Lufkin & Jenrette	ORGANIZATION
+Career Horizons Inc	ORGANIZATION

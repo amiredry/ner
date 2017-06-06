@@ -1,0 +1,103 @@
+
+Language Region: 0 381 English
+Entity	Type
+1,000 KM	IDENTIFIER:DISTANCE
+SUZUKA , Japan	LOCATION
+1996-08-25	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Pokka	ORGANIZATION
+1,000 km	IDENTIFIER:DISTANCE
+International Endurance GT	ORGANIZATION
+Ray Belim	PERSON
+Britain	LOCATION
+James Weaver	PERSON
+Britain	LOCATION
+Finland	LOCATION
+Gulf	LOCATION
+6 hours	TEMPORAL:TIME
+18 minutes	TEMPORAL:TIME
+48.637 seconds	TEMPORAL:TIME
+
+Language Region: 381 449 Italian
+Entity	Type
+Anders Olofsson	PERSON
+Sweden	ORGANIZATION
+Luciano della Noce	PERSON
+Italy	LOCATION
+Ennea	PERSON
+
+Language Region: 449 925 English
+Entity	Type
+Ferrari	ORGANIZATION
+Andy Ballace	PERSON
+Britain	LOCATION
+Olivier Grouillard	PERSON
+France	LOCATION
+Harrods	ORGANIZATION
+Thomas Bscher	PERSON
+Germany	LOCATION
+Peter Kox	PERSON
+Netherlands	LOCATION
+West	LOCATION
+McLaren F1 GTR 168 5	PRODUCT
+Fabien Giroix	PERSON
+France	LOCATION
+Jean-Denis Deletraz	PERSON
+Switzerland	LOCATION
+Muller	ORGANIZATION
+McLaren F1 GTR 167 6	PRODUCT
+Lindsay Owen-Jones	PERSON
+Britain	LOCATION
+Pierre-Henri Raphanel	PERSON
+France	LOCATION
+David Brabham	PERSON
+Australia	LOCATION
+Gulf	LOCATION
+Jean-Marc Gounon	PERSON
+France	LOCATION
+Eric Bernard	PERSON
+France	LOCATION
+
+Language Region: 925 968 Italian
+Entity	Type
+Belmondo	PERSON
+France	LOCATION
+Ennea Ferrari	PERSON
+
+Language Region: 968 1557 English
+Entity	Type
+Bruno Eichmann	PERSON
+Germany	LOCATION
+Gerd Ruch	PERSON
+Germany	LOCATION
+Ralf Kelleners	PERSON
+Germany	LOCATION
+GT2 Roock Porsche 911 164 9	PRODUCT
+Stephane Ortelli	PERSON
+France	LOCATION
+Bob Wollek	PERSON
+France	LOCATION
+Franz Konrad	PERSON
+Austria	LOCATION
+GT2 Konrad Porsche 911 164 10	PRODUCT
+Cor Euser	PERSON
+Netherlands	LOCATION
+H. Wada	PERSON
+Japan	LOCATION
+N. Furuya	PERSON
+Japan	LOCATION
+GT2 Marcos LM600 162 Fastest	PRODUCT
+Gounon	PERSON
+2 minutes	TEMPORAL:TIME
+03.684 seconds	TEMPORAL:TIME
+Belim	PERSON
+Weaver	PERSON
+Eichmann	PERSON
+Ruch 116 3	PRODUCT
+Bscher	PERSON
+Gounon	PERSON
+Bernard	PERSON
+Belmondo	PERSON
+Olofsson	PERSON
+Owen-Jones	PERSON
+Raphanel	PERSON

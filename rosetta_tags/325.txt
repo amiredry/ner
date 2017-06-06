@@ -1,0 +1,15 @@
+
+Language Region: 0 354 English
+Entity	Type
+LONDON	LOCATION
+1996-08-25	TEMPORAL:DATE
+England	LOCATION
+manager	TITLE
+Glenn Hoddle	PERSON
+Everton	LOCATION
+Andy Hinchcliffe	PERSON
+Sunday	TEMPORAL:DATE
+Moldova	LOCATION
+Hinchcliffe	PERSON
+Tottenham	LOCATION
+Darren Anderton	PERSON

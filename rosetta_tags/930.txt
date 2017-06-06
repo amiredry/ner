@@ -1,0 +1,30 @@
+
+Language Region: 0 1758 English
+Entity	Type
+HK	LOCATION
+China	LOCATION
+HONG KONG	LOCATION
+1996-08-29	TEMPORAL:DATE
+Hong Kong	LOCATION
+Thursday	TEMPORAL:DATE
+Beijing	LOCATION
+Supreme Court	ORGANIZATION
+September 11	TEMPORAL:DATE
+three days	TEMPORAL:TIME
+Selection Committee	ORGANIZATION
+Selection Committee	ORGANIZATION
+Hong Kong	LOCATION
+chief executive	TITLE
+British	NATIONALITY
+governor	TITLE
+Beijing	LOCATION
+Hong Kong	LOCATION
+British	NATIONALITY
+150 years	TEMPORAL:TIME
+China	LOCATION
+June 30	TEMPORAL:DATE
+China	LOCATION
+Britain	LOCATION
+Hong Kong	LOCATION
+Selection Committee	ORGANIZATION
+September 14	TEMPORAL:DATE

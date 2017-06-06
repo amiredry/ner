@@ -1,0 +1,13 @@
+
+Language Region: 0 367 English
+Entity	Type
+Moody's	ORGANIZATION
+NEW YORK	LOCATION
+1996-08-28	TEMPORAL:DATE
+Moody's Investors Service	ORGANIZATION
+08/26/96	TEMPORAL:DATE
+Colorado Health Fac	ORGANIZATION
+Auth	PERSON
+National Benevolent Assoc	ORGANIZATION
+Colorado Christian Home Proj	ORGANIZATION
+08/26/96	TEMPORAL:DATE

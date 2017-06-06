@@ -1,0 +1,7 @@
+
+Language Region: 0 162 English
+Entity	Type
+1996-08-27	TEMPORAL:DATE
+Dutch	NATIONALITY
+Tuesday	TEMPORAL:DATE
+Fortuna Sittard 2 Heerenveen 4	PRODUCT

@@ -1,0 +1,23 @@
+
+Language Region: 0 1076 English
+Entity	Type
+Britain	LOCATION
+Caribbean	NATIONALITY
+LONDON	LOCATION
+1996-08-22	TEMPORAL:DATE
+Britain	LOCATION
+Thursday	TEMPORAL:DATE
+$ 39 million	IDENTIFIER:MONEY
+Caribbean	NATIONALITY
+Montserrat	LOCATION
+Soufriere	LOCATION
+13 months	TEMPORAL:TIME
+April	TEMPORAL:DATE
+Plymouth	LOCATION
+Britain	LOCATION
+Overseas Development Administration	ORGANIZATION
+Britain	LOCATION
+$ 13 million	IDENTIFIER:MONEY
+Montserrat	LOCATION
+Overseas Development Minister	TITLE
+Lynda Chalker	PERSON

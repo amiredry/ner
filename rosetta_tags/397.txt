@@ -1,0 +1,14 @@
+
+Language Region: 0 522 English
+Entity	Type
+Pakistani	NATIONALITY
+Kashmir	LOCATION
+MUZAFFARABAD , Pakistan	LOCATION
+1996-08-25	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Pakistan	LOCATION
+Azad	PERSON
+Kashmir	LOCATION
+Muzaffarabad	LOCATION
+Pakistani	NATIONALITY
+Garhi Habibullah	PERSON

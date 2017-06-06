@@ -1,0 +1,25 @@
+
+Language Region: 0 174 English
+Entity	Type
+1996-08-27	TEMPORAL:DATE
+Tuesday	TEMPORAL:DATE
+Borussia Dortmund 3	PRODUCT
+Riedle	PERSON
+Heinrich 29th	PERSON
+
+Language Region: 174 460 German
+Entity	Type
+Tretschok	PERSON
+Decheiver	PERSON
+Hamburg	LOCATION
+VfB Stuttgart 4	ORGANIZATION
+Balakov	PERSON
+Bobic	PERSON
+Hagner	PERSON
+Werder Bremen 1	ORGANIZATION
+Schulz	PERSON
+Borussia	TITLE
+Moenchengladbach	PERSON
+Schalke 1	ORGANIZATION
+Thon	PERSON
+Donkow	PERSON

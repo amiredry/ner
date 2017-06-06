@@ -1,0 +1,19 @@
+
+Language Region: 0 1005 English
+Entity	Type
+COLOMBO	LOCATION
+1996-08-22	TEMPORAL:DATE
+Australia	LOCATION
+Sri Lanka	LOCATION
+Thursday	TEMPORAL:DATE
+Australia	LOCATION
+Sri Lanka	LOCATION
+India	LOCATION
+Zimbabwe	LOCATION
+February	TEMPORAL:DATE
+Australia	LOCATION
+Thursday	TEMPORAL:DATE
+Ricky Ponting	PERSON
+Australian	NATIONALITY
+coach	TITLE
+Geoff Marsh	PERSON

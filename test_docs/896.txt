@@ -1,0 +1,26 @@
+
+Language Region: 0 716 English
+Entity	Type
+Palestinians	NATIONALITY
+four-hour	TEMPORAL:TIME
+JERUSALEM	LOCATION
+1996-08-29	TEMPORAL:DATE
+Palestinians	NATIONALITY
+Thursday	TEMPORAL:DATE
+four-hour	TEMPORAL:TIME
+President	TITLE
+Yasser Arafat	PERSON
+Israel	LOCATION
+Jewish	RELIGION
+Jerusalem	LOCATION
+Arab East	LOCATION
+Jerusalem	LOCATION
+10 minutes	TEMPORAL:TIME
+0900 GMT	TEMPORAL:TIME
+Palestinian	NATIONALITY
+West Bank	LOCATION
+Gaza	LOCATION
+Israel	LOCATION
+Hebron	LOCATION
+West Bank	LOCATION
+Israeli	NATIONALITY

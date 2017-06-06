@@ -1,0 +1,28 @@
+
+Language Region: 0 1409 English
+Entity	Type
+Clinton	PERSON
+CHICAGO	LOCATION
+1996-08-29	TEMPORAL:DATE
+President	TITLE
+Bill Clinton	PERSON
+Dick Morris	PERSON
+Thursday	TEMPORAL:DATE
+Clinton	PERSON
+Clinton	PERSON
+a year	TEMPORAL:TIME
+$ 200	IDENTIFIER:MONEY
+Morris	PERSON
+Wednesday	TEMPORAL:DATE
+Star	ORGANIZATION
+Thursday	TEMPORAL:DATE
+New York Post	ORGANIZATION
+37-year	TEMPORAL:TIME
+Washington	LOCATION
+Clinton	PERSON
+Clinton	PERSON
+Democratic	ORGANIZATION
+president	TITLE
+a second	TEMPORAL:TIME
+four-year	TEMPORAL:TIME
+White House	ORGANIZATION

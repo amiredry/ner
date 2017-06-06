@@ -1,0 +1,23 @@
+
+Language Region: 0 563 English
+Entity	Type
+Zambia	LOCATION
+Chiluba	PERSON
+cabinet	ORGANIZATION
+1996-08-28	TEMPORAL:DATE
+Zambian	NATIONALITY
+President	TITLE
+Frederick Chiluba	PERSON
+cabinet	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Legal Affairs Minister	TITLE
+Remmy Mushota	PERSON
+Mushota	PERSON
+a month	TEMPORAL:TIME
+president	TITLE
+Lands Minister	TITLE
+Luminzu Shimaponda	PERSON
+Legal Affairs Minister	TITLE
+Deputy Foreign Minister	TITLE
+Peter Machungwa	PERSON
+Shimaponda	PERSON

@@ -1,0 +1,24 @@
+
+Language Region: 0 457 English
+Entity	Type
+AT CANADIAN OPEN	ORGANIZATION
+TORONTO	LOCATION
+1996-08-23	TEMPORAL:DATE
+Canadian	NATIONALITY
+Friday	TEMPORAL:DATE
+Wayne Ferreira	PERSON
+South Africa	LOCATION
+Thomas Enqvist	PERSON
+Sweden	LOCATION
+Marcelo Rios	PERSON
+Chile	LOCATION
+Patrick Rafter	PERSON
+Australia	LOCATION
+Todd Martin	PERSON
+U.S.	LOCATION
+Alex O'Brien	PERSON
+U.S.	LOCATION
+Todd Woodbridge	PERSON
+Australia	LOCATION
+Mark Philippoussis	PERSON
+Australia	LOCATION

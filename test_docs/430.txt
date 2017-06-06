@@ -1,0 +1,9 @@
+
+Language Region: 0 282 English
+Entity	Type
+1996-08-26	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Philippine Basketball Association	ORGANIZATION
+American	NATIONALITY
+Formula Shell	PERSON
+Ginebra San Miguel 89-86	PRODUCT

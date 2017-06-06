@@ -1,0 +1,93 @@
+
+Language Region: 0 885 English
+Entity	Type
+ROVERETO , Italy	LOCATION
+1996-08-28	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+Ludmila Ninova	PERSON
+Austria	LOCATION
+Heike Drechsler	PERSON
+Germany	LOCATION
+Italy	LOCATION
+Emilio Valle	PERSON
+Cuba	LOCATION
+13.42 seconds	TEMPORAL:TIME
+Steve Brown	PERSON
+U.S.	LOCATION
+Andrea Giaconi	PERSON
+Italy	LOCATION
+Chandra Sturrup	PERSON
+Bahamas	LOCATION
+11.34 seconds	TEMPORAL:TIME
+Natalya Voronova	PERSON
+Russia	LOCATION
+Gabi Rokmeier	PERSON
+Germany	LOCATION
+Sergey Makarov	PERSON
+Russia	LOCATION
+Tom Pukstys	PERSON
+U.S.	LOCATION
+Peter Blank	PERSON
+Germany	LOCATION
+Osmond Ezinwa ( Nigeria	ORGANIZATION
+10.13 seconds	TEMPORAL:TIME
+Davidson Ezinwa ( Nigeria	ORGANIZATION
+Stefano Tilli	PERSON
+Italy	LOCATION
+Davis Kamoga ( Uganda	ORGANIZATION
+45.15 seconds	TEMPORAL:TIME
+
+Language Region: 885 1024 Italian
+Entity	Type
+Marco Vaccari	PERSON
+Italy	LOCATION
+Kennedy Ochieng	PERSON
+Kenya	LOCATION
+Mariacarla Bresciani	PERSON
+Italy	LOCATION
+
+Language Region: 1024 2073 English
+Entity	Type
+Andrea Muller	PERSON
+Germany	LOCATION
+Nastja Rysich	PERSON
+Ana Fidelia Quirot	PERSON
+Cuba	LOCATION
+1 minute	TEMPORAL:TIME
+58.98 seconds	TEMPORAL:TIME
+Letitia Vriesde	PERSON
+Surinam	LOCATION
+Inez Turner ( Jamaica	ORGANIZATION
+Wolfgang Kreissig	PERSON
+Germany	LOCATION
+Kostantin Matusevitch	PERSON
+Israel	LOCATION
+Michele Buiatti	PERSON
+Italy	LOCATION
+Robert Kibet	PERSON
+Kenya	LOCATION
+Vincent Malakwen ( Kenya	ORGANIZATION
+Philip Kibitok ( Kenya	ORGANIZATION
+Oksana Ovchinnikova	PERSON
+Russia	LOCATION
+Natalya Shikolenko	PERSON
+Belarus	LOCATION
+Silke Renk	PERSON
+Germany	LOCATION
+Virna De Angeli	PERSON
+Italy	LOCATION
+Natalya Torshina	PERSON
+Kazakhstan	LOCATION
+Anna Knoroz	PERSON
+Russia	LOCATION
+Lauren Ottoz	PERSON
+Italy	LOCATION
+Brian Bronson	PERSON
+U.S.	LOCATION
+John Ridgeon	PERSON
+Britain	LOCATION
+Luke Kipkosgei ( Kenya	ORGANIZATION
+Alessandro Lambruschini	PERSON
+Italy	LOCATION
+Richard Kosgei	PERSON
+Kenya	LOCATION

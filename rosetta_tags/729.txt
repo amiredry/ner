@@ -1,0 +1,15 @@
+
+Language Region: 0 627 English
+Entity	Type
+Briton	NATIONALITY
+Thailand	LOCATION
+1996-08-28	TEMPORAL:DATE
+Thai	NATIONALITY
+British	NATIONALITY
+Amsterdam	LOCATION
+Wednesday	TEMPORAL:DATE
+James Lee Williams	PERSON
+Bangkok	LOCATION
+Monday	TEMPORAL:DATE
+Williams	PERSON
+Williams	PERSON

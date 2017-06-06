@@ -1,0 +1,51 @@
+
+Language Region: 0 2840 English
+Entity	Type
+Miss	TITLE
+Universe	PERSON
+Kieran Murray	PERSON
+LAS CRUCES , N.M.	LOCATION
+1996-08-22	TEMPORAL:DATE
+Miss	TITLE
+Universe	PERSON
+Venezuela	LOCATION
+Alicia Machado	PERSON
+New Mexico	LOCATION
+Thursday	TEMPORAL:DATE
+Machado	PERSON
+Los Angeles	LOCATION
+New Mexico	LOCATION
+Las Cruces	LOCATION
+Miss Teen USA	LOCATION
+Wednesday	TEMPORAL:DATE
+Machado	PERSON
+Los Angeles	LOCATION
+Miss Universe Inc.	ORGANIZATION
+two weeks	TEMPORAL:TIME
+Venezuela	LOCATION
+Reuters	ORGANIZATION
+Machado	PERSON
+two weeks	TEMPORAL:TIME
+Marta Fajardo	PERSON
+Miss	TITLE
+Las Vegas	LOCATION
+Machado	PERSON
+Wednesday	TEMPORAL:DATE
+Machado	PERSON
+Nikki Campbell	PERSON
+Machado	PERSON
+Thursday	TEMPORAL:DATE
+Los Angeles	LOCATION
+Venezuela	LOCATION
+Venezuela	LOCATION
+Machado	PERSON
+Miss Venezuela Organisation	ORGANIZATION
+Machado	PERSON
+Martin Brooks	PERSON
+president	TITLE
+Miss Universe Inc	ORGANIZATION
+Machado	PERSON
+Reuters	ORGANIZATION
+Miss	TITLE
+Universe	PERSON
+Alicia	PERSON

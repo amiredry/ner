@@ -1,0 +1,36 @@
+
+Language Region: 0 614 English
+Entity	Type
+MANCHESTER , England	LOCATION
+1996-08-29	TEMPORAL:DATE
+Pakistan	LOCATION
+first one-day	TEMPORAL:TIME
+England	LOCATION
+Pakistan	LOCATION
+Thursday	TEMPORAL:DATE
+England	LOCATION
+Mike Atherton	PERSON
+captain	TITLE
+Nick Knight	PERSON
+Alec Stewart	PERSON
+Graham Thorpe	PERSON
+Matthew Maynard	PERSON
+Graham Lloyd	PERSON
+Ronnie Irani	PERSON
+Robert Croft	PERSON
+Darren Gough	PERSON
+Dean Headley	PERSON
+Alan Mullally	PERSON
+Pakistan	LOCATION
+Aamir Sohail	PERSON
+Saeed Anwar	PERSON
+Ijaz Ahmed	PERSON
+Inzamam-ul-Haq	PERSON
+Salim Malik	PERSON
+Wasim Akram	PERSON
+captain	TITLE
+Moin Khan	PERSON
+Mushtaq Ahmed	PERSON
+Waqar Younis	PERSON
+Ata-ur-Rehman	PERSON
+Saqlain Mushtaq	PERSON

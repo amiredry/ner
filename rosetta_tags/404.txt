@@ -1,0 +1,28 @@
+
+Language Region: 0 1097 English
+Entity	Type
+JYVASKYLA , Finland	LOCATION
+1996-08-26	TEMPORAL:DATE
+Tommi Makinen	PERSON
+Monday	TEMPORAL:DATE
+Mitsubishi	ORGANIZATION
+Makinen	PERSON
+Finn	NATIONALITY
+Juha Kankkunen	PERSON
+1,452-km	IDENTIFIER:DISTANCE
+three days	TEMPORAL:TIME
+Makinen	PERSON
+Kankkunen	PERSON
+Toyota	ORGANIZATION
+Finland	LOCATION
+Jarmo Kytolehto	PERSON
+Ford	ORGANIZATION
+Swede	NATIONALITY
+Kenneth Eriksson	PERSON
+Subaru	ORGANIZATION
+Mitsubishi	ORGANIZATION
+Spain	LOCATION
+Carlos Sainz	PERSON
+Ford	ORGANIZATION
+Makinen	PERSON
+Sainz	PERSON

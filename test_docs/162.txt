@@ -1,0 +1,45 @@
+
+Language Region: 0 69 English Uppercase
+Entity	Type
+
+Language Region: 69 632 English
+Entity	Type
+LISBON	LOCATION
+1996-08-23	TEMPORAL:DATE
+Portugal	LOCATION
+coach	TITLE
+Artur Jorge	PERSON
+Porto	LOCATION
+Friday	TEMPORAL:DATE
+Armenia	LOCATION
+August 31	TEMPORAL:DATE
+Paulo Sousa	PERSON
+Borussia Dortmund	PERSON
+Italy	LOCATION
+Juventus	LOCATION
+Portuguese	NATIONALITY
+European	NATIONALITY
+Jorge	PERSON
+Antonio Oliveira	PERSON
+Porto	LOCATION
+
+Language Region: 632 984 Portuguese
+Entity	Type
+Vitor Baia	PERSON
+Rui Correia	PERSON
+Jorge Costa	PERSON
+Paulinho Santos	PERSON
+Helder Cristovao	LOCATION
+Carlos Secretario	PERSON
+Dimas Teixeira	PERSON
+Fernando Couto	PERSON
+Jose Barroso	PERSON
+Luis Figo	PERSON
+Rui Barros	PERSON
+Rui Costa	PERSON
+Oceano Cruz	LOCATION
+Ricardo Sa Pinto	PERSON
+Domingos Oliveira	PERSON
+Joao Vieira Pinto	PERSON
+Jorge Cadete	PERSON
+Antonio Folha	PERSON

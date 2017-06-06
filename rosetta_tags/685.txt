@@ -1,0 +1,33 @@
+
+Language Region: 0 1426 English
+Entity	Type
+COLOMBO	LOCATION
+1996-08-28	TEMPORAL:DATE
+Sachin Tendulkar	PERSON
+Indian	NATIONALITY
+captain	TITLE
+Wednesday	TEMPORAL:DATE
+Sri Lankan	NATIONALITY
+Sanath Jayasuriya	PERSON
+Singer Cup	PERSON
+Sri Lanka	LOCATION
+India	LOCATION
+Jayasuriya	PERSON
+Romesh Kaluwitharana	PERSON
+Jayasuriya	PERSON
+Kaluwitharana	PERSON
+Tendulkar	PERSON
+Aravinda de Silva	PERSON
+Sri Lanka	LOCATION
+Tendulkar	PERSON
+ninth century	TEMPORAL:TIME
+one-day	TEMPORAL:TIME
+Indian	NATIONALITY
+ex-captain	TITLE
+Mohamed Azharuddin	PERSON
+Tendulkar	PERSON
+Friday	TEMPORAL:DATE
+Sri Lanka	LOCATION
+Australia	LOCATION
+Lahore	LOCATION
+Sri Lanka	LOCATION

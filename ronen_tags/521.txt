@@ -1,0 +1,14 @@
+RUGBY UNION - GRIQUALAND WEST AND NEW ZEALAND DRAW IN TOUR MATCH .
+KIMBERLEY , <LOCATION>South Africa</LOCATION> 1996-08-27
+<ORGANIZATION>Griqualand West</ORGANIZATION>
+and <LOCATION>New Zealand</LOCATION> drew 18-18 ( halftime 6-10 ) in their rugby union
+tour maltch on Tuesday .
+Scorers :
+<ORGANIZATION>Griqualand West - Tries</ORGANIZATION> <PRODUCT>: Andre Cloete , Leon van der Wath</PRODUCT> .
+Conversion : Boeta Wessels .
+Penalties : Wessels 2 .
+New Zealand - Tries : Scott McLeod , <PERSON>Glen Osborne</PERSON> .
+Conversion :
+<PERSON>Jon Preston</PERSON> .
+Penalties : Preston 2 .
+

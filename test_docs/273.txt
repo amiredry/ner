@@ -1,0 +1,28 @@
+
+Language Region: 0 242 English
+Entity	Type
+1996-08-24	TEMPORAL:DATE
+German	NATIONALITY
+Saturday	TEMPORAL:DATE
+Bochum	LOCATION
+Arminia Bielefeld 1	PRODUCT
+Molata 59th	PRODUCT
+
+Language Region: 242 676 German
+Entity	Type
+Borussia Moenchengladbach 1	ORGANIZATION
+Andersson	PERSON
+Dundee	LOCATION
+Stuttgart	LOCATION
+Balakow	PERSON
+Bobic 61st	PERSON
+Werder Bremen 1	ORGANIZATION
+Votava	PERSON
+Schwabl	PERSON
+Borussia Dortmund 3	ORGANIZATION
+Zorc	PERSON
+Heinrich 90th	PERSON
+Bayer Leverkusen 0 Fortuna Duesseldorf 1	ORGANIZATION
+Seeliger	PERSON
+Freiburg 1	ORGANIZATION
+Zeyer	PERSON

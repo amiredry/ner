@@ -1,0 +1,15 @@
+
+Language Region: 0 394 English
+Entity	Type
+BRUSSELS	LOCATION
+1996-08-23	TEMPORAL:DATE
+Russian	NATIONALITY
+Svetlana Masterkova	PERSON
+Friday	TEMPORAL:DATE
+two minutes	TEMPORAL:TIME
+28.99 seconds	TEMPORAL:TIME
+Brussels	LOCATION
+2:29.34	ORGANIZATION
+Mozambique	LOCATION
+Maria Mutola	PERSON
+August 25	TEMPORAL:DATE

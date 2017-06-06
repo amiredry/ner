@@ -1,0 +1,65 @@
+
+Language Region: 0 1722 English
+Entity	Type
+LONDON	LOCATION
+1996-08-26	TEMPORAL:DATE
+four-day	TEMPORAL:TIME
+English	NATIONALITY
+Monday	TEMPORAL:DATE
+Colchester	LOCATION
+Essex	LOCATION
+Gloucestershire	LOCATION
+Gloucestershire	LOCATION
+J. Russell 57 , M. Lynch 50	ORGANIZATION
+N. Williams	PERSON
+Essex	LOCATION
+G. Gooch 111	PRODUCT
+R. Irani	PERSON
+P. Prichard	PERSON
+D. Robinson	PERSON
+M. Alleyne	PERSON
+Essex	LOCATION
+Gloucestershire 3	LOCATION
+Cardiff	LOCATION
+C.	ORGANIZATION
+Hooper 77	PRODUCT
+D. Fulton	PERSON
+N. Llong	PERSON
+M. Walker	PERSON
+Glamorgan	LOCATION
+H. Morris 118	ORGANIZATION
+Glamorgan	LOCATION
+Kent 6	LOCATION
+Northampton	LOCATION
+Northamptonshire	LOCATION
+Sussex	LOCATION
+Sussex	LOCATION
+Northamptonshire	LOCATION
+Northamptonshire	LOCATION
+Sussex	LOCATION
+Trent Bridge	LOCATION
+Nottinghamshire	LOCATION
+Surrey	LOCATION
+Nottinghamshire	LOCATION
+Surrey	LOCATION
+Worcester	LOCATION
+K. Spiring 52	PRODUCT
+P. Weston 52	ORGANIZATION
+Yorkshire	LOCATION
+C. White 181	ORGANIZATION
+R. Blakey	PERSON
+M. Moxon	PERSON
+M. Vaughan	PERSON
+Lancashire	LOCATION
+N. Fairbrother	PERSON
+M. Watkinson	PERSON
+D. Gough	PERSON
+N. Fairbrother	PERSON
+D. Gough	PERSON
+Yorkshire	LOCATION
+Lancashire	LOCATION
+Leicester	LOCATION
+Leicestershire	LOCATION
+Hampshire 137	PRODUCT
+Leicestershire	LOCATION
+Hampshire	LOCATION

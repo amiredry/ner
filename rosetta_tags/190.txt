@@ -1,0 +1,14 @@
+
+Language Region: 0 710 English
+Entity	Type
+Brazil	LOCATION
+Amazon	ORGANIZATION
+1996-08-22	TEMPORAL:DATE
+Amazon	ORGANIZATION
+Brazilian	NATIONALITY
+Thursday	TEMPORAL:DATE
+Russian	NATIONALITY
+Belem	LOCATION
+Brazil	LOCATION
+Amazon Affairs Department	ORGANIZATION
+Amazon	ORGANIZATION

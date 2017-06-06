@@ -1,0 +1,10 @@
+Ka Wah Bank sets <CURRENCY>HK$ 43</CURRENCY> mln FRCD .
+HONG KONG 1996-08-22
+Ka Wah Bank's <CURRENCY>HK$ 43 million</CURRENCY> floating rate certificate of deposit issue has been privately placed , sole arranger <ORGANIZATION>HSBC</ORGANIZATION> Markets said .
+The facility has a tenor of six months .
+It pays a coupon of 15 basis points over the six-month Hong Kong Interbank Offered Rate .
+Other details are not available .
+The deposit date is September 5 , 1996 .
+Clearing is through the <ORGANIZATION>Hong Kong Central Moneymarkets Unit</ORGANIZATION> .
+-- Hong Kong Newsroom ( 852 ) 2847 4039
+

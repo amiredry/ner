@@ -1,0 +1,26 @@
+
+Language Region: 0 1359 English
+Entity	Type
+August 22	TEMPORAL:DATE
+1996-08-22	TEMPORAL:DATE
+Indonesian	NATIONALITY
+Thursday	TEMPORAL:DATE
+Jakarta	LOCATION
+Indonesian Democratic Party	ORGANIZATION
+Megawati Sukarnoputri	PERSON
+Jakarta	LOCATION
+Dow Jones	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Jakarta	LOCATION
+Wednesday	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+Indonesian	NATIONALITY
+Super Indah Makmur	ORGANIZATION
+PT VDH Teguh Sakti	ORGANIZATION
+Singapore	LOCATION
+Van Der Horst	PERSON
+Bank Duta	ORGANIZATION
+Ciputra Development	ORGANIZATION
+$ 2 billion	IDENTIFIER:MONEY
+Jakarta	LOCATION
+Surabaya	LOCATION

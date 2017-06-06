@@ -1,0 +1,10 @@
+Salomon cuts refiner Q3 EPS view on margin concern .
+NEW YORK 1996-08-26
+<ORGANIZATION>Salomon Brothers</ORGANIZATION> analyst <PERSON>Paul Ting</PERSON> said he cut his share earnings estimates on refiners for the third quarter on the belief the companies will face sharp revisions in refining and marketing margins .
+He cut his third-quarter share earnings estimate on :
+-- Diamond Shamrock Inc to <CURRENCY>$ 0.38</CURRENCY> from <CURRENCY>$ 0.73</CURRENCY> versus the Street's consensus <CURRENCY>$ 0.63</CURRENCY>
+-- Sun Co to <CURRENCY>$ 0.15</CURRENCY> from $ 0.85 versus the consensus <CURRENCY>$ 0.63</CURRENCY>
+-- <ORGANIZATION>Tosco Corp</ORGANIZATION> to <CURRENCY>$ 0.95</CURRENCY> from <CURRENCY>$ 1.03</CURRENCY> versus the consensus <CURRENCY>$ 0.94</CURRENCY>
+-- <ORGANIZATION>Total Petroleum ( North America ) Ltd</ORGANIZATION> to <CURRENCY>$ 0.15</CURRENCY> from <CURRENCY>$ 0.46</CURRENCY> versus the consensus <CURRENCY>$ 0.33</CURRENCY>
+-- And , <ORGANIZATION>Valero Energy Corp</ORGANIZATION> to <CURRENCY>$ 0.27</CURRENCY> from <CURRENCY>$ 0.55</CURRENCY> compared with the consensus <CURRENCY>$ 0.40</CURRENCY> .
+

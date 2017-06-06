@@ -1,0 +1,15 @@
+
+Language Region: 0 582 English
+Entity	Type
+U.S.	LOCATION
+OPEN THIRD ROUND	PRODUCT
+NEW YORK	LOCATION
+1996-08-28	TEMPORAL:DATE
+Monica Seles	PERSON
+U.S. Open Tennis Championships	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Seles	PERSON
+Laurence Courtois	PERSON
+Belgium	LOCATION
+Courtois	PERSON
+Seles	PERSON

@@ -1,0 +1,24 @@
+
+Language Region: 0 378 English
+Entity	Type
+Japan	LOCATION
+Hashimoto	PERSON
+Brazil	LOCATION
+Peru	LOCATION
+1996-08-26	TEMPORAL:DATE
+Japanese	NATIONALITY
+Prime Minister	TITLE
+Ryutaro Hashimoto	PERSON
+Brasilia	LOCATION
+Monday	TEMPORAL:DATE
+Lima	LOCATION
+10-day	TEMPORAL:TIME
+Latin American	NATIONALITY
+Brazilian Foreign Ministry	ORGANIZATION
+Hashimoto	PERSON
+Mexico	LOCATION
+Chile	LOCATION
+three days	TEMPORAL:TIME
+Brazil	LOCATION
+Peru	LOCATION
+Costa Rica	LOCATION

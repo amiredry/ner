@@ -1,0 +1,29 @@
+
+Language Region: 0 1058 English
+Entity	Type
+Yeltsin	PERSON
+Monday	TEMPORAL:DATE
+Interfax	ORGANIZATION
+MOSCOW	LOCATION
+1996-08-26	TEMPORAL:DATE
+Russian	NATIONALITY
+President	TITLE
+Boris Yeltsin	PERSON
+Monday	TEMPORAL:DATE
+Interfax	ORGANIZATION
+Sergei Yastrzhembsky	PERSON
+president	TITLE
+Kremlin	ORGANIZATION
+Moscow	LOCATION
+Interfax	ORGANIZATION
+Yastrezhembsky	PERSON
+Yeltsin	PERSON
+B. Yeltsin	PERSON
+Interfax	ORGANIZATION
+Yastrezhembsky	PERSON
+Yeltsin	PERSON
+Moscow	LOCATION
+president	TITLE
+Yeltsin	PERSON
+two-day	TEMPORAL:TIME
+Moscow	LOCATION

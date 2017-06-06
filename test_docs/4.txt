@@ -1,0 +1,15 @@
+
+Language Region: 0 436 English
+Entity	Type
+China	LOCATION
+Taiwan	LOCATION
+BEIJING	LOCATION
+1996-08-22	TEMPORAL:DATE
+China	LOCATION
+Taiwan	LOCATION
+Xinhua	ORGANIZATION
+Tang Shubei	PERSON
+executive vice chairman	TITLE
+Association for Relations	ORGANIZATION
+Taiwan Straits	LOCATION
+Wednesday	TEMPORAL:DATE

@@ -1,0 +1,22 @@
+
+Language Region: 0 1342 English
+Entity	Type
+Buenos Aires	LOCATION
+Argentina	LOCATION
+1996-08-29	TEMPORAL:DATE
+Buenos Aires	LOCATION
+Thursday	TEMPORAL:DATE
+Buenos Aires	LOCATION
+including Commissioner	TITLE
+Juan Carlos Lago	PERSON
+La Nacion	ORGANIZATION
+$ 50,000	IDENTIFIER:MONEY
+$ 500,000	IDENTIFIER:MONEY
+Buenos Aires	LOCATION
+Argentina	LOCATION
+Jewish	RELIGION
+Alberto Piotti	PERSON
+security chief	TITLE
+Buenos Aires	LOCATION
+five years	TEMPORAL:TIME
+Piotti	PERSON

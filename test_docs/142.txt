@@ -1,0 +1,23 @@
+
+Language Region: 0 795 English
+Entity	Type
+1996-08-23	TEMPORAL:DATE
+Japie Mulder	PERSON
+South Africa	LOCATION
+New Zealand	LOCATION
+Pretoria	LOCATION
+Saturday	TEMPORAL:DATE
+Mulder	PERSON
+Durban	LOCATION
+Thursday	TEMPORAL:DATE
+skipper	TITLE
+Gary Teichmann	PERSON
+coach	TITLE
+Andre Markgraaff	PERSON
+Mulder	PERSON
+Northern Transvaal	LOCATION
+Andre Snyman	PERSON
+Danie van Schalkwyk	PERSON
+Wing Pieter Hendriks	PERSON
+Snyman	PERSON
+Markgraaff	PERSON

@@ -1,0 +1,20 @@
+
+Language Region: 0 534 English
+Entity	Type
+Nigerian	NATIONALITY
+Commonwealth	ORGANIZATION
+Canada	LOCATION
+OTTAWA	LOCATION
+1996-08-23	TEMPORAL:DATE
+Commonwealth	ORGANIZATION
+ministers	TITLE
+Nigeria	LOCATION
+Canadian	NATIONALITY
+Foreign Minister	TITLE
+Lloyd Axworthy	PERSON
+Friday	TEMPORAL:DATE
+Axworthy	PERSON
+Commonwealth	ORGANIZATION
+foreign ministers	TITLE
+London	LOCATION
+Wednesday	TEMPORAL:DATE

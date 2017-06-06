@@ -1,0 +1,70 @@
+
+Language Region: 0 2210 English
+Entity	Type
+Afghan	NATIONALITY
+U.S.	LOCATION
+Congressman	TITLE
+Sayed Salahuddin	PERSON
+1996-08-27	TEMPORAL:DATE
+Afghan	NATIONALITY
+military chief	TITLE
+Ahmad Shah Masood	PERSON
+U.S.	LOCATION
+Congressman	TITLE
+Dana Rohrabacher	PERSON
+Tuesday	TEMPORAL:DATE
+Masood	PERSON
+California	LOCATION
+Republican	ORGANIZATION
+Kabul	LOCATION
+President	TITLE
+Burhanuddin Rabbani	PERSON
+Afghan	NATIONALITY
+Rohrabacher	PERSON
+Bagram	LOCATION
+Kabul	LOCATION
+Red Cross	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+leader General	TITLE
+Abdul Rashid Dostum	PERSON
+Masood	PERSON
+Amrollah	PERSON
+Rohrabacher	PERSON
+Italy	LOCATION
+Saudi Arabia	LOCATION
+Pakistan	LOCATION
+Afghanistan	LOCATION
+Afghan	NATIONALITY
+U.N.	ORGANIZATION
+Amrollah	PERSON
+Rohrabacher	PERSON
+Prime Minister	TITLE
+Gulbuddin Hekmatyar	PERSON
+Masood	PERSON
+U.S.	LOCATION
+Afghanistan	LOCATION
+America	LOCATION
+Islamic	RELIGION
+Afghanistan	LOCATION
+U.S.	LOCATION
+Afghan	NATIONALITY
+Afghans	NATIONALITY
+Hamid Ibrahimi	PERSON
+Afghanistan	LOCATION
+America	LOCATION
+Tehran	LOCATION
+Moscow	LOCATION
+Afghan	NATIONALITY
+Washington	LOCATION
+Rohrabacher	PERSON
+Jalalabad	LOCATION
+Islamic	RELIGION
+Taleban	ORGANIZATION
+Kandahar	LOCATION
+Afghan	NATIONALITY
+communist	ORGANIZATION
+April 1992	TEMPORAL:DATE
+Hekmatyar	PERSON
+Rabbani	PERSON
+prime minister	TITLE
+June	TEMPORAL:DATE

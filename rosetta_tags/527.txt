@@ -1,0 +1,31 @@
+
+Language Region: 0 1154 English
+Entity	Type
+1996-08-27	TEMPORAL:DATE
+Romanian Soccer Federation	ORGANIZATION
+Jiul Petrosani	PERSON
+president	TITLE
+Miron Cozma	PERSON
+two years	TEMPORAL:TIME
+Romania	LOCATION
+Cozma	PERSON
+$ 3000	IDENTIFIER:MONEY
+Dinamo Bucharest	ORGANIZATION
+Danut Lupu	PERSON
+Sunday	TEMPORAL:DATE
+Cozma	PERSON
+Bucharest	LOCATION
+premier	TITLE
+Petre Roman	PERSON
+Cozma	PERSON
+Bucharest	LOCATION
+Lupu	PERSON
+Cozma	PERSON
+Lupu	PERSON
+Reuters	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Lupu	PERSON
+Romania	LOCATION
+Cozma	PERSON
+Jiul Petrosani	PERSON
+Cozma	PERSON

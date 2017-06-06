@@ -1,0 +1,10 @@
+
+Language Region: 0 260 English
+Entity	Type
+Eau Claire , Wisc	LOCATION
+Robert W. Baird	ORGANIZATION
+NEW YORK	LOCATION
+1996-08-27	TEMPORAL:DATE
+Robert W. Baird & Co . , Inc.	ORGANIZATION
+$ 1 million	IDENTIFIER:MONEY
+Eau Claire , Wisc	LOCATION

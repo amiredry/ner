@@ -1,0 +1,44 @@
+
+Language Region: 0 1443 English
+Entity	Type
+Iran	LOCATION
+Bonn	LOCATION
+ex-president	TITLE
+Banisadr	PERSON
+1996-08-28	TEMPORAL:DATE
+Iran	LOCATION
+Germany	LOCATION
+president	TITLE
+Abolhassan Banisadr	PERSON
+Iranian	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Banisadr	PERSON
+Tehran	LOCATION
+Iranian	NATIONALITY
+Iranian	NATIONALITY
+Kurdish	NATIONALITY
+Berlin	LOCATION
+Iranian	NATIONALITY
+Lebanese	NATIONALITY
+Iranian	NATIONALITY
+Iran	LOCATION
+Banisadr	PERSON
+Iran	LOCATION
+July 1981	TEMPORAL:DATE
+four days	TEMPORAL:TIME
+German	NATIONALITY
+Banisadr	PERSON
+France	LOCATION
+Tehran	LOCATION
+Berlin	LOCATION
+September 5	TEMPORAL:DATE
+German	NATIONALITY
+Tehran	LOCATION
+Iran	LOCATION
+Germany	LOCATION
+Banisadr	PERSON
+Iran	LOCATION
+Islamic	RELIGION
+Tehran	LOCATION
+a year	TEMPORAL:TIME
+president	TITLE

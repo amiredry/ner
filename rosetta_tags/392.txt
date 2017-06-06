@@ -1,0 +1,46 @@
+
+Language Region: 0 2184 English
+Entity	Type
+Belgian	NATIONALITY
+Dutroux	PERSON
+Geert de Clercq NEUFCHATEAU	PERSON
+Belgium	LOCATION
+1996-08-25	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Belgium	LOCATION
+Public Prosecutor	TITLE
+Michel Bourlet	PERSON
+Georges Zicot	PERSON
+Bourlet	PERSON
+Sunday	TEMPORAL:DATE
+Charleroi	LOCATION
+Zicot	PERSON
+Zicot	PERSON
+Belgian	NATIONALITY
+two years	TEMPORAL:TIME
+chief detective	TITLE
+Bourlet	PERSON
+Gerard Pignon	PERSON
+Thierry Dehaan	PERSON
+Bourlet	PERSON
+Bernard Weinstein	PERSON
+Marc Dutroux	PERSON
+Europe	LOCATION
+Weinstein	PERSON
+eight-year	TEMPORAL:TIME
+Julie Lejeune	PERSON
+Melissa Russo	PERSON
+nine months	TEMPORAL:TIME
+June 1995	TEMPORAL:DATE
+Dutroux	PERSON
+a year	TEMPORAL:TIME
+Dutroux	PERSON
+Weinstein	PERSON
+Bourlet	PERSON
+Bourlet	PERSON
+Anne Thily	PERSON
+public prosecutor	TITLE
+Liege	LOCATION
+Julie	PERSON
+Melissa	PERSON
+U.S. Federal Bureau of Investigation	ORGANIZATION

@@ -1,0 +1,31 @@
+
+Language Region: 0 1836 English
+Entity	Type
+AUG 28	TEMPORAL:DATE
+1996-08-28	TEMPORAL:DATE
+Greek	NATIONALITY
+New Democracy party	ORGANIZATION
+socialist	ORGANIZATION
+Pasok	ORGANIZATION
+EU	LOCATION
+Finance ministry	ORGANIZATION
+Finance ministry	ORGANIZATION
+12-month	TEMPORAL:TIME
+August	TEMPORAL:DATE
+$ 500 million	IDENTIFIER:MONEY
+three days	TEMPORAL:TIME
+Athens Metro	LOCATION
+State National Bank of Greece	ORGANIZATION
+September 9	TEMPORAL:DATE
+Miltiadis Evert	PERSON
+National Economy Minister	TITLE
+Yannos Papandoniou	PERSON
+New Democracy	ORGANIZATION
+prime minister	TITLE
+Constantine Mitsotakis	PERSON
+Miltiadis Evert	PERSON
+Conservative	ORGANIZATION
+New Democracy	ORGANIZATION
+30 days	TEMPORAL:TIME
+George Georgiopoulos	PERSON
+Athens Newsroom	ORGANIZATION

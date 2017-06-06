@@ -1,0 +1,226 @@
+
+Language Region: 0 802 English
+Entity	Type
+TUESDAY	TEMPORAL:DATE
+U.S.	LOCATION
+NEW YORK	LOCATION
+1996-08-27	TEMPORAL:DATE
+Tuesday	TEMPORAL:DATE
+U.S.	LOCATION
+National Tennis Centre	ORGANIZATION
+Monica Seles	PERSON
+U.S.	LOCATION
+Anne Miller	PERSON
+U.S.	LOCATION
+Rita Grande	PERSON
+Italy	LOCATION
+Alexia Dechaume-Balleret	PERSON
+France	LOCATION
+Judith Wiesner	PERSON
+Austria	LOCATION
+Iva Majoli	PERSON
+Croatia	LOCATION
+Thomas Muster	PERSON
+Austria	LOCATION
+Javier Frana	PERSON
+Argentina	LOCATION
+Pete Sampras	PERSON
+U.S.	LOCATION
+Jimy Szymanski	PERSON
+Venezuela	LOCATION
+Jiri Novak	PERSON
+Czech Republic	LOCATION
+Ben Ellwood	PERSON
+Australia	LOCATION
+Mariaan de Swardt	LOCATION
+South Africa	LOCATION
+Dominique Van Roost	PERSON
+Belgium	LOCATION
+
+Language Region: 802 1022 Spanish
+Entity	Type
+Florencia Labat	PERSON
+Argentina	LOCATION
+Kathy Rinaldi Stunkel	PERSON
+Nathalie Tauziat	PERSON
+France	ORGANIZATION
+Angelica Gavaldon	PERSON
+Mexico	LOCATION
+Paola Suarez	PERSON
+Argentina	LOCATION
+Marianne Werdel Witmeyer	PERSON
+
+Language Region: 1022 1601 English
+Entity	Type
+Ann Grossman	PERSON
+U.S.	LOCATION
+Silvia Farina	PERSON
+Italy	LOCATION
+Alex Corretja	PERSON
+Spain	LOCATION
+Zimbabwe	LOCATION
+Scott Draper	PERSON
+Australia	LOCATION
+Galo Blanco	PERSON
+Spain	LOCATION
+Petr Korda	PERSON
+Czech Republic	LOCATION
+David Caldwell	PERSON
+U.S.	LOCATION
+Bohdan Ulihrach	LOCATION
+Czech Republic	LOCATION
+Alberto Costa	PERSON
+Spain	LOCATION
+Bernd Karbacher	PERSON
+Germany	LOCATION
+Jonathan Stark	PERSON
+U.S.	LOCATION
+Lindsay Davenport	PERSON
+U.S.	LOCATION
+Adriana Serra-Zanetti	PERSON
+Italy	LOCATION
+
+Language Region: 1601 1653 Spanish
+Entity	Type
+Elena Wagner	PERSON
+Germany	LOCATION
+Gigi Fernandez	PERSON
+
+Language Region: 1653 2609 English
+Entity	Type
+Kristie Boogert	PERSON
+Netherlands	LOCATION
+Joannette Kruger	PERSON
+South Africa	LOCATION
+Stefan Edberg	PERSON
+Sweden	LOCATION
+Richard Krajicek	PERSON
+Netherlands	LOCATION
+Marcelo Rios	PERSON
+Chile	LOCATION
+Andrei Pavel	PERSON
+Romania	LOCATION
+Arantxa Sanchez Vicario	ORGANIZATION
+Spain	LOCATION
+Laxmi Poruri	PERSON
+U.S.	LOCATION
+Andrei Olhovskiy	PERSON
+Russia	LOCATION
+Pat Cash	PERSON
+Australia	LOCATION
+Filippo Veglio	PERSON
+Switzerland	LOCATION
+Christian Ruud	PERSON
+Norway	LOCATION
+Tim Henman	PERSON
+Britain	LOCATION
+Roberto Jabali	PERSON
+Brazil	LOCATION
+Pablo Campana	PERSON
+Ecuador	LOCATION
+Todd Woodbridge	PERSON
+Australia	LOCATION
+Herman Gumy	PERSON
+Argentina	LOCATION
+Martin Damm	PERSON
+Czech Republic	LOCATION
+Jacob Hlasek	PERSON
+Switzerland	LOCATION
+Nicklas Kulti	PERSON
+Sweden	LOCATION
+Karina Habsudova	PERSON
+Slovakia	LOCATION
+Radka Bobkova	LOCATION
+Czech Republic	LOCATION
+Karin Kschwendt	PERSON
+Austria	LOCATION
+Sandra Kleinova	PERSON
+Czech Republic	LOCATION
+
+Language Region: 2609 4352 Italian
+Entity	Type
+Annabel Ellwood	PERSON
+Australia	LOCATION
+Jennifer Capriati	PERSON
+Nicole Arendt	PERSON
+Sandra Cacic	PERSON
+Elena Likhovtseva	PERSON
+Russia	LOCATION
+Kyoko Nagatsuka	PERSON
+Japan	ORGANIZATION
+Sandrine Testud	PERSON
+France	LOCATION
+Pam Shriver	PERSON
+Kimberly Po	PERSON
+Kimiko Date	PERSON
+Japan	ORGANIZATION
+Natasha Zvereva	PERSON
+Virginia Ruano	LOCATION
+Tina Kirzan	PERSON
+Slovakia	ORGANIZATION
+Rika Hiraki	PERSON
+Japan	ORGANIZATION
+Petra Langrova	PERSON
+Czech Republic	LOCATION
+Karina Adams	PERSON
+Tami Whitlinger Jones	PERSON
+Sandra Cecchini	PERSON
+Italy	LOCATION
+Jana Novotna	PERSON
+Czech Republic	LOCATION
+Francesca Lubiani	PERSON
+Italy	LOCATION
+Thomas Enqvist	PERSON
+Sweden	LOCATION
+Stephane Simian	PERSON
+France	LOCATION
+Mikael Tillstrom	PERSON
+Sweden	LOCATION
+El Sawy	ORGANIZATION
+Roberto Carretero	PERSON
+Jordi Burillo	PERSON
+Thomas Johansson	PERSON
+Sweden	LOCATION
+Renzo Furlan	PERSON
+Italy	LOCATION
+Mark Knowles	PERSON
+Marcelo Filippini	PERSON
+Uruguay	LOCATION
+Jared Palmer	PERSON
+Marc Rosset	PERSON
+Switzerland	ORGANIZATION
+Amy Frazier	PERSON
+Larisa Neiland	PERSON
+Lisa Raymond	PERSON
+Lori McNeil	PERSON
+Sandra Dopfer	PERSON
+Austria	LOCATION
+Zina Garrison Jackson	PERSON
+Conchita Martinez	PERSON
+Ruxandra Dragomir	PERSON
+Romania	LOCATION
+Naoko Sawamatsu	PERSON
+Japan	ORGANIZATION
+Rennae Stubbs	PERSON
+Australia	LOCATION
+Miriam Oremans	PERSON
+Netherlands	LOCATION
+Radka Zrubakova	PERSON
+Slovakia	ORGANIZATION
+Doug Flach	PERSON
+Gianluca Pozzi	PERSON
+Italy	LOCATION
+
+Language Region: 4352 4625 English
+Entity	Type
+Cedric Pioline	PERSON
+France	LOCATION
+Francisco Clavet	PERSON
+Spain	LOCATION
+Javier Sanchez	PERSON
+Spain	LOCATION
+David Skoch	PERSON
+Czech Republic	LOCATION
+Steffi Graf	PERSON
+Germany	LOCATION
+Yayuk Basuki ( Indonesia	ORGANIZATION

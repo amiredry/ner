@@ -1,0 +1,40 @@
+
+Language Region: 0 1909 English
+Entity	Type
+Adrian Warner	PERSON
+1996-08-28	TEMPORAL:DATE
+Britain	LOCATION
+Linford Christie	PERSON
+Jesse Owens	PERSON
+Friday	TEMPORAL:DATE
+Berlin	LOCATION
+Christie	PERSON
+German	NATIONALITY
+Berlin	LOCATION
+Rudi Thiel	PERSON
+Owens	PERSON
+60 years	TEMPORAL:TIME
+Berlin	LOCATION
+Canada	LOCATION
+Donovan Bailey	PERSON
+Namibian	NATIONALITY
+Frankie Fredericks	PERSON
+Atlanta	LOCATION
+Wednesday	TEMPORAL:DATE
+Michael Johnson	PERSON
+Christie	PERSON
+Britain	LOCATION
+Allan Wells	PERSON
+Christie	PERSON
+36-year	TEMPORAL:TIME
+Briton	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Owens	PERSON
+Ruth	PERSON
+Africa	LOCATION
+United States	LOCATION
+Europe	LOCATION
+Owens	PERSON
+Carl Lewis	PERSON
+Brussels	LOCATION
+Friday	TEMPORAL:DATE

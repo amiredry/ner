@@ -1,0 +1,22 @@
+
+Language Region: 0 1831 English
+Entity	Type
+Indonesian	NATIONALITY
+1996-08-26	TEMPORAL:DATE
+Indonesian	NATIONALITY
+Monday	TEMPORAL:DATE
+Hong Kong	LOCATION
+United Kingdom	LOCATION
+Singapore	LOCATION
+0915 GMT	TEMPORAL:TIME
+Thursday	TEMPORAL:DATE
+Megawati Sukarnoputri	PERSON
+Indonesian Democratic Party	ORGANIZATION
+PDI	ORGANIZATION
+PDI	ORGANIZATION
+Jakarta	LOCATION
+Thursday	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+Megawati	PERSON
+One-month	TEMPORAL:TIME
+Monday	TEMPORAL:DATE

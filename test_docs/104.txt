@@ -1,0 +1,33 @@
+
+Language Region: 0 1061 English
+Entity	Type
+bishop	TITLE
+Algeria	LOCATION
+PARIS	LOCATION
+1996-08-22	TEMPORAL:DATE
+Algerian	NATIONALITY
+Moslem	RELIGION
+French	NATIONALITY
+bishop	TITLE
+Algeria	LOCATION
+Algerian	NATIONALITY
+Thursday	TEMPORAL:DATE
+Moslem	RELIGION
+French	NATIONALITY
+Roman Catholic	RELIGION
+Bishop	TITLE
+Pierre Claverie	PERSON
+58-year	TEMPORAL:TIME
+Claverie	PERSON
+August 1	TEMPORAL:DATE
+Algerian	NATIONALITY
+Oran	LOCATION
+French	NATIONALITY
+Foreign Minister	TITLE
+Herve de Charette	PERSON
+Algiers	LOCATION
+Algerians	NATIONALITY
+Algeria	LOCATION
+Moslem	RELIGION
+Algerian	NATIONALITY
+Islamists	RELIGION

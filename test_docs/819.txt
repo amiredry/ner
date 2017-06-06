@@ -1,0 +1,55 @@
+
+Language Region: 0 2571 English
+Entity	Type
+1996-08-29	TEMPORAL:DATE
+Jay Buhner	PERSON
+Yankee	NATIONALITY
+Terry Mulholland	PERSON
+Seattle Mariners	LOCATION
+New York	LOCATION
+October	TEMPORAL:DATE
+Mariners	ORGANIZATION
+Yankees	ORGANIZATION
+Kingdome	LOCATION
+Yankees	ORGANIZATION
+Paul O'Neill	PERSON
+Seattle	LOCATION
+John Marzano	PERSON
+Baltimore	LOCATION
+Don Wengert	PERSON
+Jose Herrera	PERSON
+Oakland Athletics	ORGANIZATION
+Baltimore Orioles	ORGANIZATION
+Wengert	PERSON
+Oakland	LOCATION
+Chicago	LOCATION
+James Baldwin	PERSON
+Ray Durham	PERSON
+Ozzie Guillen	PERSON
+RBI	ORGANIZATION
+Chicago White Sox	ORGANIZATION
+Milwaukee	LOCATION
+Baldwin	PERSON
+Chicago	LOCATION
+Dave Nilsson	PERSON
+Kansas City	LOCATION
+Jose Offerman	PERSON
+Johnny Damon	PERSON
+Kansas City Royals	ORGANIZATION
+Texas Rangers	ORGANIZATION
+Rick Huisman	PERSON
+Toronto	LOCATION
+Pat Hentgen	PERSON
+Toronto Blue Jays	ORGANIZATION
+Minnesota Twins	ORGANIZATION
+Hentgen	PERSON
+Detroit	LOCATION
+Orel Hershiser	PERSON
+Albert Belle	PERSON
+Cleveland Indians	LOCATION
+Detroit Tigers	ORGANIZATION
+Hershiser	PERSON
+Detroit	LOCATION
+11 days	TEMPORAL:TIME
+California	LOCATION
+Seattle	LOCATION

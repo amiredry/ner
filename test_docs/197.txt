@@ -1,0 +1,36 @@
+
+Language Region: 0 1000 English
+Entity	Type
+governor	TITLE
+BOSTON	LOCATION
+1996-08-23	TEMPORAL:DATE
+12-year	TEMPORAL:TIME
+Republican	ORGANIZATION
+William Weld	PERSON
+U.S. Senate	ORGANIZATION
+Massachusetts	LOCATION
+Weld	PERSON
+12-year	TEMPORAL:TIME
+Franny	PERSON
+a foot	IDENTIFIER:DISTANCE
+Democratic	ORGANIZATION
+Sen	TITLE
+John Kerry	PERSON
+Weld	PERSON
+WBUR	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Cambridge , Massachusetts	LOCATION
+Washington	LOCATION
+Franny Weld	PERSON
+Tracy Roosevelt	PERSON
+Tracy	PERSON
+Democratic	ORGANIZATION
+President	TITLE
+Franklin Roosevelt	PERSON
+Democrats	ORGANIZATION
+Roosevelts	ORGANIZATION
+Weld	PERSON
+Susan Roosevelt Weld	PERSON
+President	TITLE
+Theodore Roosevelt	PERSON
+Republican	ORGANIZATION

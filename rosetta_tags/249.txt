@@ -1,0 +1,58 @@
+
+Language Region: 0 2554 English
+Entity	Type
+LONDON	LOCATION
+1996-08-24	TEMPORAL:DATE
+Essex	LOCATION
+English	NATIONALITY
+Neil Williams	PERSON
+Mark Ilott	PERSON
+Gloucestershire	LOCATION
+Saturday	TEMPORAL:DATE
+Williams	PERSON
+Ilott	PERSON
+Gloucestershire	LOCATION
+third day	TEMPORAL:TIME
+four-day	TEMPORAL:TIME
+Colchester	LOCATION
+Essex	LOCATION
+Monday	TEMPORAL:DATE
+Williams	PERSON
+Essex	LOCATION
+Matt	ORGANIZATION
+Windows	PRODUCT
+Andrew Symonds	PERSON
+Ilott	PERSON
+Dominic Hewson	PERSON
+Tim Hancock	PERSON
+Gloucestershire	LOCATION
+England	LOCATION
+captain	TITLE
+Graham Gooch	PERSON
+Essex	LOCATION
+Captain	TITLE
+Paul Prichard	PERSON
+Kent	PERSON
+Cardiff	LOCATION
+Glamorgan	LOCATION
+Surrey	LOCATION
+Nottinghamshire	LOCATION
+Surrey	LOCATION
+Notts	LOCATION
+Trent Bridge	LOCATION
+Alistair Brown	PERSON
+Brown	PERSON
+Surrey	LOCATION
+Leicestershire	LOCATION
+Leicester	LOCATION
+David Millns	PERSON
+Gordon Parsons	PERSON
+Vince Wells	PERSON
+Yorkshire	LOCATION
+Lancashire	LOCATION
+Old Trafford	ORGANIZATION
+Yorkshire	LOCATION
+Lancashire	LOCATION
+Darren Gough	PERSON
+Lancashire	LOCATION
+Neil Fairbrother	PERSON

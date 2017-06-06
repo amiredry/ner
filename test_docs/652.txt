@@ -1,0 +1,76 @@
+
+Language Region: 0 3227 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+Hideo Nomo	PERSON
+Greg Gagne	PERSON
+Los Angeles	LOCATION
+Dodgers	ORGANIZATION
+Montreal Expos	LOCATION
+Tuesday	TEMPORAL:DATE
+Dodgers	ORGANIZATION
+Expos	ORGANIZATION
+San Francisco	LOCATION
+Mike Williams	PERSON
+Benito Santiago	PERSON
+Ruben Amaro	PERSON
+RBI	ORGANIZATION
+Philadelphia Phillies	ORGANIZATION
+San Francisco	LOCATION
+Williams	PERSON
+Williams	PERSON
+San Francisco	LOCATION
+Pittsburgh	LOCATION
+Al Martin	PERSON
+Denny Neagle	PERSON
+John Smoltz	PERSON
+Pittsburgh Pirates	LOCATION
+Atlanta	LOCATION
+Pirates	ORGANIZATION
+Smoltz	PERSON
+Neagle	PERSON
+St Louis	LOCATION
+Gary Sheffield	PERSON
+Devon White	PERSON
+Mark Hutton	PERSON
+Florida Marlins	ORGANIZATION
+St. Louis	LOCATION
+White	PERSON
+Mark Petkovsek	PERSON
+New York	LOCATION
+Steve Finley	PERSON
+San Diego	LOCATION
+New York	LOCATION
+Bobby Valentine	PERSON
+Mets	ORGANIZATION
+Willie Blair Tony Gwynn	PERSON
+Wally Joyner	PERSON
+San Diego	LOCATION
+NL East	LOCATION
+Houston	LOCATION
+Tony Eusebio	PERSON
+Houston Astros	ORGANIZATION
+Chicago Cubs	ORGANIZATION
+Astros	ORGANIZATION
+St Louis	LOCATION
+Gary Sheffield	PERSON
+Devon White	PERSON
+Mark Hutton	PERSON
+Florida Marlins	ORGANIZATION
+St. Louis Cardinals	LOCATION
+Sheffield	LOCATION
+Monday	TEMPORAL:DATE
+Luis Castilla	PERSON
+Alex Arias	PERSON
+Colorado	LOCATION
+Hal Morris	PERSON
+Eric Davis	PERSON
+John Smiley	PERSON
+Cincinnati Reds	ORGANIZATION
+Colorado	LOCATION
+Reds	ORGANIZATION
+Morris	PERSON
+Armando Reynoso	PERSON
+Barry Larkin	PERSON
+Kevin Mitchell	PERSON
+Davis	PERSON

@@ -1,0 +1,52 @@
+
+Language Region: 0 3758 English
+Entity	Type
+Windows 95	PRODUCT
+Martin Wolk	PERSON
+1996-08-22	TEMPORAL:DATE
+A year	TEMPORAL:TIME
+Microsoft Corp.	ORGANIZATION
+Windows 95	PRODUCT
+Windows 95	PRODUCT
+Aug. 24 , 1995	TEMPORAL:DATE
+Redmond , Wash.	LOCATION
+Times of London	ORGANIZATION
+New York	LOCATION
+Empire State building	LOCATION
+Windows	PRODUCT
+eight months	TEMPORAL:TIME
+Microsoft	ORGANIZATION
+Rob Enderle	PERSON
+Giga Information Group	ORGANIZATION
+Scott Winkler	PERSON
+Gartner Group	ORGANIZATION
+Symantec Corp.	ORGANIZATION
+Windows 95	PRODUCT
+Touchstone Software Corp.	ORGANIZATION
+$ 1.3 million	IDENTIFIER:MONEY
+Windows 95	PRODUCT
+Windows 95	PRODUCT
+Ann Stephens	PERSON
+president	TITLE
+PC Data Inc	ORGANIZATION
+Windows 95	PRODUCT
+Office	ORGANIZATION
+Microsoft	ORGANIZATION
+$ 8.67 billion	IDENTIFIER:MONEY
+Microsoft	ORGANIZATION
+executives	TITLE
+Windows 95	PRODUCT
+Windows	PRODUCT
+Enderle	PERSON
+Microsoft	ORGANIZATION
+America	LOCATION
+Microsoft	ORGANIZATION
+Windows NT	PRODUCT
+Microsoft	ORGANIZATION
+NT	LOCATION
+Winkler	PERSON
+Windows 95	PRODUCT
+Windows NT 4.0	PRODUCT
+Winkler	PERSON
+Windows 95	PRODUCT
+Windows 95	PRODUCT

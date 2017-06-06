@@ -1,0 +1,32 @@
+
+Language Region: 0 553 English
+Entity	Type
+JYVASKLYA , Finland	LOCATION
+1996-08-25	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Tommi Makinen	PERSON
+Finland	LOCATION
+Mitsubishi Lancer	ORGANIZATION
+three hours	TEMPORAL:TIME
+eight minutes	TEMPORAL:TIME
+one second	TEMPORAL:TIME
+Juha Kankkunen	PERSON
+Finland	LOCATION
+Toyota Celica	ORGANIZATION
+12 seconds	TEMPORAL:TIME
+Marcus Gronholm	PERSON
+Finland	LOCATION
+Toyota Celica	ORGANIZATION
+2:09	TEMPORAL:TIME
+Jarmo Kytolehto	PERSON
+Finland	LOCATION
+Ford Escort	ORGANIZATION
+2:23	TEMPORAL:TIME
+Kenneth Eriksson	PERSON
+Sweden	LOCATION
+Subaru Impreza	ORGANIZATION
+2:39	TEMPORAL:TIME
+Carlos Sainz	PERSON
+Spain	LOCATION
+Ford Escort	ORGANIZATION
+3:03	TEMPORAL:TIME

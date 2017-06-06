@@ -1,0 +1,58 @@
+
+Language Region: 0 1390 English
+Entity	Type
+PRESS DIGEST - Israel	LOCATION
+Aug 25	TEMPORAL:DATE
+JERUSALEM	LOCATION
+1996-08-25	TEMPORAL:DATE
+Israeli	NATIONALITY
+Sunday	TEMPORAL:DATE
+Reuters	ORGANIZATION
+Palestinian	NATIONALITY
+President	TITLE
+Arafat	PERSON
+Israel	LOCATION
+Palestinians	NATIONALITY
+ministers	TITLE
+governor	TITLE
+Bank of Israel	ORGANIZATION
+United States	LOCATION
+September	TEMPORAL:DATE
+October	TEMPORAL:DATE
+Israel	LOCATION
+Netherlands	LOCATION
+Arafat	PERSON
+Gaza airport	LOCATION
+prime minister	TITLE
+Peres	PERSON
+Morocco	LOCATION
+Israeli	NATIONALITY
+President	TITLE
+Weizman	PERSON
+Palestinian	NATIONALITY
+President	TITLE
+Arafat	PERSON
+Netanyahu	PERSON
+Foreign Minister	TITLE
+Levy	PERSON
+Egypt	LOCATION
+MAARIV - Palestinian Authority	ORGANIZATION
+East Jerusalem	LOCATION
+Syrian	NATIONALITY
+Lebanon	LOCATION
+Shimon Peres	PERSON
+Morocco	LOCATION
+JERUSALEM POST	LOCATION
+Palestinian	NATIONALITY
+Minister	TITLE
+Erekat	PERSON
+Israel	LOCATION
+PLO	ORGANIZATION
+September 2	TEMPORAL:DATE
+Prime minister	TITLE
+general	TITLE
+Avraham Tamir	PERSON
+Cabinet	ORGANIZATION
+Minister	TITLE
+Kahalani	PERSON
+cabinet	ORGANIZATION

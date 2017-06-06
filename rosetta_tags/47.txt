@@ -1,0 +1,43 @@
+
+Language Region: 0 1613 English
+Entity	Type
+SYDNEY	LOCATION
+1996-08-22	TEMPORAL:DATE
+Australian	NATIONALITY
+captain	TITLE
+John Newcombe	PERSON
+Thursday	TEMPORAL:DATE
+Croatia	LOCATION
+Australia	LOCATION
+Cup coach	TITLE
+Tony Roche	PERSON
+Split	LOCATION
+Tony	PERSON
+Newcombe	PERSON
+Sydney	LOCATION
+Daily Telegraph	ORGANIZATION
+Australia	LOCATION
+Croatia	LOCATION
+September 20	TEMPORAL:DATE
+Newcombe	PERSON
+Australia	LOCATION
+captain	TITLE
+Neale Fraser	PERSON
+Newcombe	PERSON
+Roche	ORGANIZATION
+Newcombe	PERSON
+Jason Stoltenberg	PERSON
+Patrick Rafter	PERSON
+Mark Philippoussis	PERSON
+Todd Woodbridge	PERSON
+Mark Woodforde	PERSON
+Goran Ivanisevic	PERSON
+Newcombe	PERSON
+Croatian	NATIONALITY
+Australia	LOCATION
+Newcombe	PERSON
+captain	TITLE
+Australia	LOCATION
+Germany	LOCATION
+three years	TEMPORAL:TIME
+Fraser	PERSON

@@ -1,0 +1,27 @@
+
+Language Region: 0 1476 English
+Entity	Type
+Thai	NATIONALITY
+PM	TITLE
+Sept 18	TEMPORAL:DATE
+1996-08-26	TEMPORAL:DATE
+Thai	NATIONALITY
+Prime Minister	TITLE
+Banharn Silpa	PERSON
+Monday	TEMPORAL:DATE
+September 18	TEMPORAL:DATE
+president of parliament	TITLE
+September 11	TEMPORAL:DATE
+Banharn	PERSON
+Banharn	PERSON
+parliament	ORGANIZATION
+September 18	TEMPORAL:DATE
+Banharn	PERSON
+Banharn	PERSON
+13-month	TEMPORAL:TIME
+parliament	ORGANIZATION
+Banharn	PERSON
+Thai	NATIONALITY
+September 18	TEMPORAL:DATE
+parliament	ORGANIZATION
+Banharn	PERSON

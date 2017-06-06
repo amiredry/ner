@@ -1,0 +1,17 @@
+
+Language Region: 0 362 English
+Entity	Type
+BRUSSELS	LOCATION
+1996-08-23	TEMPORAL:DATE
+Christine Wachtel	PERSON
+Germany	LOCATION
+Berlin	LOCATION
+17.8.90	TEMPORAL:DATE
+Maria Mutola	PERSON
+Mozambique	LOCATION
+Brussels	LOCATION
+25.8.95	TEMPORAL:DATE
+Svetlana Masterkova	PERSON
+Russia	LOCATION
+Brussels	LOCATION
+23.8.96	TEMPORAL:DATE

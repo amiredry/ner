@@ -1,0 +1,12 @@
+
+Language Region: 0 582 English
+Entity	Type
+Auckland	LOCATION
+1996-08-27	TEMPORAL:DATE
+Auckland	LOCATION
+Tuesday	TEMPORAL:DATE
+16-year	TEMPORAL:TIME
+Radio New Zealand	ORGANIZATION
+Northcote College	ORGANIZATION
+Monday	TEMPORAL:DATE
+Wellington	LOCATION

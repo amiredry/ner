@@ -1,0 +1,81 @@
+
+Language Region: 0 3936 English
+Entity	Type
+Gore	PERSON
+Michael Posner CHICAGO	PERSON
+1996-08-26	TEMPORAL:DATE
+Al Gore	PERSON
+vice president	TITLE
+President	TITLE
+Bill Clinton	PERSON
+Monday	TEMPORAL:DATE
+Democratic	ORGANIZATION
+Bob Dole	PERSON
+House	ORGANIZATION
+Speaker	TITLE
+Newt Gingrich	PERSON
+Clinton	PERSON
+Democratic	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+a second	TEMPORAL:TIME
+Gore	PERSON
+eight years	TEMPORAL:TIME
+Gore	PERSON
+Clinton	PERSON
+15-hour	TEMPORAL:TIME
+Sunday	TEMPORAL:DATE
+Monday	TEMPORAL:DATE
+Gore	PERSON
+Congress	ORGANIZATION
+Israel	LOCATION
+New York	LOCATION
+Gore	PERSON
+Republican	ORGANIZATION
+Dole	PERSON
+Gingrich	PERSON
+Democrats	ORGANIZATION
+Gore	PERSON
+Dole	PERSON
+Gingrich	PERSON
+Housing Secretary	TITLE
+Jack Kemp	PERSON
+Dole	PERSON
+Dole	PERSON
+Gingrich	PERSON
+Gore	PERSON
+Monday	TEMPORAL:DATE
+48-year	TEMPORAL:TIME
+Gore	PERSON
+Wisconsin	LOCATION
+Gore	PERSON
+Wisconsin	LOCATION
+Gingrich	PERSON
+Dole	PERSON
+Congress	ORGANIZATION
+Gore	PERSON
+Supreme Court	ORGANIZATION
+Gingrich Congress	ORGANIZATION
+Dole	PERSON
+White House	ORGANIZATION
+Supreme Court	ORGANIZATION
+Republicans	ORGANIZATION
+White House	ORGANIZATION
+Congress	ORGANIZATION
+Republicans	ORGANIZATION
+Wisconsin	LOCATION
+America	LOCATION
+Bill Clinton	PERSON
+Dole	PERSON
+Gore	PERSON
+Dole	PERSON
+Clinton	PERSON
+Wisconsin	LOCATION
+Gore	PERSON
+Dole	PERSON
+Gore	PERSON
+Wisconsin	LOCATION
+Clinton	PERSON
+Republican	ORGANIZATION
+Congress	ORGANIZATION
+Republicans	ORGANIZATION
+Gore	PERSON

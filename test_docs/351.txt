@@ -1,0 +1,60 @@
+
+Language Region: 0 2635 English
+Entity	Type
+1996-08-25	TEMPORAL:DATE
+Fred McGriff	PERSON
+Atlanta Braves	ORGANIZATION
+Chicago Cubs	ORGANIZATION
+Saturday	TEMPORAL:DATE
+McGriff	PERSON
+Brad Clontz	PERSON
+Atlanta	LOCATION
+Colorado	LOCATION
+Mark Thompson	PERSON
+Ellis Burks	PERSON
+Colorado Rockies	ORGANIZATION
+Pittsburgh	LOCATION
+Vinny Castilla	PERSON
+Dante Bichette	PERSON
+RBI	ORGANIZATION
+Colorado	LOCATION
+Florida	LOCATION
+Kevin Brown	PERSON
+Kurt Abbott	PERSON
+Florida Marlins	ORGANIZATION
+Cincinnati Reds	ORGANIZATION
+Marlins	ORGANIZATION
+Reds	ORGANIZATION
+a day	TEMPORAL:TIME
+August 8th	TEMPORAL:DATE
+43 hours	TEMPORAL:TIME
+Los Angeles	LOCATION
+Tom Candiotti	PERSON
+Mike Piazza	PERSON
+Todd Hollandsworth	PERSON
+Los Angeles	LOCATION
+Dodgers	ORGANIZATION
+New York	LOCATION
+Mets	ORGANIZATION
+Candiotti	PERSON
+Los Angeles	LOCATION
+San Diego	LOCATION
+Joey Hamilton	PERSON
+Rickey Henderson	PERSON
+San Diego Padres	LOCATION
+Philadelphia Phillies	ORGANIZATION
+San Francisco	LOCATION
+Pedro Martinez	PERSON
+David Segui	PERSON
+Montreal Expos	LOCATION
+San Francisco	LOCATION
+Martinez	PERSON
+San Diego	LOCATION
+five days	TEMPORAL:TIME
+Houston	LOCATION
+Orlando Miller	PERSON
+Todd Stottlemyre	PERSON
+Houston Astros	ORGANIZATION
+St. Louis Cardinals	LOCATION
+NL Central	ORGANIZATION
+Shane Reynolds	PERSON

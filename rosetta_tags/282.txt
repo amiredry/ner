@@ -1,0 +1,12 @@
+
+Language Region: 0 500 English
+Entity	Type
+Nigeria	LOCATION
+1996-05-28	TEMPORAL:DATE
+a week	TEMPORAL:TIME
+Nigeria	LOCATION
+News Agency of Nigeria	ORGANIZATION
+Saturday	TEMPORAL:DATE
+chairman	TITLE
+Damian Ejiohuo	PERSON
+Nigeria	LOCATION

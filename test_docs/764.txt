@@ -1,0 +1,60 @@
+
+Language Region: 0 3491 English
+Entity	Type
+US	LOCATION
+Lloyd	PERSON
+Patricia Vowinkel	PERSON
+NEW YORK	LOCATION
+1996-08-27	TEMPORAL:DATE
+U.S.	LOCATION
+Lloyd	PERSON
+London	LOCATION
+Tuesday	TEMPORAL:DATE
+U.S.	LOCATION
+Lloyd	PERSON
+U.S.	LOCATION
+Tuesday	TEMPORAL:DATE
+Lloyd	PERSON
+Friday	TEMPORAL:DATE
+Lloyd	PERSON
+Kenneth Chiate	PERSON
+U.S.	LOCATION
+chief negotiator	TITLE
+American Names Association	ORGANIZATION
+Lloyd	PERSON
+Equitas	ORGANIZATION
+Equitas	ORGANIZATION
+1100 GMT	TEMPORAL:TIME
+Wednesday	TEMPORAL:DATE
+Lloyd	PERSON
+chairman	TITLE
+David Rowland	PERSON
+Tuesday	TEMPORAL:DATE
+U.S.	LOCATION
+John Head	PERSON
+Association of Lloyd	ORGANIZATION
+State Chairmen	TITLE
+U.S.	LOCATION
+U.S. Court of Appeals	ORGANIZATION
+Baltimore	LOCATION
+Colorado	LOCATION
+attorney general	TITLE
+Lloyd	PERSON
+British	NATIONALITY
+Colorado	LOCATION
+attorney general	TITLE
+Gale Norton	PERSON
+Norton	PERSON
+Lloyd	PERSON
+Equitas	ORGANIZATION
+Colorado	LOCATION
+California	LOCATION
+U.S. Court of Appeals	ORGANIZATION
+Chiate	PERSON
+American Names Association	ORGANIZATION
+U.S.	LOCATION
+Chiate	PERSON
+Lloyd	PERSON
+Chiate	PERSON
+Lloyd	PERSON
+Lloyd	PERSON

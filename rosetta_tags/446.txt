@@ -1,0 +1,11 @@
+
+Language Region: 0 224 English
+Entity	Type
+COLOMBO	LOCATION
+1996-08-26	TEMPORAL:DATE
+Australia	LOCATION
+Zimbabwe	LOCATION
+first day	TEMPORAL:TIME
+Singer	ORGANIZATION
+World	PRODUCT
+Monday	TEMPORAL:DATE

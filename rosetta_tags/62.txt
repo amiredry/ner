@@ -1,0 +1,14 @@
+
+Language Region: 0 508 English
+Entity	Type
+1996-08-22	TEMPORAL:DATE
+Romanian	NATIONALITY
+Thursday	TEMPORAL:DATE
+Romanian	NATIONALITY
+Bulgarian	NATIONALITY
+Bulgaria	LOCATION
+Rousse	LOCATION
+Veliko Tarnovo	LOCATION
+Romanian	NATIONALITY
+Maria Marco	PERSON
+Sofia Newsroom	ORGANIZATION

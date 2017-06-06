@@ -1,0 +1,16 @@
+
+Language Region: 0 344 English
+Entity	Type
+1996-08-23	TEMPORAL:DATE
+Friday	TEMPORAL:DATE
+Hansa Rostock	LOCATION
+Hamburg	LOCATION
+Baeron 64th	PRODUCT
+St Pauli 4	LOCATION
+Trulsen	PERSON
+Springer 64th	PRODUCT
+Sobotzik	PERSON
+Schalke 4	PRODUCT
+Thon	PERSON
+Wilmots	PERSON
+Springer	PERSON

@@ -1,0 +1,13 @@
+SOCCER - ISRAELI FIRST DIVISION RESULTS .
+JERUSALEM 1996-08-28
+Results of first division
+soccer matches played over the weekend and Tuesday :
+<PERSON>Hapoel Kfar Sava</PERSON> 0 Hapoel Zafririm Holon 1
+<PERSON>Hapoel</PERSON> <LOCATION>Tel Aviv 1</LOCATION> <PERSON>Maccabi Haifa</PERSON> 3
+Hapoel Jerusalem 0 Hapoel Petah Tikva 3
+Hapoel Ironi Rishon Lezion 3 Hapoel Taibe 1
+Hapoel Beit She'an 0 Hapoel Beit She'an 1
+<PERSON>Maccabi Petah Tikva</PERSON> 0 Betar Jerusalem 3
+<LOCATION>Hapoel Haifa 3 Maccabi Tel Aviv 1</LOCATION>
+Hapoel Beersheva 2 Maccabi Herzliya 0
+

@@ -1,0 +1,12 @@
+
+Language Region: 0 531 English
+Entity	Type
+French	NATIONALITY
+PARIS	LOCATION
+1996-08-28	TEMPORAL:DATE
+Paris	LOCATION
+a dozen seven-year	TEMPORAL:TIME
+$ 1.2 million	IDENTIFIER:MONEY
+Le Canard Enchaine	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Finance Ministry	ORGANIZATION

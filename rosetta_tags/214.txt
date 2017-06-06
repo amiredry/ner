@@ -1,0 +1,27 @@
+
+Language Region: 0 1250 English
+Entity	Type
+Vietnamese	NATIONALITY
+Alaska	LOCATION
+ANCHORAGE , Alaska	LOCATION
+1996-08-22	TEMPORAL:DATE
+Vietnamese	NATIONALITY
+Canada	LOCATION
+Alaska	LOCATION
+Whittier	PERSON
+Thursday	TEMPORAL:DATE
+Tuan Quac Phan	PERSON
+Alaska	LOCATION
+Canada	LOCATION
+five days	TEMPORAL:TIME
+Dan Jewell	PERSON
+Whittier , Alaska	LOCATION
+Prince	TITLE
+Rupert	PERSON
+British Columbia	LOCATION
+Jewell	PERSON
+Jewell	PERSON
+Monday	TEMPORAL:DATE
+Whittier	PERSON
+Prince	TITLE
+William Sound	PERSON

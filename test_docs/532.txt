@@ -1,0 +1,28 @@
+
+Language Region: 0 1478 English
+Entity	Type
+SAN FRANCISCO	LOCATION
+1996-08-27	TEMPORAL:DATE
+William VanLandingham	PERSON
+Glenallen Hill	LOCATION
+San Francisco Giants	LOCATION
+Philadelphia Phillies	ORGANIZATION
+Monday	TEMPORAL:DATE
+Phillies	ORGANIZATION
+Colorado	LOCATION
+Andres Galarraga	PERSON
+Colorado Rockies	ORGANIZATION
+Billy Swift	PERSON
+a year	TEMPORAL:TIME
+Cincinnati Reds	ORGANIZATION
+Swift	ORGANIZATION
+June 3rd	TEMPORAL:DATE
+Houston	LOCATION
+Andy Benes	PERSON
+Royce Clayton	PERSON
+St. Louis Cardinals	LOCATION
+Houston Astros	ORGANIZATION
+Benes	PERSON
+Cardinals	ORGANIZATION
+Houston	LOCATION
+National League Central Division	ORGANIZATION

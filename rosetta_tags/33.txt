@@ -1,0 +1,18 @@
+
+Language Region: 0 582 English
+Entity	Type
+YORK , England	LOCATION
+1996-08-22	TEMPORAL:DATE
+Nunthorpe Stakes	LOCATION
+two-year	TEMPORAL:TIME
+1 km	IDENTIFIER:DISTANCE
+Thursday	TEMPORAL:DATE
+George Duffield	PERSON
+Chris Rutter	PERSON
+Hever Golf Rose 11-4	PRODUCT
+Jason Weaver	PERSON
+Cheveley Park Stud	LOCATION
+Sir	TITLE
+Mark Prescott	PERSON
+Newmarket	LOCATION
+$ 112,200	IDENTIFIER:MONEY

@@ -1,0 +1,44 @@
+
+Language Region: 0 2381 English
+Entity	Type
+Estonian	NATIONALITY
+MPS	ORGANIZATION
+president	TITLE
+Belinda Goldsmith	PERSON
+1996-08-27	TEMPORAL:DATE
+Estonia	LOCATION
+parliament	ORGANIZATION
+a second	TEMPORAL:TIME
+president	TITLE
+Tuesday	TEMPORAL:DATE
+Lennart Meri	PERSON
+Meri	PERSON
+Estonia	LOCATION
+Soviet Union	LOCATION
+communist	ORGANIZATION
+Arnold Ruutel	PERSON
+parliament	ORGANIZATION
+Meri	PERSON
+Meri	PERSON
+Tuesday	TEMPORAL:DATE
+five-year	TEMPORAL:TIME
+Estonia	LOCATION
+parliament	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Meri	PERSON
+Reform Party	ORGANIZATION
+Heiki Kranich	PERSON
+Reuters	ORGANIZATION
+a year	TEMPORAL:TIME
+president	TITLE
+Meri	PERSON
+parliament	ORGANIZATION
+Monday	TEMPORAL:DATE
+Ruutel	PERSON
+Meri	PERSON
+Ruutel	PERSON
+MPs	TITLE
+Soviet	NATIONALITY
+Meri	PERSON
+Ruutel	PERSON
+a month	TEMPORAL:TIME

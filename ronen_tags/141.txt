@@ -1,0 +1,15 @@
+TENNIS - RESULTS AT CANADIAN OPEN .
+TORONTO 1996-08-22
+Results from the Canadian Open
+tennis tournament on Thursday ( prefix number denotes seeding ) :
+Third round
+3 - Wayne Ferreira ( <LOCATION>South Africa</LOCATION> ) beat <PERSON>Tim Henman</PERSON> ( Britain ) 6-4
+4 - Marcelo Rios ( <LOCATION>Chile</LOCATION> ) beat <PERSON>Daniel Vacek ( Czech Republic</PERSON> ) 6-4
+5 - Thomas Enqvist ( <LOCATION>Sweden</LOCATION> ) beat <PERSON>Petr Korda ( Czech Republic</PERSON> )
+<PERSON>Patrick Rafter</PERSON> ( <LOCATION>Australia</LOCATION> ) beat 6 - MaliVai Washington ( U.S. )
+7 - Todd Martin ( U.S. ) beat 9 - Cedric Pioline ( <LOCATION>France</LOCATION> ) 2-6 6-2
+Mark Philippoussis ( <LOCATION>Australia</LOCATION> ) beat <PERSON>Bohdan Ulihrach ( Czech</PERSON>
+Republic ) 6-3 6-4
+Alex O'Brien ( U.S. ) beat <PERSON>Mikael Tillstrom</PERSON> ( Sweden ) 6-3 2-6
+Todd Woodbridge ( <LOCATION>Australia</LOCATION> ) beat <PERSON>Daniel Nestor</PERSON> ( <LOCATION>Canada</LOCATION> ) 7-6
+

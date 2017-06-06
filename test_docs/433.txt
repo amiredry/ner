@@ -1,0 +1,14 @@
+
+Language Region: 0 133 English
+Entity	Type
+1996-08-26	TEMPORAL:DATE
+Moroccan	NATIONALITY
+Sunday	TEMPORAL:DATE
+
+Language Region: 133 362 Spanish
+Entity	Type
+Widad Fes 3 Oujda	PERSON
+Raja Casablanca 4 Tetouan	PERSON
+Jeunesse Massira 0 Widad Casablanca	PERSON
+Sporting Sale 0 Meknes 1 Settat	PERSON
+Marrakesh	LOCATION

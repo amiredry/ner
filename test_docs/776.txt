@@ -1,0 +1,11 @@
+
+Language Region: 0 996 English
+Entity	Type
+NZ	LOCATION
+1996-08-28	TEMPORAL:DATE
+0515 GMT	TEMPORAL:TIME
+New Zealand	LOCATION
+Wednesday	TEMPORAL:DATE
+Ninety-day	TEMPORAL:TIME
+September	TEMPORAL:DATE
+Wellington	LOCATION

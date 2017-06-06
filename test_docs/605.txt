@@ -1,0 +1,11 @@
+
+Language Region: 0 499 English
+Entity	Type
+HELSINKI	LOCATION
+1996-08-27	TEMPORAL:DATE
+Bank of Finland	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+three-month	TEMPORAL:TIME
+August 27	TEMPORAL:DATE
+August 26	TEMPORAL:DATE
+Helsinki	LOCATION

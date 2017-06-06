@@ -1,0 +1,15 @@
+
+Language Region: 0 153 English
+Entity	Type
+PRAGUE	LOCATION
+1996-08-26	TEMPORAL:DATE
+Czech Republic	LOCATION
+
+Language Region: 153 437 Czech
+Entity	Type
+
+Language Region: 437 535 English
+Entity	Type
+
+Language Region: 535 1004 Czech
+Entity	Type

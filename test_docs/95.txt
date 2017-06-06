@@ -1,0 +1,47 @@
+
+Language Region: 0 2159 English
+Entity	Type
+Palestinians	NATIONALITY
+NABLUS , West Bank	LOCATION
+1996-08-22	TEMPORAL:DATE
+West Bank	LOCATION
+Thursday	TEMPORAL:DATE
+Palestinian Information Ministry	ORGANIZATION
+Israeli	NATIONALITY
+PLO	ORGANIZATION
+Amman	LOCATION
+Daoud Makkawi	PERSON
+Nablus	LOCATION
+al-Risala	ORGANIZATION
+Reuters	ORGANIZATION
+Jordan	LOCATION
+Edward Said	PERSON
+New York City	LOCATION
+Columbia University	ORGANIZATION
+U.S.	LOCATION
+Palestinian	NATIONALITY
+Israeli	NATIONALITY
+PLO	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+West Bank	LOCATION
+Ramallah	LOCATION
+a month	TEMPORAL:TIME
+Israel	LOCATION
+PLO	ORGANIZATION
+Palestinian Information Ministry	ORGANIZATION
+Director-General	TITLE
+Mutawakel Taha	PERSON
+Palestinian Authority	ORGANIZATION
+Taha	PERSON
+Reuters	ORGANIZATION
+Taha	PERSON
+Daoud	PERSON
+British	NATIONALITY
+Journalist	TITLE
+Patrick Seale	PERSON
+Daoud	PERSON
+West Bank	LOCATION
+Gaza Strip	LOCATION
+Israeli	NATIONALITY
+Jewish	RELIGION
+PLO	ORGANIZATION

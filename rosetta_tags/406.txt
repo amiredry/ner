@@ -1,0 +1,20 @@
+
+Language Region: 0 990 English
+Entity	Type
+LEEDS , England	LOCATION
+1996-08-26	TEMPORAL:DATE
+Winger	TITLE
+Lee Sharpe	PERSON
+Monday	TEMPORAL:DATE
+England	LOCATION
+Sharpe	PERSON
+$ 6.98 million	IDENTIFIER:MONEY
+Manchester United	ORGANIZATION
+Ian Rush	PERSON
+Liverpool	LOCATION
+Sharpe	PERSON
+England	LOCATION
+Leeds	LOCATION
+manager	TITLE
+Howard Wilkinson	PERSON
+Sharpe	PERSON

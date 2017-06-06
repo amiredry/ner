@@ -1,0 +1,23 @@
+
+Language Region: 0 585 English
+Entity	Type
+1996-08-26	TEMPORAL:DATE
+African Nations	ORGANIZATION
+Ethiopia	LOCATION
+Uganda	LOCATION
+Ethiopia	LOCATION
+Mauritania	LOCATION
+Benin	LOCATION
+Friday	TEMPORAL:DATE
+Benin	LOCATION
+Namibia	LOCATION
+Botswana	LOCATION
+Namibia	LOCATION
+Seychelles	LOCATION
+Mauritius	LOCATION
+Mauritius	LOCATION
+Togo	LOCATION
+Congo 0 Togo	LOCATION
+Central African Republic	LOCATION
+Burundi	LOCATION
+October	TEMPORAL:DATE

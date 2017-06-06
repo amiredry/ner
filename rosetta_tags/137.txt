@@ -1,0 +1,43 @@
+
+Language Region: 0 1046 English
+Entity	Type
+ENGLAND V PAKISTAN FINAL TEST SCOREBOARD	PRODUCT
+LONDON	LOCATION
+1996-08-23	TEMPORAL:DATE
+second day	TEMPORAL:TIME
+England	LOCATION
+Pakistan	LOCATION
+Friday	TEMPORAL:DATE
+England	LOCATION
+M. Atherton	PERSON
+Waqar Younis	PERSON
+Mushtaq Ahmed 44 N. Hussain	PERSON
+Saeed Anwar	PERSON
+Waqar Younis 12 G. Thorpe	PERSON
+Mohammad Akram 54 J. Crawley	PERSON
+Waqar Younis 106 N. Knight	PERSON
+Mushtaq Ahmed 17 C. Lewis	PERSON
+Wasim Akram 5 I. Salisbury	PERSON
+Haq	PERSON
+Wasim Akram	PERSON
+Moin Khan	PERSON
+Waqar Younis 0 R. Croft	PERSON
+Wasim Akram	PERSON
+Wasim Akram	PERSON
+Waqar Younis	PERSON
+25-6-95	TEMPORAL:DATE
+Mohammad Akram	PERSON
+12-1-41	TEMPORAL:DATE
+Mushtaq Ahmed	PERSON
+27-5-78	TEMPORAL:DATE
+Aamir Sohail Pakistan	PERSON
+Saeed Anwar	PERSON
+Aamir Sohail	PERSON
+Ijaz Ahmed	PERSON
+Inzamam-ul-Haq	PERSON
+Salim Malik	PERSON
+Asif Mujtaba	PERSON
+Wasim	ORGANIZATION
+
+Language Region: 1046 1227 Pushto
+Entity	Type

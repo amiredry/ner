@@ -1,0 +1,23 @@
+
+Language Region: 0 1257 English
+Entity	Type
+Seoul	LOCATION
+SEOUL	LOCATION
+1996-08-27	TEMPORAL:DATE
+South Korea	LOCATION
+Yugoslavia	LOCATION
+Seoul	LOCATION
+foreign ministry	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Belgrade	LOCATION
+Monday	TEMPORAL:DATE
+Macedonian Communist Party	ORGANIZATION
+South Korea	LOCATION
+South Korean	NATIONALITY
+Korean	NATIONALITY
+communist	ORGANIZATION
+North Korea	LOCATION
+Seoul	LOCATION
+The ministry	ORGANIZATION
+Canada	LOCATION
+Bangladesh	LOCATION

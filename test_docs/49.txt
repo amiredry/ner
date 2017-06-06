@@ -1,0 +1,230 @@
+
+Language Region: 0 253 English
+Entity	Type
+U.S.	LOCATION
+NEW YORK	LOCATION
+1996-08-22	TEMPORAL:DATE
+U.S.	LOCATION
+Monday	TEMPORAL:DATE
+U.S	LOCATION
+National Tennis Centre	ORGANIZATION
+Pete Sampras	PERSON
+U.S.	LOCATION
+
+Language Region: 253 280 Romanian
+Entity	Type
+
+Language Region: 280 536 English
+Entity	Type
+Jiri Novak	PERSON
+Czech Republic	LOCATION
+Magnus Larsson	PERSON
+Sweden	LOCATION
+Alexander Volkov	PERSON
+Russia	LOCATION
+Mikael Tillstrom	PERSON
+Sweden	LOCATION
+Andrei Olhovskiy	PERSON
+Russia	LOCATION
+Mark Woodforde	PERSON
+Australia	LOCATION
+Mark Philippoussis	PERSON
+Australia	LOCATION
+
+Language Region: 536 656 Italian
+Entity	Type
+Roberto Carretero	PERSON
+Jordi Burillo	PERSON
+Francisco Clavet	PERSON
+Cedric Pioline	PERSON
+France	LOCATION
+
+Language Region: 656 764 Portuguese
+Entity	Type
+Wayne Ferreira	PERSON
+South Africa	ORGANIZATION
+Karol Kucera	PERSON
+Jonas Bjorkman	PERSON
+
+Language Region: 764 1020 English
+Entity	Type
+Christian Rudd	PERSON
+Norway	LOCATION
+Alex Corretja	PERSON
+Spain	LOCATION
+Byron Black	PERSON
+Zimbabwe	LOCATION
+David Rikl	PERSON
+Czech Republic	LOCATION
+Hicham Arazi	PERSON
+Morocco	LOCATION
+Sjeng Schalken	LOCATION
+Netherlands	LOCATION
+Gilbert Schaller	PERSON
+Austria	LOCATION
+Grant Stafford	PERSON
+South Africa	LOCATION
+
+Language Region: 1020 2205 Spanish
+Entity	Type
+Guy Forget	PERSON
+France	ORGANIZATION
+Fernando Meligeni	PERSON
+Brazil	ORGANIZATION
+Yevgeny Kafelnikov	PERSON
+Russia	LOCATION
+Goran Ivanisevic	PERSON
+Andrei Chesnokov	PERSON
+Russia	LOCATION
+Scott Draper	PERSON
+Australia	LOCATION
+Galo Blanco	PERSON
+Renzo Furlan	PERSON
+Italy	ORGANIZATION
+Thomas Johansson	PERSON
+Hendrik Dreekman	PERSON
+Germany	ORGANIZATION
+Greg Rusedski	PERSON
+Britain	ORGANIZATION
+Andrei Medvedev	PERSON
+Ukraine	ORGANIZATION
+Philippe Fleurian	PERSON
+France	ORGANIZATION
+Jan Kroslak	PERSON
+Chris Woodruff	PERSON
+Petr Korda	PERSON
+Czech Republic	ORGANIZATION
+Bohdan Ulihrach	PERSON
+Czech Republic	ORGANIZATION
+Alberto Costa	PERSON
+Todd Martin	PERSON
+El Aynaoui	ORGANIZATION
+Morocco	LOCATION
+Andrea Gaudenzi	PERSON
+Italy	ORGANIZATION
+Shuzo Matsuoka	PERSON
+Japan	ORGANIZATION
+Doug Flach	PERSON
+Mats Wilander	PERSON
+Tim Henman	PERSON
+Britain	ORGANIZATION
+Paul Haarhuis	PERSON
+Michael Joyce	PERSON
+Michael Tebbutt	PERSON
+Australia	LOCATION
+Richey Reneberg	PERSON
+Jonathan Stark	PERSON
+Bernd Karbacher	PERSON
+Germany	ORGANIZATION
+Stefan Edberg	PERSON
+Richard Krajicek	PERSON
+Andre Agassi	ORGANIZATION
+Mauricio Hadad	PERSON
+Colombia	LOCATION
+Marcos Ondruska	PERSON
+South Africa	ORGANIZATION
+Felix Mantilla	PERSON
+Carlos Moya	PERSON
+Scott Humphries	PERSON
+
+Language Region: 2205 2932 English
+Entity	Type
+Jan Siemerink	PERSON
+Netherlands	LOCATION
+Carl-Uwe Steeb	PERSON
+Germany	LOCATION
+David Wheaton	PERSON
+U.S.	LOCATION
+Kevin Kim	PERSON
+U.S.	LOCATION
+Nicolas Lapentti	PERSON
+Ecuador	LOCATION
+Alex O'Brien	PERSON
+U.S.	LOCATION
+Karim Alami	PERSON
+Morocco	LOCATION
+MaliVai Washington	ORGANIZATION
+U.S.	LOCATION
+Thomas Enqvist	PERSON
+Sweden	LOCATION
+Stephane Simian	PERSON
+France	LOCATION
+Guillaume Raoux	PERSON
+France	LOCATION
+Filip Dewulf	PERSON
+Belgium	LOCATION
+Mark Knowles	PERSON
+Bahamas	LOCATION
+Marcelo Filippini	PERSON
+Uruguay	LOCATION
+Todd Woodbridge	PERSON
+Australia	LOCATION
+Kris Goossens	PERSON
+Belgium	LOCATION
+Sergi Bruguera	PERSON
+Spain	LOCATION
+Michael Stich	PERSON
+Germany	LOCATION
+Chuck Adams	PERSON
+U.S.	LOCATION
+Javier Frana	PERSON
+Argentina	LOCATION
+Thomas Muster	PERSON
+Austria	LOCATION
+Jim Courier	PERSON
+U.S.	LOCATION
+Javier Sanchez	PERSON
+Spain	LOCATION
+
+Language Region: 2932 3285 Italian
+Entity	Type
+Jim Grabb	PERSON
+Sandon Stolle	PERSON
+Australia	LOCATION
+Patrick Rafter	PERSON
+Australia	LOCATION
+Kenneth Carlsen	PERSON
+Jason Stoltenberg	PERSON
+Australia	LOCATION
+Stefano Pescosolido	PERSON
+Italy	ORGANIZATION
+Arnaud Boetsch	PERSON
+France	LOCATION
+Nicolas Pereira	PERSON
+Venezuela	LOCATION
+Carlos Costa	PERSON
+Magnus Gustafsson	PERSON
+Jeff Tarango	PERSON
+Alex Radulescu	PERSON
+Germany	LOCATION
+
+Language Region: 3285 3748 English
+Entity	Type
+Marcelo Rios	PERSON
+Chile	LOCATION
+Marc Rosset	PERSON
+Switzerland	LOCATION
+Jared Palmer	PERSON
+U.S.	LOCATION
+Martin Damm	PERSON
+Czech Republic	LOCATION
+Hernan Gumy	PERSON
+Argentina	LOCATION
+Nicklas Kulti	PERSON
+Sweden	LOCATION
+Jakob Hlasek	PERSON
+Switzerland	LOCATION
+Cecil Mamiit	PERSON
+U.S.	LOCATION
+Alberto Berasategui	PERSON
+Spain	LOCATION
+Vince Spadea	PERSON
+U.S.	LOCATION
+Daniel Vacek	PERSON
+Czech Republic	LOCATION
+David Prinosil	PERSON
+Germany	LOCATION
+Tomas Carbonell	PERSON
+Spain	LOCATION
+Michael Chang	PERSON
+U.S.	LOCATION

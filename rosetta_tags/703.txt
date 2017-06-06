@@ -1,0 +1,25 @@
+
+Language Region: 0 656 English
+Entity	Type
+NZ	LOCATION
+1996-08-28	TEMPORAL:DATE
+Sri Lanka	LOCATION
+three one-day	TEMPORAL:TIME
+New Zealand	LOCATION
+Wednesday	TEMPORAL:DATE
+New Zealand	LOCATION
+Sri Lankans	NATIONALITY
+Hamilton	LOCATION
+Wellington	LOCATION
+Auckland	LOCATION
+Christchurch	LOCATION
+Dunedin	LOCATION
+England	LOCATION
+New Zealand	LOCATION
+Sri Lanka	LOCATION
+Pakistan	LOCATION
+November	TEMPORAL:DATE
+one-day	TEMPORAL:TIME
+Sharjah	LOCATION
+Pakistan	LOCATION
+three one-day	TEMPORAL:TIME

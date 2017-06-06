@@ -1,0 +1,42 @@
+
+Language Region: 0 1380 English
+Entity	Type
+PLO Council	ORGANIZATION
+Israel	LOCATION
+RAMALLAH , West Bank	LOCATION
+1996-08-28	TEMPORAL:DATE
+Palestinian Legislative Council	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Israel	LOCATION
+President	TITLE
+Yasser Arafat	PERSON
+Jewish	RELIGION
+Palestinians	NATIONALITY
+Israeli	NATIONALITY
+Palestinian	NATIONALITY
+President	TITLE
+Yasser Arafat	PERSON
+Ramallah	LOCATION
+Israel	LOCATION
+Jewish	RELIGION
+Jerusalem	LOCATION
+Prime Minister	TITLE
+Benjamin Netanyahu	PERSON
+June	TEMPORAL:DATE
+Council	ORGANIZATION
+Arafat	PERSON
+Israel	LOCATION
+Palestinian	NATIONALITY
+two years	TEMPORAL:TIME
+West Bank	LOCATION
+Gaza	LOCATION
+Thursday	TEMPORAL:DATE
+Israeli	NATIONALITY
+Palestinian	NATIONALITY
+Arafat	PERSON
+Council	ORGANIZATION
+speaker	TITLE
+Ahmed Korei	PERSON
+Israeli	NATIONALITY
+Israeli	NATIONALITY
+PLO	ORGANIZATION

@@ -1,0 +1,73 @@
+
+Language Region: 0 3370 English
+Entity	Type
+Wall Street	LOCATION
+Rubin	PERSON
+Clinton	PERSON
+Donna Sells	PERSON
+NEW YORK	LOCATION
+November	TEMPORAL:DATE
+Wall Street	LOCATION
+Robert Rubin	PERSON
+a second	TEMPORAL:TIME
+Treasury	ORGANIZATION
+secretary	TITLE
+President	TITLE
+Clinton	PERSON
+Rubin	PERSON
+Rubin	PERSON
+Cabinet	ORGANIZATION
+Democratic	ORGANIZATION
+Chicago	LOCATION
+Rubin	PERSON
+Wall Street	LOCATION
+Rubin	PERSON
+Treasury	ORGANIZATION
+Lloyd Bentsen	PERSON
+Japan	LOCATION
+Clinton	PERSON
+Chris Widness	PERSON
+Chase Securities Inc.	ORGANIZATION
+Rubin	PERSON
+U.S.	LOCATION
+German	NATIONALITY
+March 8 , 1995	TEMPORAL:DATE
+Japanese	NATIONALITY
+April 19 , 1995	TEMPORAL:DATE
+Rubin	PERSON
+26 years	TEMPORAL:TIME
+Wall Street	LOCATION
+co-chairman	TITLE
+Goldman	ORGANIZATION
+Sachs and Co	ORGANIZATION
+Rubin	PERSON
+Michael Faust	PERSON
+portfolio manager	TITLE
+Kaiser	ORGANIZATION
+$ 1 billion	IDENTIFIER:MONEY
+Treasury	ORGANIZATION
+secretary	TITLE
+Bentsen	PERSON
+U.S.	LOCATION
+U.S. Treasury	ORGANIZATION
+Widness	PERSON
+Alan Greenspan	PERSON
+chairman	TITLE
+Federal Reserve	ORGANIZATION
+Rubin	PERSON
+Treasury	ORGANIZATION
+United States	LOCATION
+Widness	PERSON
+U.S.	LOCATION
+Rubin	PERSON
+Treasury	ORGANIZATION
+chief	TITLE
+Rubin	PERSON
+White House	ORGANIZATION
+Michael Perelstein	PERSON
+portfolio manager	TITLE
+MainStay International Funds	ORGANIZATION
+Rubin	PERSON
+Perelstein	PERSON
+Tokyo	LOCATION
+Frankfurt	LOCATION

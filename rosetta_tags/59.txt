@@ -1,0 +1,96 @@
+
+Language Region: 0 345 English
+Entity	Type
+STUTTGART , Germany	LOCATION
+1996-08-22	TEMPORAL:DATE
+German	NATIONALITY
+Thursday	TEMPORAL:DATE
+Britain	LOCATION
+Paul Broadhurst 63 Raymond Russell 64	PRODUCT
+David J. Russell	PERSON
+Michael Campbell	PERSON
+New Zealand	LOCATION
+Ian Woosnam	PERSON
+Bernhard Langer	PERSON
+Germany	LOCATION
+Ronan Rafferty	PERSON
+Mats	ORGANIZATION
+
+Language Region: 345 392 Norwegian
+Entity	Type
+
+Language Region: 392 703 English
+Entity	Type
+Eamonn Darcy	PERSON
+Ireland	LOCATION
+Per Nyman	PERSON
+Sweden	LOCATION
+Russell Claydon	PERSON
+Mark Roe	PERSON
+Retief Goosen	ORGANIZATION
+South Africa	LOCATION
+Carl Suneson	PERSON
+Stephen Field	PERSON
+Paul Lawrie	PERSON
+Ian Pyman	PERSON
+Max Anglert	PERSON
+Sweden	LOCATION
+Miles Tunnicliff	PERSON
+Christian Cevaer	ORGANIZATION
+France	LOCATION
+Des Smyth ( Ireland	LOCATION
+David Carter	PERSON
+Lee Westwood	PERSON
+Greg	ORGANIZATION
+
+Language Region: 703 823 Spanish
+Entity	Type
+Chalmers	PERSON
+Australia	LOCATION
+Miguel Angel Martin	PERSON
+Spain	ORGANIZATION
+Thomas Bjorn	PERSON
+Denmark	ORGANIZATION
+Fernando Roca	PERSON
+Spain	ORGANIZATION
+Derrick	PERSON
+
+Language Region: 823 1199 English
+Entity	Type
+Cooper	PERSON
+Jeff Hawksworth	PERSON
+Padraig Harrington	PERSON
+Ireland	LOCATION
+Michael Welch	PERSON
+Thomas Gogele	PERSON
+Germany	LOCATION
+Paul McGinley	PERSON
+Ireland	LOCATION
+Gary Orr	PERSON
+Jose-Maria Canizares	PERSON
+Spain	LOCATION
+Michael Jonzon	PERSON
+Sweden	LOCATION
+Paul Eales	PERSON
+David Williams	PERSON
+Andrew Coltart	PERSON
+Jonathan Lomas	PERSON
+Jose Rivero	PERSON
+Spain	LOCATION
+Robert Karlsson	PERSON
+Sweden	LOCATION
+Marcus Wills	PERSON
+Pedro Linhart	PERSON
+Spain	LOCATION
+Jamie	ORGANIZATION
+
+Language Region: 1199 1268 Spanish
+Entity	Type
+Terry Price	PERSON
+Australia	LOCATION
+Juan Carlos Pinero	PERSON
+Spain	ORGANIZATION
+
+Language Region: 1268 1282 English
+Entity	Type
+Mark Mouland	PERSON

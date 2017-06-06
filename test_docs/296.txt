@@ -1,0 +1,64 @@
+
+Language Region: 0 3850 English
+Entity	Type
+Clinton	PERSON
+Laurence McQuillan	PERSON
+WASHINGTON	LOCATION
+1996-08-24	TEMPORAL:DATE
+President	TITLE
+Bill Clinton	PERSON
+Democrats	ORGANIZATION
+Chicago	LOCATION
+Monday	TEMPORAL:DATE
+a second	TEMPORAL:TIME
+president	TITLE
+Clinton	PERSON
+Republican	ORGANIZATION
+Bob Dole	PERSON
+a week	TEMPORAL:TIME
+Republican	ORGANIZATION
+Congress	ORGANIZATION
+Clinton	PERSON
+Saturday	TEMPORAL:DATE
+Sixty days	TEMPORAL:TIME
+attorney general	TITLE
+Clinton	PERSON
+Clinton	PERSON
+Attorney General	TITLE
+Janet Reno	PERSON
+FBI	ORGANIZATION
+Two months	TEMPORAL:TIME
+Clinton	PERSON
+60 days	TEMPORAL:TIME
+Clinton	PERSON
+Nov. 5	TEMPORAL:DATE
+Clinton	PERSON
+White House	ORGANIZATION
+Clinton	PERSON
+America	LOCATION
+a week	TEMPORAL:TIME
+Clinton	PERSON
+Republican	ORGANIZATION
+House	ORGANIZATION
+Senate	ORGANIZATION
+America	LOCATION
+Clinton	PERSON
+Clinton	PERSON
+Sunday	TEMPORAL:DATE
+four-day	TEMPORAL:TIME
+West Virginia , Kentucky , Ohio	LOCATION
+Michigan	LOCATION
+Indiana	LOCATION
+Democrats	ORGANIZATION
+Chicago	LOCATION
+Clinton	PERSON
+president	TITLE
+White House	ORGANIZATION
+Press Secretary	TITLE
+Mike McCurry	PERSON
+McCurry	PERSON
+Clinton	PERSON
+Thursday	TEMPORAL:DATE
+Democrats	ORGANIZATION
+president	TITLE
+White House	ORGANIZATION

@@ -1,0 +1,27 @@
+
+Language Region: 0 1054 English
+Entity	Type
+Polish	NATIONALITY
+beauty queen	TITLE
+1996-08-28	TEMPORAL:DATE
+Agnieszka Kotlarska	LOCATION
+Wroclaw	LOCATION
+Poland	LOCATION
+Polish	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Kotlarska	PERSON
+Tuesday	TEMPORAL:DATE
+Kotlarska	PERSON
+three-year	TEMPORAL:TIME
+Miss	TITLE
+Poland	LOCATION
+U.S.	LOCATION
+Italian	NATIONALITY
+Gianni Versace	ORGANIZATION
+Vogue	ORGANIZATION
+Gazeta Wyborcza	ORGANIZATION
+TWA	ORGANIZATION
+New York	LOCATION
+Jerzy L.	PERSON
+Thursday	TEMPORAL:DATE
+Kotlarska	PERSON

@@ -1,0 +1,62 @@
+
+Language Region: 0 3643 English
+Entity	Type
+Dole	PERSON
+Clinton	PERSON
+Judith Crosson	PERSON
+VENTURA , Calif.	LOCATION
+1996-08-28	TEMPORAL:DATE
+Republican	ORGANIZATION
+Bob Dole	PERSON
+Wednesday	TEMPORAL:DATE
+Clinton	PERSON
+National Guard	ORGANIZATION
+United States	LOCATION
+Mr. President	TITLE
+Dole	PERSON
+Dole	PERSON
+Dole	PERSON
+first lady	TITLE
+Nancy Reagan	PERSON
+Dole	PERSON
+Los Angeles	LOCATION
+Dole	PERSON
+Jack Kemp	PERSON
+Los Angeles	LOCATION
+Kemp	PERSON
+African	NATIONALITY
+Americans	NATIONALITY
+Los Angeles	LOCATION
+Dole	PERSON
+United States	LOCATION
+American	NATIONALITY
+America	LOCATION
+Dole	PERSON
+United States	LOCATION
+Mexico	LOCATION
+Dole	PERSON
+Dole	PERSON
+Dole	PERSON
+Dole	PERSON
+California	LOCATION
+Proposition 215	PRODUCT
+Dole	PERSON
+Dole	PERSON
+20-minute	TEMPORAL:TIME
+Democratic	ORGANIZATION
+Republican	ORGANIZATION
+Dole	PERSON
+Sunday	TEMPORAL:DATE
+Chicago	LOCATION
+President	TITLE
+Bill Clinton	PERSON
+17 year	TEMPORAL:TIME
+four years	TEMPORAL:TIME
+Dole	PERSON
+California	LOCATION
+Republican	ORGANIZATION
+Pete Wilson	PERSON
+Ronald Reagan	PERSON
+George Bush	PERSON
+White House	ORGANIZATION
+Wilson	PERSON

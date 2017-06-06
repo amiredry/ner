@@ -1,0 +1,72 @@
+
+Language Region: 0 449 English
+Entity	Type
+DOETINCHEM , Netherlands	LOCATION
+1996-08-29	TEMPORAL:DATE
+Netherlands	LOCATION
+Thursday	TEMPORAL:DATE
+Rolf Sorensen	PERSON
+Denmark	LOCATION
+Rabobank	ORGANIZATION
+22 minutes	TEMPORAL:TIME
+40 seconds	TEMPORAL:TIME
+Lance Armstrong	PERSON
+U.S.	LOCATION
+Motorola	ORGANIZATION
+1 second	TEMPORAL:TIME
+Vyacheslav Ekimov	PERSON
+Russia	LOCATION
+Rabobank	ORGANIZATION
+29 seconds	TEMPORAL:TIME
+
+Language Region: 449 530 Norwegian
+Entity	Type
+
+Language Region: 530 658 English
+Entity	Type
+Erik Breukink	PERSON
+Netherlands	LOCATION
+Rabobank	ORGANIZATION
+Wilfried Peeters	PERSON
+Belgium	LOCATION
+Mapei	ORGANIZATION
+Bart Voskamp	PERSON
+Netherlands	LOCATION
+
+Language Region: 658 702 Swedish
+Entity	Type
+
+Language Region: 702 760 Italian
+Entity	Type
+Gregory Randolph	PERSON
+USA	LOCATION
+Motorola	ORGANIZATION
+
+Language Region: 760 890 English
+Entity	Type
+Sorensen	PERSON
+3 seconds	TEMPORAL:TIME
+Ekimov	PERSON
+1 minute	TEMPORAL:TIME
+7 seconds	TEMPORAL:TIME
+
+Language Region: 890 1014 Italian
+Entity	Type
+Marco Lietti	PERSON
+Italy	LOCATION
+Technogym	ORGANIZATION
+
+Language Region: 1014 1077 Dutch
+Entity	Type
+
+Language Region: 1077 1281 English
+Entity	Type
+Voskamp	PERSON
+1 minute	TEMPORAL:TIME
+32 seconds	TEMPORAL:TIME
+Olaf Ludwig	PERSON
+Germany	LOCATION
+1 minute	TEMPORAL:TIME
+44 seconds	TEMPORAL:TIME
+Friday	TEMPORAL:DATE
+Venray	LOCATION

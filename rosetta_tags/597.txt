@@ -1,0 +1,68 @@
+
+Language Region: 0 3163 English
+Entity	Type
+Mother	TITLE
+Teresa	PERSON
+Rupam Banerjee	PERSON
+1996-08-27	TEMPORAL:DATE
+Mother	TITLE
+Teresa	PERSON
+Calcutta	LOCATION
+Tuesday	TEMPORAL:DATE
+Nobel	PERSON
+six days	TEMPORAL:TIME
+Woodlands Nursing Home	ORGANIZATION
+Roman Catholic	RELIGION
+Calcutta	LOCATION
+a week	TEMPORAL:TIME
+doctor	TITLE
+Mother	TITLE
+Teresa	PERSON
+Pope	TITLE
+John Paul II	PERSON
+Israeli	NATIONALITY
+Foreign Minister	TITLE
+David Levy	PERSON
+Press Trust of India	ORGANIZATION
+Shishu Bhavan	ORGANIZATION
+Calcutta	LOCATION
+Mother	TITLE
+Teresa	PERSON
+Missionaries of Charity	ORGANIZATION
+Monday	TEMPORAL:DATE
+India	LOCATION
+parliament	ORGANIZATION
+Calcutta	LOCATION
+Mother	TITLE
+Teresa	PERSON
+Missionaries of Charity	ORGANIZATION
+Raju	PERSON
+Statesman	ORGANIZATION
+40-year	TEMPORAL:TIME
+Mangala Das	PERSON
+Prem Dan	PRODUCT
+Mother	TITLE
+Teresa	PERSON
+Tarak Das	PERSON
+Calcutta	LOCATION
+a week	TEMPORAL:TIME
+Nirmal Hriday	PERSON
+Immaculate Home	ORGANIZATION
+Das	PERSON
+Statesman	ORGANIZATION
+Mother	TITLE
+Teresa	PERSON
+Sunday	TEMPORAL:DATE
+Monday	TEMPORAL:DATE
+Calcutta	LOCATION
+Missionaries of Charity	ORGANIZATION
+communist	ORGANIZATION
+West Bengal	LOCATION
+Catholics	RELIGION
+Mother	TITLE
+Teresa	PERSON
+Mother House	LOCATION
+Nanda Gopal Bhattacharya	PERSON
+communist	ORGANIZATION
+minister	TITLE
+West Bengal	LOCATION

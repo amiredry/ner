@@ -1,0 +1,28 @@
+
+Language Region: 0 1235 English
+Entity	Type
+Monday	TEMPORAL:DATE
+1996-08-26	TEMPORAL:DATE
+Canada	LOCATION
+Prairies	LOCATION
+Monday	TEMPORAL:DATE
+Labour	ORGANIZATION
+Environment Canada	ORGANIZATION
+Alberta	LOCATION
+Monday	TEMPORAL:DATE
+Tuesday	TEMPORAL:DATE
+Gerald Machnee	PERSON
+Reuters	ORGANIZATION
+Sprague	PERSON
+Manitoba	LOCATION
+Minnesota	LOCATION
+Prairies	LOCATION
+Monday	TEMPORAL:DATE
+North Battleford	LOCATION
+Sask	ORGANIZATION
+Grande Prairie , Alta	LOCATION
+Peace River Valley	LOCATION
+Wednesday	TEMPORAL:DATE
+August 28	TEMPORAL:DATE
+Prairies	LOCATION
+Gilbert Le Gras	PERSON

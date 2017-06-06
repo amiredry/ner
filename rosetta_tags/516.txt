@@ -1,0 +1,9 @@
+
+Language Region: 0 186 English
+Entity	Type
+OFFICIAL	ORGANIZATION
+JOURNAL CONTENTS - OJ C 248	PRODUCT
+AUGUST 26 , 1996	TEMPORAL:DATE
+
+Language Region: 186 258 English Uppercase
+Entity	Type

@@ -1,0 +1,11 @@
+
+Language Region: 0 371 English
+Entity	Type
+Loxley	ORGANIZATION
+1996-08-29	TEMPORAL:DATE
+first six months	TEMPORAL:TIME
+June 30 , 1996	TEMPORAL:DATE
+Six months	TEMPORAL:TIME
+Loxley Publications Plc	ORGANIZATION
+Bangkok	LOCATION
+662-252-9950	IDENTIFIER:PHONE_NUMBER

@@ -1,0 +1,24 @@
+
+Language Region: 0 695 English
+Entity	Type
+Faulding	ORGANIZATION
+ELIZABETH , N.J.	LOCATION
+1996-08-27	TEMPORAL:DATE
+Faulding Inc	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Purdue Frederick Co	ORGANIZATION
+Faulding	ORGANIZATION
+Purepac Pharamceutical	ORGANIZATION
+Purepac	ORGANIZATION
+Kadian	LOCATION
+Faulding	ORGANIZATION
+Faulding	ORGANIZATION
+Kadian	LOCATION
+United States	LOCATION
+Kadian	LOCATION
+United States	LOCATION
+Faulding	ORGANIZATION
+Zeneca Group Plc	ORGANIZATION
+Kadian	LOCATION
+Faulding & Co	ORGANIZATION
+Faulding Inc	ORGANIZATION

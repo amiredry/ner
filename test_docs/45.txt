@@ -1,0 +1,13 @@
+
+Language Region: 0 400 English
+Entity	Type
+1996-08-21	TEMPORAL:DATE
+Gothenburg of Sweden	LOCATION
+Ferencvaros of Hungary	LOCATION
+European	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Gothenburg	LOCATION
+Ferencvaros	LOCATION
+Ferenc Horvath	PERSON
+Gothenburg	LOCATION
+Andreas Andersson	PERSON

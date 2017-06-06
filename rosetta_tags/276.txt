@@ -1,0 +1,12 @@
+
+Language Region: 0 278 English
+Entity	Type
+SRI	ORGANIZATION
+COLOMBO	LOCATION
+1996-08-24	TEMPORAL:DATE
+one-day	TEMPORAL:TIME
+Sri Lanka	LOCATION
+Saturday	TEMPORAL:DATE
+M. Waugh	PERSON
+S. Tendulkar	PERSON
+Sri Lanka	LOCATION

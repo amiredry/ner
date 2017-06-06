@@ -1,0 +1,13 @@
+
+Language Region: 0 443 English
+Entity	Type
+Nigeria	LOCATION
+1996-08-23	TEMPORAL:DATE
+Nigerian	NATIONALITY
+Sokoto	LOCATION
+Friday	TEMPORAL:DATE
+News Agency of Nigeria	ORGANIZATION
+NAN	ORGANIZATION
+Umar Shelling	PERSON
+Wednesday	TEMPORAL:DATE
+$ 10,000	IDENTIFIER:MONEY

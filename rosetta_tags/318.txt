@@ -1,0 +1,65 @@
+
+Language Region: 0 301 English
+Entity	Type
+SPA-FRANCORCHAMPS , Belgium	LOCATION
+1996-08-25	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Belgian	NATIONALITY
+Michael Schumacher	PERSON
+Germany	LOCATION
+Ferrari	ORGANIZATION
+1 hour	TEMPORAL:TIME
+28 minutes	TEMPORAL:TIME
+15.125 seconds	TEMPORAL:TIME
+Jacques Villeneuve	PERSON
+Canada	LOCATION
+Williams	PERSON
+5.602 seconds	TEMPORAL:TIME
+
+Language Region: 301 354 Norwegian
+Entity	Type
+
+Language Region: 354 396 Italian
+Entity	Type
+Jean Alesi	PERSON
+France	LOCATION
+Benetton	ORGANIZATION
+
+Language Region: 396 439 English
+Entity	Type
+Damon Hill ( Britain	LOCATION
+Williams	PERSON
+
+Language Region: 439 619 Norwegian
+Entity	Type
+
+Language Region: 619 664 Portuguese
+Entity	Type
+Pedro Lamy	PERSON
+Portugal	LOCATION
+Minardi	ORGANIZATION
+
+Language Region: 664 1157 English
+Entity	Type
+David Coulthard	PERSON
+Britain	LOCATION
+Martin Brundle	PERSON
+Britain	LOCATION
+Jordan	LOCATION
+Eddie Irvine	PERSON
+Britain	LOCATION
+Ferrari	ORGANIZATION
+Rubens Barrichello	PERSON
+Brazil	LOCATION
+Jordan	LOCATION
+Pedro Diniz	PERSON
+Brazil	LOCATION
+Jos Verstappen ( Netherland	ORGANIZATION
+Olivier Panis	PERSON
+France	LOCATION
+Johnny Herbert	PERSON
+Britain	LOCATION
+Sauber Heinz	ORGANIZATION
+Harald Frentzen	PERSON
+Germany	LOCATION
+Berger	PERSON

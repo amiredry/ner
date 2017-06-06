@@ -1,0 +1,27 @@
+
+Language Region: 0 1186 English
+Entity	Type
+Brazil	LOCATION
+1996-08-28	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+Brazil	LOCATION
+Jesus	PERSON
+Brazilian	NATIONALITY
+Brazilian	NATIONALITY
+National Council of Christian Churches	ORGANIZATION
+Brazil	LOCATION
+Ecumenical Service	ORGANIZATION
+President	TITLE
+Fernando Henrique Cardoso	PERSON
+Brazil	LOCATION
+Brazilian	NATIONALITY
+April	TEMPORAL:DATE
+Para	LOCATION
+Brazil	LOCATION
+Lucas Moreira Neves	PERSON
+president	TITLE
+Catholic	RELIGION
+National Conference of Bishops	ORGANIZATION
+Brazil	LOCATION
+August 1995	TEMPORAL:DATE
+April 1996	TEMPORAL:DATE

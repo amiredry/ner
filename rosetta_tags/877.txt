@@ -1,0 +1,22 @@
+
+Language Region: 0 1052 English
+Entity	Type
+Kabul	LOCATION
+SALANG TUNNEL	PERSON
+Afghanistan	LOCATION
+1996-08-29	TEMPORAL:DATE
+Salang	LOCATION
+Kabul	LOCATION
+Afghanistan	LOCATION
+Thursday	TEMPORAL:DATE
+Salang	LOCATION
+Soviet	NATIONALITY
+Afghanistan	LOCATION
+leader General	TITLE
+Abdul Rashid Dostum	PERSON
+Kabul	LOCATION
+Halo Trust	ORGANIZATION
+a week	TEMPORAL:TIME
+Afghan	NATIONALITY
+Deputy Prime Minister	TITLE
+Qotbuddin Hilal	PERSON

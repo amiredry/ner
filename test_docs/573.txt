@@ -1,0 +1,30 @@
+
+Language Region: 0 521 English
+Entity	Type
+Czech Republic	LOCATION
+Havel	PERSON
+Brazil	LOCATION
+September	TEMPORAL:DATE
+1996-08-27	TEMPORAL:DATE
+Czech Republic	LOCATION
+President	TITLE
+Vaclav Havel	PERSON
+Brazil	LOCATION
+Brazil	LOCATION
+Foreign Relations Ministry	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Havel	PERSON
+Brazilian	NATIONALITY
+Fernando Henrique Cardoso	PERSON
+Brasilia	LOCATION
+Manaus	LOCATION
+Sao Paulo	LOCATION
+Rio de Janeiro	LOCATION
+Brazil	LOCATION
+September	TEMPORAL:DATE
+South Korean	NATIONALITY
+President	TITLE
+Kim Young Sam	PERSON
+German	NATIONALITY
+Chancellor	TITLE
+Helmut Kohl	PERSON

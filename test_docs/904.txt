@@ -1,0 +1,19 @@
+
+Language Region: 0 361 English
+Entity	Type
+Clinton	PERSON
+Chicago	LOCATION
+CHICAGO	LOCATION
+1996-08-28	TEMPORAL:DATE
+President	TITLE
+Bill Clinton	PERSON
+Chicago	LOCATION
+Wednesday	TEMPORAL:DATE
+Democratic	ORGANIZATION
+a second	TEMPORAL:TIME
+four-year	TEMPORAL:TIME
+Clinton	PERSON
+Michigan City , Indiana	LOCATION
+four-day	TEMPORAL:TIME
+559-mile	IDENTIFIER:DISTANCE
+Washington	LOCATION

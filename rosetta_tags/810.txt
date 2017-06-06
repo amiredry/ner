@@ -1,0 +1,17 @@
+
+Language Region: 0 477 English
+Entity	Type
+LONDON	LOCATION
+1996-08-30	TEMPORAL:DATE
+Scotland	LOCATION
+Jim Telfer	PERSON
+Thursday	TEMPORAL:DATE
+assistant coach	TITLE
+British	NATIONALITY
+South Africa	LOCATION
+Telfer	PERSON
+Scotland	LOCATION
+team manager	TITLE
+a year	TEMPORAL:TIME
+Ian McGeechan	PERSON
+Scotland	LOCATION

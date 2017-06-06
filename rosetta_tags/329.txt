@@ -1,0 +1,42 @@
+
+Language Region: 0 1136 English
+Entity	Type
+ENGLAND V PAKISTAN FINAL TEST SCOREBOARD	PRODUCT
+LONDON	LOCATION
+1996-08-25	TEMPORAL:DATE
+fourth day	TEMPORAL:TIME
+England	LOCATION
+Pakistan	LOCATION
+Sunday	TEMPORAL:DATE
+England	LOCATION
+J. Crawley 106	PRODUCT
+G. Thorpe	PERSON
+Waqar Younis	PERSON
+Pakistan	LOCATION
+Saeed Anwar	PERSON
+Croft	PERSON
+Aamir Sohail	PERSON
+Ijaz Ahmed	PERSON
+Stewart	ORGANIZATION
+Inzamam-ul-Haq	PERSON
+Salim Malik	PERSON
+Asif Mujtaba	PERSON
+Wasim Akram	PERSON
+Stewart	ORGANIZATION
+Croft	PERSON
+Moin Khan	PERSON
+Mushtaq Ahmed	PERSON
+Crawley	LOCATION
+Waqar Younis	PERSON
+Mohammad	PERSON
+Lewis	PERSON
+Mullally 37.1	PRODUCT
+Croft	PERSON
+23-5-71	TEMPORAL:DATE
+M. Atherton	PERSON
+Wasim Akram	PERSON
+Waqar Younis	PERSON
+7-1-24	TEMPORAL:DATE
+Mushtaq Ahmed	PERSON
+7-2-11	TEMPORAL:DATE
+Aamir Sohail	PERSON

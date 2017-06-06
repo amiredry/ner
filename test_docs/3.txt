@@ -1,0 +1,42 @@
+
+Language Region: 0 1349 English
+Entity	Type
+China	LOCATION
+Taiwan	LOCATION
+BEIJING	LOCATION
+1996-08-22	TEMPORAL:DATE
+China	LOCATION
+Thursday	TEMPORAL:DATE
+Taipei	LOCATION
+Taiwan Strait	LOCATION
+Ukraine	LOCATION
+Taiwanese	NATIONALITY
+Vice President	TITLE
+Lien Chan	PERSON
+Beijing	LOCATION
+Chinese	NATIONALITY
+Taiwan	LOCATION
+Foreign Ministry	ORGANIZATION
+Shen Guofang	PERSON
+Reuters	ORGANIZATION
+Taiwan	LOCATION
+China	LOCATION
+Taipei	LOCATION
+Tang Shubei	PERSON
+Taiwan	LOCATION
+Wednesday	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+People's Daily	ORGANIZATION
+Tang	PERSON
+foreign ministry	ORGANIZATION
+Shen	PERSON
+Reuters	ORGANIZATION
+Tang	PERSON
+Taiwan	LOCATION
+Beijing	LOCATION
+China	LOCATION
+Taipei	LOCATION
+Ukraine	LOCATION
+Taiwanese	NATIONALITY
+Vice President	TITLE
+Lien	PERSON

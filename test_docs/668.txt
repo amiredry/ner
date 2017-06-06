@@ -1,0 +1,35 @@
+
+Language Region: 0 1439 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+Brazilian	NATIONALITY
+Marcelo	PERSON
+PSV Eindhoven	ORGANIZATION
+Dutch	NATIONALITY
+Volendam	LOCATION
+Wednesday	TEMPORAL:DATE
+PSV	ORGANIZATION
+Ajax Amsterdam	LOCATION
+AZ Alkmaar	ORGANIZATION
+Ajax	LOCATION
+Frank de Boer	PERSON
+Marcelo	PERSON
+Ronaldo	PERSON
+Barcelona	LOCATION
+PSV	ORGANIZATION
+Rene Eijkelkamp	PERSON
+Brazilian	NATIONALITY
+two minutes	TEMPORAL:TIME
+Pascal Jongsma	PERSON
+Volendam	LOCATION
+five minutes	TEMPORAL:TIME
+Feyenoord Rotterdam	LOCATION
+four minutes	TEMPORAL:TIME
+Graafschap Doetinchem	LOCATION
+Swedish	NATIONALITY
+Henke Larsson	PERSON
+10 minutes	TEMPORAL:TIME
+Jean-Paul van Gastel	PERSON
+Feyenoord	LOCATION
+PSV	ORGANIZATION
+Ajax	LOCATION

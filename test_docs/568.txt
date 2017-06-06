@@ -1,0 +1,17 @@
+
+Language Region: 0 388 English
+Entity	Type
+Brazil	LOCATION
+Eletropaulo	ORGANIZATION
+president	TITLE
+1996-08-27	TEMPORAL:DATE
+Sao Paulo	LOCATION
+Eletropaulo	ORGANIZATION
+Eduardo Bernini	PERSON
+president	TITLE
+Emmanuel Sobral	PERSON
+Transportation Ministry	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Eletropaulo	ORGANIZATION
+Romina Nicaretta	PERSON
+Sao Paulo	LOCATION

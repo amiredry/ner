@@ -1,0 +1,21 @@
+
+Language Region: 0 548 English
+Entity	Type
+PRETORIA , South Africa	LOCATION
+1996-08-24	TEMPORAL:DATE
+New Zealand	LOCATION
+South Africa	LOCATION
+Saturday	TEMPORAL:DATE
+South Africa	LOCATION
+Hannes Strydom	PERSON
+Ruben Kruger	PERSON
+Joost van der Westhuizen	PERSON
+Joel Stranksy	PERSON
+New Zealand	LOCATION
+Jeff Wilson	PERSON
+Zinzan Brooke	PERSON
+Simon Culhane	PERSON
+Jon Preston	PERSON
+Culhane	PERSON
+Zinzan Brooke	PERSON
+New Zealand	LOCATION

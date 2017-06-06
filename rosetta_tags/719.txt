@@ -1,0 +1,41 @@
+
+Language Region: 0 907 English
+Entity	Type
+German	NATIONALITY
+chancellor	TITLE
+Yeltsin	PERSON
+Sept 7	TEMPORAL:DATE
+Interfax	ORGANIZATION
+MOSCOW	LOCATION
+1996-08-28	TEMPORAL:DATE
+German	NATIONALITY
+Chancellor	TITLE
+Helmut Kohl	PERSON
+President	TITLE
+Boris Yeltsin	PERSON
+Wednesday	TEMPORAL:DATE
+Moscow	LOCATION
+September 7	TEMPORAL:DATE
+Yeltsin	PERSON
+Moscow	LOCATION
+Interfax	ORGANIZATION
+Interfax	ORGANIZATION
+Yeltsin	PERSON
+press secretary	TITLE
+Sergei Yastrzhembsky	PERSON
+Yeltsin	PERSON
+Kohl	PERSON
+Yeltsin	PERSON
+Kohl	PERSON
+Russia	LOCATION
+Chechnya	LOCATION
+Interfax	ORGANIZATION
+Yeltsin	PERSON
+Monday	TEMPORAL:DATE
+100 km	IDENTIFIER:DISTANCE
+60 miles	IDENTIFIER:DISTANCE
+Moscow	LOCATION
+Germany	LOCATION
+Russia	LOCATION
+Chechnya	LOCATION
+20-month	TEMPORAL:TIME

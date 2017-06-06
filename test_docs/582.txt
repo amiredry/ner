@@ -1,0 +1,44 @@
+
+Language Region: 0 2602 English
+Entity	Type
+Democrat	ORGANIZATION
+Alan Elsner CHICAGO	PERSON
+1996-08-27	TEMPORAL:DATE
+Democratic	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Tony Hall	PERSON
+Ohio	LOCATION
+Democrats	ORGANIZATION
+Democratic Party	ORGANIZATION
+Democrats	ORGANIZATION
+Democratic Party	ORGANIZATION
+Hall	PERSON
+four years	TEMPORAL:TIME
+Pennsylvania Gov	LOCATION
+Robert Casey	PERSON
+Republicans	ORGANIZATION
+Democrat	ORGANIZATION
+Casey	PERSON
+Chicago	LOCATION
+Tuesday	TEMPORAL:DATE
+Democratic	ORGANIZATION
+governor	TITLE
+Democratic	ORGANIZATION
+Casey	PERSON
+Democrat National Convention	ORGANIZATION
+four years	TEMPORAL:TIME
+Republican Party	ORGANIZATION
+Massachusetts Gov	LOCATION
+William Weld	PERSON
+Bob Dole	PERSON
+Republican	ORGANIZATION
+Democrats	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Kate Michelman	PERSON
+president	TITLE
+National Abortion Rights Action League	ORGANIZATION
+Republican Party	ORGANIZATION
+Georgia Rep	LOCATION
+Cynthia McKinney	PERSON
+Republican House	ORGANIZATION
+Speaker	TITLE

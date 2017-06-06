@@ -1,0 +1,9 @@
+
+Language Region: 0 352 English
+Entity	Type
+Fontaine	PERSON
+TOKYO	LOCATION
+1996-08-26	TEMPORAL:DATE
+Six months	TEMPORAL:TIME
+August 31 , 1996	TEMPORAL:DATE
+Fontaine Co Ltd	ORGANIZATION

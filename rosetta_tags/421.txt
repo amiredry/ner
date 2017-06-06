@@ -1,0 +1,44 @@
+
+Language Region: 0 1915 English
+Entity	Type
+MOSCOW	LOCATION
+1996-08-26	TEMPORAL:DATE
+Russian	NATIONALITY
+Alexander Popov	PERSON
+Monday	TEMPORAL:DATE
+Moscow	LOCATION
+doctor	TITLE
+Popov	PERSON
+Rimma Maslova	PERSON
+deputy chief doctor	TITLE
+Hospital No	LOCATION
+Russian	NATIONALITY
+Maslova	PERSON
+Reuters	ORGANIZATION
+judge	TITLE
+Popov	PERSON
+Popov	PERSON
+Atlanta Olympics	LOCATION
+Saturday	TEMPORAL:DATE
+Moscow	LOCATION
+Maslova	PERSON
+Popov	PERSON
+three hours	TEMPORAL:TIME
+Popov	PERSON
+NTV	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Interfax	ORGANIZATION
+Popov	PERSON
+Vitaly Smirnov	PERSON
+president	TITLE
+Russian	NATIONALITY
+National Olympic Committee	ORGANIZATION
+President	TITLE
+Boris Yeltsin	PERSON
+Russia	LOCATION
+doctor	TITLE
+Smirnov	PERSON
+Smirnov	PERSON
+Olympic Committee	ORGANIZATION
+Soviet	NATIONALITY
+Russia	LOCATION

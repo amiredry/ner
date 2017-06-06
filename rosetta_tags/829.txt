@@ -1,0 +1,20 @@
+
+Language Region: 0 928 English
+Entity	Type
+1996-08-29	TEMPORAL:DATE
+Britain	LOCATION
+United States	LOCATION
+Thursday	TEMPORAL:DATE
+Romania	LOCATION
+Hungary	LOCATION
+United Kingdom	LOCATION
+British	NATIONALITY
+two weeks	TEMPORAL:TIME
+Romania	LOCATION
+Hungarian	NATIONALITY
+NATO	ORGANIZATION
+European Union	LOCATION
+Bucharest	LOCATION
+Budapest	LOCATION
+September	TEMPORAL:DATE
+United Kingdom	LOCATION

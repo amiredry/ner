@@ -1,0 +1,36 @@
+
+Language Region: 0 1431 English
+Entity	Type
+Nigerian	NATIONALITY
+Liberia	LOCATION
+ECOMOG	ORGANIZATION
+1996-08-22	TEMPORAL:DATE
+Nigerian	NATIONALITY
+Major General	TITLE
+Sam Victor Malu	PERSON
+Thursday	TEMPORAL:DATE
+commander	TITLE
+ECOMOG	ORGANIZATION
+Liberia	LOCATION
+two days	TEMPORAL:TIME
+six-year	TEMPORAL:TIME
+Malu	PERSON
+Nigerian	NATIONALITY
+John Inienger	PERSON
+Liberia	LOCATION
+six years	TEMPORAL:TIME
+Liberia	LOCATION
+United Nations	ORGANIZATION
+Tubmanburg	LOCATION
+Wednesday	TEMPORAL:DATE
+U.N.	ORGANIZATION
+special representative	TITLE
+Anthony Nyakyi	PERSON
+ULIMO	ORGANIZATION
+Nigerian	NATIONALITY
+Abuja	LOCATION
+Saturday	TEMPORAL:DATE
+May 30	TEMPORAL:DATE
+ECOMOG	ORGANIZATION
+Liberia	LOCATION
+Economic Community of West African States	ORGANIZATION

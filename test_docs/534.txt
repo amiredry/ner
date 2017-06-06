@@ -1,0 +1,16 @@
+
+Language Region: 0 401 English
+Entity	Type
+MONDAY	TEMPORAL:DATE
+NEW YORK	LOCATION
+Major League	ORGANIZATION
+Monday	TEMPORAL:DATE
+CAPS	LOCATION
+American League	ORGANIZATION
+Cleveland 2 DETROIT 1 BALTIMORE 12 Oakland 11	PRODUCT
+Minnesota	LOCATION
+Milwaukee	LOCATION
+Boston	LOCATION
+New York	LOCATION
+Philadelphia	LOCATION
+Cincinnati	LOCATION

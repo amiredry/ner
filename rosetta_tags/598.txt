@@ -1,0 +1,41 @@
+
+Language Region: 0 1302 English
+Entity	Type
+Islamists	RELIGION
+London	LOCATION
+minister	TITLE
+1996-08-27	TEMPORAL:DATE
+British	NATIONALITY
+Foreign Secretary	TITLE
+Malcolm Rifkind	PERSON
+Tuesday	TEMPORAL:DATE
+Islamist	RELIGION
+London	LOCATION
+British	NATIONALITY
+Britain	LOCATION
+Pakistan	LOCATION
+Reuters	ORGANIZATION
+Islamist	RELIGION
+London	LOCATION
+September 8	TEMPORAL:DATE
+Algeria	LOCATION
+Egypt	LOCATION
+Islamic	RELIGION
+British	NATIONALITY
+Jewish	RELIGION
+Algeria	LOCATION
+Islamic Salvation Front	ORGANIZATION
+FIS	ORGANIZATION
+Palestinian	NATIONALITY
+Islamic	RELIGION
+Hamas	ORGANIZATION
+Rifkind	PERSON
+home secretary	TITLE
+interior minister	TITLE
+Rifkind	PERSON
+Pakistan	LOCATION
+Asian	NATIONALITY
+India	LOCATION
+Sri Lanka	LOCATION
+Japan	LOCATION
+Mongolia	LOCATION

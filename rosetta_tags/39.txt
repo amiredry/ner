@@ -1,0 +1,28 @@
+
+Language Region: 0 874 English
+Entity	Type
+20 MONTHS	TEMPORAL:TIME
+1996-08-22	TEMPORAL:DATE
+Everton	LOCATION
+Duncan Ferguson	PERSON
+Manchester United	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+Scottish	NATIONALITY
+20-month	TEMPORAL:TIME
+Glasgow Rangers	LOCATION
+four days	TEMPORAL:TIME
+August 31	TEMPORAL:DATE
+Austria	LOCATION
+Vienna	LOCATION
+Ferguson	PERSON
+six weeks	TEMPORAL:TIME
+Scotland	LOCATION
+December 1994	TEMPORAL:DATE
+Scotland	LOCATION
+manager	TITLE
+Craig Brown	PERSON
+Thursday	TEMPORAL:DATE
+Duncan Ferguson	PERSON
+Celtic	NATIONALITY
+Jackie McNamara	PERSON

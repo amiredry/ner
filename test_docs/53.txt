@@ -1,0 +1,92 @@
+
+Language Region: 0 4617 English
+Entity	Type
+1996-08-22	TEMPORAL:DATE
+Rusty Greer	PERSON
+Texas Rangers	ORGANIZATION
+Cleveland	LOCATION
+Indians	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Greer	PERSON
+Julian Tavarez	PERSON
+Greer	PERSON
+Ivan Rodriguez	PERSON
+Mickey Cochrane	PERSON
+Johnny Bench	PERSON
+Terry Kennedy	PERSON
+Rangers	ORGANIZATION
+Indians	NATIONALITY
+American League	ORGANIZATION
+Jacobs Field	LOCATION
+Yankees	ORGANIZATION
+A.L. Central	ORGANIZATION
+Cleveland	LOCATION
+Indians	NATIONALITY
+Kenny Lofton	PERSON
+Ed Vosberg	PERSON
+Dean Palmer	PERSON
+Rangers	ORGANIZATION
+Baltimore	LOCATION
+Cal Ripken	PERSON
+Bobby Bonilla	PERSON
+Seattle Mariners	LOCATION
+Ripken	PERSON
+starter	TITLE
+Sterling Hitchcock	PERSON
+Bonilla	PERSON
+Randy Johnson	PERSON
+Cy Young	PERSON
+August 6	TEMPORAL:DATE
+Bonilla	PERSON
+Baltimore	LOCATION
+Yankees	ORGANIZATION
+A.L. East	LOCATION
+Scott Erickson	PERSON
+Alex Rodriguez	PERSON
+Ripken	PERSON
+Chris Hoiles	PERSON
+Baltimore	LOCATION
+New York	LOCATION
+Jason Dickson	PERSON
+Chili Davis	PERSON
+California Angels	ORGANIZATION
+Yankees	ORGANIZATION
+Dickson	PERSON
+Derek Jeter	PERSON
+Jimmy Key	PERSON
+Yankees	ORGANIZATION
+California	LOCATION
+interim manager	TITLE
+John McNamara	PERSON
+New York	LOCATION
+Boston	LOCATION
+Mike Stanley	PERSON
+Red Sox	ORGANIZATION
+Oakland Athletics	LOCATION
+Stanley	ORGANIZATION
+Boston	LOCATION
+Mo Vaughn	PERSON
+RBI	ORGANIZATION
+Scott Brosius	PERSON
+Detroit	LOCATION
+Brad Ausmus	PERSON
+Tigers	ORGANIZATION
+Chicago White Sox	ORGANIZATION
+Tigers	ORGANIZATION
+White Sox	ORGANIZATION
+Kansas City	LOCATION
+Juan Guzman	PERSON
+a month	TEMPORAL:TIME
+Toronto Blue Jays	ORGANIZATION
+Royals	ORGANIZATION
+Guzman	PERSON
+July 16	TEMPORAL:DATE
+Minnesota	LOCATION
+John Jaha	PERSON
+Milwaukee Brewers	ORGANIZATION
+Twins	ORGANIZATION
+Jaha	PERSON
+RBI	ORGANIZATION
+RBI	ORGANIZATION
+Jose Valentin	PERSON
+Milwaukee	LOCATION

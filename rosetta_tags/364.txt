@@ -1,0 +1,58 @@
+
+Language Region: 0 337 English
+Entity	Type
+STUTTGART , Germany	LOCATION
+1996-08-25	TEMPORAL:DATE
+Briton	NATIONALITY
+Ian Woosnam	PERSON
+German	NATIONALITY
+Sunday	TEMPORAL:DATE
+Britain	LOCATION
+Ian Woosnam	PERSON
+Thomas Gogele	PERSON
+Germany	LOCATION
+Robert Karlsson	PERSON
+
+Language Region: 337 477 Spanish
+Entity	Type
+Sweden	ORGANIZATION
+Ian Pyman	PERSON
+Fernando Roca	PERSON
+Spain	ORGANIZATION
+Diego Borrego	PERSON
+Spain	ORGANIZATION
+Miguel Angel Martin	PERSON
+
+Language Region: 477 1151 English
+Entity	Type
+Spain	LOCATION
+Stephen Ames	PERSON
+Trinidad	LOCATION
+Roger Chapman	PERSON
+Paul Broadhurst	PERSON
+Stephen Field	PERSON
+Carl Suneson	PERSON
+Spain	LOCATION
+Greg Turner	PERSON
+New Zealand	LOCATION
+Heinz	ORGANIZATION
+Peter Thul	PERSON
+Germany	LOCATION
+Ronan Rafferty	PERSON
+Barry Lane	PERSON
+David Carter	PERSON
+Michael Jonzon	PERSON
+Sweden	LOCATION
+David Williams	PERSON
+Lee Westwood 66 71 66	PRODUCT
+Gary Emerson	PERSON
+Peter Baker	PERSON
+Des Smyth ( Ireland	LOCATION
+Paul Lawrie	PERSON
+Francisco Cea	PERSON
+Spain	LOCATION
+Pedro Linhart	PERSON
+Spain	LOCATION
+Jonathan Lomas	PERSON
+Paul Eales	PERSON
+Raymond Russell	PERSON

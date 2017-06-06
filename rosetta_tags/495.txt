@@ -1,0 +1,28 @@
+
+Language Region: 0 1279 English
+Entity	Type
+Chelsea	LOCATION
+Clinton	PERSON
+CHILLICOTHE , Ohio	LOCATION
+1996-08-25	TEMPORAL:DATE
+Chelsea Clinton	LOCATION
+Sunday	TEMPORAL:DATE
+Chelsea	LOCATION
+President	TITLE
+Bill Clinton	PERSON
+West Virginia	LOCATION
+Kentucky	LOCATION
+Ohio	LOCATION
+Hillary Rodham Clinton	PERSON
+Huntington , West Virginia	LOCATION
+Chicago	LOCATION
+Democratic	ORGANIZATION
+Chelsea	LOCATION
+White House	ORGANIZATION
+Mike McCurry	PERSON
+president	TITLE
+Sidwell Friends School	ORGANIZATION
+Washington	LOCATION
+McCurry	PERSON
+Chelsea	LOCATION
+Chelsea	LOCATION

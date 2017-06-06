@@ -1,0 +1,13 @@
+
+Language Region: 0 325 English
+Entity	Type
+MANCHESTER , England	LOCATION
+1996-08-29	TEMPORAL:DATE
+England	LOCATION
+Pakistan	LOCATION
+first one-day	TEMPORAL:TIME
+Thursday	TEMPORAL:DATE
+Pakistan	LOCATION
+Saeed Anwar	PERSON
+England	LOCATION
+M. Atherton	PERSON

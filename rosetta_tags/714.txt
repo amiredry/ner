@@ -1,0 +1,61 @@
+
+Language Region: 0 2495 English
+Entity	Type
+Dutroux	PERSON
+Slovak	NATIONALITY
+Peter Laca	PERSON
+1996-08-28	TEMPORAL:DATE
+Marc Dutroux	PERSON
+chief	TITLE
+Belgian	NATIONALITY
+Slovak	NATIONALITY
+Slovak	NATIONALITY
+Interpol	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Rudolf Gajdos	PERSON
+Slovak	NATIONALITY
+Interpol	ORGANIZATION
+Dutroux	PERSON
+Slovak	NATIONALITY
+Topolcany	LOCATION
+Slovakia	LOCATION
+July	TEMPORAL:DATE
+Mark Dutroux	PERSON
+Gajdos	PERSON
+Slovak	NATIONALITY
+Interpol	ORGANIZATION
+Belgian	NATIONALITY
+Dutroux	PERSON
+Slovakia	LOCATION
+Czech Republic	LOCATION
+Gajdos	PERSON
+Dutroux	PERSON
+Dutroux	PERSON
+Topolcany	LOCATION
+Topolcany	LOCATION
+Dutroux	PERSON
+Slovakia	LOCATION
+Gajdos	PERSON
+Dutroux	PERSON
+11 days	TEMPORAL:TIME
+eight-year	TEMPORAL:TIME
+Julie Lejeune	PERSON
+Melissa Russo	PERSON
+Belgian	NATIONALITY
+Charleroi	LOCATION
+Belgian	NATIONALITY
+Dutroux	PERSON
+Slovak	NATIONALITY
+Gajdos	PERSON
+Slovak	NATIONALITY
+Slovak	NATIONALITY
+Belgium	LOCATION
+Dutroux	PERSON
+Belgium	LOCATION
+Gajdos	PERSON
+Belgium	LOCATION
+Dutroux	PERSON
+Belgians	NATIONALITY
+Marchal	PERSON
+Eefje Lambrecks	PERSON
+a year	TEMPORAL:TIME

@@ -1,0 +1,18 @@
+
+Language Region: 0 1338 English
+Entity	Type
+RABN.CN	IDENTIFIER:URL
+1996-08-26	TEMPORAL:DATE
+Dutch	NATIONALITY
+Rabobank Nederland BA	ORGANIZATION
+10 year	TEMPORAL:TIME
+executive board chairman	TITLE
+Herman Wijffels	PERSON
+Monday	TEMPORAL:DATE
+Wijffels	PERSON
+Reuters	ORGANIZATION
+Rabobank	ORGANIZATION
+Wijffels	PERSON
+Garry West	PERSON
+Amsterdam	LOCATION
++31 20 504 5000	IDENTIFIER:PHONE_NUMBER

@@ -1,0 +1,32 @@
+
+Language Region: 0 1251 English
+Entity	Type
+Lebanon	LOCATION
+Aug 26	TEMPORAL:DATE
+BEIRUT	LOCATION
+1996-08-26	TEMPORAL:DATE
+Beirut	LOCATION
+Monday	TEMPORAL:DATE
+Reuters	ORGANIZATION
+Lebanon	LOCATION
+Boutros Harb	PERSON
+prime minister	TITLE
+Omar Karame	PERSON
+Israeli	NATIONALITY
+Syrian	NATIONALITY
+Lebanon	LOCATION
+Parliament	ORGANIZATION
+Speaker	TITLE
+Berri	PERSON
+Patriarch	TITLE
+Sfeir	PERSON
+cabinet	ORGANIZATION
+minister	TITLE
+Lebanon	LOCATION
+Syrian	NATIONALITY
+Lebanese	NATIONALITY
+Israel	LOCATION
+Prime Minister	TITLE
+Hariri	PERSON
+The Lebanese Association for the Democracy of Elections	ORGANIZATION
+Lebanon	LOCATION

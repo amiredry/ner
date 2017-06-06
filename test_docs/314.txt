@@ -1,0 +1,43 @@
+
+Language Region: 0 200 English
+Entity	Type
+LANDSKRONA , Sweden	LOCATION
+1996-08-25	TEMPORAL:DATE
+Swedish	NATIONALITY
+Sunday	TEMPORAL:DATE
+Joel Smets	PERSON
+Belgium	LOCATION
+
+Language Region: 200 241 Swedish
+Entity	Type
+
+Language Region: 241 358 Dutch
+Entity	Type
+
+Language Region: 358 901 English
+Entity	Type
+Danny Theybers	PERSON
+Belgium	LOCATION
+Honda	ORGANIZATION
+Shayne King	PERSON
+New Zealand	LOCATION
+Johan Boonen	PERSON
+Belgium	LOCATION
+Husqvarna	ORGANIZATION
+Dietmar Lalcher	PERSON
+Germany	LOCATION
+Honda	ORGANIZATION
+Claus Manne Nielsen	PERSON
+Denmark	LOCATION
+Shayne King	PERSON
+Smets	PERSON
+Van Doorn	PERSON
+Johansson	PERSON
+Shayne King	PERSON
+Smets	PERSON
+Johansson	PERSON
+Lacher	PERSON
+Darryll King	PERSON
+New Zealand	LOCATION
+Honda	ORGANIZATION
+Van Doorn	PERSON

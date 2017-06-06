@@ -1,0 +1,55 @@
+
+Language Region: 0 1195 English
+Entity	Type
+STUTTGART , Germany	LOCATION
+1996-08-23	TEMPORAL:DATE
+German	NATIONALITY
+Friday	TEMPORAL:DATE
+Britain	LOCATION
+Ian Woosnam 64 64 129 Robert Karlsson	PRODUCT
+Sweden	LOCATION
+Fernando Roca	PERSON
+Spain	LOCATION
+Stephen Field 66 65 132 Miguel Angel Martin	PRODUCT
+Spain	LOCATION
+Raymond Russell	PERSON
+Thomas Gogele	PERSON
+Germany	LOCATION
+Paul Broadhurst	PERSON
+Diego Borrego	PERSON
+Spain	LOCATION
+Ricky Willison	PERSON
+Stephen Ames	PERSON
+Trinidad and Tobago	LOCATION
+Eamonn Darcy	PERSON
+Ireland	LOCATION
+Robert Coles	PERSON
+David Williams	PERSON
+Thomas Bjorn	PERSON
+Denmark	LOCATION
+Pedro Linhart	PERSON
+Spain	LOCATION
+Michael Jonzon	PERSON
+Sweden	LOCATION
+Roger Chapman	PERSON
+Jonathan Lomas	PERSON
+Francisco Cea	PERSON
+Spain	LOCATION
+Terry Price ( Australia	ORGANIZATION
+Paul Eales	PERSON
+Wayne Riley	PERSON
+Australia	LOCATION
+Carl Mason	PERSON
+Barry Lane	PERSON
+Bernhard Langer	PERSON
+Germany	LOCATION
+Gary Orr	PERSON
+Mats Lanner	PERSON
+Sweden	LOCATION
+Jeff Hawksworth	PERSON
+Des Smyth ( Ireland	LOCATION
+David Carter	PERSON
+Steve Webster	PERSON
+Jose Maria Canizares	PERSON
+Spain	LOCATION
+Paul Lawrie	PERSON

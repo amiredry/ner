@@ -1,0 +1,38 @@
+
+Language Region: 0 1211 English
+Entity	Type
+1996-08-22	TEMPORAL:DATE
+Baltimore	LOCATION
+Orioles manager	TITLE
+Davey Johnson	PERSON
+Thursday	TEMPORAL:DATE
+Seattle Mariners	LOCATION
+53-year	TEMPORAL:TIME
+Johnson	PERSON
+Orioles	PERSON
+Dr.	TITLE
+William Goldiner	PERSON
+Johnson	PERSON
+Friday	TEMPORAL:DATE
+Orioles	PERSON
+coach	TITLE
+Andy Etchebarren	PERSON
+Johnson	PERSON
+Johnson	PERSON
+manager	TITLE
+California Angels	ORGANIZATION
+John McNamara	PERSON
+New York	LOCATION
+Columbia Presbyterian Hospital	LOCATION
+Wednesday	TEMPORAL:DATE
+Johnson	PERSON
+Baltimore	LOCATION
+Orioles manager	TITLE
+Phil Regan	PERSON
+Cincinnati Reds	ORGANIZATION
+National League	ORGANIZATION
+New York	LOCATION
+Mets	ORGANIZATION
+Baltimore	LOCATION
+New York Yankees	ORGANIZATION
+American League East Division	ORGANIZATION

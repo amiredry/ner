@@ -1,0 +1,27 @@
+
+Language Region: 0 1422 English
+Entity	Type
+25-YEAR	TEMPORAL:TIME
+YORK , England	LOCATION
+1996-08-22	TEMPORAL:DATE
+Sir	TITLE
+Mark Prescott	PERSON
+25 years	TEMPORAL:TIME
+Nunthorpe Stakes	LOCATION
+Thursday	TEMPORAL:DATE
+three-year	TEMPORAL:TIME
+George Duffield	PERSON
+Henry Candy	PERSON
+Chris Rutter	PERSON
+Hever Golf Rose	LOCATION
+Longchamp	LOCATION
+Ascot	LOCATION
+June	TEMPORAL:DATE
+Abbaye , Europe	LOCATION
+Prescott	PERSON
+Twenty-five years	TEMPORAL:TIME
+Henry Candy	PERSON
+Prescott	PERSON
+Jack Berry	PERSON
+Thursday	TEMPORAL:DATE
+Berry	PERSON

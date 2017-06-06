@@ -1,0 +1,21 @@
+
+Language Region: 0 916 English
+Entity	Type
+AUG 28	TEMPORAL:DATE
+1996-08-28	TEMPORAL:DATE
+Angolan	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Reuters	ORGANIZATION
+JORNAL DE ANGOLA - Princeton Lyman	LOCATION
+U.S.	LOCATION
+Secretary of State for International Organisations	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Angola	LOCATION
+Bailundo	LOCATION
+Jonas Savimbi	PERSON
+Unita	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Lyman	PERSON
+Angolan	NATIONALITY
+Unita	ORGANIZATION
+Angolan	NATIONALITY

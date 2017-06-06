@@ -1,0 +1,19 @@
+
+Language Region: 0 654 English
+Entity	Type
+Cambodia	LOCATION
+1996-08-28	TEMPORAL:DATE
+Cambodia	LOCATION
+minister	TITLE
+Wednesday	TEMPORAL:DATE
+Russian	NATIONALITY
+MI-17	PRODUCT
+150 km	IDENTIFIER:DISTANCE
+90 miles	IDENTIFIER:DISTANCE
+Phnom Penh	LOCATION
+Information Minister	TITLE
+Ieng Mouly	PERSON
+Sunday	TEMPORAL:DATE
+Phnom Penh	LOCATION
+Stung Treng	LOCATION
+Ieng Mouly	PERSON

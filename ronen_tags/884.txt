@@ -1,0 +1,21 @@
+Sierra Semiconductor jumps on exit plan .
+<PERSON>Martin Wolk</PERSON>
+SEATTLE 1996-08-29
+<ORGANIZATION>Sierra Semiconductor Corp</ORGANIZATION> jumped 23 percent Thursday on the expectation the company would emerge as a smaller but more profitable operation after its planned exit from the computer modem business .
+The <LOCATION>San Jose</LOCATION> , Calif. , company was up 2-1/8 at 11-3/8 after its announcement Wednesday that it planned to pull out of the highly competitive modem-chip business and focus instead on the fast-growing market for computer networking equipment .
+" Certainly the company will be a much smaller company now , but it will be a more profitable business , " said analyst <PERSON>Elias Moosa</PERSON> <ORGANIZATION>of Roberston Stephens & Co .</ORGANIZATION>
+But analysts noted that Sierra still has much painful work ahead of it , including cutting as many as 150 jobs from its workforce , which currently has 500 people , and building up the business of its <ORGANIZATION>PMC-Sierra</ORGANIZATION> unit , which makes routing devices and chipsets for high-speed computer networks .
+The company has announced plans to take a charge against earnings of <CURRENCY>$ 50</CURRENCY> million to <CURRENCY>$ 80</CURRENCY> million to write down the value of assets and inventories and cover severance payments .
+<PERSON>Scott Randall</PERSON> of Soundview Financial Group said the company likely would have difficulty selling its modem-chip business .
+" Once you announce your intention to exit a business , it becomes a complete buyer's market , " he said .
+And he said that while the company is focusing on the fastest-growing part of its business , the market for networking chips has begun to attract the attention of much-larger players such as <ORGANIZATION>International Business Machines Corp .</ORGANIZATION>
+" As the market develops the question is , are they able to make that transition to be a much larger company ? "
+Randall said .
+Other analysts were more bullish , even though the company is expected to shrink to slightly more than half its current size in sales .
+" It's a positive strategic move , " said <PERSON>Miles Kan</PERSON> <ORGANIZATION>of Hambrecht & Quist</ORGANIZATION> .
+" The modem business is a low-margin , commodity business , " he said .
+The company's <ORGANIZATION>PMC-Sierra</ORGANIZATION> unit generated <CURRENCY>$ 33 million</CURRENCY> of the company's <CURRENCY>$ 117 million</CURRENCY> in sales in the first half of the year , compared with <CURRENCY>$ 45 million</CURRENCY> in sales of modem chips , Kan said .
+But the PMC unit is far more profitable , he said .
+<ORGANIZATION>Sierra</ORGANIZATION>'s stock has fallen from a high of nearly <CURRENCY>$ 25</CURRENCY> this year as the computer chip sector has been battered by falling prices and concern about slowing demand .
+-- Seattle bureau 206-386-4848
+

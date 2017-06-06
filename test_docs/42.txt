@@ -1,0 +1,73 @@
+
+Language Region: 0 752 English
+Entity	Type
+AT CANADIAN OPEN	ORGANIZATION
+TORONTO	LOCATION
+1996-08-21	TEMPORAL:DATE
+Canadian	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Daniel Nestor	PERSON
+Canada	LOCATION
+Thomas Muster	PERSON
+Austria	LOCATION
+Mikael Tillstrom	PERSON
+Sweden	LOCATION
+Goran Ivanisevic	PERSON
+Croatia	LOCATION
+Wayne Ferreira	PERSON
+South Africa	LOCATION
+Jiri Novak	PERSON
+Czech Republic	LOCATION
+Marcelo Rios	PERSON
+Chile	LOCATION
+Kenneth Carlsen	PERSON
+Denmark	LOCATION
+MaliVai Washington	ORGANIZATION
+U.S.	LOCATION
+Alex Corretja	PERSON
+Spain	LOCATION
+Todd Martin	PERSON
+U.S.	LOCATION
+Renzo Furlan	PERSON
+Italy	LOCATION
+Mark Philippoussis	PERSON
+Australia	LOCATION
+Marc Rosset	PERSON
+Switzerland	LOCATION
+Cedric Pioline	PERSON
+France	LOCATION
+Gregory Carraz	PERSON
+France	LOCATION
+
+Language Region: 752 812 Italian
+Entity	Type
+Patrick Rafter	PERSON
+Australia	LOCATION
+Alberto Berasategui	PERSON
+
+Language Region: 812 1271 English
+Entity	Type
+Spain	LOCATION
+Petr Korda	PERSON
+Czech Republic	LOCATION
+Francisco Clavet	PERSON
+Spain	LOCATION
+Daniel Vacek	PERSON
+Czech Republic	LOCATION
+Jason Stoltenberg	PERSON
+Australia	LOCATION
+Todd Woodbridge	PERSON
+Australia	LOCATION
+Sebastien Lareau	PERSON
+Canada	LOCATION
+Alex O'Brien	PERSON
+U.S.	LOCATION
+Zimbabwe	LOCATION
+Bohdan Ulihrach	LOCATION
+Czech Republic	LOCATION
+Andrea Gaudenzi	PERSON
+Italy	LOCATION
+Tim Henman	PERSON
+Britain	LOCATION
+Chris Woodruff	PERSON
+U.S.	LOCATION

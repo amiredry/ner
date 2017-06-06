@@ -1,0 +1,4 @@
+U.S. DLA sets tin price at <CURRENCY>$ 2.7975</CURRENCY> per lb .
+WASHINGTON 1996-08-29
+The <ORGANIZATION>U.S. Defense Logistics</ORGANIZATION> Agency set Thursday's offering price for stockpile tin at <CURRENCY>$ 2.7975</CURRENCY> per lb , versus <CURRENCY>$ 2.7775</CURRENCY> per lb yesterday .
+

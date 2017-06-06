@@ -1,0 +1,17 @@
+
+Language Region: 0 738 English
+Entity	Type
+MILAN	LOCATION
+1996-08-27	TEMPORAL:DATE
+Italian	NATIONALITY
+Gianni Bugno	PERSON
+Tour of Switzerland	LOCATION
+June	TEMPORAL:DATE
+Italian	NATIONALITY
+Tuesday	TEMPORAL:DATE
+Bugno	PERSON
+Tour	LOCATION
+Cologne	LOCATION
+Bugno	PERSON
+Giro d'Italia	PRODUCT
+three months	TEMPORAL:TIME

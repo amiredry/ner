@@ -1,0 +1,67 @@
+
+Language Region: 0 1095 English
+Entity	Type
+SCORES AT WORLD SERIES OF GOLF	LOCATION
+AKRON , Ohio	LOCATION
+1996-08-22	TEMPORAL:DATE
+$ 2.1 million	IDENTIFIER:MONEY
+NEC	ORGANIZATION
+World	PRODUCT
+Thursday	TEMPORAL:DATE
+7,149 yard	IDENTIFIER:DISTANCE
+U.S.	LOCATION
+Paul Goydos	PERSON
+Billy Mayfair	PERSON
+Hidemichi Tanaka	PERSON
+Japan	LOCATION
+Steve Stricker	PERSON
+Justin Leonard	PERSON
+Mark Brooks	PERSON
+Tim Herron	PERSON
+Duffy Waldorf	PERSON
+Davis Love	PERSON
+Anders Forsbrand	PERSON
+Sweden	LOCATION
+Nick Faldo	PERSON
+Britain	LOCATION
+John Cook	PERSON
+Steve Jones	PERSON
+Phil Mickelson	PERSON
+Greg Norman	PERSON
+Australia	LOCATION
+Ernie Els	PERSON
+South Africa	LOCATION
+Scott Hoch	PERSON
+Clarence Rose	LOCATION
+Loren Roberts	PERSON
+Fred Funk	PERSON
+Sven Struver	PERSON
+Germany	LOCATION
+Alexander Cejka	PERSON
+Germany	LOCATION
+Hal Sutton	PERSON
+Tom Lehman	PERSON
+D.A. Weibring	PERSON
+Brad Bryant	PERSON
+Craig Parry	PERSON
+Australia	LOCATION
+Australia	LOCATION
+Corey Pavin	PERSON
+Craig Stadler	PERSON
+Mark O'Meara	PERSON
+Fred Couples	PERSON
+Paul Stankowski	PERSON
+Costantino Rocca	ORGANIZATION
+Italy	LOCATION
+Jim Furyk	PERSON
+Satoshi Higashi	PERSON
+Japan	LOCATION
+Willie Wood	PERSON
+Shigeki Maruyama	PERSON
+Japan	LOCATION
+Scott McCarron	PERSON
+Wayne Westner	PERSON
+South Africa	LOCATION
+Steve Schneiter	PERSON
+Tom Watson	PERSON
+Seiki Okuda ( Japan	ORGANIZATION

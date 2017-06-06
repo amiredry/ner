@@ -1,0 +1,34 @@
+
+Language Region: 0 1354 English
+Entity	Type
+Costa Rica	LOCATION
+Dutch	NATIONALITY
+Nicaraguans	NATIONALITY
+SAN JOSE , Costa Rica	LOCATION
+1996-08-28	TEMPORAL:DATE
+Costa Rican	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Dutch	NATIONALITY
+Costa Rica	LOCATION
+Nicaraguan	NATIONALITY
+Nicaraguan	NATIONALITY
+Security Minister	TITLE
+Bernardo Arce	PERSON
+German	NATIONALITY
+Swiss	ORGANIZATION
+Costa Rica	LOCATION
+Nicaraguan	NATIONALITY
+71 days	TEMPORAL:TIME
+Nicaraguan	NATIONALITY
+Costa Rica	LOCATION
+Nicaraguan	NATIONALITY
+Arce	PERSON
+Hurte Sierd Zylstra	PERSON
+Jetsi Hendrika Coers	PERSON
+50 years	TEMPORAL:TIME
+Saturday	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+$ 1.5 million	IDENTIFIER:MONEY
+Dutch	NATIONALITY
+Ebe Huizinga	PERSON
+Costa Rica	LOCATION

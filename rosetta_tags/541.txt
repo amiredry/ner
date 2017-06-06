@@ -1,0 +1,13 @@
+
+Language Region: 0 227 English
+Entity	Type
+1996-08-27	TEMPORAL:DATE
+Dutch	NATIONALITY
+Tuesday	TEMPORAL:DATE
+Fortuna Sittard 2	PRODUCT
+Jeffrey 7	ORGANIZATION
+Roest	PERSON
+Heerenveen 4	PRODUCT
+Korneev	PERSON
+Hansma	PERSON
+Wouden 70	PRODUCT

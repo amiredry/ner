@@ -1,0 +1,30 @@
+
+Language Region: 0 1635 English
+Entity	Type
+Diana	PERSON
+LONDON	LOCATION
+1996-08-23	TEMPORAL:DATE
+British	NATIONALITY
+Princess	TITLE
+Diana	PERSON
+Friday	TEMPORAL:DATE
+Martin Stenning	PERSON
+12-week	TEMPORAL:TIME
+Thursday	TEMPORAL:DATE
+Diana	PERSON
+Princess	TITLE
+Stenning	PERSON
+Benedict Birnberg	PERSON
+Birnberg	PERSON
+Reuters	ORGANIZATION
+Stenning	PERSON
+Stenning	PERSON
+February	TEMPORAL:DATE
+Stenning	PERSON
+$ 282	IDENTIFIER:MONEY
+Diana	PERSON
+Prince	TITLE
+Charles	PERSON
+Stenning	PERSON
+Stenning	PERSON
+Diana	PERSON

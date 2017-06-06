@@ -1,0 +1,17 @@
+
+Language Region: 0 956 English
+Entity	Type
+Polish	NATIONALITY
+GDANSK , Poland	LOCATION
+1996-08-22	TEMPORAL:DATE
+Polish	NATIONALITY
+Thursday	TEMPORAL:DATE
+13-year	TEMPORAL:TIME
+$ 22	IDENTIFIER:MONEY
+$ 26	IDENTIFIER:MONEY
+Gdansk	LOCATION
+Thursday	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+Sierakowice railway station	LOCATION
+Kazimierz Socha	PERSON
+Reuters	ORGANIZATION

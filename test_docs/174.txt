@@ -1,0 +1,34 @@
+
+Language Region: 0 1550 English
+Entity	Type
+Colombia	LOCATION
+U.S.	LOCATION
+1996-08-23	TEMPORAL:DATE
+U.S.	LOCATION
+Colombian	NATIONALITY
+AMR Corp's American Airlines	ORGANIZATION
+New York	LOCATION
+Bogota	LOCATION
+Department of Transportation	ORGANIZATION
+Friday	TEMPORAL:DATE
+Miami	LOCATION
+AMR	ORGANIZATION
+Miami	LOCATION
+Colombia	LOCATION
+New York	LOCATION
+United States	LOCATION
+two years	TEMPORAL:TIME
+Colombia	LOCATION
+New York	LOCATION
+Federal Aviation Administration's International Aviation Safety	ORGANIZATION
+Colombia	LOCATION
+2 years	TEMPORAL:TIME
+June	TEMPORAL:DATE
+Colombia	LOCATION
+American	NATIONALITY
+New York	LOCATION
+Bogota	LOCATION
+United States	LOCATION
+Colombians	NATIONALITY
+Colombian	NATIONALITY
+Avianca	ORGANIZATION

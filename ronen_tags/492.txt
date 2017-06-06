@@ -1,0 +1,18 @@
+<ORGANIZATION>PRESALE - Marion County Board of Education , W. Va .</ORGANIZATION>
+AMT : 3,250,000 DATE : 09/04/96 NYC Time : 1200 CUSIP : 569399
+ISSUER : Marion County Board of Education ST : WV
+ISSUE : Public School , Series 1996 TAX STAT:Exempt-ULT
+M / SP / F : NA / NA / NA BOOK ENTRY : Y
+ENHANCEMENTS : None BANK QUAL : Y
+DTD : 09/01/96 SURE BID : N
+DUE : 5/1/98-02 SR MGR :
+1ST CPN : 05/01/97
+CALL : Non-Callable NIC
+DELIVERY : 9/17/96 approx ORDERS :
+PAYING AGENT : WesBanco Bank Fairmont , <LOCATION>Fairmont</LOCATION>
+L.O. : <ORGANIZATION>Steptoe & Johnson</ORGANIZATION> , <LOCATION>Clarksburg</LOCATION>
+F.A. : Ferris , <ORGANIZATION>Baker Watts , Inc.</ORGANIZATION> , <LOCATION>Charleston</LOCATION>
+LAST SALE : <CURRENCY>$ 7,330,000</CURRENCY> ( MBIA ) 3/1/90 @ 6.14900 % NIC ; 4yrs 4mos Avg ; BBI-7.27 %
+Year Amount Coupon Yield Price Conc .
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS :
+

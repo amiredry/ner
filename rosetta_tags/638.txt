@@ -1,0 +1,84 @@
+
+Language Region: 0 420 English
+Entity	Type
+NORTHAMPTON , England	LOCATION
+1996-08-28	TEMPORAL:DATE
+British	NATIONALITY
+Collingtree Park	LOCATION
+Wednesday	TEMPORAL:DATE
+Britain	LOCATION
+Gavin Levenson	PERSON
+South Africa	LOCATION
+Colin Montgomerie	PERSON
+Jose Coceres	PERSON
+Argentina	LOCATION
+Raymond Russell	PERSON
+Robert Allenby	PERSON
+Australia	LOCATION
+David Gilford	PERSON
+Stuart Cage	PERSON
+Mike Clayton	PERSON
+
+Language Region: 420 476 Italian
+Entity	Type
+Australia	LOCATION
+Mark Roe	PERSON
+Emanuele Canonica	PERSON
+Italy	LOCATION
+
+Language Region: 476 1142 English
+Entity	Type
+Francisco Cea	PERSON
+Spain	LOCATION
+David Howell	PERSON
+Peter Hedblom	PERSON
+Sweden	LOCATION
+Steven Bottomley	PERSON
+Ove Sellberg	PERSON
+Sweden	LOCATION
+Joakim Haeggman	PERSON
+Sweden	LOCATION
+Stephen Ames	PERSON
+Trinidad and Tobago	LOCATION
+Klas Eriksson	PERSON
+Sweden	LOCATION
+Roger Chapman	PERSON
+Mark Davis	PERSON
+Pierre Fulke	PERSON
+Sweden	LOCATION
+Martin Gates	PERSON
+Anders Haglund	PERSON
+Sweden	LOCATION
+Niclas Fasth	PERSON
+Sweden	LOCATION
+Michael Jonzon	PERSON
+Sweden	LOCATION
+Chistian Cevaer	ORGANIZATION
+France	LOCATION
+Thomas Bjorn	PERSON
+Denmark	LOCATION
+Tony Johnstone	PERSON
+Zimbabwe	LOCATION
+Padraig Harrington	PERSON
+Ireland	LOCATION
+Pedro Linhart	PERSON
+Spain	LOCATION
+David Carter	PERSON
+Ross McFarlane	PERSON
+Domingo Hospital ( Spain	LOCATION
+Seve Ballesteros	ORGANIZATION
+Spain	LOCATION
+Paul Broadhurst	PERSON
+Greg Turner	PERSON
+New Zealand	LOCATION
+Mike	PERSON
+
+Language Region: 1142 1275 Norwegian
+Entity	Type
+
+Language Region: 1275 1384 English
+Entity	Type
+Norway	LOCATION
+Stephen McAllister	PERSON
+Neal Briggs	PERSON
+Thursday	TEMPORAL:DATE

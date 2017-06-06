@@ -1,0 +1,40 @@
+
+Language Region: 0 262 English
+Entity	Type
+KUALA LUMPUR	LOCATION
+1996-08-22	TEMPORAL:DATE
+Malaysian	NATIONALITY
+Thursday	TEMPORAL:DATE
+Luo Yigang	PERSON
+China	LOCATION
+Hwang Sun	ORGANIZATION
+South Korea	LOCATION
+
+Language Region: 262 483 Malay
+Entity	Type
+
+Language Region: 483 896 Indonesian
+Entity	Type
+
+Language Region: 896 1084 English
+Entity	Type
+Gong Zhichao	PERSON
+China	LOCATION
+Liu Lufung	PERSON
+China	LOCATION
+Zeng Yaqiong	PERSON
+China	LOCATION
+Li Feng	PERSON
+New Zealand	LOCATION
+Christine Magnusson	PERSON
+Sweden	LOCATION
+Ishwari Boopathy	PERSON
+
+Language Region: 1084 1114 Malay
+Entity	Type
+
+Language Region: 1114 1176 English
+Entity	Type
+Zhang Ning	PERSON
+China	LOCATION
+Olivia ( Indonesia	ORGANIZATION

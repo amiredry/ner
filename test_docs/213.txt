@@ -1,0 +1,21 @@
+
+Language Region: 0 1260 English
+Entity	Type
+CHICAGO	LOCATION
+1996-08-22	TEMPORAL:DATE
+Wisconsin	LOCATION
+Tommy Thompson	PERSON
+Thursday	TEMPORAL:DATE
+governor	TITLE
+Wisconsin	LOCATION
+U.S. Department of Health and Human Services	ORGANIZATION
+President	TITLE
+Bill Clinton	PERSON
+Thursday	TEMPORAL:DATE
+Wisconsin	LOCATION
+Thompson	PERSON
+governor	TITLE
+Wisconsin	LOCATION
+60-day	TEMPORAL:TIME
+Karen Pierog	PERSON
+312-408-8647	IDENTIFIER:PHONE_NUMBER

@@ -1,0 +1,56 @@
+
+Language Region: 0 2682 English
+Entity	Type
+Java	LOCATION
+MOUNTAIN VIEW , Calif.	LOCATION
+1996-08-25	TEMPORAL:DATE
+Sun Microsystems Inc.	ORGANIZATION
+JavaSoft	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Java	LOCATION
+two weeks	TEMPORAL:TIME
+Bessemer Venture Partners	ORGANIZATION
+Menlo Park , Calif	LOCATION
+David Cowan	PERSON
+chief executive	TITLE
+Bessemer	ORGANIZATION
+chairman	TITLE
+Jim Bidzos	PERSON
+president	TITLE
+RSA Data Security	ORGANIZATION
+Security Dynamics Technologies Inc.	ORGANIZATION
+chairman	TITLE
+VeriSign	ORGANIZATION
+JavaSoft	ORGANIZATION
+Apple Computer Inc.	ORGANIZATION
+Oracle Systems	ORGANIZATION
+Java	LOCATION
+Hong Bui	PERSON
+vice president	TITLE
+senior engineer	TITLE
+JavaSoft	ORGANIZATION
+Java	LOCATION
+Sun Microsystems	ORGANIZATION
+Sun Microsystems	ORGANIZATION
+Silicon Valley	LOCATION
+Kleiner Perkins Caufield & Byers	ORGANIZATION
+$ 100 million	IDENTIFIER:MONEY
+Kleiner Perkins	PERSON
+Java	LOCATION
+Java	LOCATION
+Microsoft Corp.	ORGANIZATION
+International Business Machines Corp.	ORGANIZATION
+Taiwan	LOCATION
+Prasad Wagle	PERSON
+JavaSoft	ORGANIZATION
+Java	LOCATION
+Java	LOCATION
+Chris Zuleeg	PERSON
+Apple	ORGANIZATION
+JavaSoft	ORGANIZATION
+marketing manager	TITLE
+vice president of marketing	TITLE
+www.internetstartup.com	IDENTIFIER:URL
+Bessemer	ORGANIZATION
+PSI	ORGANIZATION
+VeriSign	ORGANIZATION

@@ -1,0 +1,18 @@
+
+Language Region: 0 585 English
+Entity	Type
+Malta	LOCATION
+1996-08-24	TEMPORAL:DATE
+Malta	LOCATION
+Saturday	TEMPORAL:DATE
+Singapore	LOCATION
+Romania	LOCATION
+commissioner	TITLE
+George Grech	PERSON
+Friday	TEMPORAL:DATE
+Malta	LOCATION
+a week	TEMPORAL:TIME
+Romania	LOCATION
+Yugoslavia	LOCATION
+Singapore	LOCATION
+Malta	LOCATION

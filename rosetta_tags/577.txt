@@ -1,0 +1,21 @@
+
+Language Region: 0 663 English
+Entity	Type
+S. Korea	LOCATION
+China	LOCATION
+BEIJING	LOCATION
+1996-08-27	TEMPORAL:DATE
+Beijing	LOCATION
+Seoul	LOCATION
+South Korean	NATIONALITY
+China	LOCATION
+South Korean	NATIONALITY
+Tuesday	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+South Korean	NATIONALITY
+deputy Foreign Minister	TITLE
+Lee Ki-choo	PERSON
+Chinese	NATIONALITY
+Tang Jiaxuan	PERSON
+China	LOCATION
+China	LOCATION

@@ -1,0 +1,28 @@
+
+Language Region: 0 808 English
+Entity	Type
+Talbott	PERSON
+Russian	NATIONALITY
+Canadian	NATIONALITY
+WASHINGTON	LOCATION
+1996-08-26	TEMPORAL:DATE
+Deputy Secretary of State	TITLE
+Strobe Talbott	PERSON
+Ottawa	LOCATION
+Monday	TEMPORAL:DATE
+Russian	NATIONALITY
+European	NATIONALITY
+State Department	ORGANIZATION
+Talbott	PERSON
+State Department	ORGANIZATION
+Russian	NATIONALITY
+Deputy Foreign Minister	TITLE
+Georgy Mamedov	PERSON
+acting chief spokesman	TITLE
+Glyn Davies	PERSON
+Talbott	PERSON
+Tuesday	TEMPORAL:DATE
+Canadian	NATIONALITY
+Gordon Smith	PERSON
+Ottawa	LOCATION
+Haiti	LOCATION

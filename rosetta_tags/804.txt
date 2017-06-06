@@ -1,0 +1,54 @@
+
+Language Region: 0 1287 English
+Entity	Type
+MANCHESTER , England	LOCATION
+1996-08-29	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+Chris Boardman	PERSON
+Britain	LOCATION
+Alexei Markov	PERSON
+Russia	LOCATION
+Andrea Collinelli	PERSON
+Italy	LOCATION
+Francis Moreau	PERSON
+France	LOCATION
+Moreau	PERSON
+Chris Boardman	PERSON
+Britain	LOCATION
+Andrea Collinelli	PERSON
+Italy	LOCATION
+Australia	LOCATION
+Darryn Hill	LOCATION
+Shane Kelly	PERSON
+Gary Neiwand	PERSON
+44.804 seconds	TEMPORAL:TIME
+Germany	LOCATION
+Jens Fiedler	PERSON
+Michael Hubner	PERSON
+Soren Lausberg	PERSON
+France	LOCATION
+Laurent Gane	PERSON
+Florian Rousseau	PERSON
+Herve Thuet	PERSON
+Greece	LOCATION
+Dimitrios Georgalis	PERSON
+Georgios Chimonetos	PERSON
+Lampros Vasilopoulos	PERSON
+Magali Faure	PERSON
+France	LOCATION
+Kathrin Freitag	PERSON
+Germany	LOCATION
+11.833 seconds	TEMPORAL:TIME
+12.033 seconds	TEMPORAL:TIME
+Felicia Ballanger	PERSON
+France	LOCATION
+Oksana Grichina	PERSON
+Russia	LOCATION
+Tanya Dubnicoff	PERSON
+Canada	LOCATION
+Michelle Ferris	PERSON
+Australia	LOCATION
+Annett Neumann	PERSON
+Germany	LOCATION
+Galina Enioukhina	PERSON
+Russia	LOCATION

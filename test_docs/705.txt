@@ -1,0 +1,13 @@
+
+Language Region: 0 237 English
+Entity	Type
+India	LOCATION
+Sri Lanka	LOCATION
+COLOMBO	LOCATION
+1996-08-28	TEMPORAL:DATE
+India	LOCATION
+Sri Lanka	LOCATION
+second day	TEMPORAL:TIME
+Singer	ORGANIZATION
+World	PRODUCT
+Wednesday	TEMPORAL:DATE

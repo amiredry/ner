@@ -1,0 +1,88 @@
+
+Language Region: 0 3606 English
+Entity	Type
+Philippoussis	PERSON
+Sampras	PERSON
+U.S.	LOCATION
+Bill Berkrot	PERSON
+NEW YORK	LOCATION
+1996-08-22	TEMPORAL:DATE
+Pete Sampras	PERSON
+Steffi Graf	PERSON
+Monday	TEMPORAL:DATE
+Sampras	PERSON
+U.S.	LOCATION
+David Rikl	PERSON
+Czech Republic	LOCATION
+Graf	PERSON
+Yayuk	TITLE
+Basuki	PERSON
+Indonesia	LOCATION
+Wednesday	TEMPORAL:DATE
+U.S.	LOCATION
+Sampras	PERSON
+Mark Philippoussis	PERSON
+Australian	NATIONALITY
+Sampras	PERSON
+Australian	NATIONALITY
+January	TEMPORAL:DATE
+Sampras	PERSON
+19-year	TEMPORAL:TIME
+Wimbledon	LOCATION
+New York	LOCATION
+first-week	TEMPORAL:TIME
+Graf	PERSON
+Arantxa Sanchez Vicario	PERSON
+German	NATIONALITY
+Natasha Zvereva	PERSON
+Belarus	LOCATION
+Andre Agassi	PERSON
+Sampras	PERSON
+Sampras	PERSON
+Agassi	PERSON
+Karim Alami	PERSON
+Morocco	LOCATION
+Michael Chang	PERSON
+Czech	NATIONALITY
+Daniel Vacek	PERSON
+Monica Seles	PERSON
+American	NATIONALITY
+Anne Miller	PERSON
+Austrian	NATIONALITY
+Thomas Muster	PERSON
+Muster	PERSON
+American	NATIONALITY
+Richey Reneberg	PERSON
+Muster	PERSON
+Richard Krajicek	PERSON
+Netherlands	LOCATION
+American	NATIONALITY
+Todd Martin	PERSON
+Chang	LOCATION
+Jim Courier	PERSON
+Stefan Edberg	PERSON
+Swede	NATIONALITY
+Philippoussis	PERSON
+Sampras	PERSON
+Frenchman	NATIONALITY
+Cedric Pioline	PERSON
+French	NATIONALITY
+Yevgeny Kafelnikov	PERSON
+Seles	PERSON
+Graf	PERSON
+German	NATIONALITY
+Anke Huber	PERSON
+Conchita Martinez	PERSON
+Lindsay Davenport	PERSON
+Huber	PERSON
+South African	NATIONALITY
+Amanda Coetzer	PERSON
+Sanchez Vicario	PERSON
+Graf	PERSON
+French	NATIONALITY
+Wimbledon	LOCATION
+Martina Hingis	PERSON
+Jana Novotna	PERSON
+Martinez	PERSON
+Ruxandra Dragomir of Romania	ORGANIZATION
+Sydney	LOCATION

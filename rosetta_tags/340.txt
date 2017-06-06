@@ -1,0 +1,10 @@
+
+Language Region: 0 192 English
+Entity	Type
+1996-08-25	TEMPORAL:DATE
+Polish	NATIONALITY
+Bogdan Prusek	PERSON
+Sokol Tychy	PERSON
+
+Language Region: 192 688 Polish
+Entity	Type

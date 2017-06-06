@@ -1,0 +1,12 @@
+
+Language Region: 0 445 English
+Entity	Type
+Vermont	LOCATION
+MONTPELIER , Vt	LOCATION
+Amtrak	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Vermont	LOCATION
+Roxbury	LOCATION
+Northfield Mountains	LOCATION
+15 miles	IDENTIFIER:DISTANCE
+Montpelier	LOCATION

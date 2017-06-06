@@ -1,0 +1,65 @@
+TENNIS - MONDAY's RESULTS FROM U.S. OPEN .
+NEW YORK 1996-08-26
+Results of first round matches on Monday in the U.S. Open tennis championships at the <ORGANIZATION>National Tennis Centre</ORGANIZATION> ( prefix denotes seeding ) :
+Women's singles
+16 - Martina Hingis ( <LOCATION>Switzerland</LOCATION> ) beat Angeles Montolio ( <LOCATION>Spain</LOCATION> ) 6-1 6-0
+Anne-Gaelle Sidot ( <LOCATION>France</LOCATION> ) beat <PERSON>Janette Husarova</PERSON> ( <LOCATION>Slovakia</LOCATION> ) 6-4 6-4
+13 - Brenda Schultz-McCarthy ( <LOCATION>Netherlands</LOCATION> ) beat <PERSON>Nana Miyagi</PERSON> ( Japan ) 6-1 6-4
+Aleksandra Olsza ( <LOCATION>Poland</LOCATION> ) beat 12 - Magdalena Maleeva ( <LOCATION>Bulgaria</LOCATION> ) 6-4 6-2
+Men's singles
+Michael Stich ( <LOCATION>Germany</LOCATION> ) beat Tommy Haas ( <LOCATION>Germany</LOCATION> ) 6-3 1-6 6-1 7-5
+Sergi Bruguera ( <LOCATION>Spain</LOCATION> ) beat Kris Goossens ( <LOCATION>Belgium</LOCATION> ) 6-2 6-0 7-6 ( 7-1 )
+Frederic Vitoux ( <LOCATION>France</LOCATION> ) beat <PERSON>Ramon Delgado</PERSON> ( Paraguay ) 6-4 6-4 7-6 ( 7-3 )
+Women's singles
+Henrietta Nagyova ( <LOCATION>Slovakia</LOCATION> ) beat Gala Leon Garcia ( <LOCATION>Spain</LOCATION> ) 6-1 4-6 6-3
+Asa Carlsson ( <LOCATION>Sweden</LOCATION> ) beat <PERSON>Gloria Pizzichini</PERSON> ( <LOCATION>Italy</LOCATION> ) 3-6 6-1 7-5
+<PERSON>Barbara Schett</PERSON> ( <LOCATION>Austria</LOCATION> ) beat Sabine Appelmans ( Belgium ) 1-6 6-4 6-4
+<PERSON>Cristina Torrens-Valero</PERSON> ( <LOCATION>Spain</LOCATION> ) beat Sabine Hack ( Germany ) 2-6 6-4 6-2
+Women's singles
+<PERSON>Helena Sukova ( Czech Republic</PERSON> ) beat Yone Kamio ( Japan ) 6-2 6-3
+Irina Spirlea ( Romania ) beat Petra Begerow ( <LOCATION>Germany</LOCATION> ) 6-3 6-2
+<PERSON>Maria Jose Gaidano ( Argentina</PERSON> ) beat <PERSON>Melanie Schnell</PERSON> ( <LOCATION>Austria</LOCATION> ) 6-4 6-0
+Men's singles
+Carlos Moya ( <LOCATION>Spain</LOCATION> ) beat <PERSON>Scott</PERSON> Humphries ( U.S. ) 6-1 6-7 ( 3-7 ) 6-7 ( 1-7 ) 6-0 6-4
+Kenneth Carlsen ( <LOCATION>Denmark</LOCATION> ) beat <PERSON>Patrick Rafter</PERSON> ( <LOCATION>Australia</LOCATION> ) 7-6 ( 9-7 ) 6-3 7-6 ( 8-6 )
+Magnus Gustafsson ( <LOCATION>Sweden</LOCATION> ) beat <PERSON>Carlos Costa</PERSON> ( <LOCATION>Spain</LOCATION> ) 7-5 4-6 7-6 ( 7-4 ) 6-3
+Jeff Tarango ( U.S. ) beat Alex Radulescu ( Romania ) 6-7 ( 5-7 ) 6-4 6-1 retired , heat exhaustion
+Men's singles
+11 - MaliVai Washington ( U.S. ) beat <PERSON>Karim Alami</PERSON> ( <LOCATION>Morocco</LOCATION> ) 6-4 2-6 7-6 ( 7-5 ) 6-1
+Dirk Dier ( <LOCATION>Germany</LOCATION> ) beat Chuck Adams ( U.S. ) 6-4 2-6 6-4 6-4
+Jason Stoltenberg ( <LOCATION>Australia</LOCATION> ) beat <PERSON>Stefano Pescosolido</PERSON> ( <LOCATION>Italy</LOCATION> ) 7-5 6-4 6-1
+<PERSON>Arnaud Boetsch ( France</PERSON> ) beat <PERSON>Nicolas Pereira</PERSON> ( <LOCATION>Venezuela</LOCATION> ) 7-6 ( 7-4 ) 6-4 7-5
+David Prinosil ( <LOCATION>Germany</LOCATION> ) beat Peter Tramacchi ( <LOCATION>Australia</LOCATION> ) 6-3 6-2 3-6 6-7 ( 5-7 ) 6-1
+Women's singles
+Amanda Coetzer ( <LOCATION>South Africa</LOCATION> ) beat 6 - Anke Huber ( <LOCATION>Germany</LOCATION> ) 6-1 2-6 6-2
+<PERSON>Anna Kournikova</PERSON> ( <LOCATION>Russia</LOCATION> ) beat <PERSON>Ludmila Richterova ( Czech Republic</PERSON> ) 7-6 ( 7-4 ) 6-3
+Debbie Graham ( U.S. ) beat <PERSON>Stephanie Deville</PERSON> ( <LOCATION>Belarus</LOCATION> ) 6-4 6-2
+<PERSON>Barbara Rittner</PERSON> ( <LOCATION>Germany</LOCATION> ) beat Katarina Studenikova ( <LOCATION>Slovakia</LOCATION> ) 7-5 7-5
+Kristina Brandi ( U.S. ) beat Andrea Glass ( Germany ) 6-2 6-3
+<PERSON>Ines Gorrochategui ( Argentina</PERSON> ) beat <PERSON>Magdalena Grzybowska ( Poland</PERSON> ) 4-6 6-4 6-1
+Men's singles
+<PERSON>Alberto Berasategui</PERSON> ( <LOCATION>Spain</LOCATION> ) beat Cecil Mamiit ( U.S. ) 6-1 6-4 6-0
+Guillaume Raoux ( <LOCATION>France</LOCATION> ) beat Filip Dewulf ( <LOCATION>Belgium</LOCATION> ) 7-6 ( 7-5 ) 3-6 1-6 6-4 7-5
+Alex O'Brien ( U.S. ) beat <PERSON>Nicolas Lapentti</PERSON> ( <LOCATION>Ecuador</LOCATION> ) 6-4 1-6 6-4 6-3
+2 - Michael Chang ( U.S. ) beat Jaime Oncins ( <LOCATION>Brazil</LOCATION> ) 3-6 6-1 6-0 7 - 6 ( 8-6 )
+Women's singles
+14 - Barbara Paulus ( <LOCATION>Austria</LOCATION> ) beat <PERSON>Yi Jing-Qian ( China</PERSON> ) 6-2 6-1
+<PERSON>Wang Shi-Ting</PERSON> ( <LOCATION>Taiwan</LOCATION> ) beat <PERSON>Corina</PERSON> Morariu ( U.S. ) 6-4 6-7 ( 5-7 ) 6-2
+Linda Wild ( U.S. ) beat <PERSON>Sung-Hee Park</PERSON> ( <LOCATION>South Korea</LOCATION> ) 6-2 6-3
+<PERSON>Sarah Pitkowski ( France</PERSON> ) beat Meghann Shaughnessy ( U.S. ) 6-3 6- 3
+Dally Randriantefy ( <LOCATION>Madagascar</LOCATION> ) beat <PERSON>Elena Makarova</PERSON> ( <LOCATION>Russia</LOCATION> ) 6- 3 1-6 7-5
+Laurence Courtois ( <LOCATION>Belgium</LOCATION> ) beat Flora Perfetti ( <LOCATION>Italy</LOCATION> ) 6-4 3-6 6-2
+Men's singles
+Leander Paes ( <LOCATION>India</LOCATION> ) beat Marcos Ondruska ( <LOCATION>South Africa</LOCATION> ) 7-6 ( 7-3 ) 6-2 7-5
+Jan Siemerink ( <LOCATION>Netherlands</LOCATION> ) beat Carl-Uwe Steeb ( <LOCATION>Germany</LOCATION> ) 4-6 6 - 1 7-6 ( 7-4 ) 6-4
+Neville Godwin ( <LOCATION>South Africa</LOCATION> ) beat Tomas Carbonell ( <LOCATION>Spain</LOCATION> ) 6-4 6-2 3-6 6-1
+Jim Grabb ( U.S. ) beat Sandon Stolle ( <LOCATION>Australia</LOCATION> ) 6-3 7-5 7-6 ( 7-4 )
+Women's singles
+Alexandra Fusai ( <LOCATION>France</LOCATION> ) beat Jill Craybas ( U.S. ) 6-1 2-6 7-5
+Naoko Kijimuta ( Japan ) beat Tatyana Jecmenica ( <LOCATION>Yugoslavia</LOCATION> ) 6-3 6-2
+<PERSON>Nathalie Dechy ( France</PERSON> ) beat Christina Singer ( <LOCATION>Germany</LOCATION> ) 6-4 6-0
+Jane Chi ( U.S. ) beat <PERSON>Maria Antonio Sanchez Lorenzo</PERSON> ( <LOCATION>Spain</LOCATION> ) 6-4 1-6 6-3
+Els Callens ( <LOCATION>Belgium</LOCATION> ) beat <PERSON>Nicole Bradtke</PERSON> ( <LOCATION>Australia</LOCATION> ) 7-6 ( 7-1 ) 7-6 ( 9-7 )
+Natalia Baudone ( <LOCATION>Italy</LOCATION> ) beat <PERSON>Jolene Watanabe</PERSON> ( U.S. ) 6-4 4-6 7-6 ( 8-6 )
+Ai Sugiyama ( Japan ) beat <PERSON>Jana Kandarr</PERSON> ( <LOCATION>Germany</LOCATION> ) 6-2 6-1
+

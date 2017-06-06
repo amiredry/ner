@@ -1,0 +1,27 @@
+
+Language Region: 0 1244 English
+Entity	Type
+Egypt	LOCATION
+CAIRO	LOCATION
+1996-08-25	TEMPORAL:DATE
+Egypt	LOCATION
+Egyptians	NATIONALITY
+Mohammed Saleh	PERSON
+director	TITLE
+Egyptian Museum	ORGANIZATION
+Reuters	ORGANIZATION
+U.S.	LOCATION
+Dahshour	LOCATION
+40 km	IDENTIFIER:DISTANCE
+25 miles	IDENTIFIER:DISTANCE
+Cairo	LOCATION
+Dahshour	LOCATION
+Egypt	LOCATION
+pharaoh	TITLE
+Seneferu	PERSON
+4,500 years	TEMPORAL:TIME
+Saleh	PERSON
+New York	LOCATION
+Metropolitan Museum	ORGANIZATION
+Middle Kingdom	LOCATION
+Saleh	PERSON

@@ -1,0 +1,34 @@
+
+Language Region: 0 2571 English
+Entity	Type
+Corsica	LOCATION
+Sylvie Florence AJACCIO	PERSON
+Corsica	LOCATION
+1996-08-29	TEMPORAL:DATE
+French Mediterranean	LOCATION
+Corsica	LOCATION
+Paris	LOCATION
+Thursday	TEMPORAL:DATE
+Agriculture Ministry	ORGANIZATION
+Ajaccio	LOCATION
+A second	TEMPORAL:TIME
+a day	TEMPORAL:TIME
+Paris	LOCATION
+Interior Minister	TITLE
+Jean-Louis Debre	PERSON
+La Corse	LOCATION
+Paris	LOCATION
+France-Soir	ORGANIZATION
+Place Beauvau	PRODUCT
+Interior Ministry	ORGANIZATION
+Paris	LOCATION
+Le Figaro	ORGANIZATION
+Thursday	TEMPORAL:DATE
+August	TEMPORAL:DATE
+seven-month	TEMPORAL:TIME
+Corsica	LOCATION
+two decades	TEMPORAL:TIME
+Le Monde	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+French	NATIONALITY
+Corsica	LOCATION

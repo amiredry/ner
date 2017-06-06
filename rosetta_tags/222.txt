@@ -1,0 +1,20 @@
+
+Language Region: 0 665 English
+Entity	Type
+Libyan	NATIONALITY
+Malta	LOCATION
+1996-08-23	TEMPORAL:DATE
+Libyan	NATIONALITY
+Malta	LOCATION
+Friday	TEMPORAL:DATE
+Amer Hishem Ali Mohammed	PERSON
+Sliema	LOCATION
+seven km	IDENTIFIER:DISTANCE
+four miles	IDENTIFIER:DISTANCE
+Valletta	LOCATION
+Wednesday	TEMPORAL:DATE
+Tuesday	TEMPORAL:DATE
+Police Commissioner	TITLE
+George Grech	PERSON
+Mohammed	PERSON
+Islamic	RELIGION

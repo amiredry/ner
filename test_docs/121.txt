@@ -1,0 +1,8 @@
+
+Language Region: 0 385 English
+Entity	Type
+Tokyo Soir	LOCATION
+TOKYO	LOCATION
+1996-08-22	TEMPORAL:DATE
+December 31 , 1996	TEMPORAL:DATE
+Tokyo Soir Co Ltd	ORGANIZATION

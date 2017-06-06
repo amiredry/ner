@@ -1,0 +1,39 @@
+
+Language Region: 0 1377 English
+Entity	Type
+Iran	LOCATION
+TEHRAN	LOCATION
+1996-08-29	TEMPORAL:DATE
+Iranian	NATIONALITY
+Iran	LOCATION
+Thursday	TEMPORAL:DATE
+Jomhuri Eslami	ORGANIZATION
+West Azerbaijan	LOCATION
+security chief	TITLE
+Turkish	NATIONALITY
+Iran	LOCATION
+April	TEMPORAL:DATE
+Turkey	LOCATION
+April	TEMPORAL:DATE
+Tehran	LOCATION
+Ankara	LOCATION
+Turkish	NATIONALITY
+Turkey	LOCATION
+Iranian	NATIONALITY
+Iranian	NATIONALITY
+Turkey	LOCATION
+Israel	LOCATION
+Iranian	NATIONALITY
+Islamist	RELIGION
+Necmettin Erbakan	PERSON
+Turkish	NATIONALITY
+prime minister	TITLE
+June	TEMPORAL:DATE
+Iran	LOCATION
+Thursday	TEMPORAL:DATE
+Intelligence Minister	TITLE
+Ali Fallahiyan	PERSON
+Iraq	LOCATION
+United States	LOCATION
+Iranian	NATIONALITY
+March 19	TEMPORAL:DATE

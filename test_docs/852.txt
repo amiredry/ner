@@ -1,0 +1,14 @@
+
+Language Region: 0 1295 English
+Entity	Type
+Mexico	LOCATION
+MEXICO CITY	LOCATION
+1996-08-29	TEMPORAL:DATE
+Mexico	LOCATION
+Mexico	LOCATION
+Oaxaca	LOCATION
+Guerrero	PERSON
+two years	TEMPORAL:TIME
+Thursday	TEMPORAL:DATE
+Patricia Lezama	PERSON
+Mexico City	LOCATION

@@ -1,0 +1,6 @@
+SOCCER - <LOCATION>AUSTRIA</LOCATION> BEAT <LOCATION>SCOTLAND</LOCATION> 4-0 IN EUROPEAN UNDER-21 MATCH .
+AMSTETTEN , Austria 1996-08-30
+<LOCATION>Austria beat Scotland</LOCATION> 4-0 ( halftime 3-0 ) in a European under-21 championship match on Friday .
+Scorers : Ewald Brenner ( 5th minute ) , <PERSON>Mario Stieglmair</PERSON> ( 42nd ) , <PERSON>Ronald Brunmayr</PERSON> ( 43rd and 56th ) .
+Attendance : 800
+

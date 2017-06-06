@@ -1,0 +1,18 @@
+
+Language Region: 0 454 English
+Entity	Type
+1996-08-22	TEMPORAL:DATE
+Greek	NATIONALITY
+socialist	ORGANIZATION
+executive	TITLE
+Prime Minister	TITLE
+Costas Simitis	PERSON
+general secretary	TITLE
+Costas Skandalidis	PERSON
+Prime Minister	TITLE
+Costas Simitis	PERSON
+cabinet	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Skandalidis	PERSON
+Dimitris Kontogiannis	PERSON
+Athens Newsroom	ORGANIZATION

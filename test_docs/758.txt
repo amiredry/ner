@@ -1,0 +1,23 @@
+
+Language Region: 0 326 English
+Entity	Type
+Israel	LOCATION
+Levy	PERSON
+Mubarak	PERSON
+Egypt	LOCATION
+JERUSALEM	LOCATION
+1996-08-28	TEMPORAL:DATE
+Israeli	NATIONALITY
+Foreign Minister	TITLE
+David Levy	PERSON
+Egypt	LOCATION
+Sunday	TEMPORAL:DATE
+President	TITLE
+Hosni Mubarak	PERSON
+Foreign Ministry	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Levy	PERSON
+Arab	NATIONALITY
+minister	TITLE
+Prime Minister	TITLE
+Benjamin Netanyahu	PERSON

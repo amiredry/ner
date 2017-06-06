@@ -1,0 +1,59 @@
+
+Language Region: 0 2799 English
+Entity	Type
+EU	LOCATION
+German	NATIONALITY
+British	NATIONALITY
+Peter Blackburn BRUSSELS	PERSON
+1996-08-22	TEMPORAL:DATE
+European Commission	ORGANIZATION
+Thursday	TEMPORAL:DATE
+German	NATIONALITY
+British	NATIONALITY
+Germany	LOCATION
+European Union	LOCATION
+Werner Zwingmann	PERSON
+Wednesday	TEMPORAL:DATE
+Britain	LOCATION
+Commission	ORGANIZATION
+chief spokesman	TITLE
+Nikolaus van der Pas	PERSON
+European Union	LOCATION
+EU	LOCATION
+Farm Commissioner	TITLE
+Franz Fischler	PERSON
+Fischler	PERSON
+EU	LOCATION
+Britain	LOCATION
+France	LOCATION
+Spongiform Encephalopathy	PRODUCT
+BSE	ORGANIZATION
+Fischler	PERSON
+EU	LOCATION
+Spanish	NATIONALITY
+Farm Minister	TITLE
+Loyola de Palacio	PERSON
+Fischler	PERSON
+EU	LOCATION
+ministers	TITLE
+France	LOCATION
+Britain	LOCATION
+Fischler	PERSON
+EU	LOCATION
+BSE	ORGANIZATION
+British	NATIONALITY
+Thursday	TEMPORAL:DATE
+German	NATIONALITY
+British	NATIONALITY
+Europe	LOCATION
+Germany	LOCATION
+National Farmers ' Union	ORGANIZATION
+NFU	ORGANIZATION
+chairman	TITLE
+John Lloyd Jones	PERSON
+BBC	ORGANIZATION
+Bonn	LOCATION
+British	NATIONALITY
+Germany	LOCATION
+Britain	LOCATION
+British	NATIONALITY

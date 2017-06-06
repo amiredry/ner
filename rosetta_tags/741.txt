@@ -1,0 +1,14 @@
+
+Language Region: 0 468 English
+Entity	Type
+Swiss	ORGANIZATION
+Rwandan	NATIONALITY
+1996-08-28	TEMPORAL:DATE
+Swiss	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Rwandan	NATIONALITY
+mayor	TITLE
+Switzerland	LOCATION
+Defence Ministry	ORGANIZATION
+Geneva	LOCATION
+Freiburg	LOCATION

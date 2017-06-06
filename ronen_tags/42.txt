@@ -1,0 +1,26 @@
+TENNIS - RESULTS AT CANADIAN OPEN .
+TORONTO 1996-08-21
+Results from the Canadian Open
+tennis tournament on Wednesday ( prefix number denotes
+seeding ) :
+Second round
+Daniel Nestor ( <LOCATION>Canada</LOCATION> ) beat 1 - Thomas Muster ( <LOCATION>Austria</LOCATION> ) 6-3 7-5
+Mikael Tillstrom ( <LOCATION>Sweden</LOCATION> ) beat 2 - Goran Ivanisevic ( <LOCATION>Croatia</LOCATION> )
+3 - Wayne Ferreira ( <LOCATION>South Africa</LOCATION> ) beat <PERSON>Jiri Novak ( Czech</PERSON>
+Republic ) 7-5 6-3
+4 - Marcelo Rios ( <LOCATION>Chile</LOCATION> ) beat <PERSON>Kenneth Carlsen</PERSON> ( <LOCATION>Denmark</LOCATION> ) 6-3 6-2
+6 - MaliVai Washington ( U.S. ) beat <PERSON>Alex Corretja</PERSON> ( <LOCATION>Spain</LOCATION> ) 6-4
+7 - Todd Martin ( U.S. ) beat <PERSON>Renzo Furlan</PERSON> ( <LOCATION>Italy</LOCATION> ) 7-6 ( 7-3 ) 6-3
+Mark Philippoussis ( <LOCATION>Australia</LOCATION> ) beat 8 - <PERSON>Marc Rosset</PERSON>
+( Switzerland ) 6-3 3-6 7-6 ( 8-6 )
+9 - Cedric Pioline ( <LOCATION>France</LOCATION> ) beat <PERSON>Gregory Carraz ( France</PERSON> ) 7-6
+<PERSON>Patrick Rafter</PERSON> ( <LOCATION>Australia</LOCATION> ) beat 11 - Alberto Berasategui
+( Spain ) 6-1 6-2
+<PERSON>Petr Korda ( Czech Republic</PERSON> ) beat 12 - Francisco Clavet ( <LOCATION>Spain</LOCATION> )
+<PERSON>Daniel Vacek ( Czech Republic</PERSON> ) beat 13 - Jason Stoltenberg
+( Australia ) 5-7 7-6 ( 7-1 ) 7-6 ( 13-11 )
+Todd Woodbridge ( Australia beat <PERSON>Sebastien Lareau</PERSON> ( <LOCATION>Canada</LOCATION> ) 6-3
+Alex O'Brien ( U.S. ) beat Byron Black ( Zimbabwe ) 7-6 ( 7-2 ) 6-2
+Bohdan Ulihrach ( Czech Republic ) beat Andrea Gaudenzi ( <LOCATION>Italy</LOCATION> )
+Tim Henman ( Britain ) beat <PERSON>Chris Woodruff</PERSON> ( U.S. ) , walkover
+

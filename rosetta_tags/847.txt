@@ -1,0 +1,20 @@
+
+Language Region: 0 457 English
+Entity	Type
+Venezuela	LOCATION
+Thursday	TEMPORAL:DATE
+CARACAS	LOCATION
+1996-08-28	TEMPORAL:DATE
+Venezuelan	NATIONALITY
+Finance Minister	TITLE
+Luis Raul Matos Azocar	PERSON
+Thursday	TEMPORAL:DATE
+1630 GMT	TEMPORAL:TIME
+Central Bank	ORGANIZATION
+Finance Ministry	ORGANIZATION
+Matos	PERSON
+IMF	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Venezuela	LOCATION
+Venezuelan	NATIONALITY
+Caracas	LOCATION

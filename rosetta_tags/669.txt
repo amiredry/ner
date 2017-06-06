@@ -1,0 +1,36 @@
+
+Language Region: 0 1415 English
+Entity	Type
+MADRID	LOCATION
+1996-08-28	TEMPORAL:DATE
+England manager	TITLE
+Bobby Robson	PERSON
+Barcelona	LOCATION
+90 minutes	TEMPORAL:TIME
+Atletico Madrid	LOCATION
+Spanish	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Barcelona	LOCATION
+15 minutes	TEMPORAL:TIME
+Juan Lopez	PERSON
+Barcelona	LOCATION
+fullback	TITLE
+Albert Ferrer	PERSON
+Julen Lopetegui	PERSON
+Milinko Pantic	PERSON
+Barcelona	LOCATION
+Hristo Stoichkov	PERSON
+10 minutes	TEMPORAL:TIME
+Sergi Barjuan	PERSON
+Bulgarian	NATIONALITY
+Juan Eduardo Esnaider	PERSON
+Serbian	NATIONALITY
+Pantic	PERSON
+Robson	PERSON
+Atletico	ORGANIZATION
+Madrid	LOCATION
+Vicente Calderon	PERSON
+Atletico	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Real Madrid	ORGANIZATION
+Santiago Bernabeu	PERSON

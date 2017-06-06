@@ -1,0 +1,60 @@
+
+Language Region: 0 239 English
+Entity	Type
+DOETINCHEM , Netherlands	LOCATION
+1996-08-29	TEMPORAL:DATE
+Netherlands	LOCATION
+Thursday	TEMPORAL:DATE
+Almere	LOCATION
+
+Language Region: 239 296 Italian
+Entity	Type
+Giovanni Lombardi	PERSON
+Italy	LOCATION
+
+Language Region: 296 442 Dutch
+Entity	Type
+
+Language Region: 442 675 English
+Entity	Type
+Marco Lietti	PERSON
+Italy	LOCATION
+MG	ORGANIZATION
+Technogym	ORGANIZATION
+1 second	TEMPORAL:TIME
+Hans de Clerq	PERSON
+Belgium	LOCATION
+27 seconds	TEMPORAL:TIME
+Marty Jemison	PERSON
+U.S.	LOCATION
+U.S. Postal 8	ORGANIZATION
+Servais Knaven	PERSON
+Netherlands	LOCATION
+Olaf Ludwig	PERSON
+Germany	LOCATION
+
+Language Region: 675 721 Dutch
+Entity	Type
+
+Language Region: 721 1195 English
+Entity	Type
+Sorensen	PERSON
+1 second	TEMPORAL:TIME
+Armstrong	PERSON
+2 seconds	TEMPORAL:TIME
+Den Bakker 7 5	PRODUCT
+Lietti	PERSON
+Federico Colonna	PERSON
+Italy	LOCATION
+Mapei	ORGANIZATION
+Max van Heeswijk	PERSON
+Netherlands	LOCATION
+Motorola	ORGANIZATION
+Sven Teutenberg	PERSON
+Germany	LOCATION
+U.S. Postal	ORGANIZATION
+Johan Capiot	PERSON
+Belgium	LOCATION
+Jans Koerts	PERSON
+Netherlands	LOCATION
+Thursday	TEMPORAL:DATE

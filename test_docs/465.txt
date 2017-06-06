@@ -1,0 +1,11 @@
+
+Language Region: 0 579 English
+Entity	Type
+Venezuelan	NATIONALITY
+MARACAIBO , Venezuela	LOCATION
+1996-08-26	TEMPORAL:DATE
+Lake Maracaibo	LOCATION
+Venezuela	LOCATION
+Monday	TEMPORAL:DATE
+Sanchez Zarraga	PERSON
+Civil Defence and Coast Guard	ORGANIZATION

@@ -1,0 +1,37 @@
+
+Language Region: 0 987 English
+Entity	Type
+MANCHESTER , England	LOCATION
+1996-08-30	TEMPORAL:DATE
+Friday	TEMPORAL:DATE
+Annett Neumann	PERSON
+Germany	LOCATION
+Magali Faure	PERSON
+France	LOCATION
+12.348 seconds	TEMPORAL:TIME
+Felicia Ballanger	PERSON
+France	LOCATION
+Tanya Dubnicoff	PERSON
+Canada	LOCATION
+Faure	PERSON
+Ballanger	PERSON
+24-km	IDENTIFIER:DISTANCE
+Svetlana Samokhalova	PERSON
+Russia	LOCATION
+32 minutes	TEMPORAL:TIME
+31.081 seconds	TEMPORAL:TIME
+Jane Quigley	PERSON
+U.S.	LOCATION
+Goulnara Fatkoullina	LOCATION
+Russia	LOCATION
+Tatiana Stiajkina	PERSON
+Ukraine	LOCATION
+Judith Arndt	PERSON
+Germany	LOCATION
+Tea Vikstedt-Nyman ( Finland	ORGANIZATION
+Ingrid Haringa	PERSON
+Netherlands	LOCATION
+Sally Boyden ( Britain	ORGANIZATION
+Agnieszka Godras ( Poland	ORGANIZATION
+Nathalie Lancien	PERSON
+France	LOCATION

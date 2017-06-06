@@ -1,0 +1,20 @@
+
+Language Region: 0 1218 English
+Entity	Type
+Saskatchewan Wheat Pool	ORGANIZATION
+1996-08-28	TEMPORAL:DATE
+Canada	LOCATION
+Wednesday	TEMPORAL:DATE
+Saskatchewan	LOCATION
+Saskatchewan Wheat Pool	ORGANIZATION
+chief executive	TITLE
+Don Loewen	PERSON
+SWP	ORGANIZATION
+Canada	LOCATION
+Prairie	LOCATION
+Prairie	LOCATION
+Prairie	LOCATION
+SWP	ORGANIZATION
+Saskatchewan Pork International Marketing Group	ORGANIZATION
+Saskatchewan	LOCATION
+Gilbert Le Gras	PERSON

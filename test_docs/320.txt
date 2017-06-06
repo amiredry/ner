@@ -1,0 +1,32 @@
+
+Language Region: 0 557 English
+Entity	Type
+JYVASKYLA , Finland	LOCATION
+1996-08-25	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Juha Kankkunen	PERSON
+Finland	LOCATION
+Toyota Celica	ORGANIZATION
+2 hours	TEMPORAL:TIME
+30 minutes	TEMPORAL:TIME
+52 seconds	TEMPORAL:TIME
+Tommi Makinen	PERSON
+Finland	LOCATION
+Mitsubishi Lancer	ORGANIZATION
+8 seconds	TEMPORAL:TIME
+Marcus Gronholm	PERSON
+Finland	LOCATION
+Toyota Celica	ORGANIZATION
+1:46	TEMPORAL:TIME
+Jarmo Kytolehto	PERSON
+Finland	LOCATION
+Ford Escort	ORGANIZATION
+1:56	TEMPORAL:TIME
+Kenneth Eriksson	PERSON
+Sweden	LOCATION
+Subaru Impreza	ORGANIZATION
+2:05	TEMPORAL:TIME
+Thomas Radstrom	PERSON
+Sweden	LOCATION
+Toyota Celica	ORGANIZATION
+2:23	TEMPORAL:TIME

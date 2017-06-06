@@ -1,0 +1,26 @@
+
+Language Region: 0 805 English
+Entity	Type
+Brazil	LOCATION
+Italian	NATIONALITY
+Brazil	LOCATION
+1996-08-28	TEMPORAL:DATE
+Brazilian	NATIONALITY
+Wednesday	TEMPORAL:DATE
+47-year	TEMPORAL:TIME
+Italian	NATIONALITY
+Italy	LOCATION
+Red Brigade	ORGANIZATION
+TV Globo	ORGANIZATION
+Supreme Federal Tribunal	ORGANIZATION
+Luciano Pessina	PERSON
+Rio de Janeiro	LOCATION
+Italian	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Pessina	PERSON
+Italy	LOCATION
+eight years	TEMPORAL:TIME
+11 months	TEMPORAL:TIME
+Pessina	PERSON
+Italy	LOCATION
+Brazil	LOCATION

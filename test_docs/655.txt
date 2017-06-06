@@ -1,0 +1,49 @@
+
+Language Region: 0 1317 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+Herschelle Gibbs	PERSON
+South Africa	LOCATION
+Wednesday	TEMPORAL:DATE
+one-day	TEMPORAL:TIME
+Kenya	LOCATION
+Kenya	LOCATION
+South Africa	LOCATION
+Pakistan	LOCATION
+Sri Lanka	LOCATION
+National coach	TITLE
+Bob Woolmer	PERSON
+Gibbs	PERSON
+England	LOCATION
+South African	NATIONALITY
+Herschelle	PERSON
+11 years	TEMPORAL:TIME
+England	LOCATION
+MCC	ORGANIZATION
+Woolmer	PERSON
+Jacques Kallis	PERSON
+Paul Adams	PERSON
+Shaun Pollock	PERSON
+Spin	LOCATION
+Nicky Boje	PERSON
+Derek Crookes	PERSON
+Pollock	PERSON
+Adams	PERSON
+Gibbs	PERSON
+Kallis	PERSON
+Hansie Cronje	ORGANIZATION
+captain	TITLE
+Craig Matthews	PERSON
+vice-captain	TITLE
+Dave Richardson	PERSON
+Brian McMillan	PERSON
+Gary Kirsten	PERSON
+Andrew Hudson	PERSON
+Pat Symcox	PERSON
+Jonty Rhodes	PERSON
+Allan Donald	PERSON
+Fanie de Villiers	PERSON
+Daryll Cullinan	PERSON
+Derek Crookes	PERSON
+Herschelle Gibs	PERSON
+Nicky Boje	PERSON

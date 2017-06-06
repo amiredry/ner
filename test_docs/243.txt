@@ -1,0 +1,17 @@
+
+Language Region: 0 829 English
+Entity	Type
+JYVASKYLA , Finland	LOCATION
+1996-08-24	TEMPORAL:DATE
+Belgian	NATIONALITY
+Friday	TEMPORAL:DATE
+Saturday	TEMPORAL:DATE
+Danish	NATIONALITY
+Karsten Richardt	PERSON
+Jyvaskyla	LOCATION
+Richardt	PERSON
+Mitsubishi	ORGANIZATION
+A second	TEMPORAL:TIME
+Belgian	NATIONALITY
+four-day	TEMPORAL:TIME
+Saturday	TEMPORAL:DATE

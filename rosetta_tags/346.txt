@@ -1,0 +1,26 @@
+
+Language Region: 0 189 English
+Entity	Type
+KUALA LUMPUR	LOCATION
+1996-08-25	TEMPORAL:DATE
+Malaysian	NATIONALITY
+Sunday	TEMPORAL:DATE
+
+Language Region: 189 257 Malay
+Entity	Type
+
+Language Region: 257 476 English
+Entity	Type
+Zhang Ning	PERSON
+China	LOCATION
+Wang Chen	PERSON
+China	LOCATION
+Marlene Thomsen	PERSON
+Lisbet Stuer-Lauridsen	PERSON
+Denmark	LOCATION
+Qiang Hong	PERSON
+Liu Lu	PERSON
+China	LOCATION
+
+Language Region: 476 597 Malay
+Entity	Type

@@ -1,0 +1,107 @@
+
+Language Region: 0 561 English
+Entity	Type
+SUGO	ORGANIZATION
+Japan	LOCATION
+1996-08-25	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Yuuchi Takeda	PERSON
+Japan	LOCATION
+Honda	ORGANIZATION
+38 minutes	TEMPORAL:TIME
+30.054 seconds	TEMPORAL:TIME
+Noriyuki Haga	PERSON
+Japan	LOCATION
+Yamaha 38:30.140 3	PRODUCT
+Wataru Yoshikawa	PERSON
+Japan	LOCATION
+Yamaha 38:32.353 4	PRODUCT
+Troy Corser	PERSON
+Australia	LOCATION
+Ducati 38:34.436 5	PRODUCT
+John Kocinski	PERSON
+U.S.	LOCATION
+Ducati 38:36.306 6	PRODUCT
+Aaron Slight	PERSON
+New Zealand	LOCATION
+Honda	ORGANIZATION
+38:41.756 7	PRODUCT
+Norihiko Fujiwara	PERSON
+Japan	LOCATION
+Yamaha 38:43.253 8	PRODUCT
+Carl Fogarty	PERSON
+Britain	LOCATION
+Honda	ORGANIZATION
+
+Language Region: 561 687 Malay
+Entity	Type
+
+Language Region: 687 1131 English
+Entity	Type
+Takuma Aoki	PERSON
+Japan	LOCATION
+Honda	ORGANIZATION
+Kocinski	PERSON
+Haga	PERSON
+Fogarty	PERSON
+Fujiwara 38:33.595 7	PRODUCT
+Ryo	PERSON
+Takeishi	PERSON
+Yoshikawa	PERSON
+Corser	PERSON
+Aoki	PERSON
+Corser	PERSON
+Kocinski	PERSON
+Fogarty	PERSON
+Colin Edwards	PERSON
+U.S.	LOCATION
+Yamaha 176	PRODUCT
+
+Language Region: 1131 1223 Italian
+Entity	Type
+Pier Francesco Chili	PERSON
+Italy	LOCATION
+Ducati	ORGANIZATION
+Simon Crafar	PERSON
+New Zealand	LOCATION
+
+Language Region: 1223 1327 Malay
+Entity	Type
+Ducati	ORGANIZATION
+
+Language Region: 1327 1930 English
+Entity	Type
+Japanese	NATIONALITY
+rider	TITLE
+Noriyuki Haga	PERSON
+Takuma Aoki	PERSON
+Japan	LOCATION
+Honda	ORGANIZATION
+Kocinski	PERSON
+Fogarty	PERSON
+Fujiwara 38:33.595 6	PRODUCT
+Ryo	PERSON
+Takeishi	PERSON
+Yoshikawa	PERSON
+Corser	PERSON
+Keiichi Kitigawa	PERSON
+Japan	LOCATION
+Aoki	PERSON
+Corser	PERSON
+Kocinski	PERSON
+Fogarty	PERSON
+Colin Edwards	PERSON
+U.S.	LOCATION
+Yamaha 176	PRODUCT
+
+Language Region: 1930 2022 Italian
+Entity	Type
+Pier Francesco Chili	PERSON
+Italy	LOCATION
+Ducati	ORGANIZATION
+Simon Crafar	PERSON
+New Zealand	LOCATION
+
+Language Region: 2022 2126 Malay
+Entity	Type
+Ducati	ORGANIZATION

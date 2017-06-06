@@ -1,0 +1,47 @@
+
+Language Region: 0 1295 English
+Entity	Type
+Manchester United	ORGANIZATION
+Juventus	LOCATION
+Europe	LOCATION
+GENEVA	LOCATION
+1996-08-23	TEMPORAL:DATE
+European	NATIONALITY
+Juventus	LOCATION
+English	NATIONALITY
+Manchester United	ORGANIZATION
+European	NATIONALITY
+Friday	TEMPORAL:DATE
+Juventus	LOCATION
+Dutch	NATIONALITY
+Amsterdam	LOCATION
+Alex Ferguson	PERSON
+European	NATIONALITY
+Vienna	LOCATION
+Fenerbahce of Turkey	LOCATION
+Juventus	LOCATION
+United	ORGANIZATION
+Turin	LOCATION
+September 11	TEMPORAL:DATE
+November 20	TEMPORAL:DATE
+United	ORGANIZATION
+premier	TITLE
+English	NATIONALITY
+four years	TEMPORAL:TIME
+Europe	LOCATION
+European	NATIONALITY
+Galatasaray of Turkey	LOCATION
+Spain	LOCATION
+Barcelona	LOCATION
+European	NATIONALITY
+Barcelona	LOCATION
+European	NATIONALITY
+Portugal	LOCATION
+Wembley	ORGANIZATION
+Juventus	LOCATION
+European	NATIONALITY
+United	ORGANIZATION
+English	NATIONALITY
+Liverpool	LOCATION
+Heysel	ORGANIZATION
+Brussels	LOCATION

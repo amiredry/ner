@@ -1,0 +1,27 @@
+
+Language Region: 0 675 English
+Entity	Type
+Albania	LOCATION
+Greece	LOCATION
+1996-08-28	TEMPORAL:DATE
+Albania	LOCATION
+Greece	LOCATION
+Wednesday	TEMPORAL:DATE
+Albanian	NATIONALITY
+Foreign Minister	TITLE
+Tritan Shehu	PERSON
+Albanian	NATIONALITY
+Koha Jone	ORGANIZATION
+Greece	LOCATION
+Albanians	NATIONALITY
+five days	TEMPORAL:TIME
+Foreign Ministry	ORGANIZATION
+Greek	NATIONALITY
+Albanian	NATIONALITY
+Greece	LOCATION
+Shehu	PERSON
+Reuters	ORGANIZATION
+Athens	LOCATION
+Tirana	LOCATION
+Albanian	NATIONALITY
+Balkan	LOCATION

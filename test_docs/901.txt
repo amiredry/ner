@@ -1,0 +1,19 @@
+
+Language Region: 0 432 English
+Entity	Type
+Clinton	PERSON
+Democratic	ORGANIZATION
+CHICAGO	LOCATION
+1996-08-28	TEMPORAL:DATE
+President	TITLE
+Bill Clinton	PERSON
+Wednesday	TEMPORAL:DATE
+Democratic	ORGANIZATION
+a second	TEMPORAL:TIME
+four-year	TEMPORAL:TIME
+White House	ORGANIZATION
+Clinton	PERSON
+Thursday	TEMPORAL:DATE
+Republican	ORGANIZATION
+Bob Dole	PERSON
+November 5	TEMPORAL:DATE

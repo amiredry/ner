@@ -1,0 +1,61 @@
+
+Language Region: 0 67 English Uppercase
+Entity	Type
+VAN HEESWIJK	PERSON
+NETHERLANDS	LOCATION
+
+Language Region: 67 375 English
+Entity	Type
+ALMERE , Netherlands	LOCATION
+1996-08-28	TEMPORAL:DATE
+195-km	IDENTIFIER:DISTANCE
+Netherlands	LOCATION
+Haarlem	LOCATION
+Almere	LOCATION
+Wednesday	TEMPORAL:DATE
+Max van Heeswijk	PERSON
+Netherlands	LOCATION
+Motorola	ORGANIZATION
+4 hours	TEMPORAL:TIME
+39 minutes	TEMPORAL:TIME
+six seconds	TEMPORAL:TIME
+Johan Capiot	PERSON
+Belgium	LOCATION
+Sven Teutenberg	PERSON
+Germany	LOCATION
+U.S.	LOCATION
+
+Language Region: 375 455 Dutch
+Entity	Type
+
+Language Region: 455 982 English
+Entity	Type
+Jans Koerts	PERSON
+Netherlands	LOCATION
+Michel Zanoli	PERSON
+Netherlands	LOCATION
+MX Onda 8	ORGANIZATION
+Giuseppe Citterio	PERSON
+Italy	LOCATION
+Robbie McEwen	PERSON
+Australia	LOCATION
+Rabobank 10	PRODUCT
+Kaspars Ozers	PERSON
+Latvia	LOCATION
+Motorola	ORGANIZATION
+Colonna	PERSON
+8:22:00	TEMPORAL:TIME
+Van Heeswijk	PERSON
+1 second	TEMPORAL:TIME
+McEwen	PERSON
+4 seconds	TEMPORAL:TIME
+Koerts 7 7	PRODUCT
+Ozers 8 8	ORGANIZATION
+Gianluca Corini	PERSON
+Italy	LOCATION
+Lance Armstrong	PERSON
+U.S.	LOCATION
+Motorola	ORGANIZATION
+George Hincapie	PERSON
+U.S.	LOCATION
+Motorola	ORGANIZATION

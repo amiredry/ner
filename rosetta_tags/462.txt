@@ -1,0 +1,12 @@
+
+Language Region: 0 992 English
+Entity	Type
+Colombian	NATIONALITY
+1996-08-26	TEMPORAL:DATE
+Colombia	LOCATION
+Friday	TEMPORAL:DATE
+Monday	TEMPORAL:DATE
+U.S.	LOCATION
+$ 142 million	IDENTIFIER:MONEY
+Juan Guillermo Londono	PERSON
+Bogota	LOCATION

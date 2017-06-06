@@ -1,0 +1,44 @@
+
+Language Region: 0 1898 English
+Entity	Type
+Britain	LOCATION
+1996-08-22	TEMPORAL:DATE
+British	NATIONALITY
+minister	TITLE
+Thursday	TEMPORAL:DATE
+British	NATIONALITY
+Bangladeshi	NATIONALITY
+Dhaka airport	LOCATION
+Bangladesh	LOCATION
+British	NATIONALITY
+Siraj Mia	ORGANIZATION
+Secretary of State for Foreign	ORGANIZATION
+Commonwealth Affairs Liam Fox Fox	ORGANIZATION
+Siraj Mia	ORGANIZATION
+Dhaka airport	LOCATION
+May 9	TEMPORAL:DATE
+London	LOCATION
+Fox	PERSON
+Bangladesh	LOCATION
+Tuesday	TEMPORAL:DATE
+four-day	TEMPORAL:TIME
+Britain	LOCATION
+Dhaka	LOCATION
+Fox	PERSON
+Nepal	LOCATION
+Friday	TEMPORAL:DATE
+Fox	PERSON
+Mia	PERSON
+House of Commons	ORGANIZATION
+Fox	PERSON
+Dhaka	LOCATION
+Bangladesh	LOCATION
+British	NATIONALITY
+Fox	PERSON
+British	NATIONALITY
+Dhaka	LOCATION
+Bangladesh	LOCATION
+Criminal Investigation Department	ORGANIZATION
+Mia	PERSON
+Mia	PERSON
+London	LOCATION

@@ -1,0 +1,44 @@
+
+Language Region: 0 1434 English
+Entity	Type
+Slovenia	LOCATION
+Poland	LOCATION
+EU	LOCATION
+NATO	ORGANIZATION
+1996-08-27	TEMPORAL:DATE
+Slovenia	LOCATION
+Poland	LOCATION
+Tuesday	TEMPORAL:DATE
+European Union	LOCATION
+NATO	ORGANIZATION
+Polish	NATIONALITY
+President	TITLE
+Aleksander Kwasniewski	PERSON
+Slovenian	NATIONALITY
+Milan Kucan	PERSON
+two-day	TEMPORAL:TIME
+Slovenia	LOCATION
+Kwasniewski	PERSON
+West	LOCATION
+European Union	LOCATION
+NATO	ORGANIZATION
+Kwasniewski	PERSON
+Kucan	PERSON
+Poland	LOCATION
+Slovenia	LOCATION
+European Union	LOCATION
+NATO	ORGANIZATION
+European Union	LOCATION
+Central European Free Trade Area	LOCATION
+Hungary	LOCATION
+Slovakia	LOCATION
+Czech Republic	LOCATION
+Slovenia	LOCATION
+Poland	LOCATION
+$ 142.3 million	IDENTIFIER:MONEY
+$ 118.8 million	IDENTIFIER:MONEY
+Slovenia	LOCATION
+Kwasniewski	PERSON
+Prime Minister	TITLE
+Janez Drnovsek	PERSON
+Slovenian	NATIONALITY

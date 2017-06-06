@@ -1,0 +1,11 @@
+
+Language Region: 0 702 English
+Entity	Type
+Boskalis	LOCATION
+13:12 GMT	TEMPORAL:TIME
+Netherlands	LOCATION
+1996-08-23	TEMPORAL:DATE
+Koninklijke Boskalis Westminster NV	ORGANIZATION
+Friday	TEMPORAL:DATE
+Boskalis	LOCATION
+a year	TEMPORAL:TIME

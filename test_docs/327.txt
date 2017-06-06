@@ -1,0 +1,14 @@
+
+Language Region: 0 187 English
+Entity	Type
+ENGLISH PREMIER LEAGUE SUMMARY	ORGANIZATION
+LONDON	LOCATION
+1996-08-25	TEMPORAL:DATE
+English	NATIONALITY
+Sunday	TEMPORAL:DATE
+Manchester United	ORGANIZATION
+Cruyff	PERSON
+Solskjaer	PERSON
+
+Language Region: 187 272 Norwegian
+Entity	Type

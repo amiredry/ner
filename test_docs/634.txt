@@ -1,0 +1,11 @@
+
+Language Region: 0 530 English
+Entity	Type
+ROME	LOCATION
+1996-08-28	TEMPORAL:DATE
+Italian cabinet	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Silvio Berlusconi	PERSON
+Mediaset	ORGANIZATION
+January 31 , 1997	TEMPORAL:DATE
+prime minister	TITLE

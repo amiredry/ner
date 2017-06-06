@@ -1,0 +1,28 @@
+
+Language Region: 0 2200 English
+Entity	Type
+Zimbabwe	LOCATION
+Emelia Sithole	PERSON
+1996-08-24	TEMPORAL:DATE
+Zimbabwean	NATIONALITY
+Saturday	TEMPORAL:DATE
+Public Service Commission	ORGANIZATION
+PSC	ORGANIZATION
+Monday	TEMPORAL:DATE
+23 August 1996	TEMPORAL:DATE
+Public Service Association	ORGANIZATION
+PSA	ORGANIZATION
+Public Service	ORGANIZATION
+Labour	ORGANIZATION
+Social Welfare Minister	TITLE
+Florence Chitauro	PERSON
+Tuesday	TEMPORAL:DATE
+Red Cross	ORGANIZATION
+Victoria Falls	LOCATION
+PSA	ORGANIZATION
+President	TITLE
+Robert Mugabe	PERSON
+Britain	LOCATION
+$ 1,000	IDENTIFIER:MONEY
+$ 100	IDENTIFIER:MONEY
+a month	TEMPORAL:TIME

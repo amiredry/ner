@@ -1,0 +1,30 @@
+
+Language Region: 0 678 English
+Entity	Type
+Italian	NATIONALITY
+prime minister	TITLE
+Turkey	LOCATION
+ANKARA	LOCATION
+1996-08-28	TEMPORAL:DATE
+Italian	NATIONALITY
+Prime Minister	TITLE
+Romano Prodi	PERSON
+one-day	TEMPORAL:TIME
+Turkey	LOCATION
+September 3	TEMPORAL:DATE
+Turkish Foreign Ministry	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Omer Akbel	PERSON
+Italian	NATIONALITY
+prime minister	TITLE
+May 18	TEMPORAL:DATE
+Islamist	RELIGION
+Prime Minister	TITLE
+Necmettin Erbakan	PERSON
+June 28	TEMPORAL:DATE
+Prodi	PERSON
+President	TITLE
+Suleyman Demirel	PERSON
+Foreign Minister	TITLE
+Tansu Ciller	PERSON
+Akbel	PERSON

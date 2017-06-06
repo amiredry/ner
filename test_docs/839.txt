@@ -1,0 +1,35 @@
+
+Language Region: 0 1181 English
+Entity	Type
+Ivory Coast	LOCATION
+Aug 29	TEMPORAL:DATE
+1996-08-29	TEMPORAL:DATE
+Ivorian	NATIONALITY
+Thursday	TEMPORAL:DATE
+Reuters	ORGANIZATION
+Cabinet	ORGANIZATION
+parliament	ORGANIZATION
+speaker of parliament	TITLE
+Charles Bauza Donwahi	PERSON
+President	TITLE
+Henri Konan Bedie	PERSON
+September 3	TEMPORAL:DATE
+Deputy director of animal health department	TITLE
+Douati Alphonse	PERSON
+two-week	TEMPORAL:TIME
+LE JOUR	ORGANIZATION
+Raphael Lakpe	PERSON
+Le Populaire	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+three days	TEMPORAL:TIME
+Thursday	TEMPORAL:DATE
+Cabinet	ORGANIZATION
+Colonel	TITLE
+Severin Konan Kouame	PERSON
+commander	TITLE
+General	TITLE
+Joseph Tanny	PERSON
+secretary-general	TITLE
+National Security Council	ORGANIZATION
+Abidjan	LOCATION
++225 21 90 90	IDENTIFIER:PHONE_NUMBER

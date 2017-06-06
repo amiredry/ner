@@ -1,0 +1,39 @@
+SOCCER - ENGLISH LEAGUE RESULTS .
+LONDON 1996-08-27
+Results of English league soccer
+matches on Tuesday :
+Division one
+Crystal Palace 0 West Bromwich 0
+Ipswich 1 Grimsby 1
+<ORGANIZATION>Oxford</ORGANIZATION> 0 Norwich 1
+Portsmouth 1 Southend 0
+Tranmere 2 Port Vale 0
+Postponed : Charlton v Birmingham , Sheffield United v
+Huddersfield
+Division two
+<ORGANIZATION>Brentford 2 Gillingham</ORGANIZATION> 0
+<ORGANIZATION>Bristol City</ORGANIZATION> 5 Luton 0
+Burnley 1 Shrewsbury 3
+<LOCATION>Chesterfield 1 Walsall</LOCATION> 0
+Preston 2 Crewe 1
+Rotherham 1 Blackpool 2
+<LOCATION>Stockport 0 Bournemouth</LOCATION> 1
+Watford 0 Plymouth 2
+Wycombe 0 Bury 1
+York 3 Millwall 2
+Postponed : Peterborough v Notts County , Wrexham v <ORGANIZATION>Bristol</ORGANIZATION>
+Rovers
+Division three
+Barnet 3 Brighton 0
+Cardiff 0 Wigan 2
+Carlisle 1 Leyton Orient 0
+Chester 2 Swansea 0
+<LOCATION>Darlington 1 Colchester</LOCATION> 1
+Exeter 1 Doncaster 1
+Hartlepool 2 Mansfield 2
+Hereford 0 Hull 1
+Lincoln 1 Cambridge 1
+Northampton 1 Torquay 1
+<ORGANIZATION>Rochdale 1 Fulham</ORGANIZATION> 2
+Scunthorpe 0 Scarborough 2
+

@@ -1,0 +1,41 @@
+
+Language Region: 0 1290 English
+Entity	Type
+1996-08-23	TEMPORAL:DATE
+Trainer	TITLE
+Berti Vogts	PERSON
+European	NATIONALITY
+Germany	LOCATION
+Poland	LOCATION
+Vogts	PERSON
+September 4	TEMPORAL:DATE
+Friday	TEMPORAL:DATE
+Bremen	LOCATION
+Jens Todt	PERSON
+Dortmund	LOCATION
+Matthias Sammer	PERSON
+Steffen Freund	PERSON
+Rene Schneider	PERSON
+Vogts	PERSON
+Oliver Kahn	PERSON
+Andreas Koepke	PERSON
+Oliver Reck	PERSON
+Markus Babbel	PERSON
+Thomas Helmer	PERSON
+Juergen Kohler	PERSON
+Stefan Reuter	PERSON
+Matthias Sammer	PERSON
+Rene Schneider	PERSON
+Mario Basler	PERSON
+Marco Bode	PERSON
+Dieter Eilts	PERSON
+Steffen Freund	PERSON
+Thomas Haessler	PERSON
+Andreas Moeller	PERSON
+Mehmet Scholl	PERSON
+Thomas Strunz	PERSON
+Jens Todt	PERSON
+Oliver Bierhoff	PERSON
+Fredi Bobic	PERSON
+Juergen Klinsmann	PERSON
+Stefan Kuntz	PERSON

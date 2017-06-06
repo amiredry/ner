@@ -1,0 +1,64 @@
+
+Language Region: 0 3392 English
+Entity	Type
+Burundi	LOCATION
+UN	ORGANIZATION
+Evelyn Leopold UNITED NATIONS	PERSON
+1996-08-28	TEMPORAL:DATE
+Burundi	LOCATION
+ambassador	TITLE
+Wednesday	TEMPORAL:DATE
+African	NATIONALITY
+Burundi	LOCATION
+U.N. Security Council	ORGANIZATION
+Ambassador	TITLE
+Nsanze Terence	PERSON
+Tanzanian	NATIONALITY
+President	TITLE
+Julius Nyrere	PERSON
+African	NATIONALITY
+Security Council	ORGANIZATION
+President	TITLE
+Pierre Buyoya	PERSON
+July	TEMPORAL:DATE
+Tutsi	NATIONALITY
+African	NATIONALITY
+Burundi	LOCATION
+Terence	PERSON
+Burundi	LOCATION
+African	NATIONALITY
+Burundi	LOCATION
+U.N.	ORGANIZATION
+Burundi	LOCATION
+Botswana	LOCATION
+envoy	TITLE
+Mothusi Nkgowe	PERSON
+Chile	LOCATION
+Burundi	LOCATION
+Russia	LOCATION
+United States	LOCATION
+Chilean	NATIONALITY
+Britain	LOCATION
+France	LOCATION
+China	LOCATION
+Terence	PERSON
+Tutsi	NATIONALITY
+Hutu	NATIONALITY
+Chilean	NATIONALITY
+Ambassador	TITLE
+Juan Somavia	PERSON
+Burundi	LOCATION
+African	NATIONALITY
+Burundi	LOCATION
+parliament	ORGANIZATION
+Terence	PERSON
+Buyoya	PERSON
+national assembly	ORGANIZATION
+October	TEMPORAL:DATE
+United States	LOCATION
+Ambassador	TITLE
+Karl Inderfurth	PERSON
+Washington	LOCATION
+Rwanda	LOCATION
+two years	TEMPORAL:TIME
+United Nations	ORGANIZATION

@@ -1,0 +1,11 @@
+
+Language Region: 0 388 English
+Entity	Type
+Colombia	LOCATION
+BOGOTA , Colombia	LOCATION
+1996-08-29	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+Netherlands	LOCATION
+Colombia	LOCATION
+Caribbean	NATIONALITY
+Cartagena	LOCATION

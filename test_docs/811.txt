@@ -1,0 +1,20 @@
+
+Language Region: 0 697 English
+Entity	Type
+BERLIN	LOCATION
+LONDON	LOCATION
+1996-08-29	TEMPORAL:DATE
+Linford Christie	PERSON
+Berlin	LOCATION
+Friday	TEMPORAL:DATE
+Christie	PERSON
+Canada	LOCATION
+Donovan Bailey	PERSON
+Namibian	NATIONALITY
+Frankie Fredericks	PERSON
+Christie	PERSON
+Berlin	LOCATION
+Rudi Thiel	PERSON
+Jesse Owens	PERSON
+60 years	TEMPORAL:TIME
+Berlin	LOCATION

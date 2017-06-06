@@ -1,0 +1,11 @@
+
+Language Region: 0 697 English
+Entity	Type
+IRVINE , Calif.	LOCATION
+1996-08-29	TEMPORAL:DATE
+First Alliance Corporation	ORGANIZATION
+June 30	TEMPORAL:DATE
+Six Months	TEMPORAL:TIME
+June 30	TEMPORAL:DATE
+Share 0.86 1.05 1.59 1.02 Weighted	PRODUCT
+0.37 0.45 0.68 0.44 Pro	PRODUCT

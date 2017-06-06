@@ -1,0 +1,56 @@
+
+Language Region: 0 1487 English
+Entity	Type
+GENEVA	LOCATION
+1996-08-22	TEMPORAL:DATE
+Norway	LOCATION
+England	LOCATION
+Sweden	LOCATION
+Thursday	TEMPORAL:DATE
+Norway	LOCATION
+England	LOCATION
+Sweden	LOCATION
+Norway	LOCATION
+England	LOCATION
+Sweden	LOCATION
+Wales	LOCATION
+Estonia 8.52 7	PRODUCT
+Ireland	LOCATION
+Belarus	LOCATION
+Iceland	LOCATION
+Netherlands	LOCATION
+Denmark	LOCATION
+Germany	LOCATION
+Scotland	LOCATION
+Latvia	LOCATION
+Moldova	LOCATION
+Yugoslavia	LOCATION
+Belgium	LOCATION
+Luxembourg	LOCATION
+France	LOCATION
+Israel	LOCATION
+Switzerland	LOCATION
+Slovakia	LOCATION
+Poland	LOCATION
+Portugal	LOCATION
+Georgia	LOCATION
+Ukraine	LOCATION
+Spain	LOCATION
+Finland	LOCATION
+Macedonia	LOCATION
+Lithuania	LOCATION
+Austria	LOCATION
+Russia	LOCATION
+Romania	LOCATION
+Turkey	LOCATION
+Hungary	LOCATION
+Czech Republic	LOCATION
+Greece	LOCATION
+Northern Ireland	LOCATION
+Italy	LOCATION
+Cyprus	LOCATION
+Armenia	LOCATION
+Slovenia	LOCATION
+Croatia	LOCATION
+Bulgaria	LOCATION
+Malta	LOCATION

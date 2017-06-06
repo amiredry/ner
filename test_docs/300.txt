@@ -1,0 +1,40 @@
+
+Language Region: 0 1569 English
+Entity	Type
+Italian	NATIONALITY
+Bossi	LOCATION
+ORVIETO , Italy	LOCATION
+1996-08-24	TEMPORAL:DATE
+Italian	NATIONALITY
+Umberto Bossi	ORGANIZATION
+Orvieto	LOCATION
+Rome	LOCATION
+Orvieto	LOCATION
+mayor	TITLE
+Stefano Cimicchi	PERSON
+Roberto Benigni	PERSON
+Orvieto	LOCATION
+Etruria	LOCATION
+September 15	TEMPORAL:DATE
+Bossi	LOCATION
+Rome	LOCATION
+Sardinia	LOCATION
+Corsica	LOCATION
+Cyprus	LOCATION
+Cimicchi	PERSON
+Saturday	TEMPORAL:DATE
+Bossi	LOCATION
+Padania	ORGANIZATION
+Italy	LOCATION
+Orvieto	LOCATION
+Umbria	LOCATION
+Rome	LOCATION
+Florence	PERSON
+Etruria	LOCATION
+September 15	TEMPORAL:DATE
+Cimicchi	PERSON
+Yugoslavia	LOCATION
+Bossi	LOCATION
+Northern League	ORGANIZATION
+April	TEMPORAL:DATE
+Rome	LOCATION

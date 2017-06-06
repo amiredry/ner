@@ -1,0 +1,68 @@
+
+Language Region: 0 346 English
+Entity	Type
+NORTHAMPTON , England	LOCATION
+1996-08-29	TEMPORAL:DATE
+British	NATIONALITY
+Thursday	TEMPORAL:DATE
+British	NATIONALITY
+Robert Allenby	PERSON
+Australia	LOCATION
+Mark Roe 69 71 141 Francisco Cea	PRODUCT
+Spain	LOCATION
+Gavin Levenson	PERSON
+South Africa	LOCATION
+Daniel Chopra	PERSON
+Sweden	LOCATION
+
+Language Region: 346 440 Italian
+Entity	Type
+David Gilford	PERSON
+Peter O'Malley	PERSON
+Australia	LOCATION
+Costantino Rocca	PERSON
+Italy	LOCATION
+
+Language Region: 440 778 English
+Entity	Type
+Colin Montgomerie	PERSON
+David Howell	PERSON
+Mark Davis 71 73 145	PRODUCT
+Peter Mitchell	PERSON
+Philip Walton ( Ireland	ORGANIZATION
+Retief Goosen	ORGANIZATION
+South Africa	LOCATION
+Ove Sellberg	PERSON
+Sweden	LOCATION
+Peter Hedblom	PERSON
+Sweden	LOCATION
+Pedro Linhart	PERSON
+Spain	LOCATION
+Mike Clayton	PERSON
+Australia	LOCATION
+Emanuele Canonica	PERSON
+Italy	LOCATION
+
+Language Region: 778 1201 Spanish
+Entity	Type
+Miguel Angel Martin	PERSON
+Spain	LOCATION
+Iain Pyman	PERSON
+Eduardo Romero	PERSON
+Argentina	LOCATION
+Ian Woosnam	PERSON
+Miguel Angel Jimenez	PERSON
+Spain	LOCATION
+Klas Eriksson	PERSON
+Sweden	LOCATION
+Paul Eales	PERSON
+Antoine Lebouc	PERSON
+France	ORGANIZATION
+Paul Curry	PERSON
+Andrew Coltart	PERSON
+Paul Lawrie	PERSON
+Jose Coceres	PERSON
+Argentina	LOCATION
+Raymond Russell	PERSON
+Roger Chapman	PERSON
+Paul Affleck	PERSON

@@ -1,0 +1,22 @@
+
+Language Region: 0 1160 English
+Entity	Type
+Viacom	ORGANIZATION
+1996-08-22	TEMPORAL:DATE
+Paramount Pictures	LOCATION
+Tom Cruise	PERSON
+Daily Variety	ORGANIZATION
+Friday	TEMPORAL:DATE
+$ 175 million	IDENTIFIER:MONEY
+May 22	TEMPORAL:DATE
+$ 338 million	IDENTIFIER:MONEY
+Viacom Inc	ORGANIZATION
+Paramount	ORGANIZATION
+William Goldman	PERSON
+director	TITLE
+Brian De Palma	PERSON
+Goldman	ORGANIZATION
+Butch Cassidy	PERSON
+Sundance Kid	LOCATION
+President	TITLE
+Daily Variety	ORGANIZATION

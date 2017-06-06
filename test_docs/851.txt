@@ -1,0 +1,12 @@
+
+Language Region: 0 354 English
+Entity	Type
+Brazil	LOCATION
+Congress	ORGANIZATION
+1996-08-29	TEMPORAL:DATE
+Brazilian	NATIONALITY
+Planning Minister	TITLE
+Antonio Kandir	PERSON
+Congress	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Congress	ORGANIZATION

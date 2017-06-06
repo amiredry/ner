@@ -1,0 +1,55 @@
+
+Language Region: 0 1182 English
+Entity	Type
+GENEVA	LOCATION
+1996-08-22	TEMPORAL:DATE
+Adrian Knup	PERSON
+Switzerland	LOCATION
+Azerbaijan	LOCATION
+Baku	LOCATION
+August 31	TEMPORAL:DATE
+Knup	PERSON
+Artur Jorge	PERSON
+European	NATIONALITY
+coach	TITLE
+Rolf Fringer	PERSON
+Knup	PERSON
+Thursday	TEMPORAL:DATE
+Switzerland	LOCATION
+Marco Pascolo	PERSON
+Cagliari	LOCATION
+Pascal Zuberbuehler	PERSON
+Grasshoppers	LOCATION
+Stephane Henchoz	PERSON
+Hamburg	LOCATION
+Marc Hottiger	PERSON
+Everton	LOCATION
+Yvan Quentin	PERSON
+Sion	LOCATION
+Ramon Vega	PERSON
+Cagliari	LOCATION
+Raphael Wicky	PERSON
+Sion	LOCATION
+Alexandre Comisetti	PERSON
+Grasshoppers	LOCATION
+Antonio Esposito	PERSON
+Grasshoppers	LOCATION
+Sebastien Fournier	PERSON
+Stuttgart	LOCATION
+Christophe Ohrel	PERSON
+Lausanne	LOCATION
+Patrick Sylvestre	PERSON
+Sion	LOCATION
+David Sesa	PERSON
+Servette	LOCATION
+Ciriaco Sforza	PERSON
+Inter Milan	ORGANIZATION
+Murat Yakin	PERSON
+Grasshoppers	LOCATION
+Kubilay Turkyilmaz	PERSON
+Grasshoppers	LOCATION
+Adrian Knup	PERSON
+Christophe Bonvin	PERSON
+Sion	LOCATION
+Stephane Chapuisat	PERSON
+Borussia Dortmund	ORGANIZATION

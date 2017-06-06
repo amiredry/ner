@@ -1,0 +1,13 @@
+
+Language Region: 0 852 English
+Entity	Type
+Bulgarians	NATIONALITY
+1996-08-28	TEMPORAL:DATE
+Bulgaria	LOCATION
+communist	ORGANIZATION
+Agriculture Ministry	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Bulgaria	LOCATION
+four years	TEMPORAL:TIME
+Soviet	NATIONALITY
+Sofia Newsroom	ORGANIZATION

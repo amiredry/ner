@@ -1,0 +1,22 @@
+
+Language Region: 0 533 English
+Entity	Type
+SOCCER - AJAX SIGN ARGENTINE STRIKER GABRICH	PRODUCT
+1996-08-28	TEMPORAL:DATE
+Iwan Cesar Gabrich	PERSON
+five year	TEMPORAL:TIME
+Dutch	NATIONALITY
+Ajax Amsterdam	LOCATION
+Wednesday	TEMPORAL:DATE
+24-year	TEMPORAL:TIME
+Gabrich	PERSON
+Newell Old Boys	ORGANIZATION
+Dutch	NATIONALITY
+Patrick Kluivert	PERSON
+Ajax	LOCATION
+Ajax	LOCATION
+Richard Witschge	PERSON
+John Veldman	PERSON
+Mariano Juan	PERSON
+Tijjani Babangida	PERSON
+Dani	PERSON

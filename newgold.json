@@ -1,0 +1,3997 @@
+[
+  [
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "0.2secs",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "0.8secs",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Oct-35",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "47",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Abu Dhabi",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Brazil",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Button",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "cars",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "chicane",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Christian Horner",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "days",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Ferrari",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "first half",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "four",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "German",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Germany",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "grip",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Hamilton",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "hard on",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "he",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "him",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "his",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "horsepower",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Hungaroring",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Hungary",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "India",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Jaguar",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Japan",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Jenson",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Jenson Button",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Korea",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Lewis Hamilton",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Mark Webber",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "McLaren",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "McLarens",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Monaco",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Monza",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "more than one",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Nurburgring",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "one",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Paddy Lowe",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Pat Fry",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "patterns",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "points",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "pole",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "qualifying",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "question mark",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "rain",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "recent",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "recently",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Red Bull",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Red Bull's",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "return",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "rubber gives",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Sebastian Vettel",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "second",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "seven seconds",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Silverstone",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Singapore",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Spa",
+      "FIELD3": ""
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Spain",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "straight",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Sunday",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Suzuka",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "switch",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "technical director",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "temperature",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "the end of the year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "three",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "two",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "tyre",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Valencia",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Vettel",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://news.bbc.co.uk/sport2/hi/formula_one/14363956.stm",
+      "FIELD2": "Webber",
+      "FIELD3": "PER"
+    }
+  ],
+  [
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "$14.2m",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "1.1",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "190.4",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "280",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "390",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "4000",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "7.2 million",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "7.6 million",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "77.3 yen",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "8.7",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "82 yen",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "0.99",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "Cost",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "damage",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "dollar",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "earthquake",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "first quarter",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "GBP",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "Japan",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "JPY",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "last year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "March",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "natural disasters",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "Net profit",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "quarterly",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "sales",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "senior managing officer",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "supply chain",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "Takahiko Ijichi",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "the end of June",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "the end of March",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "the year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "three months",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "Toyota",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "Toyota Motor",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "tsunami",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "US",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "USD",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "workers",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/business-14369137",
+      "FIELD2": "yen",
+      "FIELD3": "MISC"
+    }
+  ],
+  [
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "145",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "20 years",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "20055",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "0.75",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "0.92",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Amy Thompson",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Andrew Ewer",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "assay",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Atlanta",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "babies",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Birmingham Women s Hospital",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Birmingham Women's Hospital",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "birth",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "born",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "British Heart Foundation",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "cardiac",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "care",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Children's Medical Center",
+      "FIELD3": ""
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Cohen Children s Medical Center",
+      "FIELD3": ""
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Cohen Children s Medical Center in New York",
+      "FIELD3": ""
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Cohen Children's Medical Center",
+      "FIELD3": ""
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "congenital heart defects",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "critical congenital heart defects",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "David Elliman",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Decades old",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Dr Andrew Ewer",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Dr David Elliman",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Dr Robert Koppel",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Dr William Mahle",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Emory University School of Medicine",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Emory University School of Medicine in Atlanta",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "he",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "heart",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "heart defect",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "heart defects",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "hospitals",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "infants",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Koppel",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Lancet",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "less than five minutes",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "listening",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "maternity",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "National Screening Committee",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "New York",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "newborn babies",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "nurse",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "one",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "oxygen",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "piece",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "place",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "pregnancy",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "problems",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "pulse",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "pulse oximeters",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "researcher",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "review",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Robert Koppel",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "screening",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "senior cardiac nurse",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "simple",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "six",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "surgery",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "symptoms",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "systems",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "technology",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "The Lancet",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "the US",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "UK",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "UK National Screening Committee",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "ultrasound",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "United Kingdom",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "United States",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "US",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "William Mahle",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/health-14401119",
+      "FIELD2": "Women",
+      "FIELD3": "MISC"
+    }
+  ],
+  [
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "12",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "12 years",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "13 and 17",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "13 years",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "13-year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "14",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "15",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "16 or 18-year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "17 years",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "1998",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "2024",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "0.875",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "27-Jul",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "50 years ago",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "617-digit",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "A million-dollar",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "amazing technology",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "America",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "arithmetic",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "banjos",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "BBC",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "BBC Two",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "behaviour",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "blue grass",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "BST",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "cicada",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "cicadas",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "Code",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "codes",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "computer hacking",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "credit card",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "credit card number",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "decode",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "digit",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "eight or nine-year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "emerge",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "England",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "episode",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "evolved",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "eyes",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "first",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "forests",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "future",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "geometry",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "grass",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "he",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "himself",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "honky tonk",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "humans",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "hydrogen",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "insects",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "Marcus",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "Marcus du",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "Marcus du Sautoy",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "mathematician",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "mathematics",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "multiply",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "murder",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "Nashville",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "North America",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "number",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "one",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "oxygen",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "patterns",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "predator",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "prime number",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "Prime numbers",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "Primes",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "reading",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "recently",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "sense",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "seven-year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "six weeks",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "six years",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "structures",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "suicide",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "summer",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "technology",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "teenager",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "Tennessee",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "the future",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "the past month",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "this summer",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "this year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "today",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "two",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "understanding",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "United Kingdom",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "USD",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "Wales",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "Wednesday",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/magazine-14305667",
+      "FIELD2": "years",
+      "FIELD3": "MISC"
+    }
+  ],
+  [
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "1.5",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "14.3",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "2.4",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "8.7",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "America",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "BBC",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "BBC News",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "BBC's",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Boehner",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Chief Cabinet Secretary",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Chief Cabinet Secretary Yukio Edano",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Congress",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Congressional committee",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "credit rating",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "debate",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "debt",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "default",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Democratic House",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Democratic House leader",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Democratic party",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Democrats",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "drawn",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "economy",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "first",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "government deficit",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "he",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "House",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "House of Representatives",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Jane O Brien",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Jane O'Brien",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Japan",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Japan s Chief Cabinet",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "John Boehner",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "London",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Monday",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "more than 1%",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Mr Boehner",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Mr Obama",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Nancy Pelosi",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "New Congressional committee",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "November",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Obama",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Obama administration",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "over 10 years",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Paris",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "parties",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "political",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "president",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "recent days",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Republican House",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Republican House leader",
+      "FIELD3": ""
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Republican Tea Party",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Republicans",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Secretary",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Senate",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Shares",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Sunday night",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Tea Party",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "the US",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Tokyo",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Tuesday",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "two",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "United States",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "US",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "US government",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "US president",
+      "FIELD3": ""
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "USD",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Washington",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.bbc.co.uk/news/world-us-canada-14361383",
+      "FIELD2": "Yukio Edano",
+      "FIELD3": "PER"
+    }
+  ],
+  [
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "10000",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "1982",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "50",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "70",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "76",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "800000",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "a day",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "activist",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "American",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Assad",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Assad government",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "assault",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "assaulted",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Bashar al-Assad",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "BEIRUT",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "BEIRUT, Lebanon",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "blood donations",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "casualty",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "cinder blocks",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "civilians",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Col  Muammar el-Qaddafi",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Colonel",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "columns",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "dawn",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Deir al-Zour",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "detention",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "European",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "four",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "four decades",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "four-month",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Friday",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "government",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Hafez",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Hama",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Hama hospital",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "he",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "his",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "holy",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "hospital",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "hundreds of thousands",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "insurgents",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "interview",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Islamist",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "June",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Lebanon",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Libya",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Local Coordination Committees",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Middle East",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "month of Ramadan",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Mr  Assad",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Muammar el-Qaddafi",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Obada Arwany",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Obama",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Omar Habbal",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "opposition",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "President",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "President Bashar al-Assad",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "President Obama",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Ramadan",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "recent weeks",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "regime",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "revenge",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Sham",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "smoke",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "streetlights",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "summer",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Sunday",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Syria",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Syrian",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Syrian government",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Syrian military",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Syrian people",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "tanks",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "The city",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "the days",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "this summer",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "tribal",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "tribal leader",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "United States",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "Web site supporting protesters",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "weekly",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/01/world/middleeast/01syria.html",
+      "FIELD2": "weeks",
+      "FIELD3": "MISC"
+    }
+  ],
+  [
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "aggressive",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Alan Blinder",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "almost three years",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "American",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "American economy",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "asset",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "41495",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "40757",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "balance of trade",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "bank",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Bank of New York",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Ben S  Bernanke",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Ben S. Bernanke",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Bernanke",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "billions of dollars",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Blinder",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Bloomberg",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "board",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "board of governors",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Brookings Institution",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "central bank",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "chairman",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Chase",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "chief economist",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "China",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "clearing banks",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Congress",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "currency",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "damage",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "debt",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "default",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "defaulted",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Diane Swonk",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "dollar",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "dollars",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Donald L  Kohn",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Donald L. Kohn",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "drums",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "economic",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "economics",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "economist",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "economy",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "employment",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Fed",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Federal Reserve",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Federal Reserve Bank",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Federal Reserve Bank of Richmond",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "fiscal policy",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "four years",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "from the fall of 1995 through the spring of 1996",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "government debt",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "he",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "House",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "hurricane",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "inflation",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "interest rates",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "investors",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "isn",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Jeffrey M  Lacker",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Jeffrey M. Lacker",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Joshua Roberts",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "July",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Kohn",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "last June",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Last month",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "last week",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "lethargy",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "liquidity",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Manufacturing activity",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Mesirow Financial",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Monday",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "monetary",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "monetary policy",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "money",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "more than $2 trillion",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "New York",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Obama",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "options",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "payroll tax",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "peters",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "president",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "President Obama",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "President Obama?s",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "pressure",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "price",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Princeton",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Princeton economics professor",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "recent",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "reserve currency",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Richmond",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Senate",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "short",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "six-month",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Standard   Poor",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "status",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "stimulus",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "the end of June",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "the end of the year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "the New York",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "the spring",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "the third quarter",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "this year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "trade",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Treasury",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Treasury securities",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Tuesday",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "U S",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "U S  government",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "U.S.",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "Uncertainty",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "United States",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "US Federal Reserve",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "USD",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "vice",
+      "FIELD3": ""
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "vice chairman of the board",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "vice-chair",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "WASHINGTON",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "years",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/02/business/economy/a-renewed-focus-on-the-feds-role.html",
+      "FIELD2": "zero",
+      "FIELD3": "Not entity"
+    }
+  ],
+  [
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "$155 million",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "$250 million",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "$37.5 million",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "10 years",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "12",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "16",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "1973",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "1979",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "2012",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "30",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "30-year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "a year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "A year ago",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "A-list",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "annual",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "annually",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "associate commissioner",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "associate commissioner for football",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Associated Press",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Associated Press poll",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Atlantic Coast",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Atlantic Coast Conference",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "basketball",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Big 12",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Big East",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Bowl Championship",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Bowl Championship Series",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Burke Magnus",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "cable network",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Cadillac",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Central Florida",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "chief operating officer",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Coach",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Comcast",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Commissioner",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Commissioner John Marinatto",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "convertible",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Dave Gavitt",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "DVR",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "ESPN",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "first",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "football",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Fox",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Fox Sports",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "future",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Greg Schiano",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "he",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "his",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "John Marinatto",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Jon Miller",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Kansas",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Kansas State",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Larry Jones",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "last week",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "last year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "live sports programming",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Longhorn",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "lost",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Magnus",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "margin",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Marinatto",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Mike Tranghese",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Missouri",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "more than $200 million",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "NBC",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "NBC Sports",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Newport",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "news media soiree",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "next fall",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "next September",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Nick Carparelli Jr",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Nick Carparelli Jr.",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Nine",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "One",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "one more",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Pac-12",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Pacific",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "president of programming",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "queen",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "recent",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "recently",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Rose Bowl",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Rutgers",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Schiano",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "senior vice president for college sports",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "seven",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Skip Holtz",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "South Florida",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Texas Christian",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "the future",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "three",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Tom Odjakjian",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Tuesday",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "TV market",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "USD",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "Versus",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/03/sports/ncaafootball/big-east-is-still-big-deal-on-tv-if-not-on-field.html",
+      "FIELD2": "year",
+      "FIELD3": "MISC"
+    }
+  ],
+  [
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "$2.5 million",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "432000",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Amplify",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "back pain",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "bioengineered",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "bone growth products",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "bone loss",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "cancer",
+      "FIELD3": "MiSC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "cardiologist",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Carragee",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "complete review",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "data",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Department of Justice",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Dr  Eugene Carragee",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Dr  Harlan Krumholz",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Drug",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "editor",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Eugene Carragee",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Experts",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "first",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Food",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Food and Drug",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Friday",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "hamstring",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Harlan Krumholz",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "he",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Industry",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "infection",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "June",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Justice Department",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Krumholz",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "male sterility",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "material",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "medical device",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "medical device maker",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "medical journal",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Medtronic",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "one",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "pain",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "patient",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "product",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "professor",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Published",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "recent",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "recently",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "researchers",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "review",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "risks",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "safety",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "sales",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Senate committee",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Side effects",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "spinal fusion",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Stanford",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "The Spine",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "The Spine Journal",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "two",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "United States",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "USD",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "vertebrae",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Wednesday",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "Yale",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/health/04device.html",
+      "FIELD2": "year",
+      "FIELD3": "MISC"
+    }
+  ],
+  [
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "1984",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "1987",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "600 feet",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "American Petroleum Institute",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "aquifer",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "aquifers",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "author",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Carla Greathouse",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "chemicals",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "chief executive",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Congress",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "contamination",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "damage",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "decades",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "design",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "documented",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "documents",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "driller",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "drilling",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Drilling technology",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "drinking water",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "E P A",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "E.P.A.",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "energy",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "energy companies",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Environmental Protection Agency",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Eric Wohlschlegel",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Exploration",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "ExxonMobil",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "fluid",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "former",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "freshwater",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "gas drilling",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "gas wells",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "ground",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "groundwater",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "he",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "hydraulic fracturing",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "industry",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Jackson County",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "James Parson",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "James Parsons",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Jim Wilson",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Jim Wilson The New York Times",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Kaiser Exploration and Mining Company",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "last year",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "mantra",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Mining Company",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Mr  Parsons",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "natural gas",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "New York Times",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "oil and gas industry executives",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "one",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "over a million",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Parson",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Parsons",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "petroleum",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "petroleum institute",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "public",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "public health",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "recent",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "review",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Rex W  Tillerson",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Rex W. Tillerson",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "risks",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "rocks",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "safety",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "settlement",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "spokesman",
+      "FIELD3": "PER"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "technology",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Texas",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "The New York Times",
+      "FIELD3": "ORG"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "thousands of feet",
+      "FIELD3": "Not entity"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "toxic",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "toxic chemicals",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "underground drinking water",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "W Va",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "W.Va.",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "water contamination",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "water well",
+      "FIELD3": "MISC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "West Virginia",
+      "FIELD3": "LOC"
+    },
+    {
+      "FIELD1": "http://www.nytimes.com/2011/08/04/us/04natgas.html",
+      "FIELD2": "Wohlschlegel",
+      "FIELD3": "PER"
+    }
+  ]
+]

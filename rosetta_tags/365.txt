@@ -1,0 +1,35 @@
+
+Language Region: 0 1176 English
+Entity	Type
+PSV	ORGANIZATION
+1996-08-25	TEMPORAL:DATE
+Belgian	NATIONALITY
+Luc Nilis	PERSON
+Sunday	TEMPORAL:DATE
+PSV Eindhoven	ORGANIZATION
+Eindhoven	LOCATION
+PSV	ORGANIZATION
+Vitesse Arnhem	ORGANIZATION
+Dutch	NATIONALITY
+Ajax Amsterdam	LOCATION
+Heerenveen	LOCATION
+Saturday	TEMPORAL:DATE
+seventh minute	TEMPORAL:TIME
+Dean Gorre	PERSON
+Ernest Faber	PERSON
+Ronald Waterreus	PERSON
+PSV	ORGANIZATION
+Romano Sion	PERSON
+Five minutes	TEMPORAL:TIME
+Nilis	PERSON
+PSV	ORGANIZATION
+15 minutes	TEMPORAL:TIME
+Zeljko Petrovic	PERSON
+Vitesse Arnhem	ORGANIZATION
+Utrecht	LOCATION
+Raymond Atteveld	PERSON
+Erwin van der Looi	PERSON
+Gaston Taument	PERSON
+Pablo Sanchez	PERSON
+Feyenoord Rotterdam	LOCATION
+Volendam	LOCATION

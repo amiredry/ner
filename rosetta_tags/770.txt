@@ -1,0 +1,46 @@
+
+Language Region: 0 1562 English
+Entity	Type
+Stephanie	PERSON
+Monaco	LOCATION
+ROME	LOCATION
+1996-08-28	TEMPORAL:DATE
+Italian	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Daniel Ducruet	PERSON
+Princess	TITLE
+Stephanie	PERSON
+Monaco	LOCATION
+France	LOCATION
+Eva Tremila	PERSON
+publication Gente	PERSON
+Ducruet	PERSON
+Eva Tremila	PERSON
+Fili Houteman	PERSON
+26-year	TEMPORAL:TIME
+French	NATIONALITY
+Belgian	NATIONALITY
+Italian	NATIONALITY
+Stephanie	PERSON
+Prince	TITLE
+Rainier	PERSON
+Stephanie	PERSON
+Ducruet	PERSON
+July	TEMPORAL:DATE
+Stephanie	PERSON
+Caroline	PERSON
+Albert	ORGANIZATION
+Rainier	PERSON
+Hollywood	LOCATION
+Grace Kelly	PERSON
+Prince	TITLE
+Rainier	PERSON
+Reuters	ORGANIZATION
+Villefranche	LOCATION
+15 km	IDENTIFIER:DISTANCE
+nine miles	IDENTIFIER:DISTANCE
+Monte Carlo	LOCATION
+Gente	PERSON
+Ducruet	PERSON
+Houteman	PERSON
+Belgium	LOCATION

@@ -1,0 +1,15 @@
+
+Language Region: 0 640 English
+Entity	Type
+LONDON	LOCATION
+1996-08-28	TEMPORAL:DATE
+England	LOCATION
+captain	TITLE
+Will Carling	PERSON
+Jeremy Guscott	PERSON
+Rory Underwood	PERSON
+Dean Richards	PERSON
+England	LOCATION
+a summer	TEMPORAL:TIME
+Rugby Football Union	ORGANIZATION
+Wednesday	TEMPORAL:DATE

@@ -1,0 +1,25 @@
+
+Language Region: 0 2467 English
+Entity	Type
+O.J. Simpson	PERSON
+Jackie Frank	PERSON
+WASHINGTON	LOCATION
+1996-08-29	TEMPORAL:DATE
+O.J. Simpson	PERSON
+Thursday	TEMPORAL:DATE
+October	TEMPORAL:DATE
+Nicole Brown Simpson	PERSON
+Ronald Goldman	PERSON
+June 1994	TEMPORAL:DATE
+judge	TITLE
+Simpson	PERSON
+Simpson	PERSON
+Wednesday	TEMPORAL:DATE
+Washington	LOCATION
+Simpson	PERSON
+$ 10	IDENTIFIER:MONEY
+Buffalo	LOCATION
+Football Hall of Fame	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Simpson	PERSON
+D.C. Coalition Against Domestic Violence	ORGANIZATION

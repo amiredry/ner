@@ -1,0 +1,24 @@
+
+Language Region: 0 1432 English
+Entity	Type
+SoCal Edison	LOCATION
+NEW YORK	LOCATION
+1996-08-29	TEMPORAL:DATE
+Southern California Edison	ORGANIZATION
+California	LOCATION
+Wednesday	TEMPORAL:DATE
+Los Angeles	LOCATION
+Steve Conroy	PERSON
+SoCal Edison	LOCATION
+Sierra	LOCATION
+Conroy	PERSON
+Sierra	LOCATION
+Los Angeles	LOCATION
+Sierra	LOCATION
+Monday	TEMPORAL:DATE
+a day	TEMPORAL:TIME
+Conroy	PERSON
+a second	TEMPORAL:TIME
+four days	TEMPORAL:TIME
+R Leong	PERSON
+New York Power Desk +1 212 859	PRODUCT

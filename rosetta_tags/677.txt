@@ -1,0 +1,31 @@
+
+Language Region: 0 502 English
+Entity	Type
+PARIS	LOCATION
+1996-08-28	TEMPORAL:DATE
+French	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Anton Drobnjak	PERSON
+Bastia	LOCATION
+Vladimir Smicer	PERSON
+Lens	LOCATION
+Miladin Becanovic	PERSON
+Lille	LOCATION
+Alain Caveglia	PERSON
+Lyon	LOCATION
+Xavier Gravelaine	PERSON
+Marseille	LOCATION
+Robert Pires	PERSON
+Metz	LOCATION
+Thierry Henry ( Monaco	ORGANIZATION
+Christopher Wreh	PERSON
+Guingamp	LOCATION
+Marc-Vivien Foe	PERSON
+Lens	LOCATION
+Enzo Scifo	PERSON
+Monaco	LOCATION
+James Debbah	PERSON
+Patrice Loko	PERSON
+PSG	LOCATION
+Stephane Guivarch	PERSON
+Rennes	LOCATION

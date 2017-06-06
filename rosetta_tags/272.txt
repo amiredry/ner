@@ -1,0 +1,21 @@
+
+Language Region: 0 182 English
+Entity	Type
+1996-08-24	TEMPORAL:DATE
+Dutch	NATIONALITY
+Saturday	TEMPORAL:DATE
+Graafschap Doetinchem 3 RKC Waalwijk 2	PRODUCT
+
+Language Region: 182 253 Italian
+Entity	Type
+Fortuna	ORGANIZATION
+Breda	ORGANIZATION
+
+Language Region: 253 284 Dutch
+Entity	Type
+
+Language Region: 284 377 English
+Entity	Type
+
+Language Region: 377 902 Dutch
+Entity	Type

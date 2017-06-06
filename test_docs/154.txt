@@ -1,0 +1,9 @@
+
+Language Region: 0 132 English
+Entity	Type
+PARIS	LOCATION
+1996-08-23	TEMPORAL:DATE
+French	NATIONALITY
+Friday	TEMPORAL:DATE
+Paris	LOCATION
+St Germain	LOCATION

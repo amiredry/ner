@@ -1,0 +1,13 @@
+
+Language Region: 0 1022 English
+Entity	Type
+Thai	NATIONALITY
+1996-08-22	TEMPORAL:DATE
+Hong Kong	LOCATION
+Thai	NATIONALITY
+Pattaya	LOCATION
+Thursday	TEMPORAL:DATE
+Cheung Siu Man	PERSON
+Wednesday	TEMPORAL:DATE
+$ 12 million	IDENTIFIER:MONEY
+Cheung	PERSON

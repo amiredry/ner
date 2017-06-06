@@ -1,0 +1,20 @@
+
+Language Region: 0 899 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+Atlanta Braves	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Denny Neagle	PERSON
+National League	ORGANIZATION
+Pittsburgh Pirates	LOCATION
+Pirates	ORGANIZATION
+Ron Wright	PERSON
+Greenville	LOCATION
+Corey Pointer	PERSON
+Braves	ORGANIZATION
+National League	ORGANIZATION
+15 days	TEMPORAL:TIME
+Atlanta	LOCATION
+Terry Pendleton	PERSON
+Luis Polonia	PERSON
+Andruw Jones	PERSON

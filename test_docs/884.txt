@@ -1,0 +1,32 @@
+
+Language Region: 0 2474 English
+Entity	Type
+Martin Wolk	PERSON
+1996-08-29	TEMPORAL:DATE
+Sierra Semiconductor Corp	ORGANIZATION
+Thursday	TEMPORAL:DATE
+San Jose , Calif.	LOCATION
+Wednesday	TEMPORAL:DATE
+analyst	TITLE
+Elias Moosa	PERSON
+Roberston Stephens & Co	ORGANIZATION
+Sierra	LOCATION
+PMC	ORGANIZATION
+$ 50 million	IDENTIFIER:MONEY
+$ 80 million	IDENTIFIER:MONEY
+Scott Randall	PERSON
+Soundview Financial Group	ORGANIZATION
+International Business Machines Corp	ORGANIZATION
+Randall	PERSON
+Miles Kan	PERSON
+Hambrecht & Quist	ORGANIZATION
+PMC	ORGANIZATION
+$ 33 million	IDENTIFIER:MONEY
+$ 117 million	IDENTIFIER:MONEY
+$ 45 million	IDENTIFIER:MONEY
+Kan	PERSON
+PMC	ORGANIZATION
+Sierra	LOCATION
+$ 25	IDENTIFIER:MONEY
+Seattle	LOCATION
+206-386-4848	IDENTIFIER:PHONE_NUMBER

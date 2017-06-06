@@ -1,0 +1,8 @@
+
+Language Region: 0 700 English
+Entity	Type
+German	NATIONALITY
+1996-08-29	TEMPORAL:DATE
+German	NATIONALITY
+Thursday	TEMPORAL:DATE
+Gorleben	LOCATION

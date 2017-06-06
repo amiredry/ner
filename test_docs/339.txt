@@ -1,0 +1,6 @@
+
+Language Region: 0 216 English
+Entity	Type
+1996-08-25	TEMPORAL:DATE
+Yugoslav	NATIONALITY
+Sunday	TEMPORAL:DATE

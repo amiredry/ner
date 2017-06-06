@@ -1,0 +1,16 @@
+
+Language Region: 0 889 English
+Entity	Type
+Taiwan	LOCATION
+Cooperative Bank	ORGANIZATION
+1996-08-27	TEMPORAL:DATE
+Cooperative Bank of Taiwan	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+three-month	TEMPORAL:TIME
+three-year	TEMPORAL:TIME
+Friday	TEMPORAL:DATE
+governor	TITLE
+Sheu Yuan	PERSON
+Taiwan	LOCATION
+Sheu	PERSON
+Taipei Newsroom	ORGANIZATION

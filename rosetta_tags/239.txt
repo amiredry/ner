@@ -1,0 +1,16 @@
+
+Language Region: 0 320 English
+Entity	Type
+AT	ORGANIZATION
+HAMLET	ORGANIZATION
+COMMACK , New York	LOCATION
+1996-08-24	TEMPORAL:DATE
+Waldbaum Hamlet	ORGANIZATION
+Saturday	TEMPORAL:DATE
+Martin Damm	PERSON
+Czech Republic	LOCATION
+Adrian Voinea	PERSON
+Romania	LOCATION
+Andrei Medvedev	PERSON
+Ukraine	LOCATION
+Karol Kucera ( Slovakia	ORGANIZATION

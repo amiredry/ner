@@ -1,0 +1,11 @@
+
+Language Region: 0 507 English
+Entity	Type
+Bancomext	ORGANIZATION
+Mexico	LOCATION
+MEXICO CITY	LOCATION
+1996-08-26	TEMPORAL:DATE
+Bancomext	ORGANIZATION
+Mexican	NATIONALITY
+Rafael Moreno Turrent	PERSON
+deputy director general	TITLE

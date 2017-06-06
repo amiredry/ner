@@ -1,0 +1,31 @@
+
+Language Region: 0 1138 English
+Entity	Type
+Guinea	LOCATION
+two days	TEMPORAL:TIME
+1996-08-22	TEMPORAL:DATE
+West African	NATIONALITY
+Guinea	LOCATION
+Thursday	TEMPORAL:DATE
+Friday	TEMPORAL:DATE
+two days	TEMPORAL:TIME
+Guinea	LOCATION
+Guinea	LOCATION
+president	TITLE
+Lansana Conte	PERSON
+vice-president	TITLE
+Organisation of the Islamic Conference	ORGANIZATION
+Kuwait	LOCATION
+August 16	TEMPORAL:DATE
+OIC	ORGANIZATION
+Pakistan	LOCATION
+Badi-Tondon	PERSON
+60 km	IDENTIFIER:DISTANCE
+40 miles	IDENTIFIER:DISTANCE
+Conakry	LOCATION
+Conte	PERSON
+general	TITLE
+February	TEMPORAL:DATE
+prime minister	TITLE
+Conte	PERSON
+Ahmed Sekou Toure	PERSON

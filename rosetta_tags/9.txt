@@ -1,0 +1,10 @@
+
+Language Region: 0 193 English
+Entity	Type
+Syria	LOCATION
+Lloyds Shipping	ORGANIZATION
+Lloyds Shipping Intelligence Service	ORGANIZATION
+Aug 10	TEMPORAL:DATE
+Lattakia	LOCATION
+Tartous	LOCATION
+24 hours	TEMPORAL:TIME

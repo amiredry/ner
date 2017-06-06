@@ -1,0 +1,42 @@
+
+Language Region: 0 1596 English
+Entity	Type
+Tunisian	NATIONALITY
+TUNIS	LOCATION
+1996-08-24	TEMPORAL:DATE
+Tunisia	LOCATION
+Saturday	TEMPORAL:DATE
+Mohamed Ali Khalfallah	PERSON
+Movement of Socialist Democrats	ORGANIZATION
+MDS	ORGANIZATION
+Saturday	TEMPORAL:DATE
+Khalfallah	PERSON
+MDS	ORGANIZATION
+MDS	ORGANIZATION
+president	TITLE
+vice-president	TITLE
+MDS	ORGANIZATION
+president	TITLE
+Mohamed Moada	PERSON
+February	TEMPORAL:DATE
+11 years	TEMPORAL:TIME
+Libyan	NATIONALITY
+Tripoli	LOCATION
+Vice-president	TITLE
+Khemais Chammari	PERSON
+July	TEMPORAL:DATE
+five years	TEMPORAL:TIME
+Moada	PERSON
+Moada	PERSON
+MDS	ORGANIZATION
+Khalfallah	PERSON
+Ismail Boulahya	PERSON
+MDS	ORGANIZATION
+president	TITLE
+MDS	ORGANIZATION
+Ahmed Mestiri	PERSON
+Moada	PERSON
+Arab	NATIONALITY
+MDS	ORGANIZATION
+secretary-general	TITLE
+Mustapha Ben Jaafar	PERSON

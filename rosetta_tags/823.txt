@@ -1,0 +1,10 @@
+
+Language Region: 0 240 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+Dutch	NATIONALITY
+Thursday	TEMPORAL:DATE
+NAC Breda 1	PRODUCT
+Abdellaoui	PERSON
+NEC Nijmegen 1	ORGANIZATION
+Graef 36th	PERSON

@@ -1,0 +1,29 @@
+MOTOR RACING - BELGIAN GRAND PRIX GRID POSITIONS .
+SPA-FRANCORCHAMPS , Belgium 1996-08-24
+Grid positions
+for Sunday's Belgian Grand Prix motor race after final
+qualifying on Saturday :
+1. Jacques Villeneuve ( <LOCATION>Canada</LOCATION> ) Williams 1 minute 50.574
+seconds ( average speed 226.859 kph )
+2. <PERSON>Damon Hill ( Britain ) Williams</PERSON> 1:50.980
+3. <PERSON>Michael Schumacher</PERSON> <ORGANIZATION>( Germany ) Ferrari</ORGANIZATION> 1:51.778
+4. David Coulthard ( Britain ) McLaren 1:51.884
+5. Gerhard Berger ( <LOCATION>Austria ) Benetton</LOCATION> 1:51.960
+6. Mika Hakkinen ( Finland ) McLaren 1:52.318
+7. <PERSON>Jean Alesi ( France ) Benetton</PERSON> 1:52.354
+8. Martin Brundle ( Britain ) <LOCATION>Jordan</LOCATION> 1:52.977
+9. Eddie Irvine ( Britain ) Ferrari 1:53.043
+10. Rubens Barrichello ( <LOCATION>Brazil</LOCATION> ) <LOCATION>Jordan</LOCATION> 1:53.152
+Add grid :
+11. Heinz-Harald Frentzen ( <LOCATION>Germany</LOCATION> ) Sauber 1:53.199
+12. Johnny Herbert ( Britain ) Sauber 1:53.993
+13. <PERSON>Mika Salo ( Finland ) Tyrrell</PERSON> 1:54.095
+14. Olivier Panis ( <LOCATION>France</LOCATION> ) Ligier 1:54.220
+15. Pedro Diniz ( <LOCATION>Brazil</LOCATION> ) Ligier 1:54.700
+16. Jos Verstappen ( Netherlands ) Arrows 1:55.150
+17. Ukyo Katayama ( Japan ) Tyrrell 1:55.371
+18. <PERSON>Ricardo Rosset ( Brazil ) Arrows</PERSON> 1:56.286
+19. <PERSON>Pedro Lamy ( Portugal ) Minardi</PERSON> 1:56.830
+Did not qualify ( times did not meet qualifying standard ) :
+20. <PERSON>Giovanni Lavaggi ( Italy ) Minardi</PERSON> 1:58.579
+

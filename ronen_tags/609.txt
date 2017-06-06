@@ -1,0 +1,12 @@
+AOL <LOCATION>Europe</LOCATION> forms online advertising agency .
+HANOVER , Germany 1996-08-27
+The joint venture between <ORGANIZATION>America Online</ORGANIZATION> ( AOL ) and <ORGANIZATION>Bertelsmann</ORGANIZATION> AG has formed a new company to sell advertising space on <ORGANIZATION>AOL</ORGANIZATION> in <LOCATION>Europe</LOCATION> , a Bertelsmann official said on Tuesday .
+The new company is called AdOn GmbH and is located in <LOCATION>Hamburg</LOCATION> , <PERSON>Bernd Schiphorst</PERSON> , president and chief operating officer of <ORGANIZATION>Bertelsmann's New Media</ORGANIZATION> business division said on the sidelines of an AOL news conference at the CeBIT Home consumer electronics fair in Hanover .
+Jan Buettner , managing director of <ORGANIZATION>AOL Germany</ORGANIZATION> , said AdOn was in the formation phase and would " get off the ground next year , bringing in advertising from around <LOCATION>Europe</LOCATION> . "
+He would give no forecasts on advertising revenue .
+AOL is the leading global commercial online service with some six million subscribers worldwide .
+It has around 200,000 subscribers in <LOCATION>Europe</LOCATION> , with two thirds of that number in Germany alone .
+In <LOCATION>Europe</LOCATION> , the service is available in Germany , France and Britain .
+It will be available in <LOCATION>Austria</LOCATION> and Switzerland later this year and in Scandanavia and the Benelux countries next year .
+-- William Boston , CeBIT newsroom , 0172 6736510
+

@@ -1,0 +1,13 @@
+
+Language Region: 0 847 English
+Entity	Type
+London	LOCATION
+LONDON	LOCATION
+1996-08-26	TEMPORAL:DATE
+London	LOCATION
+Notting Hill Carnival	LOCATION
+Europe	LOCATION
+Rio	LOCATION
+Monday	TEMPORAL:DATE
+two days	TEMPORAL:TIME
+five years	TEMPORAL:TIME

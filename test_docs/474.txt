@@ -1,0 +1,61 @@
+
+Language Region: 0 1561 English
+Entity	Type
+Senate	ORGANIZATION
+intelligence chairman	TITLE
+Saudi	NATIONALITY
+DUBAI	LOCATION
+1996-08-26	TEMPORAL:DATE
+U.S.	LOCATION
+Senate Intelligence Committee	ORGANIZATION
+chairman	TITLE
+Arlen Specter	PERSON
+Defence Secretary	TITLE
+William Perry	PERSON
+Saudi Arabia	LOCATION
+Saudi	NATIONALITY
+Monday	TEMPORAL:DATE
+U.S.	LOCATION
+Riyadh	LOCATION
+Specter	PERSON
+Oman	LOCATION
+Sunday	TEMPORAL:DATE
+Monday	TEMPORAL:DATE
+Saudi	NATIONALITY
+American	NATIONALITY
+Dhahran	LOCATION
+U.S.	LOCATION
+June 25	TEMPORAL:DATE
+Riyadh	LOCATION
+Specter	PERSON
+Crown Prince	TITLE
+Abdullah	PERSON
+Minister of Defence	LOCATION
+Prince	TITLE
+Sultan	PERSON
+Jeddah	LOCATION
+Saudi	NATIONALITY
+Saudi Press Agency	ORGANIZATION
+Japan	LOCATION
+South Korea	LOCATION
+China	LOCATION
+Specter	PERSON
+Pentagon	ORGANIZATION
+Perry	PERSON
+Perry	PERSON
+Perry	PERSON
+Pennsylvania	LOCATION
+Republican	ORGANIZATION
+FBI	ORGANIZATION
+Director	TITLE
+Louis Freeh	PERSON
+Saudi Arabia	LOCATION
+Saudi	NATIONALITY
+Saudi	NATIONALITY
+Dhahran	LOCATION
+Riyadh	LOCATION
+Saudi Arabia	LOCATION
+Specter	PERSON
+United States	LOCATION
+U.S.	LOCATION
+Saudi Arabia	LOCATION

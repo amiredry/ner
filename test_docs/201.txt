@@ -1,0 +1,35 @@
+
+Language Region: 0 949 English
+Entity	Type
+Nepal	LOCATION
+king	TITLE
+China	LOCATION
+KATHMANDU	LOCATION
+1996-08-23	TEMPORAL:DATE
+King	TITLE
+Birendra	PERSON
+Nepal	LOCATION
+Friday	TEMPORAL:DATE
+a week	TEMPORAL:TIME
+China	LOCATION
+China	LOCATION
+Chinese	NATIONALITY
+President	TITLE
+Jiang Zemin	PERSON
+Premier	TITLE
+Li Peng	PERSON
+king	TITLE
+Foreign Minister	TITLE
+Prakash Chandra Lohani	PERSON
+Chinese	NATIONALITY
+China	LOCATION
+India	LOCATION
+50-year	TEMPORAL:TIME
+Queen	TITLE
+Aishwarya	PERSON
+Tibetan	NATIONALITY
+Lhasa	LOCATION
+king	TITLE
+Chongqing	LOCATION
+Chinese	NATIONALITY
+Beijing	LOCATION

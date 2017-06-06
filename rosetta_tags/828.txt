@@ -1,0 +1,22 @@
+
+Language Region: 0 528 English
+Entity	Type
+1996-08-29	TEMPORAL:DATE
+Dutch	NATIONALITY
+Saturday	TEMPORAL:DATE
+Brazil	LOCATION
+Amsterdam	LOCATION
+John Veldman	PERSON
+Richard Witschge	PERSON
+PSV	ORGANIZATION
+Philip Cocu	PERSON
+Dutch	NATIONALITY
+coach	TITLE
+Guus Hiddink	PERSON
+Feyenoord	LOCATION
+Giovanni van Bronckhorst	PERSON
+Vitesse	ORGANIZATION
+Ferdy Vierklau	PERSON
+Cocu	PERSON
+Veldman	PERSON
+Witschge	PERSON

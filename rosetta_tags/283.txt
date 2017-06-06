@@ -1,0 +1,15 @@
+
+Language Region: 0 861 English
+Entity	Type
+Malawi	LOCATION
+ex-president	TITLE
+Banda	PERSON
+1996-08-24	TEMPORAL:DATE
+Malawi	LOCATION
+president	TITLE
+Kamuzu Banda	LOCATION
+Saturday	TEMPORAL:DATE
+Banda	PERSON
+Malawi	LOCATION
+three decades	TEMPORAL:TIME
+a year	TEMPORAL:TIME

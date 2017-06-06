@@ -1,0 +1,46 @@
+
+Language Region: 0 2362 English
+Entity	Type
+Tapie	PERSON
+French	NATIONALITY
+PARIS	LOCATION
+1996-08-26	TEMPORAL:DATE
+Bernard Tapie	PERSON
+National Assembly	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Claude Lelouche	PERSON
+France	LOCATION
+Europe	LOCATION
+Assembly	ORGANIZATION
+speaker	TITLE
+Philippe Seguin	PERSON
+Seguin	ORGANIZATION
+Tapie	PERSON
+Assembly	ORGANIZATION
+Supreme Court	ORGANIZATION
+five-year	TEMPORAL:TIME
+Tapie	PERSON
+Marseille	LOCATION
+Lelouche	PERSON
+Lelouche	PERSON
+Tapie	PERSON
+France	LOCATION
+Justice Minister	TITLE
+Jacques Toubon	PERSON
+Tapie	PERSON
+French	NATIONALITY
+parliament	ORGANIZATION
+European	NATIONALITY
+parliament	ORGANIZATION
+French	NATIONALITY
+October 2	TEMPORAL:DATE
+National Assembly	ORGANIZATION
+a summer	TEMPORAL:TIME
+European	NATIONALITY
+Tapie	PERSON
+European Court of Human Rights	ORGANIZATION
+European	NATIONALITY
+French	NATIONALITY
+Tapie	PERSON
+eight and six months	TEMPORAL:TIME
+Supreme Court	ORGANIZATION

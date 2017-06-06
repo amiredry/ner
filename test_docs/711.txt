@@ -1,0 +1,24 @@
+
+Language Region: 0 1387 English
+Entity	Type
+Guinea	LOCATION
+1996-08-28	TEMPORAL:DATE
+Guinea	LOCATION
+Wednesday	TEMPORAL:DATE
+prime minister	TITLE
+Sidia Toure	PERSON
+Deputy Minister	TITLE
+Finance Ousmane Kaba	PERSON
+Guinean	NATIONALITY
+$ 50,000	IDENTIFIER:MONEY
+Kaba	PERSON
+Guinean	NATIONALITY
+Toure	PERSON
+Guinea	LOCATION
+West African	NATIONALITY
+President	TITLE
+Lansana Conte	PERSON
+Toure	PERSON
+Ivory Coast	LOCATION
+February	TEMPORAL:DATE
+Guinean	NATIONALITY

@@ -1,0 +1,39 @@
+
+Language Region: 0 1067 English
+Entity	Type
+Russian	NATIONALITY
+Chechens	NATIONALITY
+MOSCOW	LOCATION
+1996-08-27	TEMPORAL:DATE
+Russia	LOCATION
+commander	TITLE
+Chechnya	LOCATION
+chief-of-staff	TITLE
+Aslan Maskhadov	PERSON
+Tuesday	TEMPORAL:DATE
+Itar-Tass	ORGANIZATION
+Tass	PERSON
+Novye Atagi	LOCATION
+20 km	IDENTIFIER:DISTANCE
+12 miles	IDENTIFIER:DISTANCE
+Chechen	NATIONALITY
+Grozny	LOCATION
+Russians	NATIONALITY
+Russian	NATIONALITY
+Chechens	NATIONALITY
+Monday	TEMPORAL:DATE
+Maskhadov	PERSON
+Russia	LOCATION
+Vyacheslav Tikhomirov	PERSON
+Russian	NATIONALITY
+security chief	TITLE
+Alexander Lebed	PERSON
+Lebed	PERSON
+Russian	NATIONALITY
+Prime Minister	TITLE
+Viktor Chernomyrdin	PERSON
+Monday	TEMPORAL:DATE
+President	TITLE
+Boris Yeltsin	PERSON
+Moscow	LOCATION
+Monday	TEMPORAL:DATE

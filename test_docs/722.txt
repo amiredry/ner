@@ -1,0 +1,54 @@
+
+Language Region: 0 2044 English
+Entity	Type
+Lebed	PERSON
+Chechnya	LOCATION
+Polish	NATIONALITY
+minister	TITLE
+1996-08-28	TEMPORAL:DATE
+Russian	NATIONALITY
+security chief	TITLE
+Aleksander Lebed	PERSON
+Chechnya	LOCATION
+Polish	NATIONALITY
+Foreign Minister	TITLE
+Dariusz Rosati	PERSON
+Wednesday	TEMPORAL:DATE
+Gazeta Wyborcza	ORGANIZATION
+Rosati	PERSON
+Polish	NATIONALITY
+parliament	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Lebed	PERSON
+Chechnya	LOCATION
+Rosati	PERSON
+Lebed	PERSON
+Yeltsin	PERSON
+Lebed	PERSON
+Russia	LOCATION
+Moscow	LOCATION
+Chechnya	LOCATION
+Russian	NATIONALITY
+President	TITLE
+Boris Yeltsin	PERSON
+envoy	TITLE
+Monday	TEMPORAL:DATE
+Gazeta Wyborcza	ORGANIZATION
+Rosati	PERSON
+Yeltsin	PERSON
+Russia	LOCATION
+Rosati	PERSON
+Russia	LOCATION
+July	TEMPORAL:DATE
+Yeltsin	PERSON
+Russian	NATIONALITY
+Russia	LOCATION
+Russian	NATIONALITY
+Moscow	LOCATION
+Rosati	PERSON
+NATO	ORGANIZATION
+Poland	LOCATION
+Russian	NATIONALITY
+Foreign Minister	TITLE
+Yevgeny Primakov	PERSON
+Soviet	NATIONALITY

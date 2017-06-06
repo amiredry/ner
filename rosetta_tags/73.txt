@@ -1,0 +1,70 @@
+
+Language Region: 0 3562 English
+Entity	Type
+Muster	PERSON
+Philippoussis	PERSON
+Stoltenberg	PERSON
+TORONTO	LOCATION
+1996-08-21	TEMPORAL:DATE
+Thomas Muster	PERSON
+Austria	LOCATION
+Daniel Nestor	PERSON
+Canada	LOCATION
+Wednesday	TEMPORAL:DATE
+$ 2 million	IDENTIFIER:MONEY
+Canadian	NATIONALITY
+Nestor	ORGANIZATION
+Muster	PERSON
+third day	TEMPORAL:TIME
+Goran Ivanisevic	PERSON
+Croatia	LOCATION
+Mikael Tillstrom	PERSON
+Sweden	LOCATION
+Wayne Ferreira	PERSON
+South Africa	LOCATION
+Marcelo Rios	PERSON
+Chile	LOCATION
+MaliVai	ORGANIZATION
+Washington	LOCATION
+United States	LOCATION
+American	NATIONALITY
+Todd Martin	PERSON
+Marc Rosset	PERSON
+Switzerland	LOCATION
+one hour	TEMPORAL:TIME
+55 minute	TEMPORAL:TIME
+Mark Philippoussis	PERSON
+Australia	LOCATION
+Philippoussis	PERSON
+Philippoussis	PERSON
+Jason Stoltenberg	PERSON
+Daniel Vacek	PERSON
+Czech Republic	LOCATION
+Nestor	ORGANIZATION
+Canadian	NATIONALITY
+Muster	PERSON
+Austrian	NATIONALITY
+Muster	PERSON
+Muster	PERSON
+a day	TEMPORAL:TIME
+a night	TEMPORAL:TIME
+Ivanisevic	PERSON
+Tillstrom	PERSON
+Stefan Edberg	PERSON
+Wimbledon	LOCATION
+Ivanisevic	PERSON
+24-year	TEMPORAL:TIME
+Tillstrom	PERSON
+Ivanisevic	PERSON
+Indianapolis	LOCATION
+Pete Sampras	PERSON
+U.S.	LOCATION
+Sunday	TEMPORAL:DATE
+Toronto	LOCATION
+Tuesday	TEMPORAL:DATE
+Tillstrom	PERSON
+19-year	TEMPORAL:TIME
+Philippoussis	PERSON
+Sampras	PERSON
+Australian	NATIONALITY
+Rosset	PERSON

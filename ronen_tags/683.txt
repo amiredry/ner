@@ -1,0 +1,16 @@
+SOCCER - FRENCH LEAGUE RESULTS .
+PARIS 1996-08-28
+French first division soccer
+matches on Wednesday :
+<LOCATION>Paris</LOCATION> SG 1 Nantes 0
+Lens 3 Montpellier 2
+Bastia 0 Lille 0
+<LOCATION>Cannes 0 Monaco</LOCATION> 2
+Rennes 1 Bordeaux 1
+Lyon 2 Nancy 0
+Nice 1 Guingamp 2
+<LOCATION>Metz 3 Strasbourg</LOCATION> 1
+<LOCATION>Le Havre 1 Caen</LOCATION> 1
+Played Tuesday :
+Auxerre 0 Marseille 0
+

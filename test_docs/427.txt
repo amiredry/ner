@@ -1,0 +1,15 @@
+
+Language Region: 0 153 English
+Entity	Type
+1996-08-26	TEMPORAL:DATE
+
+Language Region: 153 299 Spanish
+Entity	Type
+
+Language Region: 299 651 English
+Entity	Type
+Newell	PERSON
+Velez	ORGANIZATION
+La Plata	LOCATION
+Monday	TEMPORAL:DATE
+Deportivo Espanol	ORGANIZATION

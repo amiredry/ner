@@ -1,0 +1,16 @@
+
+Language Region: 0 663 English
+Entity	Type
+UN	ORGANIZATION
+Iraqi	NATIONALITY
+1996-08-22	TEMPORAL:DATE
+U.N.	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Iraqi	NATIONALITY
+secretary-general	TITLE
+Undersecretary-General	TITLE
+Yasushi Akashi	PERSON
+Security Council	ORGANIZATION
+Akashi	PERSON
+Department of Humanitarian	ORGANIZATION
+10 days	TEMPORAL:TIME

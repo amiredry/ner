@@ -1,0 +1,5 @@
+
+Language Region: 0 139 English
+Entity	Type
+1996-08-26	TEMPORAL:DATE
+June 30	TEMPORAL:DATE

@@ -1,0 +1,16 @@
+
+Language Region: 0 971 English
+Entity	Type
+Florida	LOCATION
+FORT LAUDERDALE , Fla.	LOCATION
+1996-08-26	TEMPORAL:DATE
+12-year	TEMPORAL:TIME
+Florida	LOCATION
+Monday	TEMPORAL:DATE
+Samuel Graham	PERSON
+first day	TEMPORAL:TIME
+Parkway Middle School	ORGANIZATION
+Monday	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Monday	TEMPORAL:DATE
+Broward County Sheriff's Office	ORGANIZATION

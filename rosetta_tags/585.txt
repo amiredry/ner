@@ -1,0 +1,25 @@
+
+Language Region: 0 623 English
+Entity	Type
+U.S.	LOCATION
+Russian	NATIONALITY
+Chechen	NATIONALITY
+WASHINGTON	LOCATION
+1996-08-27	TEMPORAL:DATE
+United States	LOCATION
+Tuesday	TEMPORAL:DATE
+Chechen	NATIONALITY
+Grozny	LOCATION
+20-month	TEMPORAL:TIME
+Russian	NATIONALITY
+Chechen	NATIONALITY
+State Department	ORGANIZATION
+Glyn Davies	PERSON
+commander	TITLE
+Russian	NATIONALITY
+Chechnya	LOCATION
+Vyacheslav Tikhomirov	PERSON
+Chechen	NATIONALITY
+rebel chief-of-staff	TITLE
+Aslan Mashadov	PERSON
+Wednesday	TEMPORAL:DATE

@@ -1,0 +1,88 @@
+
+Language Region: 0 3256 English
+Entity	Type
+Sudanese	NATIONALITY
+Peter Smerdon	PERSON
+1996-08-27	TEMPORAL:DATE
+Sudan	LOCATION
+Tuesday	TEMPORAL:DATE
+Roman Catholic	RELIGION
+Australian	NATIONALITY
+two weeks	TEMPORAL:TIME
+George Garang	PERSON
+Nairobi	LOCATION
+Sudan	LOCATION
+People's Liberation Army	ORGANIZATION
+SPLA	ORGANIZATION
+SPLA	ORGANIZATION
+commander	TITLE
+Nuour Marial	PERSON
+Mapourdit	LOCATION
+Garang	PERSON
+Commander	TITLE
+Nuour Marial	PERSON
+Catholic Information Office	ORGANIZATION
+Nairobi	LOCATION
+Monday	TEMPORAL:DATE
+SPLA	ORGANIZATION
+Islam	RELIGION
+Garang	PERSON
+Tuesday	TEMPORAL:DATE
+commander	TITLE
+commander	TITLE
+Garang	PERSON
+Mapourdit	LOCATION
+Catholic Information	ORGANIZATION
+Nairobi	LOCATION
+Monday	TEMPORAL:DATE
+Australian	NATIONALITY
+Sisters	TITLE
+Moira Lynch	PERSON
+Mary Batchelor	PERSON
+American	NATIONALITY
+Father	TITLE
+Michael Barton	PERSON
+Sudanese	NATIONALITY
+Father	TITLE
+Raphael Riel	PERSON
+Sudan	LOCATION
+SPLA	ORGANIZATION
+Australian	NATIONALITY
+Sister	TITLE
+Maureen Carey	PERSON
+Italian	NATIONALITY
+Brother	TITLE
+Raniero Iacomella	PERSON
+Australia	LOCATION
+Monday	TEMPORAL:DATE
+Lynch	PERSON
+Batchelor	PERSON
+Barton	PERSON
+Riel	PERSON
+Catholic Information Office	ORGANIZATION
+SPLA	ORGANIZATION
+Kenyan	NATIONALITY
+commander	TITLE
+August 23	TEMPORAL:DATE
+commander	TITLE
+Friday	TEMPORAL:DATE
+Monsignor	TITLE
+Caesar Mazzolari	PERSON
+Rumbek	LOCATION
+Sudan	LOCATION
+SPLA	ORGANIZATION
+August 17	TEMPORAL:DATE
+SPLA	ORGANIZATION
+Australian	NATIONALITY
+foreign ministry	ORGANIZATION
+Australian	NATIONALITY
+Nairobi	LOCATION
+Roman Catholic	RELIGION
+Sudan	LOCATION
+U.S.	LOCATION
+Italian	NATIONALITY
+SPLA	ORGANIZATION
+Khartoum	LOCATION
+animist	RELIGION
+Moslem	RELIGION
+Arabised	ORGANIZATION

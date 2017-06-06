@@ -1,0 +1,23 @@
+
+Language Region: 0 970 English
+Entity	Type
+Nicaraguan	NATIONALITY
+president	TITLE
+U.S	LOCATION
+MANAGUA , Nicaragua	LOCATION
+1996-08-26	TEMPORAL:DATE
+Nicaraguan	NATIONALITY
+President	TITLE
+Violeta Chamorro	PERSON
+United States	LOCATION
+Monday	TEMPORAL:DATE
+Johns Hopkins Hospital	LOCATION
+Baltimore	LOCATION
+Chamorro	NATIONALITY
+Nicaragua	LOCATION
+Chamorro	NATIONALITY
+Taiwan	LOCATION
+Taipei University Hospital	LOCATION
+Washington	LOCATION
+January	TEMPORAL:DATE
+seven years	TEMPORAL:TIME

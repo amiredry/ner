@@ -1,0 +1,26 @@
+
+Language Region: 0 1155 English
+Entity	Type
+LONDON	LOCATION
+1996-08-25	TEMPORAL:DATE
+South African	NATIONALITY
+Shaun Pollock	PERSON
+Warwickshire	LOCATION
+Sunday	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Pollock	PERSON
+Tuesday	TEMPORAL:DATE
+an hour	TEMPORAL:TIME
+Warwickshire	LOCATION
+Warwickshire	LOCATION
+Yorkshire	LOCATION
+Nottinghamshire	LOCATION
+Surrey	LOCATION
+Yorkshire	LOCATION
+captain	TITLE
+David Byas	PERSON
+Sunday	TEMPORAL:DATE
+Lancashire	LOCATION
+Lancashire	LOCATION
+Byas	PERSON
+Yorkshire	LOCATION

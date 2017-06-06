@@ -1,0 +1,34 @@
+
+Language Region: 0 627 English
+Entity	Type
+PARIS	LOCATION
+1996-08-28	TEMPORAL:DATE
+French	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Bastia 0 Lille 0	PRODUCT
+Cannes 0 Monaco 2	PRODUCT
+Henry 26th	PERSON
+Le Havre 1	PRODUCT
+Samson 24th ) Caen 1	PRODUCT
+Etienne Mendy	PERSON
+Lens 3	PRODUCT
+Vairelles	PERSON
+Foe 85th	PERSON
+Smicer	PERSON
+Montpellier 2	PRODUCT
+Lefevre	PERSON
+Lyon 2	PRODUCT
+Caveglia 23rd	PRODUCT
+Giuly	PERSON
+Metz 3	PRODUCT
+Pires	PERSON
+Strasbourg 1	LOCATION
+Rodriguez	PERSON
+Chaouch	PERSON
+Guingamp 2	PRODUCT
+Rouxel 10th	PRODUCT
+Baret 89th	PRODUCT
+Paris	LOCATION
+St Germain	LOCATION
+Nantes	LOCATION
+Guivarch 27th ) Bordeaux 1	PRODUCT

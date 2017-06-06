@@ -1,0 +1,22 @@
+
+Language Region: 0 464 English
+Entity	Type
+RESULTS AT TOSHIBA CLASSIC	LOCATION
+CARLSBAD , California	LOCATION
+1996-08-21	TEMPORAL:DATE
+$ 450,000	IDENTIFIER:MONEY
+Toshiba	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Arantxa Sanchez Vicario	ORGANIZATION
+Spain	LOCATION
+Naoko Kijimuta	PERSON
+Japan	LOCATION
+Japan	LOCATION
+Yone Kamio	PERSON
+Japan	LOCATION
+France	LOCATION
+Ai Sugiyama ( Japan	ORGANIZATION
+Nathalie Tauziat	PERSON
+France	LOCATION
+Shi-Ting Wang	PERSON
+Taiwan	LOCATION

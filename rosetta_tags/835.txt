@@ -1,0 +1,36 @@
+
+Language Region: 0 1687 English
+Entity	Type
+Nigeria	LOCATION
+1996-08-29	TEMPORAL:DATE
+Nigeria	LOCATION
+Commonwealth	ORGANIZATION
+Foreign Minister	TITLE
+Tom Ikimi	PERSON
+Thursday	TEMPORAL:DATE
+Ikimi	PERSON
+Commonwealth	ORGANIZATION
+Nigeria	LOCATION
+Ikimi	PERSON
+Reuters	ORGANIZATION
+Abuja	LOCATION
+Commonwealth	ORGANIZATION
+London	LOCATION
+Nigeria	LOCATION
+Commonwealth	ORGANIZATION
+November	TEMPORAL:DATE
+Ken Saro-Wiwa	PERSON
+Commonwealth	ORGANIZATION
+ministers	TITLE
+London	LOCATION
+Wednesday	TEMPORAL:DATE
+Nigeria	LOCATION
+Abuja	LOCATION
+Nigeria	LOCATION
+Britain	LOCATION
+Commonwealth	ORGANIZATION
+ministers	TITLE
+Nigeria	LOCATION
+Nigeria	LOCATION
+two-day	TEMPORAL:TIME
+Commonwealth	ORGANIZATION

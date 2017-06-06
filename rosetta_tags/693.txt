@@ -1,0 +1,72 @@
+
+Language Region: 0 2191 English
+Entity	Type
+U.S.	LOCATION
+judge	TITLE
+Biogen	ORGANIZATION
+Berlex	ORGANIZATION
+Leslie Gevirtz BOSTON	PERSON
+1996-08-28	TEMPORAL:DATE
+U.S. District Court	ORGANIZATION
+judge	TITLE
+Wednesday	TEMPORAL:DATE
+Biogen Inc	PERSON
+Berlex Laboratories	ORGANIZATION
+Schering AG	ORGANIZATION
+U.S. Food and Drug Administration	ORGANIZATION
+Orphan Drug	ORGANIZATION
+Biogen	ORGANIZATION
+Avonex	PRODUCT
+Berlex	ORGANIZATION
+Avonex	PRODUCT
+Betaseron	PRODUCT
+Avonex	PRODUCT
+Betaseron	PRODUCT
+BioVest Research , Inc's	ORGANIZATION
+analyst	TITLE
+Eddie Hedaya	PERSON
+Berlex	ORGANIZATION
+Chiron Corp	ORGANIZATION
+Berlex	ORGANIZATION
+Chiron	ORGANIZATION
+Betaseron	PRODUCT
+Berlex	ORGANIZATION
+Biogen	ORGANIZATION
+Securities and Exchange Commission	ORGANIZATION
+June 30	TEMPORAL:DATE
+$ 6.1 million	IDENTIFIER:MONEY
+Avonex	PRODUCT
+first six weeks	TEMPORAL:TIME
+Avonex	PRODUCT
+FDA	ORGANIZATION
+Biogen	ORGANIZATION
+Betaseron	PRODUCT
+seven years	TEMPORAL:TIME
+Avonex	PRODUCT
+Betaseron	PRODUCT
+FDA	ORGANIZATION
+U.S.	LOCATION
+District Judge	TITLE
+Mark Wolf	PERSON
+chief counsel	TITLE
+Biogen	ORGANIZATION
+Michael Astrue	PERSON
+Robert Chabora	PERSON
+Berlex	ORGANIZATION
+May 21	TEMPORAL:DATE
+Biogen	ORGANIZATION
+Berlex	ORGANIZATION
+Massachusetts	LOCATION
+Berlex	ORGANIZATION
+Biogen	ORGANIZATION
+U.S. District Court	ORGANIZATION
+Newark , N.J.	LOCATION
+July	TEMPORAL:DATE
+Biogen	ORGANIZATION
+Berlex	ORGANIZATION
+Massachusetts	LOCATION
+Wolf	PERSON
+U.S.	LOCATION
+District Judge	TITLE
+John Bissell	PERSON
+Newark	LOCATION

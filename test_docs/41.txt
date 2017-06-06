@@ -1,0 +1,20 @@
+
+Language Region: 0 66 English Uppercase
+Entity	Type
+FOUR-YEAR	TEMPORAL:TIME
+MANCHESTER UNITED	ORGANIZATION
+
+Language Region: 66 353 English
+Entity	Type
+LONDON	LOCATION
+1996-08-22	TEMPORAL:DATE
+Ireland	LOCATION
+Roy Keane	PERSON
+four-year	TEMPORAL:TIME
+English	NATIONALITY
+Manchester United	ORGANIZATION
+Roy	PERSON
+Everton	LOCATION
+United manager	TITLE
+Alex Ferguson	PERSON
+Thursday	TEMPORAL:DATE

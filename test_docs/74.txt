@@ -1,0 +1,18 @@
+
+Language Region: 0 370 English
+Entity	Type
+South Korean	NATIONALITY
+SEOUL	LOCATION
+1996-08-22	TEMPORAL:DATE
+South Korean	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Anyang 3 Chonnam 3	PRODUCT
+Puchon	LOCATION
+Suwon	LOCATION
+Wednesday	TEMPORAL:DATE
+W D L G / F G	PRODUCT
+Puchon	LOCATION
+1 1 0 1 0 4	IDENTIFIER:LATITUDE_LONGITUDE
+
+Language Region: 370 529 Malay
+Entity	Type

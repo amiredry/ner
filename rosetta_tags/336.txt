@@ -1,0 +1,16 @@
+
+Language Region: 0 305 English
+Entity	Type
+AT CANADIAN OPEN	ORGANIZATION
+TORONTO	LOCATION
+1996-08-24	TEMPORAL:DATE
+Canadian	NATIONALITY
+Saturday	TEMPORAL:DATE
+Wayne Ferreira	PERSON
+South Africa	LOCATION
+Todd Martin	PERSON
+U.S.	LOCATION
+Todd Woodbridge	PERSON
+Australia	LOCATION
+Marcelo Rios	PERSON
+Chile	LOCATION

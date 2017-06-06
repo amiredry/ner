@@ -1,0 +1,18 @@
+
+Language Region: 0 1600 English
+Entity	Type
+U.S.	LOCATION
+Friday	TEMPORAL:DATE
+4 a.m. EDT	TEMPORAL:TIME
+0800 GMT	TEMPORAL:TIME
+Camelot	ORGANIZATION
+Virginia	LOCATION
+Detective	TITLE
+Richard Black	PERSON
+Chesapeake Police Department	ORGANIZATION
+Curtis Lee White II	PERSON
+Friday	TEMPORAL:DATE
+a year	TEMPORAL:TIME
+White	PERSON
+White	PERSON
+Michelle Harper	PERSON

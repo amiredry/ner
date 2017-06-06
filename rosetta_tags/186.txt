@@ -1,0 +1,28 @@
+
+Language Region: 0 1600 English
+Entity	Type
+Russians	NATIONALITY
+Chechens	NATIONALITY
+Grozny	LOCATION
+Russia	LOCATION
+1996-08-23	TEMPORAL:DATE
+Russian	NATIONALITY
+0800 GMT	TEMPORAL:TIME
+Friday	TEMPORAL:DATE
+Chechen	NATIONALITY
+Grozny	LOCATION
+Russian	NATIONALITY
+Thursday	TEMPORAL:DATE
+Aslan Shabazov	PERSON
+Russian	NATIONALITY
+Grozny	LOCATION
+August 6	TEMPORAL:DATE
+Russian	NATIONALITY
+Svetlana Goncharova	PERSON
+Thursday	TEMPORAL:DATE
+Russian	NATIONALITY
+Alexander Lebed	PERSON
+chief-of-staff	TITLE
+Aslan Maskhadov	PERSON
+Grozny	LOCATION
+Goncharova	PERSON

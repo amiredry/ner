@@ -1,0 +1,31 @@
+
+Language Region: 0 1335 English
+Entity	Type
+India	LOCATION
+Kashmir	LOCATION
+SRINAGAR , India	LOCATION
+1996-08-22	TEMPORAL:DATE
+India	LOCATION
+interior ) Minister	TITLE
+Pakistan	LOCATION
+Thursday	TEMPORAL:DATE
+Jammu	LOCATION
+Kashmir	LOCATION
+Inderjit Gupta	PERSON
+Srinagar	LOCATION
+New Delhi	LOCATION
+India	LOCATION
+Pakistan	LOCATION
+Islamabad	LOCATION
+Gupta	PERSON
+Kashmir	LOCATION
+Gupta	PERSON
+India	LOCATION
+Pakistan	LOCATION
+Kashmir	LOCATION
+Britain	LOCATION
+Prime Minister	TITLE
+H.D. Deve Gowda	PERSON
+Jammu	LOCATION
+Kashmir	LOCATION
+New Delhi	LOCATION

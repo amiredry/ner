@@ -1,0 +1,116 @@
+
+Language Region: 0 3752 English
+Entity	Type
+Arafat	PERSON
+Israel	LOCATION
+Palestinians	NATIONALITY
+Wafa Amr	PERSON
+RAMALLAH , West Bank	LOCATION
+1996-08-28	TEMPORAL:DATE
+Palestinian	NATIONALITY
+President	TITLE
+Yasser Arafat	PERSON
+Wednesday	TEMPORAL:DATE
+Israel	LOCATION
+Palestinians	NATIONALITY
+West Bank	LOCATION
+Gaza	LOCATION
+two years	TEMPORAL:TIME
+Israeli	NATIONALITY
+Palestinian	NATIONALITY
+Arafat	PERSON
+Palestinian	NATIONALITY
+Israeli	NATIONALITY
+Prime Minister	TITLE
+Benjamin Netanyahu	PERSON
+Arafat	PERSON
+Israel	LOCATION
+Tuesday	TEMPORAL:DATE
+Jewish	RELIGION
+Kiryat Sefer	LOCATION
+Arab East Jerusalem	LOCATION
+Israel	LOCATION
+Jerusalem	LOCATION
+Jerusalem	LOCATION
+Arafat	PERSON
+Palestinian	NATIONALITY
+Jerusalem	LOCATION
+Netanyahu	PERSON
+Arafat	PERSON
+Jerusalem	LOCATION
+Thursday	TEMPORAL:DATE
+West Bank	LOCATION
+Gaza Strip	LOCATION
+May 1994	TEMPORAL:DATE
+Israeli	NATIONALITY
+Israeli	NATIONALITY
+Palestinian	NATIONALITY
+Jerusalem	LOCATION
+Bethlehem	LOCATION
+Palestinian	NATIONALITY
+Israel	LOCATION
+Palestinians	NATIONALITY
+Romania	LOCATION
+China	LOCATION
+Friday	TEMPORAL:DATE
+Moslems	RELIGION
+Palestinians	NATIONALITY
+Israel	LOCATION
+Jerusalem	LOCATION
+Al-Aqsa mosque	LOCATION
+Jews	RELIGION
+Christians	RELIGION
+Arafat	PERSON
+Netanyahu	PERSON
+Arafat	PERSON
+Israeli	NATIONALITY
+Moslem	RELIGION
+February	TEMPORAL:DATE
+Arabs	NATIONALITY
+West Bank	LOCATION
+Gaza	LOCATION
+Jerusalem	LOCATION
+Netanyahu	PERSON
+Jerusalem	LOCATION
+Labour	ORGANIZATION
+Prime Minister	TITLE
+Shimon Peres	PERSON
+Arab	NATIONALITY
+Palestinians	NATIONALITY
+Israel	LOCATION
+Jerusalem	LOCATION
+Middle East	LOCATION
+PLO	ORGANIZATION
+Jerusalem	LOCATION
+Palestinian	NATIONALITY
+Arafat	PERSON
+U.S.	LOCATION
+Middle East	LOCATION
+envoy	TITLE
+Dennis Ross	PERSON
+Paris	LOCATION
+Tuesday	TEMPORAL:DATE
+Israeli	NATIONALITY
+Egyptian	NATIONALITY
+Arafat	PERSON
+PLO	ORGANIZATION
+Mahmoud Abbas	PERSON
+Abu Mazen	PERSON
+Netanyahu	PERSON
+Dore	ORGANIZATION
+Gold	PRODUCT
+Thursday	TEMPORAL:DATE
+Ross	PERSON
+Israelis	NATIONALITY
+Arafat	PERSON
+Arafat	PERSON
+Ross	PERSON
+Palestinians	NATIONALITY
+Israel	LOCATION
+West Bank	LOCATION
+Hebron	LOCATION
+Labour	ORGANIZATION
+Israeli	NATIONALITY
+Defence Minister	TITLE
+Yitzhak Mordechai	PERSON
+Hebron	LOCATION

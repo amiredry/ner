@@ -1,0 +1,49 @@
+
+Language Region: 0 1431 English
+Entity	Type
+ENGLAND V PAKISTAN FINAL TEST SCOREBOARD	PRODUCT
+LONDON	LOCATION
+1996-08-26	TEMPORAL:DATE
+England	LOCATION
+Pakistan	LOCATION
+Monday	TEMPORAL:DATE
+England	LOCATION
+J. Crawley 106	PRODUCT
+G. Thorpe	PERSON
+Waqar Younis	PERSON
+Pakistan	LOCATION
+Saeed Anwar	PERSON
+Salim Malik	PERSON
+Ijaz Ahmed	PERSON
+England	LOCATION
+M. Atherton	PERSON
+Haq	PERSON
+Mushtaq Ahmed	PERSON
+Asif Mujtaba	PERSON
+Mushtaq Ahmed 54 N. Hussain	PERSON
+Mushtaq Ahmed 51 G. Thorpe	PERSON
+Wasim Akram	PERSON
+Mushtaq Ahmed 9 J. Crawley	PERSON
+Aamir Sohail	PERSON
+Wasim Akram 19 N. Knight	PERSON
+Mushtaq Ahmed 8 C. Lewis	PERSON
+Waqar Younis 4 D. Cork	PERSON
+Mushtaq Ahmed 26 R. Croft	PERSON
+Ijaz Ahmed	PERSON
+Wasim Akram	PERSON
+Wasim Akram	PERSON
+Wasim Akram	PERSON
+Waqar Younis	PERSON
+18-3-55	TEMPORAL:DATE
+Mushtaq Ahmed	PERSON
+Aamir Sohail	PERSON
+Mohammad Akram Pakistan	PERSON
+Saeed Anwar	PERSON
+Aamir Sohail	PERSON
+Ijaz Ahmed	PERSON
+Mullally 3	PRODUCT
+Croft	PERSON
+Pakistan	LOCATION
+Lord	TITLE
+Pakistan	LOCATION
+Pakistan	LOCATION

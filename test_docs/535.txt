@@ -1,0 +1,88 @@
+
+Language Region: 0 4439 English
+Entity	Type
+WASHINGTON ADVANCE	LOCATION
+TWO WOMEN	PERSON
+Larry Fine	PERSON
+NEW YORK	LOCATION
+1996-08-26	TEMPORAL:DATE
+Michael Chang	PERSON
+U.S. Open	ORGANIZATION
+24-year	TEMPORAL:TIME
+American	NATIONALITY
+Monday	TEMPORAL:DATE
+Chang	PERSON
+Pete Sampras	PERSON
+two hours	TEMPORAL:TIME
+40 minutes	TEMPORAL:TIME
+Jaime Oncins	PERSON
+Brazil	LOCATION
+Chang	PERSON
+Chang	PERSON
+MaliVai Washington	ORGANIZATION
+Moroccan	NATIONALITY
+Karim Alami	PERSON
+Washington	LOCATION
+27-year	TEMPORAL:TIME
+American	NATIONALITY
+Stadium Court	LOCATION
+a half hour	TEMPORAL:TIME
+Alami	PERSON
+Washington	LOCATION
+Chang	PERSON
+Washington	LOCATION
+a day	TEMPORAL:TIME
+Australian	NATIONALITY
+Anke Huber	PERSON
+Germany	LOCATION
+South African	NATIONALITY
+Amanda Coetzer	PERSON
+Coetzer	PERSON
+Huber	PERSON
+Melbourne	LOCATION
+Aleksandra Olsza	PERSON
+Poland	LOCATION
+Magdalena Maleeva	PERSON
+Bulgaria	LOCATION
+Germany	LOCATION
+Michael Stich	PERSON
+French	NATIONALITY
+Sergi Bruguera	PERSON
+Spain	LOCATION
+German	NATIONALITY
+Tommy Haas	PERSON
+Belgian	NATIONALITY
+Kris Goossens	PERSON
+Alex O'Brien	PERSON
+eight days	TEMPORAL:TIME
+New Haven	LOCATION
+Ecuador	LOCATION
+Nicolas Lapentti	PERSON
+Jeff Tarango	PERSON
+Monday	TEMPORAL:DATE
+German	NATIONALITY
+Alex Radulescu	PERSON
+Tarango	PERSON
+Chang	PERSON
+Oncins	PERSON
+Barcelona Olympics	LOCATION
+Chang	PERSON
+Brazilian	NATIONALITY
+Oncins	PERSON
+Oncins	PERSON
+Chang	PERSON
+Oncins	PERSON
+Chang	PERSON
+an hour	TEMPORAL:TIME
+Oncins	PERSON
+Chang	PERSON
+Oncins	PERSON
+26-year	TEMPORAL:TIME
+Brazilian	NATIONALITY
+Sao Paulo	LOCATION
+Oncins	PERSON
+Two months	TEMPORAL:TIME
+Oncins	PERSON
+Jim Courier	PERSON
+Mats Wilander	PERSON
+Mary Joe Fernandez	PERSON

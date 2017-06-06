@@ -1,0 +1,20 @@
+
+Language Region: 0 743 English
+Entity	Type
+Chad	LOCATION
+November 24	TEMPORAL:DATE
+1996-08-29	TEMPORAL:DATE
+Chad	LOCATION
+President	TITLE
+Idriss Deby	PERSON
+November 24	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+Central African	NATIONALITY
+November 20	TEMPORAL:DATE
+national assembly	ORGANIZATION
+February 10	TEMPORAL:DATE
+Deby	PERSON
+July 3 , 1996	TEMPORAL:DATE
+Republican Front	ORGANIZATION
+Deby	PERSON
+Patriotic Salvation Movement	ORGANIZATION

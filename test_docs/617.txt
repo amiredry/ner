@@ -1,0 +1,50 @@
+
+Language Region: 0 2526 English
+Entity	Type
+Clinton	PERSON
+CHICAGO	LOCATION
+1996-08-26	TEMPORAL:DATE
+Sarah Brady	PERSON
+Republican	ORGANIZATION
+President	TITLE
+Ronald Reagan	PERSON
+Democratic National	ORGANIZATION
+Monday	TEMPORAL:DATE
+President	TITLE
+Bill Clinton	PERSON
+James	PERSON
+Mrs.	TITLE
+Brady	PERSON
+Democratic Congress	ORGANIZATION
+Clinton	PERSON
+United States	LOCATION
+Bradys	ORGANIZATION
+Hillary Rodham Clinton	PERSON
+Jim	PERSON
+San Diego	LOCATION
+Republican	ORGANIZATION
+Mrs.	TITLE
+Brady	PERSON
+Reagan	LOCATION
+press secretary	TITLE
+Sarah	PERSON
+Democratic	ORGANIZATION
+Republican	ORGANIZATION
+Republican national party	ORGANIZATION
+February 28 , 1994	TEMPORAL:DATE
+Mrs.	TITLE
+Brady	PERSON
+President	TITLE
+Clinton	PERSON
+Jim	PERSON
+President	TITLE
+Clinton	PERSON
+Mr. President	TITLE
+Jim Brady	PERSON
+Brady	PERSON
+John Hinckley	PERSON
+Reagan	LOCATION
+Jodie Foster	PERSON
+Congress	ORGANIZATION
+seven years	TEMPORAL:TIME
+National Rifle Association	ORGANIZATION

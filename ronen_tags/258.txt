@@ -1,0 +1,13 @@
+RUGBY UNION - NEW ZEALAND DEFEAT SOUTH <LOCATION>AFRICA</LOCATION> 33-26 .
+PRETORIA , <LOCATION>South Africa</LOCATION> 1996-08-24
+New Zealand beat <LOCATION>South Africa</LOCATION> 33-26 ( halftime 21-11 ) in the second test on Saturday .
+Scorers :
+South Africa - Tries : Hannes Strydom , <PERSON>Ruben Kruger</PERSON> <ORGANIZATION>, Joost van der Westhuizen</ORGANIZATION> .
+Penalties : <PERSON>Joel Stranksy</PERSON> ( 3 ) .
+Conversion : Stranksy .
+New Zealand - Tries : Jeff Wilson ( 2 ) , Zinzan Brooke .
+Penalties : Simon Culhane , <PERSON>Jon Preston</PERSON> ( 2 ) .
+Conversions : Culhane ( 3 ) .
+Drop goal : Zinzan Brooke .
+New Zealand lead the three-test series 2-0 .
+

@@ -1,0 +1,14 @@
+
+Language Region: 0 732 English
+Entity	Type
+LONDON	LOCATION
+1996-08-28	TEMPORAL:DATE
+Britain	LOCATION
+Steven Redgrave	PERSON
+Wednesday	TEMPORAL:DATE
+Sydney	LOCATION
+Redgrave	PERSON
+Matthew Pinsent	PERSON
+Atlanta	LOCATION
+Sydney	LOCATION
+four years	TEMPORAL:TIME

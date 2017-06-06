@@ -1,0 +1,42 @@
+
+Language Region: 0 1380 English
+Entity	Type
+LONDON	LOCATION
+1996-08-24	TEMPORAL:DATE
+Newcastle	LOCATION
+Saturday	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+England	LOCATION
+Alan Shearer	PERSON
+Kevin Keegan	PERSON
+13 minutes	TEMPORAL:TIME
+Wednesday	TEMPORAL:DATE
+Yugoslav	NATIONALITY
+Dejan Stefanovic	PERSON
+Colombian	NATIONALITY
+Faustino Asprilla	PERSON
+two minutes	TEMPORAL:TIME
+Wednesday	TEMPORAL:DATE
+Peter Atherton	PERSON
+Mark Pembridge	PERSON
+Guy Whittingham	PERSON
+Yorkshire	LOCATION
+10 minutes	TEMPORAL:TIME
+Newcastle	LOCATION
+England	LOCATION
+Les Ferdinand	PERSON
+Wednesday	TEMPORAL:DATE
+Liverpool	LOCATION
+Sunderland	LOCATION
+London	LOCATION
+Tottenham Hotspur	LOCATION
+Everton	LOCATION
+Frenchman	NATIONALITY
+Frank LeBoeuf	PERSON
+Italian	NATIONALITY
+Gianluca Vialli	PERSON
+Chelsea	LOCATION
+Leicester	LOCATION
+Manchester United	ORGANIZATION
+Blackburn	LOCATION
+Sunday	TEMPORAL:DATE

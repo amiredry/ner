@@ -1,0 +1,13 @@
+
+Language Region: 0 820 English
+Entity	Type
+Spanish	NATIONALITY
+BUNOL , Spain	LOCATION
+1996-08-28	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+Spanish	NATIONALITY
+Bunol	LOCATION
+priest	TITLE
+mayor	TITLE
+Bunol	LOCATION
+Boo-nee-OL	PERSON

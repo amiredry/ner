@@ -1,0 +1,9 @@
+
+Language Region: 0 372 English
+Entity	Type
+Manila	LOCATION
+1996-08-26	TEMPORAL:DATE
+Philippine	NATIONALITY
+United Coconut	LOCATION
+Philippines	LOCATION
+Europe	LOCATION

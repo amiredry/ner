@@ -1,0 +1,41 @@
+
+Language Region: 0 1427 English
+Entity	Type
+Kevorkian	PERSON
+PONTIAC , Mich	LOCATION
+Dr.	TITLE
+Jack Kevorkian	PERSON
+a week	TEMPORAL:TIME
+Thursday	TEMPORAL:DATE
+40-year	TEMPORAL:TIME
+Missouri	LOCATION
+Dr	TITLE
+Robert Aranosian	PERSON
+emergency room director	TITLE
+Pontiac Osteopathic Hospital	LOCATION
+Kevorkian	PERSON
+Patricia Smith	PERSON
+Lees Summit	ORGANIZATION
+Mo	PERSON
+36 hours	TEMPORAL:TIME
+doctor	TITLE
+Kevorkian	PERSON
+Geoffrey Fieger	PERSON
+Smith	PERSON
+David	PERSON
+James Poland	PERSON
+Kevorkian	PERSON
+president	TITLE
+Kevorkian	PERSON
+Smith	PERSON
+Tuesday	TEMPORAL:DATE
+Kevorkian	PERSON
+Louise Siebens	PERSON
+76-year	TEMPORAL:TIME
+Texas	LOCATION
+Lou Gehrig	PERSON
+August 15	TEMPORAL:DATE
+Kevorkian	PERSON
+Judith Curren	PERSON
+42-year	TEMPORAL:TIME
+Massachusetts	LOCATION

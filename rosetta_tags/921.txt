@@ -1,0 +1,49 @@
+
+Language Region: 0 2916 English
+Entity	Type
+Hong Kong	LOCATION
+Tsang	PERSON
+Mark Trevelyan	PERSON
+1996-08-29	TEMPORAL:DATE
+Hong Kong	LOCATION
+Financial Secretary	TITLE
+Donald Tsang	PERSON
+Thursday	TEMPORAL:DATE
+Tsang	PERSON
+New Zealand	LOCATION
+Hong Kong	LOCATION
+U.S.	LOCATION
+China	LOCATION
+Hong Kong	LOCATION
+a year	TEMPORAL:TIME
+1996 year	TEMPORAL:TIME
+Hong Kong	LOCATION
+Friday	TEMPORAL:DATE
+Tsang	PERSON
+New Zealand	LOCATION
+Finance Minister	TITLE
+Bill Birch	PERSON
+Hong Kong	LOCATION
+U.S.	LOCATION
+12 years	TEMPORAL:TIME
+Hong Kong	LOCATION
+China	LOCATION
+Britain	LOCATION
+Hong Kong	LOCATION
+Chinese	NATIONALITY
+June 30 , 1997	TEMPORAL:DATE
+Tsang	PERSON
+Chinese	NATIONALITY
+Hong Kong	LOCATION
+Hong Kong	LOCATION
+Beijing	LOCATION
+Tsang	PERSON
+Tsang	PERSON
+Tsang	PERSON
+governor	TITLE
+chief secretary	TITLE
+financial secretary	TITLE
+two years	TEMPORAL:TIME
+British	NATIONALITY
+three years	TEMPORAL:TIME
+China	LOCATION

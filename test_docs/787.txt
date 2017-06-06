@@ -1,0 +1,18 @@
+
+Language Region: 0 639 English
+Entity	Type
+U.S.	LOCATION
+Indonesia	LOCATION
+1996-08-28	TEMPORAL:DATE
+U.S. Consulate-General	ORGANIZATION
+Indonesia	LOCATION
+Surabaya	LOCATION
+Wednesday	TEMPORAL:DATE
+Craig Stromme	PERSON
+U.S.	LOCATION
+Jakarta	LOCATION
+700 km	IDENTIFIER:DISTANCE
+430 miles	IDENTIFIER:DISTANCE
+Surabaya	LOCATION
+Tuesday	TEMPORAL:DATE
+Stromme	PERSON

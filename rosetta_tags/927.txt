@@ -1,0 +1,9 @@
+
+Language Region: 0 310 English
+Entity	Type
+Salomon & Taylor	ORGANIZATION
+TOKYO	LOCATION
+1996-08-29	TEMPORAL:DATE
+March 31 , 1997	TEMPORAL:DATE
+AGO	ORGANIZATION
+Salomon & Taylor Made Co Ltd	ORGANIZATION

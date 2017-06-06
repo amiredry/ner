@@ -1,0 +1,35 @@
+
+Language Region: 0 1720 English
+Entity	Type
+Alejandro Lanusse	PERSON
+1996-08-26	TEMPORAL:DATE
+Alejandro Lanusse	PERSON
+Argentina	LOCATION
+two years	TEMPORAL:TIME
+Monday	TEMPORAL:DATE
+Lanusse	PERSON
+a week	TEMPORAL:TIME
+Juan Domingo Peron	PERSON
+Argentina	LOCATION
+Argentina	LOCATION
+17 years	TEMPORAL:TIME
+Lanusse	PERSON
+five years	TEMPORAL:TIME
+Juan Carlos Ongania	PERSON
+Marcelo Levingston	PERSON
+Argentina	LOCATION
+Lanusse	PERSON
+March 1973	TEMPORAL:DATE
+Peronists	ORGANIZATION
+Hector Campora	PERSON
+Vicente Solano Lima	PERSON
+Lanusse	PERSON
+four years	TEMPORAL:TIME
+Peron	PERSON
+General	TITLE
+Benjamin Menendez	PERSON
+Lanusse	PERSON
+Lanusse	PERSON
+Buenos Aires	LOCATION
+Ileana Bell	PERSON
+Military College	ORGANIZATION

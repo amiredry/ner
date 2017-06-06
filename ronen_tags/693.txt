@@ -1,0 +1,20 @@
+U.S. judge orders Biogen , Berlex officials deposed .
+<PERSON>Leslie Gevirtz</PERSON>
+BOSTON 1996-08-28
+In order to help him decide whether he should hear the case , a <ORGANIZATION>U.S. District Court</ORGANIZATION> judge Wednesday ordered the legal counsels of <ORGANIZATION>Biogen Inc and Berlex Laboratories</ORGANIZATION> , a subsidiary of <ORGANIZATION>Schering</ORGANIZATION> AG , deposed .
+The tempest beyond the test tube involves allegations that the <ORGANIZATION>U.S. Food and Drug Administration</ORGANIZATION> violated the Orphan Drug law by allowing Biogen the right to sell its multiple sclerosis drug <PRODUCT>Avonex</PRODUCT> .
+Berlex also charges that Avonex is so similar to its MS drug , Betaseron , that it is a patent infringement .
+Both drugs are types of interferon .
+One analyst said sales of <PRODUCT>Avonex</PRODUCT> had already cut into Betaseron market share .
+<ORGANIZATION>BioVest Research , Inc</ORGANIZATION>'s analyst <PERSON>Eddie Hedaya</PERSON> said , " Berlex sales are losing share like mad ...
+my understanding of the marketplace is that they're below expectations . "
+He added <ORGANIZATION>Chiron Corp</ORGANIZATION> reported its sales of inventory to Berlex was down .
+Chiron makes Betaseron ; Berlex markets it , he said .
+<ORGANIZATION>Biogen</ORGANIZATION> , in its <ORGANIZATION>Securities and Exchange Commission</ORGANIZATION> quarterly report for the period ending June 30 , said it had earned <CURRENCY>$ 6.1 million</CURRENCY> from Avonex sales during the drugs first six weeks on the market .
+When it approved Avonex in May , the <ORGANIZATION>FDA</ORGANIZATION> said both <ORGANIZATION>Biogen</ORGANIZATION>'s product and Betaseron were developed under the incentives of the Ophran Drug Act which provides seven years of marketing exclusivity for products that treat rare diseases .
+<PRODUCT>Avonex</PRODUCT> " has been allowed to enter the market because it differs from interferon beta-1b ( Betaseron ) ..
+the <ORGANIZATION>FDA</ORGANIZATION> said .
+Now , U.S. District Judge <PERSON>Mark Wolf</PERSON> has ordered the chief counsel for Biogen , <PERSON>Michael Astrue</PERSON> , and <PERSON>Robert Chabora</PERSON> , his counterpart at Berlex be deposed about a May 21 meeting the two men attended to help him determine whether the lawsuit filed by Biogen against Berlex should be heard in Massachusetts .
+Berlex filed a lawsuit against <ORGANIZATION>Biogen in U.S. District Court in</ORGANIZATION> Newark , N.J. in July , but <ORGANIZATION>Biogen</ORGANIZATION> had already filed a suit against Berlex in Massachusetts in May .
+Wolf ordered the depositions to determine if he or U.S. District Judge <PERSON>John Bissell</PERSON> of Newark should preside over the case .
+

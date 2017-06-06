@@ -1,0 +1,47 @@
+
+Language Region: 0 1215 English
+Entity	Type
+Iraq	LOCATION
+Saddam	PERSON
+Russia	LOCATION
+Zhirinovsky	PERSON
+BAGHDAD	LOCATION
+1996-08-22	TEMPORAL:DATE
+Iraqi	NATIONALITY
+President	TITLE
+Saddam Hussein	PERSON
+Russian	NATIONALITY
+Vladimir Zhirinovsky	PERSON
+Baghdad	LOCATION
+Moscow	LOCATION
+Iraqi	NATIONALITY
+Thursday	TEMPORAL:DATE
+President	TITLE
+Saddam Hussein	PERSON
+Iraq	LOCATION
+Russia	LOCATION
+Zhirinovsky	PERSON
+Saddam	PERSON
+Baghdad	LOCATION
+Wednesday	TEMPORAL:DATE
+Liberal Democratic party	ORGANIZATION
+Russian Duma	ORGANIZATION
+parliament	ORGANIZATION
+Iraq	LOCATION
+Kuwait	LOCATION
+Zhirinovsky	PERSON
+Tuesday	TEMPORAL:DATE
+Russian	NATIONALITY
+U.N.	ORGANIZATION
+Iraq	LOCATION
+Moscow	LOCATION
+Baghdad	LOCATION
+Russian	NATIONALITY
+Iraq	LOCATION
+Russia	LOCATION
+Iraq	LOCATION
+Zhirinovsky	PERSON
+Iraq	LOCATION
+October	TEMPORAL:DATE
+Iraq	LOCATION
+Saddam	PERSON

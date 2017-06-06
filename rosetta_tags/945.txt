@@ -1,0 +1,63 @@
+
+Language Region: 0 234 English
+Entity	Type
+NORTHAMPTON , England	LOCATION
+1996-08-30	TEMPORAL:DATE
+British	NATIONALITY
+Friday	TEMPORAL:DATE
+Robert Allenby	PERSON
+Australia	LOCATION
+Pedro Linhart	PERSON
+Spain	LOCATION
+
+Language Region: 234 382 Italian
+Entity	Type
+Miguel Angel Martin	PERSON
+Costantino Rocca	PERSON
+Italy	LOCATION
+Antoine Lebouc	PERSON
+France	LOCATION
+Ian Woosnam	PERSON
+
+Language Region: 382 525 English
+Entity	Type
+Francisco Cea	PERSON
+Spain	LOCATION
+Gavin Levenson	PERSON
+South Africa	LOCATION
+Stephen McAllister	PERSON
+Joakim Haeggman	PERSON
+
+Language Region: 525 815 Spanish
+Entity	Type
+Jose Coceres	PERSON
+Argentina	LOCATION
+Paul Eales	PERSON
+Klas Eriksson	PERSON
+Sweden	ORGANIZATION
+Mike Clayton	PERSON
+Australia	LOCATION
+Mark Roe	PERSON
+Eamonn Darcy	PERSON
+Ireland	ORGANIZATION
+Bob May	PERSON
+Paul Lawrie	PERSON
+Miguel Angel Jimenez	PERSON
+
+Language Region: 815 1157 English
+Entity	Type
+Peter Mitchell	PERSON
+Philip Walton ( Ireland	ORGANIZATION
+Peter O'Malley	PERSON
+Australia	LOCATION
+Barry Lane	PERSON
+Wayne Riley	PERSON
+Australia	LOCATION
+Martin Gates	PERSON
+Bradley Hughes	PERSON
+Australia	LOCATION
+Peter Hedblom	PERSON
+Sweden	LOCATION
+Retief Goosen	ORGANIZATION
+South Africa	LOCATION
+David Gilford	PERSON

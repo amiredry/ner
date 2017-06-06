@@ -1,0 +1,86 @@
+
+Language Region: 0 4897 English
+Entity	Type
+Actor	TITLE
+Reeve	PERSON
+Democrats	ORGANIZATION
+first night	TEMPORAL:TIME
+CHICAGO	LOCATION
+1996-08-26	TEMPORAL:DATE
+first day	TEMPORAL:TIME
+Democratic	ORGANIZATION
+Monday	TEMPORAL:DATE
+Sarah Brady	PERSON
+Christopher Reeve	PERSON
+Richard Gephardt	PERSON
+Sen	PERSON
+Thomas Daschle	PERSON
+Monday	TEMPORAL:DATE
+Sarah Brady	PERSON
+Ronald Reagan	PERSON
+press secretary	TITLE
+James Brady	PERSON
+Handgun Control Inc.	ORGANIZATION
+Sarah Brady	PERSON
+President	TITLE
+Reagan	PERSON
+five-day	TEMPORAL:TIME
+Reagan	PERSON
+John Hinckley Jr	PERSON
+Sarah	PERSON
+James Scott Brady Jr	PERSON
+Republican	ORGANIZATION
+Republican Party	ORGANIZATION
+Christopher Reeve	PERSON
+Reeve	PERSON
+Reeve	PERSON
+Culpepper , Virginia	LOCATION
+May 27 , 1995	TEMPORAL:DATE
+Reeve	PERSON
+Democratic National Convention	ORGANIZATION
+Reeve	PERSON
+House	ORGANIZATION
+Democratic	ORGANIZATION
+Mr	TITLE
+eight years	TEMPORAL:TIME
+Gephardt	PERSON
+St. Louis	LOCATION
+House	ORGANIZATION
+Democrats	ORGANIZATION
+President	TITLE
+Bill Clinton	PERSON
+Republican	ORGANIZATION
+Congress	ORGANIZATION
+president	TITLE
+Republican	ORGANIZATION
+U.S.	LOCATION
+President	TITLE
+Ronald Reagan	PERSON
+Gephardt	PERSON
+Democratic	ORGANIZATION
+Washington	LOCATION
+South Dakota	LOCATION
+Senate	ORGANIZATION
+Democratic	ORGANIZATION
+Republicans	ORGANIZATION
+Senate	ORGANIZATION
+Midwest	LOCATION
+Democratic	ORGANIZATION
+Republican	ORGANIZATION
+Senate	ORGANIZATION
+Republican	ORGANIZATION
+Bob Dole	PERSON
+Dole	PERSON
+Senate	ORGANIZATION
+Agent Orange	ORGANIZATION
+Vietnam	LOCATION
+Daschle	PERSON
+President	TITLE
+Bill Clinton	PERSON
+White House	ORGANIZATION
+Clinton	PERSON
+Republican	ORGANIZATION
+Congress	ORGANIZATION
+three years	TEMPORAL:TIME
+Air Force	ORGANIZATION
+House of Representatives	ORGANIZATION

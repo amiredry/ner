@@ -1,0 +1,53 @@
+
+Language Region: 0 2220 English
+Entity	Type
+Larry Fine	PERSON
+NEW YORK	LOCATION
+1996-08-27	TEMPORAL:DATE
+Stefan Edberg	PERSON
+Tuesday	TEMPORAL:DATE
+Richard Krajicek	PERSON
+U.S. Open	ORGANIZATION
+Edberg	PERSON
+Stadium Court	LOCATION
+Dutchman	NATIONALITY
+30-year	TEMPORAL:TIME
+Swede	NATIONALITY
+U.S. Opens	ORGANIZATION
+Edberg	PERSON
+National Tennis Centre	ORGANIZATION
+Swede	NATIONALITY
+Krajicek	PERSON
+one hour	TEMPORAL:TIME
+44 minute	TEMPORAL:TIME
+Richard	PERSON
+Edberg	PERSON
+Pete Sampras	PERSON
+Jimy Szymanski	PERSON
+Venezuela	LOCATION
+Adrian Voinea	PERSON
+Romania	LOCATION
+Thomas Muster	PERSON
+Austria	LOCATION
+Javier Frana	PERSON
+Argentina	LOCATION
+Marcelo Rios	PERSON
+Chile	LOCATION
+Rios	PERSON
+Romania	LOCATION
+Andrei Pavel	PERSON
+Monica Seles	PERSON
+American	NATIONALITY
+Anne Miller	PERSON
+Spain	LOCATION
+Arantxa Sanchez Vicario	PERSON
+Lindsay Davenport	PERSON
+Karina Habsudova	PERSON
+Slovakia	LOCATION
+Austrian	NATIONALITY
+Judith Wiesner	PERSON
+Iva Majoli	PERSON
+Croatia	LOCATION
+Majoli	PERSON
+Anke Huber	PERSON
+Magdalena Maleeva	PERSON

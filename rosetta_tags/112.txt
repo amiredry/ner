@@ -1,0 +1,12 @@
+
+Language Region: 0 727 English
+Entity	Type
+Dhaka	LOCATION
+1996-08-22	TEMPORAL:DATE
+Dhaka	LOCATION
+Dhaka Stock Exchange	ORGANIZATION
+DSE	ORGANIZATION
+National Bank	ORGANIZATION
+Eastern Cables	ORGANIZATION
+Apex Tannery	LOCATION
+Friday	TEMPORAL:DATE

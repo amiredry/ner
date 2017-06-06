@@ -1,0 +1,11 @@
+
+Language Region: 0 481 English
+Entity	Type
+TOKYO	LOCATION
+1996-08-26	TEMPORAL:DATE
+Nomura Research Institute Ltd	ORGANIZATION
+Aronkasei Co Ltd	ORGANIZATION
+Monday	TEMPORAL:DATE
+Nikkei	ORGANIZATION
+six months	TEMPORAL:TIME
+Nomura	ORGANIZATION

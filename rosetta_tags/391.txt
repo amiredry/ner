@@ -1,0 +1,19 @@
+
+Language Region: 0 3650 English
+Entity	Type
+America	LOCATION
+Anne Murray	PERSON
+NEW YORK	LOCATION
+1996-08-23	TEMPORAL:DATE
+America	LOCATION
+Towers Perrin	ORGANIZATION
+Sandra O'Neal	PERSON
+Towers Perrin	ORGANIZATION
+O'Neal	PERSON
+three years	TEMPORAL:TIME
+O'Neal	PERSON
+O'Neal	PERSON
+O'Neal	PERSON
+O'Neal	PERSON
+O'Neal	PERSON
+O'Neal	PERSON

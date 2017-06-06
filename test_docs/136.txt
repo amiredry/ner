@@ -1,0 +1,12 @@
+
+Language Region: 0 661 English
+Entity	Type
+LONDON	LOCATION
+1996-08-23	TEMPORAL:DATE
+South African	NATIONALITY
+Shaun Pollock	PERSON
+Warwickshire	LOCATION
+English	NATIONALITY
+Pollock	PERSON
+a month	TEMPORAL:TIME
+Pollock	PERSON

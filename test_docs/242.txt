@@ -1,0 +1,77 @@
+
+Language Region: 0 434 English
+Entity	Type
+SPA-FRANCORCHAMPS , Belgium	LOCATION
+1996-08-24	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Belgian	NATIONALITY
+Saturday	TEMPORAL:DATE
+Jacques Villeneuve	PERSON
+Canada	LOCATION
+1 minute	TEMPORAL:TIME
+50.574 seconds	TEMPORAL:TIME
+Damon Hill ( Britain	LOCATION
+Williams 1:50.980 3	PRODUCT
+Michael Schumacher	PERSON
+Germany	LOCATION
+Ferrari	ORGANIZATION
+David Coulthard	PERSON
+Britain	LOCATION
+McLaren	ORGANIZATION
+
+Language Region: 434 574 Norwegian
+Entity	Type
+
+Language Region: 574 877 English
+Entity	Type
+Martin Brundle	PERSON
+Britain	LOCATION
+Jordan	LOCATION
+Eddie Irvine	PERSON
+Britain	LOCATION
+Ferrari	ORGANIZATION
+1:53.043 10	PRODUCT
+Rubens Barrichello	PERSON
+Brazil	LOCATION
+Jordan	LOCATION
+Heinz-Harald Frentzen	PERSON
+Germany	LOCATION
+Johnny Herbert	PERSON
+Britain	LOCATION
+Mika Salo	PERSON
+Finland	LOCATION
+Tyrrell 1:54.095	LOCATION
+
+Language Region: 877 967 Spanish
+Entity	Type
+Olivier Panis	PERSON
+France	ORGANIZATION
+Ligier	ORGANIZATION
+Pedro Diniz	PERSON
+Brazil	LOCATION
+Ligier	ORGANIZATION
+
+Language Region: 967 1112 English
+Entity	Type
+Jos Verstappen ( Netherlands	ORGANIZATION
+Arrows 1:55.150 17	PRODUCT
+Ukyo Katayama ( Japan	ORGANIZATION
+Tyrrell 1:55.371	LOCATION
+Ricardo Rosset	PERSON
+Brazil	LOCATION
+Arrows 1:56.286	PRODUCT
+
+Language Region: 1112 1158 Portuguese
+Entity	Type
+Pedro Lamy	PERSON
+Portugal	LOCATION
+Minardi	ORGANIZATION
+
+Language Region: 1158 1220 English
+Entity	Type
+
+Language Region: 1220 1269 Italian
+Entity	Type
+Giovanni Lavaggi	PERSON
+Italy	LOCATION
+Minardi	ORGANIZATION

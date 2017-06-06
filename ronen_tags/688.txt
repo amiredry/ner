@@ -1,0 +1,7 @@
+CRICKET - <LOCATION>INDIA</LOCATION> WIN TOSS AND BAT AGAINST SRI LANKA .
+COLOMBO 1996-08-28
+India won the toss and elected to bat against <LOCATION>Sri Lanka</LOCATION> in the second day-night limited overs cricket match of the Singer World Series tournament on Wednesday .
+Teams :
+India - Sachin Tendulkar ( captain ) , Anil Kumble , Ajay Jadeja , Sourav Ganguly , <PERSON>Mohamed Azharuddin , Vinod Kambli , Rahul Dravid , Nayan Mongia</PERSON> , Javagal Srinath , <PERSON>Venkatesh Prasad , Ashish Kapoor</PERSON> .
+<LOCATION>Sri</LOCATION> <ORGANIZATION>Lanka - Arjuna Ranatunga</ORGANIZATION> ( captain ) , Sanath Jayasuriya , <PERSON>Romesh Kaluwitharana , Asanka Gurusinha , Aravinda de Silva</PERSON> , Hashan Tillekeratne , <PERSON>Roshan Mahanama , Kumara Dharmasena , Chaminda Vaas , Muthiah Muralitharan , Ravindra Pushpakumara</PERSON> .
+

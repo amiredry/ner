@@ -1,0 +1,1 @@
+[{"sentiment_polarity": "neutral", "is_about": true, "title": "Keller", "entity_type": "Place", "evidence": 1, "confident": true, "sentiment_score": 0.0, "label": "Place", "type": "named"}, {"sentiment_polarity": "neutral", "is_about": false, "title": "Fortuna", "entity_type": "Place", "evidence": 1, "confident": true, "sentiment_score": 0.0, "label": "Place", "type": "named"}]

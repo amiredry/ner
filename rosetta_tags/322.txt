@@ -1,0 +1,49 @@
+
+Language Region: 0 1802 English
+Entity	Type
+SUGO	ORGANIZATION
+Japan	LOCATION
+1996-08-25	TEMPORAL:DATE
+Teenager	TITLE
+Yuuichi Takeda	PERSON
+Sunday	TEMPORAL:DATE
+Takeda	PERSON
+Australian	NATIONALITY
+Ducati	ORGANIZATION
+Troy Corser	PERSON
+Honda	ORGANIZATION
+Takeda	PERSON
+Corser	PERSON
+Yamaha	ORGANIZATION
+Noriyuki Haga	PERSON
+Wataru Yoshikawa	PERSON
+Haga	PERSON
+Takeda	PERSON
+Haga	PERSON
+Yoshikawa	PERSON
+Haga	PERSON
+Corser	PERSON
+Friday	TEMPORAL:DATE
+four seconds	TEMPORAL:TIME
+Takeda	PERSON
+Aaron Slight	PERSON
+New Zealand	LOCATION
+11 seconds	TEMPORAL:TIME
+Takeda	PERSON
+Takuma Aoki	PERSON
+Aoki	PERSON
+Haruchika	PERSON
+John Kocinski	PERSON
+United States	LOCATION
+Ducati	ORGANIZATION
+Kocinski	PERSON
+Aoki	PERSON
+Takeda	PERSON
+Takeda	PERSON
+Kocinski	PERSON
+Aoki	PERSON
+Haga	PERSON
+Corser	PERSON
+Japanese	NATIONALITY
+Corser	PERSON
+Kocinski	PERSON

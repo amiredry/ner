@@ -1,0 +1,30 @@
+
+Language Region: 0 2427 English
+Entity	Type
+Aug 25	TEMPORAL:DATE
+Captain	TITLE
+Sean Fitzpatrick	PERSON
+South Africa	LOCATION
+NZPA	ORGANIZATION
+New Zealand	LOCATION
+South Africa	LOCATION
+Loftus Versfeld	LOCATION
+Fitzpatrick	PERSON
+New Zealand	LOCATION
+Zinzan Brooke	PERSON
+England	LOCATION
+a second	TEMPORAL:TIME
+Justin Marshall	PERSON
+Jon Preston	PERSON
+Brooke	PERSON
+Frank Bunce	PERSON
+20 minutes	TEMPORAL:TIME
+Jeff Wilson	PERSON
+Bunce	PERSON
+Wilson	PERSON
+New Zealander	NATIONALITY
+South African	NATIONALITY
+Blacks coach	TITLE
+John Hart	PERSON
+Prime Minister	TITLE
+Jim Bolger	PERSON

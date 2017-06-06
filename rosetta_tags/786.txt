@@ -1,0 +1,15 @@
+
+Language Region: 0 536 English
+Entity	Type
+Liu Chong Hing	PERSON
+HONG KONG	LOCATION
+1996-08-28	TEMPORAL:DATE
+Six months	TEMPORAL:TIME
+June 30	TEMPORAL:DATE
+HK	LOCATION
+Liu Chong	PERSON
+Hing Investment Ltd Books	ORGANIZATION
+September 23	TEMPORAL:DATE
+October 8	TEMPORAL:DATE
+Liu Chong Hing	PERSON
+Hong Kong Newsroom	LOCATION

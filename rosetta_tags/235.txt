@@ -1,0 +1,8 @@
+
+Language Region: 0 406 English
+Entity	Type
+Shanghai Post	ORGANIZATION
+SHANGHAI	LOCATION
+1996-08-23	TEMPORAL:DATE
+June 30 , 1996	TEMPORAL:DATE
+Shanghai Posts and Telecommunications Equipment Co	ORGANIZATION

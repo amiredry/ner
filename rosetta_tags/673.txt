@@ -1,0 +1,57 @@
+
+Language Region: 0 2236 English
+Entity	Type
+ROME	LOCATION
+1996-08-28	TEMPORAL:DATE
+Parma	LOCATION
+Roma	LOCATION
+Italian	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Milan	LOCATION
+Empoli	LOCATION
+Parma	LOCATION
+Italian	NATIONALITY
+Carlo Ancelotti	PERSON
+Enrico Chiesa	PERSON
+Pescara	LOCATION
+Pescara	LOCATION
+Ottavio Palladini	PERSON
+Parma	LOCATION
+second and fourth minutes	TEMPORAL:TIME
+Marco Giampaolo	PERSON
+Parma	LOCATION
+Alessandro Melli	ORGANIZATION
+six minutes	TEMPORAL:TIME
+Parma	LOCATION
+Palermo	LOCATION
+Roma	LOCATION
+Carlos Bianchi	PERSON
+Italian	NATIONALITY
+national coach	TITLE
+Arrigo Sacchi	PERSON
+Cesena	LOCATION
+Rome	LOCATION
+Germany	LOCATION
+Oliver Bierhoff	PERSON
+Cremonese	LOCATION
+Milan	LOCATION
+Uruguayan	NATIONALITY
+coach	TITLE
+Oscar Tabarez	PERSON
+Sunday	TEMPORAL:DATE
+Fiorentina	LOCATION
+European	NATIONALITY
+Juventus	LOCATION
+Fidelis Andria	PERSON
+Piacenza	LOCATION
+Atalanta	LOCATION
+Wednesday	TEMPORAL:DATE
+Lecce	LOCATION
+Genoa	LOCATION
+judge	TITLE
+Thursday	TEMPORAL:DATE
+Genoa	LOCATION
+a second	TEMPORAL:TIME
+Sampdoria	LOCATION
+Nocerina	LOCATION
+Piacenza	LOCATION

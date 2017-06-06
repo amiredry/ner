@@ -1,0 +1,106 @@
+
+Language Region: 0 4281 English
+Entity	Type
+Chechnya	LOCATION
+Lebed	PERSON
+Yeltsin	PERSON
+Dmitry Kuznets NOVYE ATAGI	PERSON
+Russia	LOCATION
+1996-08-27	TEMPORAL:DATE
+Russian	NATIONALITY
+commanders	TITLE
+Chechnya	LOCATION
+Tuesday	TEMPORAL:DATE
+President	TITLE
+Boris Yeltsin	PERSON
+envoy	TITLE
+Alexander Lebed	PERSON
+Russian	NATIONALITY
+commander	TITLE
+General	TITLE
+Vyacheslav Tikhomirov	PERSON
+Novye Atagi	LOCATION
+20 km	IDENTIFIER:DISTANCE
+12 miles	IDENTIFIER:DISTANCE
+Chechen	NATIONALITY
+Grozny	LOCATION
+chief-of-staff	TITLE
+Aslan Maskhadov	PERSON
+Lebed	PERSON
+Kremlin	ORGANIZATION
+security chief	TITLE
+Moscow	LOCATION
+Yeltsin	PERSON
+Chechnya	LOCATION
+Itar-Tass	ORGANIZATION
+Kremlin	ORGANIZATION
+Yeltsin	PERSON
+Moscow	LOCATION
+Monday	TEMPORAL:DATE
+Tuesday	TEMPORAL:DATE
+Lebed	PERSON
+Chechnya	LOCATION
+Sunday	TEMPORAL:DATE
+Yeltsin	PERSON
+Monday	TEMPORAL:DATE
+Lebed	PERSON
+president	TITLE
+Tuesday	TEMPORAL:DATE
+Yeltsin	PERSON
+president	TITLE
+Moscow	LOCATION
+Russians	NATIONALITY
+Chechen	NATIONALITY
+interior ministry	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Chechens	NATIONALITY
+Monday	TEMPORAL:DATE
+Russian	NATIONALITY
+Tass	PERSON
+Lebed	PERSON
+Maskhadov	PERSON
+Thursday	TEMPORAL:DATE
+0645 GMT	TEMPORAL:TIME
+Novye Atagi	LOCATION
+Tuesday	TEMPORAL:DATE
+Tim Guldimann	PERSON
+Swiss	ORGANIZATION
+Chechnya	LOCATION
+Organisation for Security	ORGANIZATION
+Europe	LOCATION
+OSCE	ORGANIZATION
+Guldimann	PERSON
+Tikhomirov	PERSON
+Maskhadov	PERSON
+Lebed	PERSON
+20-month	TEMPORAL:TIME
+Russian	NATIONALITY
+Itar-Tass	ORGANIZATION
+Russian	NATIONALITY
+Tuesday	TEMPORAL:DATE
+RIA	ORGANIZATION
+Russian	NATIONALITY
+Chechen	NATIONALITY
+Grozny	LOCATION
+Tuesday	TEMPORAL:DATE
+Interfax	ORGANIZATION
+Lebed	PERSON
+Tuesday	TEMPORAL:DATE
+Yeltsin	PERSON
+Lebed	PERSON
+Yeltsin	PERSON
+Russian	NATIONALITY
+Kremlin	ORGANIZATION
+Lebed	PERSON
+president	TITLE
+Yeltsin	PERSON
+July	TEMPORAL:DATE
+Kremlin	ORGANIZATION
+Chechnya	LOCATION
+Russia	LOCATION
+Lebed	PERSON
+Moscow	LOCATION
+Yeltsin	PERSON
+Moscow	LOCATION
+Chechnya	LOCATION
+Russian	NATIONALITY

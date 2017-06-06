@@ -1,0 +1,41 @@
+
+Language Region: 0 1228 English
+Entity	Type
+Israeli	NATIONALITY
+president	TITLE
+Arafat	PERSON
+JERUSALEM	LOCATION
+1996-08-25	TEMPORAL:DATE
+Israeli	NATIONALITY
+President	TITLE
+Ezer Weizman	PERSON
+Yasser Arafat	PERSON
+Israel	LOCATION
+Sunday	TEMPORAL:DATE
+Yedioth Ahronoth	ORGANIZATION
+Prime Minister	TITLE
+Benjamin Netanyahu	PERSON
+Palestinian	NATIONALITY
+president	TITLE
+Weizman	PERSON
+Israeli	NATIONALITY
+Caesarea	LOCATION
+Arafat	PERSON
+Netanyahu	PERSON
+Weizman	PERSON
+Tuesday	TEMPORAL:DATE
+Yedioth	ORGANIZATION
+Arafat	PERSON
+10 days	TEMPORAL:TIME
+Weizman	PERSON
+Netanyahu	PERSON
+Netanyahu	PERSON
+Weizman	PERSON
+Israeli	NATIONALITY
+president	TITLE
+Weizman	PERSON
+defence minister	TITLE
+Israel	LOCATION
+Egypt	LOCATION
+Palestinians	NATIONALITY
+Labour	ORGANIZATION

@@ -1,0 +1,46 @@
+
+Language Region: 0 733 English
+Entity	Type
+SPA-FRANCORCHAMPS , Belgium	LOCATION
+1996-08-23	TEMPORAL:DATE
+Friday	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Belgian	NATIONALITY
+Gerhard Berger	PERSON
+Austria	LOCATION
+Benetton	ORGANIZATION
+1 minute	TEMPORAL:TIME
+53.706 seconds	TEMPORAL:TIME
+David Coulthard	PERSON
+Britain	LOCATION
+McLaren 1:54.342 3	PRODUCT
+Jacques Villeneuve	PERSON
+Canada	LOCATION
+Williams	PERSON
+Mika Hakkinen	PERSON
+Finland	LOCATION
+McLaren 1:54.754 5	PRODUCT
+Heinz-Harald Frentzen	PERSON
+Germany	LOCATION
+Jean Alesi	PERSON
+France	LOCATION
+Benetton	ORGANIZATION
+Damon Hill	LOCATION
+Britain	LOCATION
+Williams	PERSON
+Michael Schumacher	PERSON
+Germany	LOCATION
+Martin Brundle	PERSON
+Britain	LOCATION
+Jordan	LOCATION
+Rubens Barrichello	PERSON
+Brazil	LOCATION
+Jordan	LOCATION
+Johnny Herbert	PERSON
+Britain	LOCATION
+
+Language Region: 733 779 Spanish
+Entity	Type
+Olivier Panis	PERSON
+France	ORGANIZATION
+Ligier	ORGANIZATION

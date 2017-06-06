@@ -1,0 +1,55 @@
+
+Language Region: 0 388 English
+Entity	Type
+HAARLEM , Netherlands	LOCATION
+1996-08-27	TEMPORAL:DATE
+Netherlands	LOCATION
+Haarlem	LOCATION
+Tuesday	TEMPORAL:DATE
+Federico Colonna	PERSON
+Italy	LOCATION
+Mapei	ORGANIZATION
+three hours	TEMPORAL:TIME
+43 mins	TEMPORAL:TIME
+five secs	TEMPORAL:TIME
+Robbie McEwen	PERSON
+Australia	LOCATION
+Rabobank 3	PRODUCT
+Jans Koerts	PERSON
+Netherlands	LOCATION
+
+Language Region: 388 494 Norwegian
+Entity	Type
+
+Language Region: 494 1092 English
+Entity	Type
+Johan Capiot	PERSON
+Belgium	LOCATION
+John	PERSON
+Jeroen Blijlevens	PERSON
+TVM 10	PRODUCT
+Michael van der Wolf	PERSON
+Colonna	PERSON
+three hours	TEMPORAL:TIME
+42 mins	TEMPORAL:TIME
+55 seconds	TEMPORAL:TIME
+McEwen	PERSON
+0:04	TEMPORAL:TIME
+Koerts 0:06 4	PRODUCT
+Gianluca Corini	PERSON
+Italy	LOCATION
+Aki 0:07 5	PRODUCT
+Wim Omloop	PERSON
+Belgium	LOCATION
+Lance Armstrong	PERSON
+USA	LOCATION
+Motorola	ORGANIZATION
+0:08	TEMPORAL:TIME
+Tristan Hoffman	PERSON
+George Hincapie	PERSON
+USA	LOCATION
+Motorola	ORGANIZATION
+0:09	TEMPORAL:TIME
+John Talen	PERSON
+Teutenberg	PERSON
+0:10	TEMPORAL:TIME

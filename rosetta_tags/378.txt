@@ -1,0 +1,40 @@
+
+Language Region: 0 1235 English
+Entity	Type
+Russian	NATIONALITY
+Grozny	LOCATION
+SHATOI	ORGANIZATION
+Russia	LOCATION
+1996-08-25	TEMPORAL:DATE
+Russian	NATIONALITY
+Chechnya	LOCATION
+Sunday	TEMPORAL:DATE
+Russian	NATIONALITY
+security chief	TITLE
+Alexander Lebed	PERSON
+Grozny	LOCATION
+commander	TITLE
+Russian	NATIONALITY
+Interior Ministry	ORGANIZATION
+Chechnya	LOCATION
+General	TITLE
+Anatoly Shkirko	PERSON
+Interfax	ORGANIZATION
+Chechens	NATIONALITY
+Reuters	ORGANIZATION
+Liutauras Stremaitis	PERSON
+Chechen	NATIONALITY
+Shatoi	LOCATION
+50 km	IDENTIFIER:DISTANCE
+31 miles	IDENTIFIER:DISTANCE
+Grozny	LOCATION
+Shkirko	PERSON
+Interfax	ORGANIZATION
+Chechens	NATIONALITY
+Chechen	NATIONALITY
+Movladi Udugov	PERSON
+Chechens	NATIONALITY
+Russian	NATIONALITY
+Lebed	PERSON
+20-month	TEMPORAL:TIME
+Chechnya	LOCATION

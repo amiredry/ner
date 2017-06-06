@@ -1,0 +1,40 @@
+
+Language Region: 0 932 English
+Entity	Type
+INDIA V SRI LANKA SCOREBOARD	PRODUCT
+COLOMBO	LOCATION
+1996-08-28	TEMPORAL:DATE
+Singer World	PERSON
+India	LOCATION
+Sri Lanka	LOCATION
+Wednesday	TEMPORAL:DATE
+India	LOCATION
+S. Tendulkar	PERSON
+Silva	PERSON
+Dharmasena	PERSON
+Kaluwitharana	PERSON
+Jayasuriya	PERSON
+V. Kambli	PERSON
+7 J. Srinath	ORGANIZATION
+A. Kumble	PERSON
+N. Mongia	PERSON
+V. Prasad	PERSON
+A. Kapoor	PERSON
+Vass	PERSON
+9-2-35	TEMPORAL:DATE
+Pushpakumara	PERSON
+Dharmasena	PERSON
+Jayasuriya	PERSON
+10-1-39	TEMPORAL:DATE
+Silva	PERSON
+Sri Lanka	LOCATION
+S. Jayasuriya	PERSON
+Kaluwitharana	PERSON
+Silva	PERSON
+3 w	IDENTIFIER:LATITUDE_LONGITUDE
+Arjuna Ranatunga	PERSON
+Asanka Gurusinha	LOCATION
+Hashan	ORGANIZATION
+
+Language Region: 932 1269 Malay
+Entity	Type

@@ -1,0 +1,27 @@
+
+Language Region: 0 1465 English
+Entity	Type
+Amtrak	ORGANIZATION
+MONTPELIER , Vt	LOCATION
+Amtrak	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Vermonter	PRODUCT
+St. Albans , Vermont	LOCATION
+Canadian	NATIONALITY
+Washington , D.C.	LOCATION
+7:51 a.m. EDT	TEMPORAL:TIME
+Roxbury	LOCATION
+15 miles	IDENTIFIER:DISTANCE
+Montpelier	LOCATION
+Amtrak	ORGANIZATION
+Maureen Garrity	PERSON
+Vermont Central Hospital	LOCATION
+Dan Pudvah	PERSON
+Pudvah	PERSON
+Garrity	PERSON
+Garrity	PERSON
+Springfield , Massachusetts	LOCATION
+New York City	LOCATION
+Washington	LOCATION
+Garrity	PERSON
+Northfield Mountains	LOCATION

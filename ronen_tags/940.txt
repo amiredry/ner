@@ -1,0 +1,7 @@
+SOCCER - WALES BEAT SAN <LOCATION>MARINO</LOCATION> 4-0 IN UNDER-21 MATCH .
+BARRY , Wales 1996-08-30
+Wales beat <LOCATION>San Marino</LOCATION> 4-0 ( halftime 2-0 ) in a European under-21 soccer match on Friday .
+Scorers :
+Wales - John Hartson ( 12th , 56th and 83rd minutes ) , <PERSON>Scott Young</PERSON> ( 24th )
+Attendance : 1,800
+

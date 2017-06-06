@@ -1,0 +1,16 @@
+
+Language Region: 0 65 English Uppercase
+Entity	Type
+PAKISTAN	LOCATION
+ENGLAND	LOCATION
+
+Language Region: 65 281 English
+Entity	Type
+LONDON	LOCATION
+1996-08-26	TEMPORAL:DATE
+Pakistan	LOCATION
+England	LOCATION
+fifth day	TEMPORAL:TIME
+Monday	TEMPORAL:DATE
+England	LOCATION
+Pakistan	LOCATION

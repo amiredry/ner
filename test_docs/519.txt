@@ -1,0 +1,10 @@
+
+Language Region: 0 168 English
+Entity	Type
+BELCHATOW , Poland	LOCATION
+1996-08-27	TEMPORAL:DATE
+Poland	LOCATION
+Cyprus	LOCATION
+
+Language Region: 168 343 Polish
+Entity	Type

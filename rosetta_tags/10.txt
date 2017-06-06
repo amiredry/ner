@@ -1,0 +1,74 @@
+
+Language Region: 0 2678 English
+Entity	Type
+Israel	LOCATION
+Syria	LOCATION
+Colleen Siegel	PERSON
+JERUSALEM	LOCATION
+1996-08-22	TEMPORAL:DATE
+Israel	LOCATION
+Syria	LOCATION
+Thursday	TEMPORAL:DATE
+Itamar Rabinovich	PERSON
+Israel	LOCATION
+ambassador	TITLE
+Washington	LOCATION
+Syria	LOCATION
+Israel	LOCATION
+Damascus	LOCATION
+Syrian	NATIONALITY
+Syrians	NATIONALITY
+Washington	LOCATION
+Rabinovich	PERSON
+ambassador	TITLE
+Eliahu Ben-Elissar	PERSON
+Israeli	NATIONALITY
+envoy	TITLE
+Egypt	LOCATION
+Likud	ORGANIZATION
+Israel	LOCATION
+Wednesday	TEMPORAL:DATE
+Syria	LOCATION
+Washington	LOCATION
+Damascus	LOCATION
+Syria	LOCATION
+Israel	LOCATION
+Wednesday	TEMPORAL:DATE
+Israeli	NATIONALITY
+Damascus	LOCATION
+Syrian	NATIONALITY
+President	TITLE
+Hafez al- ) Assad	PERSON
+Israel	LOCATION
+Israeli	NATIONALITY
+Foreign Minister	TITLE
+David Levy	PERSON
+Israel	LOCATION
+Israeli	NATIONALITY
+Prime Minister	TITLE
+Benjamin Netanyahu	PERSON
+June	TEMPORAL:DATE
+Golan Heights Israel	LOCATION
+Syria	LOCATION
+Middle East	LOCATION
+Israeli	NATIONALITY
+Syrian	NATIONALITY
+Golan	LOCATION
+Golan	LOCATION
+February	TEMPORAL:DATE
+Damascus	LOCATION
+Levy	PERSON
+Syria	LOCATION
+Israel	LOCATION
+God	PERSON
+Israel	LOCATION
+Channel Two	ORGANIZATION
+Damascus	LOCATION
+Israel	LOCATION
+Netanyahu	PERSON
+Levy	PERSON
+Netanyahu	PERSON
+Syria	LOCATION
+Cairo	LOCATION
+United States	LOCATION
+Moscow	LOCATION

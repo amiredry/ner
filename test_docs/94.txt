@@ -1,0 +1,43 @@
+
+Language Region: 0 1007 English
+Entity	Type
+Australia	LOCATION
+foreign minister	TITLE
+China	LOCATION
+BEIJING	LOCATION
+1996-08-22	TEMPORAL:DATE
+Australian	NATIONALITY
+Foreign Minister	TITLE
+Alexander Downer	PERSON
+Beijing	LOCATION
+Thursday	TEMPORAL:DATE
+four-day	TEMPORAL:TIME
+Downer	PERSON
+Chinese	NATIONALITY
+Foreign Minister	TITLE
+Qian Qichen	PERSON
+Australian	NATIONALITY
+Hong Kong	LOCATION
+Australian	NATIONALITY
+Beijing	LOCATION
+China	LOCATION
+Hong Kong	LOCATION
+British	NATIONALITY
+China	LOCATION
+Australia	LOCATION
+Australia	LOCATION
+China	LOCATION
+Taiwan	LOCATION
+Australian	NATIONALITY
+cabinet minister	TITLE
+Taiwan	LOCATION
+Canberra	LOCATION
+Washington	LOCATION
+Australia	LOCATION
+Tibet	LOCATION
+Dalai Lama	TITLE
+Downer	PERSON
+Australian	NATIONALITY
+minister	TITLE
+China	LOCATION
+Canberra	LOCATION

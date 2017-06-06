@@ -1,0 +1,10 @@
+
+Language Region: 0 474 English
+Entity	Type
+Indian	NATIONALITY
+1996-08-28	TEMPORAL:DATE
+India	LOCATION
+Wednesday	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+Tuesday	TEMPORAL:DATE
+Bombay	LOCATION

@@ -1,0 +1,25 @@
+
+Language Region: 0 1167 English
+Entity	Type
+Thais	NATIONALITY
+Australian	NATIONALITY
+Thailand	LOCATION
+Australian	NATIONALITY
+Bangkok	LOCATION
+Thursday	TEMPORAL:DATE
+Daniel Westlake	PERSON
+Victoria	LOCATION
+Klongprem prison	LOCATION
+Sunday	TEMPORAL:DATE
+Thailand	LOCATION
+Vivit Chatuparisut	PERSON
+deputy director general	TITLE
+Correction Department	ORGANIZATION
+Reuters	ORGANIZATION
+December 1993	TEMPORAL:DATE
+15-foot	IDENTIFIER:DISTANCE
+Vivit	PERSON
+Westerners	NATIONALITY
+Australians	NATIONALITY
+Thai	NATIONALITY
+Klongprem	LOCATION

@@ -1,0 +1,18 @@
+
+Language Region: 0 53 Dutch
+Entity	Type
+
+Language Region: 53 1024 English
+Entity	Type
+1996-08-29	TEMPORAL:DATE
+Amsterdam	LOCATION
+Rotterdam-Antwerp	LOCATION
+Germany	LOCATION
+Germany	LOCATION
+ARA	ORGANIZATION
+Soviet Union	LOCATION
+Benelux	LOCATION
+Germany	LOCATION
+Switzerland	LOCATION
+Philip Blenkinsop	PERSON
+Amsterdam	LOCATION

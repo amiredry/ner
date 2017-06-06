@@ -1,0 +1,11 @@
+
+Language Region: 0 570 English
+Entity	Type
+HONG KONG	LOCATION
+1996-08-23	TEMPORAL:DATE
+March 31	TEMPORAL:DATE
+HK	LOCATION
+Marble ( Holdings ) Ltd Books	ORGANIZATION
+Building Material ( Holdings ) Ltd	ORGANIZATION
+April 25 , 1996	TEMPORAL:DATE
+Hong Kong News Room ( 852	ORGANIZATION

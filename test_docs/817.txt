@@ -1,0 +1,119 @@
+
+Language Region: 0 2538 English
+Entity	Type
+THURSDAY	TEMPORAL:DATE
+U.S.	LOCATION
+NEW YORK	LOCATION
+1996-08-29	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+U.S. Open Tennis Championships	ORGANIZATION
+National Tennis Centre	ORGANIZATION
+Anna Kournikova	PERSON
+Russia	LOCATION
+Natalia Baudone	PERSON
+Italy	LOCATION
+Rita Grande	PERSON
+Italy	LOCATION
+Tina Krizan	PERSON
+Slovenia	LOCATION
+Els Callens ( Belgium	ORGANIZATION
+Annabel Ellwood	PERSON
+Australia	LOCATION
+Elena Likhovtseva	PERSON
+Russia	LOCATION
+Lila Osterloh	PERSON
+U.S.	LOCATION
+Sandra Dopfer	PERSON
+Austria	LOCATION
+Nanne Dahlman	PERSON
+Finland	LOCATION
+Thomas Enqvist	PERSON
+Sweden	LOCATION
+Guillaume Raoux	PERSON
+France	LOCATION
+Sergi Bruguera	PERSON
+Spain	LOCATION
+Michael Stich	PERSON
+Germany	LOCATION
+Jakob Hlasek	PERSON
+Switzerland	LOCATION
+Alberto Berasategui	PERSON
+Spain	LOCATION
+Steffi Graf	PERSON
+Germany	LOCATION
+Karin Kschwendt	PERSON
+Austria	LOCATION
+Naoko Kijimuta	PERSON
+Japan	LOCATION
+Alexandra Fusai	PERSON
+France	LOCATION
+Natasha Zvereva	PERSON
+Belarus	LOCATION
+Ai Sugiyama ( Japan	ORGANIZATION
+Barbara Paulus	PERSON
+Austria	LOCATION
+Elena Wagner	PERSON
+Germany	LOCATION
+Petra Langrova	ORGANIZATION
+Czech Republic	LOCATION
+Naoko Sawamatsu	PERSON
+Japan	LOCATION
+Karina Habsudova	PERSON
+Slovakia	LOCATION
+Nathalie Dechy	PERSON
+France	LOCATION
+Jana Novotna	PERSON
+Czech Republic	LOCATION
+Florencia Labat ( Argentina	LOCATION
+Thomas Muster	PERSON
+Austria	LOCATION
+Dirk Dier	PERSON
+Germany	LOCATION
+Pablo Campana	PERSON
+Ecuador	LOCATION
+Mark Knowles	PERSON
+Bahamas	LOCATION
+Jason Stoltenberg	PERSON
+Australia	LOCATION
+Kenneth Carlsen	PERSON
+Denmark	LOCATION
+Arnaud Boetsch	LOCATION
+France	LOCATION
+Magnus Gustafsson	PERSON
+Sweden	LOCATION
+Martina Hingis	PERSON
+Switzerland	LOCATION
+Miriam Oremans	PERSON
+Netherlands	LOCATION
+Tami Whitlinger Jones	PERSON
+U.S.	LOCATION
+Amy Frazier	PERSON
+U.S.	LOCATION
+Judith Wiesner	PERSON
+Austria	LOCATION
+Debbie Graham	PERSON
+U.S.	LOCATION
+Andre Agassi	PERSON
+U.S.	LOCATION
+Leander Paes	TITLE
+India	LOCATION
+Javier Sanchez	PERSON
+Spain	LOCATION
+Jim Grabb	PERSON
+U.S.	LOCATION
+Hernan Gumy	PERSON
+Argentina	LOCATION
+Jared Palmer	PERSON
+U.S.	LOCATION
+Arantxa Sanchez Vicario	ORGANIZATION
+Spain	LOCATION
+Nicole Arendt	PERSON
+U.S.	LOCATION
+David Wheaton	PERSON
+U.S.	LOCATION
+Frederic Vitoux	PERSON
+France	LOCATION
+Jan Siemerink	PERSON
+Netherlands	LOCATION
+Carlos Moya	PERSON
+Spain	LOCATION

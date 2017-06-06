@@ -1,0 +1,39 @@
+
+Language Region: 0 1899 English
+Entity	Type
+Dutch	NATIONALITY
+SAN JOSE , Costa Rica	LOCATION
+1996-08-27	TEMPORAL:DATE
+Netherlands	LOCATION
+Dutch	NATIONALITY
+Costa Rican	NATIONALITY
+Tuesday	TEMPORAL:DATE
+Chief of Judicial Police	TITLE
+Manuel Alvarado	PERSON
+Reuters	ORGANIZATION
+Hurte Sierd Zylstra	PERSON
+Jetsi Hendrika Coers	PERSON
+Saturday	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+$ 1.5 million	IDENTIFIER:MONEY
+Costa Rican	NATIONALITY
+Monday	TEMPORAL:DATE
+Anton Schutte	PERSON
+Belgium	LOCATION
+Netherlands	LOCATION
+Luxembourg	LOCATION
+Dutch	NATIONALITY
+Schutte	PERSON
+Schutte	PERSON
+Monday	TEMPORAL:DATE
+Spanish	NATIONALITY
+Ebe Huizinga	PERSON
+Dutch	NATIONALITY
+Alvarado	PERSON
+40 miles	IDENTIFIER:DISTANCE
+60 km	IDENTIFIER:DISTANCE
+Nicaragua	LOCATION
+German	NATIONALITY
+Swiss	ORGANIZATION
+Nicaraguan	NATIONALITY
+71 days	TEMPORAL:TIME

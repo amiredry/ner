@@ -1,0 +1,31 @@
+
+Language Region: 0 1004 English
+Entity	Type
+Bosnia	LOCATION
+Aug 22	TEMPORAL:DATE
+1996-08-22	TEMPORAL:DATE
+Sarajevo	LOCATION
+Thursday	TEMPORAL:DATE
+Reuters	ORGANIZATION
+Bosnian	NATIONALITY
+Friday	TEMPORAL:DATE
+Bosnian	NATIONALITY
+Croatian	NATIONALITY
+Deutsche	ORGANIZATION
+Bosnian	NATIONALITY
+president	TITLE
+Bosnian Association for Refugees	ORGANIZATION
+Mirhunisa Komarica	PERSON
+Bosnian	NATIONALITY
+Srebrenica	LOCATION
+Serbian	NATIONALITY
+Komarica	PERSON
+Srebrenica	LOCATION
+Trepca	LOCATION
+Aleksandrovac	LOCATION
+Slovenian	NATIONALITY
+Bosnian	NATIONALITY
+Ljubljana	LOCATION
+Ljubljana	LOCATION
+Maribor	LOCATION
+Sarajevo	LOCATION

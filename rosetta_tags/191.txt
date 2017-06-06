@@ -1,0 +1,34 @@
+
+Language Region: 0 543 English
+Entity	Type
+HK	LOCATION
+Tsang	PERSON
+Indonesia	LOCATION
+New Zealand	LOCATION
+HONG KONG	LOCATION
+1996-08-23	TEMPORAL:DATE
+Hong Kong	LOCATION
+Financial Secretary	TITLE
+Donald Tsang	PERSON
+Indonesia	LOCATION
+New Zealand	LOCATION
+August 25	TEMPORAL:DATE
+Friday	TEMPORAL:DATE
+Jakarta	LOCATION
+Tsang	PERSON
+President	TITLE
+Suharto	PERSON
+Minister of Finance	TITLE
+Mar'ie Muhammad	PERSON
+Minister of Foreign Affairs	TITLE
+Ali Alatas	PERSON
+Minister of Trade and Industry Tungky Ariwibowo	ORGANIZATION
+New Zealand	LOCATION
+August 29	TEMPORAL:DATE
+Tsang	PERSON
+Prime Minister	TITLE
+Jim Bolger	PERSON
+Deputy Prime Minister	TITLE
+Don McKinnon	PERSON
+Minister of Finance	TITLE
+Bill Birch	PERSON

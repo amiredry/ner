@@ -1,0 +1,56 @@
+
+Language Region: 0 1725 English
+Entity	Type
+McGrath	PERSON
+Ireland	LOCATION
+1996-08-27	TEMPORAL:DATE
+Ireland	LOCATION
+Paul McGrath	PERSON
+11 years	TEMPORAL:TIME
+Tuesday	TEMPORAL:DATE
+manager	TITLE
+Mick McCarthy	PERSON
+Liechtenstein	LOCATION
+36-year	TEMPORAL:TIME
+Aston Villa	ORGANIZATION
+Irish	NATIONALITY
+Czech Republic	LOCATION
+Prague	LOCATION
+April	TEMPORAL:DATE
+Paul	PERSON
+McCarthy	PERSON
+two days	TEMPORAL:TIME
+Paul	PERSON
+Vaduz	LOCATION
+Saturday	TEMPORAL:DATE
+Alan Kernaghan	PERSON
+Liam Daish	PERSON
+Leeds United	ORGANIZATION
+Gary Kelly	PERSON
+Monday	TEMPORAL:DATE
+Elland Road	LOCATION
+Jack Charlton	PERSON
+February	TEMPORAL:DATE
+McCarthy	PERSON
+Alan Kelly	PERSON
+Shay Given	PERSON
+Denis Irwin	PERSON
+Phil Babb	PERSON
+Jeff Kenna	PERSON
+Curtis Fleming	PERSON
+Gary Breen	PERSON
+Ian Harte	PERSON
+Kenny Cunningham	PERSON
+Steve Staunton	PERSON
+Andy Townsend	PERSON
+Ray Houghton	PERSON
+Gareth Farrelly	PERSON
+Alan McLoughlin	PERSON
+Jason McAteer	PERSON
+Alan Moore	PERSON
+Keith O'Neill	PERSON
+Tony Cascarino	PERSON
+Niall Quinn	PERSON
+David Kelly	PERSON
+Dublin	LOCATION
+Newsroom +6613377	PRODUCT

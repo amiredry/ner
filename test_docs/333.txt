@@ -1,0 +1,25 @@
+
+Language Region: 0 1427 English
+Entity	Type
+LONDON	LOCATION
+1996-08-25	TEMPORAL:DATE
+Chris Lewis	PERSON
+England	LOCATION
+one-day	TEMPORAL:TIME
+Sunday	TEMPORAL:DATE
+Pakistan	LOCATION
+Lewis	PERSON
+35 minutes	TEMPORAL:TIME
+fourth morning	TEMPORAL:TIME
+England	LOCATION
+Asif Mujtaba	PERSON
+a second	TEMPORAL:TIME
+Lewis	PERSON
+Surrey	LOCATION
+Alec Stewart	PERSON
+Lewis	PERSON
+Salim Malik	PERSON
+Wasim Akram	PERSON
+Wasim	PERSON
+an hour	TEMPORAL:TIME
+1345 GMT	TEMPORAL:TIME

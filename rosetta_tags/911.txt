@@ -1,0 +1,11 @@
+
+Language Region: 0 795 English
+Entity	Type
+Italians	NATIONALITY
+GENOA , Italy	LOCATION
+1996-08-29	TEMPORAL:DATE
+Italian	NATIONALITY
+Thursday	TEMPORAL:DATE
+61-year	TEMPORAL:TIME
+Pietro T.	PERSON
+Italian	NATIONALITY

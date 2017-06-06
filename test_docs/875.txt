@@ -1,0 +1,9 @@
+
+Language Region: 0 531 English
+Entity	Type
+French	NATIONALITY
+1996-08-29	TEMPORAL:DATE
+Cherbourg	LOCATION
+Thursday	TEMPORAL:DATE
+Cherbourg	LOCATION
+Indre	LOCATION

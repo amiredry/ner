@@ -1,0 +1,19 @@
+
+Language Region: 0 700 English
+Entity	Type
+Keane	PERSON
+ING	ORGANIZATION
+BOSTON	LOCATION
+1996-08-29	TEMPORAL:DATE
+Keane Inc	ORGANIZATION
+a year	TEMPORAL:TIME
+Life Insurance Co of Georgia	ORGANIZATION
+Southland Life Insurance Co	ORGANIZATION
+Netherlands	LOCATION
+ING Group	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Life of Georgia	ORGANIZATION
+Southland Life	ORGANIZATION
+Keane	PERSON
+Atlanta	LOCATION
+New York	LOCATION

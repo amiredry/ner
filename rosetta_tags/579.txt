@@ -1,0 +1,39 @@
+
+Language Region: 0 1085 English
+Entity	Type
+Bosnian	NATIONALITY
+premier	TITLE
+Turkey	LOCATION
+one day	TEMPORAL:TIME
+ANKARA	LOCATION
+1996-08-27	TEMPORAL:DATE
+Bosnian	NATIONALITY
+Prime Minister	TITLE
+Hasan Muratovic	PERSON
+Ankara	LOCATION
+Tuesday	TEMPORAL:DATE
+Turkey	LOCATION
+Yugoslav	NATIONALITY
+premier	TITLE
+Turkish	NATIONALITY
+Necmettin Erbakan	PERSON
+Tuesday	TEMPORAL:DATE
+Bosnian	NATIONALITY
+foreign ministry	ORGANIZATION
+Bosnians	NATIONALITY
+Turkey	LOCATION
+Muratovic	PERSON
+President	TITLE
+Suleyman Demirel	PERSON
+Foreign Minister	TITLE
+Tansu Ciller	PERSON
+Turkish	NATIONALITY
+Thursday	TEMPORAL:DATE
+U.S.	LOCATION
+Bosnia	LOCATION
+September 14	TEMPORAL:DATE
+Bosnian	NATIONALITY
+Serbs	NATIONALITY
+Turkish	NATIONALITY
+Bosnia	LOCATION
+foreign ministry	ORGANIZATION

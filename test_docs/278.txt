@@ -1,0 +1,26 @@
+
+Language Region: 0 1183 English
+Entity	Type
+Princess	TITLE
+Diana	PERSON
+Mother Teresa	PERSON
+LONDON	LOCATION
+1996-08-24	TEMPORAL:DATE
+Britain	LOCATION
+Princess	TITLE
+Diana	PERSON
+Mother Teresa	PERSON
+Diana	PERSON
+Saturday	TEMPORAL:DATE
+Nobel	PERSON
+Diana	PERSON
+Albanian	NATIONALITY
+Rome	LOCATION
+Mother Teresa	PERSON
+British	NATIONALITY
+Prince	TITLE
+Charles	PERSON
+85-year	TEMPORAL:TIME
+Mother Teresa	PERSON
+Calcutta	LOCATION
+Saturday	TEMPORAL:DATE

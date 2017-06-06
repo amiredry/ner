@@ -1,0 +1,15 @@
+
+Language Region: 0 377 English
+Entity	Type
+OLYMPIAKOS	ORGANIZATION
+1996-08-28	TEMPORAL:DATE
+Olympiakos of Greece	LOCATION
+Yugoslavia	LOCATION
+Wednesday	TEMPORAL:DATE
+Yugoslavia	LOCATION
+Germany	LOCATION
+Dinamo	ORGANIZATION
+Russia	LOCATION
+Benetton	ORGANIZATION
+Italy	LOCATION
+Saturday	TEMPORAL:DATE

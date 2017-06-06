@@ -1,0 +1,37 @@
+
+Language Region: 0 1082 English
+Entity	Type
+1996-08-25	TEMPORAL:DATE
+Dutch	NATIONALITY
+Sunday	TEMPORAL:DATE
+Feyenoord Rotterdam 3	PRODUCT
+Sanchez 27th	PRODUCT
+Taument	PERSON
+NEC Nijmegen	ORGANIZATION
+AZ Alkmaar	ORGANIZATION
+Vitesse Arnhem 1	PRODUCT
+Van Wanrooy	PERSON
+Twente Enschede 1	PRODUCT
+Hoogma 30th	PRODUCT
+Roda JC Kerkrade 1	PRODUCT
+Roelofsen	PERSON
+PSV	ORGANIZATION
+Eindhoven 4	PRODUCT
+Faber 32nd	ORGANIZATION
+Nilis 63rd 79th	PRODUCT
+Petrovic 78th ) Groningen 1	PRODUCT
+Gorre	ORGANIZATION
+Saturday	TEMPORAL:DATE
+Graafschap Doetinchem 3	PRODUCT
+Ibrahim 20th 63rd	PRODUCT
+Godee 54th ) RKC Waalwijk 2	PRODUCT
+Dos	ORGANIZATION
+Santos 38th	PRODUCT
+Van Arum	PERSON
+Willem II Tilburg 0 Fortuna Sittard 1	PRODUCT
+Hamming	PERSON
+NAC Breda 1	PRODUCT
+Arnold 70th ) Sparta Rotterdam 0	PRODUCT
+Wouden 53rd	PRODUCT
+Dahl Tomasson	PERSON
+Ajax Amsterdam	LOCATION

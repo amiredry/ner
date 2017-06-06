@@ -1,0 +1,39 @@
+
+Language Region: 0 617 English
+Entity	Type
+OPT	ORGANIZATION
+BAT	ORGANIZATION
+COLOMBO	LOCATION
+1996-08-26	TEMPORAL:DATE
+Australia	LOCATION
+Zimbabwe	LOCATION
+first day	TEMPORAL:TIME
+Singer	ORGANIZATION
+World	PRODUCT
+Monday	TEMPORAL:DATE
+Australia	LOCATION
+Mark Waugh	PERSON
+Michael Slater	PERSON
+Ricky Ponting	PERSON
+Steve Waugh	PERSON
+Stuart Law	PERSON
+Michael Bevan	PERSON
+Ian Healy	PERSON
+captain	TITLE
+Brad Hogg	PERSON
+Paul Reiffel	PERSON
+Damein Fleming	PERSON
+Glenn McGrath	PERSON
+Zimbabwe	LOCATION
+Alistair Campbell	PERSON
+captain	TITLE
+Andy Flower	PERSON
+Grant Flower	PERSON
+Guy Whittall	PERSON
+Craig Evans	PERSON
+Eddo Brandes	PERSON
+Heath Streak	PERSON
+Paul Strang	PERSON
+Craig Wishart	PERSON
+Ali Shah	PERSON
+Mark Dekker	PERSON

@@ -1,0 +1,9 @@
+
+Language Region: 0 288 English
+Entity	Type
+BRUSSELS	LOCATION
+1996-08-24	TEMPORAL:DATE
+Belgian	NATIONALITY
+Saturday	TEMPORAL:DATE
+Standard	ORGANIZATION
+Antwerp	LOCATION

@@ -1,0 +1,10 @@
+
+Language Region: 0 274 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+Philippine Basketball Association	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Formula Shell	PERSON
+Alaska	LOCATION
+Milk 85-82	PRODUCT
+Formula Shell	PERSON

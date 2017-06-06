@@ -1,0 +1,12 @@
+
+Language Region: 0 373 English
+Entity	Type
+Sudan	LOCATION
+1996-08-28	TEMPORAL:DATE
+Roman Catholic	RELIGION
+Australian	NATIONALITY
+Sudan	LOCATION
+Wednesday	TEMPORAL:DATE
+two weeks	TEMPORAL:TIME
+Catholic	RELIGION
+Thursday	TEMPORAL:DATE

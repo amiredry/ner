@@ -1,0 +1,51 @@
+
+Language Region: 0 2992 English
+Entity	Type
+Bill Berkrot	PERSON
+NEW YORK	LOCATION
+1996-08-27	TEMPORAL:DATE
+Steffi Graf	PERSON
+U.S.	LOCATION
+Tuesday	TEMPORAL:DATE
+Indonesian	NATIONALITY
+Yayuk	TITLE
+Basuki	PERSON
+Graf	PERSON
+German	NATIONALITY
+Graf	PERSON
+Graf	PERSON
+Tuesday	TEMPORAL:DATE
+Spaniard	NATIONALITY
+Conchita Martinez	PERSON
+Romanian	NATIONALITY
+Ruxandra Dragomir	LOCATION
+58 minutes	TEMPORAL:TIME
+Monica Seles	PERSON
+second-day	TEMPORAL:TIME
+American	NATIONALITY
+Anne Miller	PERSON
+Arantxa Sanchez Vicario	PERSON
+Lindsay Davenport	PERSON
+Iva Majoli	PERSON
+Croatia	LOCATION
+Austrian	NATIONALITY
+Judith Wiesner	PERSON
+Japan	LOCATION
+American	NATIONALITY
+Kimberly Po	PERSON
+Seles	LOCATION
+Anke Huber	PERSON
+Maggie Maleeva	PERSON
+Monday	TEMPORAL:DATE
+Graf	PERSON
+Basuki	PERSON
+Graf	PERSON
+Graf	PERSON
+Basuki	PERSON
+Graf	PERSON
+German	NATIONALITY
+Basuki	PERSON
+Montreal	LOCATION
+Indonesian	NATIONALITY
+Graf	PERSON
+Graf	PERSON

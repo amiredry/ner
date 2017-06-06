@@ -1,0 +1,27 @@
+
+Language Region: 0 1239 English
+Entity	Type
+Albanian	NATIONALITY
+1996-08-24	TEMPORAL:DATE
+Albania	LOCATION
+Socialist Party	ORGANIZATION
+two-day	TEMPORAL:TIME
+Saturday	TEMPORAL:DATE
+a century	TEMPORAL:TIME
+Balkan	LOCATION
+Democratic	ORGANIZATION
+Socialist Zeri	ORGANIZATION
+Socialist	ORGANIZATION
+Fatos Nano	PERSON
+July	TEMPORAL:DATE
+a month	TEMPORAL:TIME
+chief	TITLE
+Democrats	ORGANIZATION
+President	TITLE
+Sali Berisha	PERSON
+Socialists	ORGANIZATION
+Socialist	ORGANIZATION
+Servet Pellumbi	PERSON
+Karl Marx	PERSON
+Secretary-General	TITLE
+Gramoz Ruci	PERSON

@@ -1,0 +1,23 @@
+
+Language Region: 0 127 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+German	NATIONALITY
+
+Language Region: 127 545 German
+Entity	Type
+Karlsruhe	LOCATION
+Dundee	LOCATION
+Bayern	LOCATION
+Zickler	PERSON
+Helmer	PERSON
+Klinsmann	PERSON
+Rizzitelli	PERSON
+Bayer Leverkusen 2	ORGANIZATION
+Feldhoff	PERSON
+Cologne	LOCATION
+Hansa Rostock 2	ORGANIZATION
+Akpoborie	PERSON
+Fortuna	ORGANIZATION
+Arminia Bielefeld 1	ORGANIZATION

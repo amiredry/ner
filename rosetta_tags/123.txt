@@ -1,0 +1,16 @@
+
+Language Region: 0 667 English
+Entity	Type
+Malaysia	LOCATION
+KUALA LUMPUR	LOCATION
+1996-08-22	TEMPORAL:DATE
+Malaysia	LOCATION
+health ministry	ORGANIZATION
+Thursday	TEMPORAL:DATE
+cabinet	ORGANIZATION
+Health Minister	TITLE
+Chua Jui Meng	PERSON
+Bernama	ORGANIZATION
+Chua	PERSON
+two-year	TEMPORAL:TIME
+$ 2000	IDENTIFIER:MONEY

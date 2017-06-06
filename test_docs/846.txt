@@ -1,0 +1,21 @@
+
+Language Region: 0 1019 English
+Entity	Type
+Serbia	LOCATION
+Zastava	ORGANIZATION
+1996-08-29	TEMPORAL:DATE
+Serbia	LOCATION
+Zastava	ORGANIZATION
+ninth day	TEMPORAL:TIME
+Thursday	TEMPORAL:DATE
+general manager	TITLE
+Vukasin Filipovic	PERSON
+Reuters	ORGANIZATION
+Filipovic	PERSON
+Zastava	ORGANIZATION
+Kragujevac	LOCATION
+Serbia	LOCATION
+June	TEMPORAL:DATE
+July	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+Filipovic	PERSON

@@ -1,0 +1,30 @@
+
+Language Region: 0 1289 English
+Entity	Type
+Estonia	LOCATION
+president	TITLE
+TALLINN	LOCATION
+1996-08-27	TEMPORAL:DATE
+Estonia	LOCATION
+parliament	ORGANIZATION
+state president	TITLE
+Tuesday	TEMPORAL:DATE
+Incumbent president	TITLE
+Lennart Meri	PERSON
+deputy Parliamentary Speaker	TITLE
+Arnold Ruutel	PERSON
+Meri	PERSON
+1300 GMT	TEMPORAL:TIME
+five-year	TEMPORAL:TIME
+parliament	ORGANIZATION
+Enn Markvart	PERSON
+Chairman	TITLE
+National Election Commission	ORGANIZATION
+parliament	ORGANIZATION
+Monday	TEMPORAL:DATE
+Meri	PERSON
+Ruutel	PERSON
+Meri	PERSON
+parliament	ORGANIZATION
+MPs	TITLE
+a month	TEMPORAL:TIME

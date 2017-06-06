@@ -1,0 +1,27 @@
+
+Language Region: 0 525 English
+Entity	Type
+Dutch	NATIONALITY
+Queen	TITLE
+Beatrix	PERSON
+S. Africa	LOCATION
+October	TEMPORAL:DATE
+1996-08-29	TEMPORAL:DATE
+Queen	TITLE
+Beatrix	PERSON
+Netherlands	LOCATION
+four-day	TEMPORAL:TIME
+South Africa	LOCATION
+October	TEMPORAL:DATE
+Dutch	NATIONALITY
+South African	NATIONALITY
+foreign ministry	ORGANIZATION
+Thursday	TEMPORAL:DATE
+South Africa	LOCATION
+Dutch	NATIONALITY
+European	NATIONALITY
+queen	TITLE
+Prince	TITLE
+Claus	PERSON
+September 30	TEMPORAL:DATE
+October 3	TEMPORAL:DATE

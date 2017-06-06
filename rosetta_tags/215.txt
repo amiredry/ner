@@ -1,0 +1,36 @@
+
+Language Region: 0 1752 English
+Entity	Type
+Arkansas	LOCATION
+Steve Barnes	PERSON
+Thursday	TEMPORAL:DATE
+Arkansas	LOCATION
+Tuesday	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+Mississippi	LOCATION
+Arkansas	LOCATION
+90 miles	IDENTIFIER:DISTANCE
+Little Rock	LOCATION
+three miles	IDENTIFIER:DISTANCE
+Wayne Jordan	PERSON
+Arkansas State Police	ORGANIZATION
+F.B.I.	ORGANIZATION
+Bureau of Alcohol , Tobacco	ORGANIZATION
+Firearms	LOCATION
+Jordan	LOCATION
+Mount Zion Missionary Baptist Church	ORGANIZATION
+St. Matthews Missionary Baptist Church	ORGANIZATION
+Turner	LOCATION
+Arkansas	LOCATION
+Arkansas	LOCATION
+Fannie Johnson	PERSON
+St. Matthew	LOCATION
+Rev.	TITLE
+Jerome Turner	PERSON
+Mount Zion Missionary Baptist Church	ORGANIZATION
+Arkansas	LOCATION
+Camden	LOCATION
+Arkansas	LOCATION
+100 miles	IDENTIFIER:DISTANCE
+Little Rock	LOCATION
+July	TEMPORAL:DATE

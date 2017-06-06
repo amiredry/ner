@@ -1,0 +1,26 @@
+
+Language Region: 0 716 English
+Entity	Type
+Princess	TITLE
+Diana	PERSON
+LONDON	LOCATION
+1996-08-29	TEMPORAL:DATE
+England	LOCATION
+captain	TITLE
+Will Carling	PERSON
+Princess	TITLE
+Diana	PERSON
+Thursday	TEMPORAL:DATE
+24 hours	TEMPORAL:TIME
+Diana	PERSON
+Prince	TITLE
+Charles	PERSON
+The Times	ORGANIZATION
+Diana	PERSON
+Surrey	LOCATION
+England	LOCATION
+Julia Carling	PERSON
+Diana	PERSON
+Diana	PERSON
+Will Carling	PERSON
+London	LOCATION

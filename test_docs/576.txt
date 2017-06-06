@@ -1,0 +1,14 @@
+
+Language Region: 0 576 English
+Entity	Type
+Matahari	PERSON
+1996-08-27	TEMPORAL:DATE
+Indonesian	NATIONALITY
+PT	ORGANIZATION
+Matahari Putra Prima	PERSON
+Tuesday	TEMPORAL:DATE
+Matahari	PERSON
+finance director	TITLE
+Hanifah Komala	PERSON
+Komala	PERSON
+Jakarta	LOCATION

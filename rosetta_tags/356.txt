@@ -1,0 +1,13 @@
+
+Language Region: 0 332 English
+Entity	Type
+MILAN	LOCATION
+1996-08-25	TEMPORAL:DATE
+Italian	NATIONALITY
+Fiorentina	LOCATION
+Milan	LOCATION
+Milan	LOCATION
+Sunday	TEMPORAL:DATE
+Gabriel Batistuta	PERSON
+Milan	LOCATION
+Dejan Savicevic	PERSON

@@ -1,0 +1,20 @@
+
+Language Region: 0 232 English
+Entity	Type
+1996-08-29	TEMPORAL:DATE
+Dutch	NATIONALITY
+Thursday	TEMPORAL:DATE
+NAC Breda 1 NEC Nijmegen 1	PRODUCT
+Wednesday	TEMPORAL:DATE
+Vitesse Arnhem 1 Sparta Rotterdam 1	PRODUCT
+
+Language Region: 232 425 Dutch
+Entity	Type
+
+Language Region: 425 576 English
+Entity	Type
+Tuesday	TEMPORAL:DATE
+Fortuna Sittard 2 Heerenveen 4 Standings	PRODUCT
+
+Language Region: 576 1102 Dutch
+Entity	Type

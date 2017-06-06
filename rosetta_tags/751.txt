@@ -1,0 +1,25 @@
+
+Language Region: 0 1147 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+Conservative New Democracy	ORGANIZATION
+ND	ORGANIZATION
+Miltiadis Evert	PERSON
+Sunday	TEMPORAL:DATE
+ND	ORGANIZATION
+Saturday	TEMPORAL:DATE
+Prime Minister	TITLE
+Costas Simitis	PERSON
+Evert	PERSON
+finance ministry	ORGANIZATION
+ND	ORGANIZATION
+ND	ORGANIZATION
+Simitis	PERSON
+ND	ORGANIZATION
+EU	LOCATION
+socialists	ORGANIZATION
+ND	ORGANIZATION
+Evert	PERSON
+socialists	ORGANIZATION
+Dimitris Kontogiannis	PERSON
+Athens Newsroom	ORGANIZATION

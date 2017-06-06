@@ -1,0 +1,26 @@
+
+Language Region: 0 927 English
+Entity	Type
+ENGLISH LEAGUE RESULTS	ORGANIZATION
+LONDON	LOCATION
+1996-08-27	TEMPORAL:DATE
+English	NATIONALITY
+Tuesday	TEMPORAL:DATE
+0 West	IDENTIFIER:LATITUDE_LONGITUDE
+Ipswich	LOCATION
+Portsmouth	LOCATION
+Charlton v Birmingham	LOCATION
+Sheffield United	ORGANIZATION
+Luton	LOCATION
+Shrewsbury	LOCATION
+Rotherham	LOCATION
+Peterborough	LOCATION
+Notts County	LOCATION
+Wrexham	LOCATION
+Bristol Rovers Division	ORGANIZATION
+Brighton	LOCATION
+Wigan	LOCATION
+Swansea	LOCATION
+Colchester	LOCATION
+Cambridge	LOCATION
+Scunthorpe	LOCATION

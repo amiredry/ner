@@ -1,0 +1,24 @@
+
+Language Region: 0 1185 English
+Entity	Type
+England	LOCATION
+LONDON	LOCATION
+1996-08-28	TEMPORAL:DATE
+England	LOCATION
+Rupert Murdoch	PERSON
+Sky	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Four Nations TV Committee	ORGANIZATION
+Scotland	LOCATION
+Wales , Ireland	LOCATION
+France	LOCATION
+Rugby Football Union	ORGANIZATION
+England	LOCATION
+$ 135.8 million	IDENTIFIER:MONEY
+Sky	ORGANIZATION
+England	LOCATION
+British Broadcasting Corporation	ORGANIZATION
+France	LOCATION
+chairman	TITLE
+Tom Kiernan	PERSON
+England	LOCATION

@@ -1,0 +1,27 @@
+
+Language Region: 0 1067 English
+Entity	Type
+1996-08-25	TEMPORAL:DATE
+Andrea Ferrigato	PERSON
+Italy	LOCATION
+Swiss	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Ferrigato	PERSON
+Leeds Classic	LOCATION
+Sunday	TEMPORAL:DATE
+one second	TEMPORAL:TIME
+Britain	LOCATION
+Max Sciandri	PERSON
+26-year	TEMPORAL:TIME
+Italian	NATIONALITY
+Michele Bartoli	PERSON
+Johan Museeuw	PERSON
+Belgium	LOCATION
+237km	IDENTIFIER:DISTANCE
+five hours	TEMPORAL:TIME
+51 minutes	TEMPORAL:TIME
+52 seconds	TEMPORAL:TIME
+Lance Armstrong	PERSON
+United States	LOCATION
+Ferrigato	PERSON
+Museeuw	PERSON

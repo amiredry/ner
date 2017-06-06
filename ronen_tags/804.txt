@@ -1,0 +1,25 @@
+CYCLING - WORLD CHAMPIONSHIP RESULTS .
+MANCHESTER , England 1996-08-29
+Results at the world track cycling championships on Thursday :
+Individual pursuit semifinals ( over 4,000 metres ) :
+<PERSON>Chris Boardman</PERSON> ( Britain ) 4:15.006 beat Alexei Markov ( <LOCATION>Russia</LOCATION> ) 4:23.029
+Andrea Collinelli ( <LOCATION>Italy</LOCATION> ) 4:16.141 beat <PERSON>Francis Moreau ( France</PERSON> ) 4:19.665
+Moreau takes bronze medal as faster losing semifinalist .
+Final :
+<PERSON>Chris Boardman</PERSON> ( Britain ) 4:11.114 ( world record ) beat <PERSON>Andrea Collinelli</PERSON> ( <LOCATION>Italy</LOCATION> ) 4:20.341
+Olympic sprint championship ( three-man teams ) :
+1. Australia ( <PERSON>Darryn Hill</PERSON> , <PERSON>Shane Kelly</PERSON> , Gary Neiwand ) 44.804
+seconds
+2. Germany ( Jens Fiedler , <PERSON>Michael Hubner</PERSON> , <PERSON>Soren Lausberg</PERSON> )
+3. France ( Laurent Gane , Florian Rousseau , Herve Thuet )
+4. Greece ( Dimitrios Georgalis , Georgios Chimonetos , <ORGANIZATION>Lampros</ORGANIZATION>
+Vasilopoulos ) 46.538
+Women's world sprint championship quarter-finals ( best of
+three matches ) :
+Magali Faure ( <LOCATION>France</LOCATION> ) beat <PERSON>Kathrin Freitag ( Germany</PERSON> ) two
+matches to nil ( with times for the last 200 metres of 11.833
+seconds and 12.033 seconds )
+<PERSON>Felicia Ballanger ( France</PERSON> ) beat <PERSON>Oksana Grichina</PERSON> ( <LOCATION>Russia</LOCATION> ) 2-0 ,
+Tanya Dubnicoff ( <LOCATION>Canada</LOCATION> ) beat <PERSON>Michelle Ferris</PERSON> ( <LOCATION>Australia</LOCATION> ) 2-0 ,
+Annett Neumann ( <LOCATION>Germany</LOCATION> ) beat <PERSON>Galina Enioukhina</PERSON> ( <LOCATION>Russia</LOCATION> ) 2-0 ,
+

@@ -1,0 +1,28 @@
+
+Language Region: 0 735 English
+Entity	Type
+S. Korea Daewoo	LOCATION
+Dacom	ORGANIZATION
+Polish	NATIONALITY
+SEOUL	LOCATION
+1996-08-29	TEMPORAL:DATE
+South Korea	LOCATION
+Daewoo Corp	ORGANIZATION
+Daewoo Information Systems Co Ltd	ORGANIZATION
+Dacom Corp	ORGANIZATION
+Dacom International	ORGANIZATION
+Poland	LOCATION
+Daewoo	ORGANIZATION
+Dacom Communications ( Poland ) Ltd	ORGANIZATION
+$ 1.0 million	IDENTIFIER:MONEY
+$ 60 million	IDENTIFIER:MONEY
+Daewoo	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Daewoo Corp	ORGANIZATION
+Dacom International	ORGANIZATION
+Dacom	ORGANIZATION
+Daewoo Information	ORGANIZATION
+Daewoo Corp	ORGANIZATION
+Daewoo Information	ORGANIZATION
+Daewoo Group	ORGANIZATION
+Seoul	LOCATION

@@ -1,0 +1,10 @@
+
+Language Region: 0 259 English
+Entity	Type
+1996-08-26	TEMPORAL:DATE
+Honduras	LOCATION
+Cuba	LOCATION
+Sunday	TEMPORAL:DATE
+Juan Castro	PERSON
+Enrique Centeno	PERSON
+Carlos Pavon	PERSON

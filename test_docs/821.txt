@@ -1,0 +1,31 @@
+
+Language Region: 0 1949 English
+Entity	Type
+AT U.S. OPEN	ORGANIZATION
+Larry Fine	PERSON
+NEW YORK	LOCATION
+1996-08-28	TEMPORAL:DATE
+Conchita Martinez	PERSON
+New York	LOCATION
+New Yorkers	NATIONALITY
+Spaniard	NATIONALITY
+U.S. Open	ORGANIZATION
+Spaniard	NATIONALITY
+New York City	LOCATION
+France	LOCATION
+Nathalie Tauziat	PERSON
+Wednesday	TEMPORAL:DATE
+24-year	TEMPORAL:TIME
+Martinez	PERSON
+Tauziat	PERSON
+an hour	TEMPORAL:TIME
+Martinez	PERSON
+Martinez	PERSON
+Flushing Meadows	LOCATION
+Manhattan	LOCATION
+two weeks	TEMPORAL:TIME
+Martinez	PERSON
+Martinez	PERSON
+Monica Seles	PERSON
+Martinez	PERSON
+Barcelona	LOCATION

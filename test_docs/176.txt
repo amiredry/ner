@@ -1,0 +1,14 @@
+
+Language Region: 0 308 English
+Entity	Type
+Saeed Anwar	PERSON
+Aamir Sohail	PERSON
+Ijaz Ahmed	PERSON
+Inzamam-ul-Haq	PERSON
+Salim Malik	PERSON
+Asif Mujtaba	PERSON
+Wasim Akram	PERSON
+Moin Khan	PERSON
+Mushtaq Ahmed	PERSON
+Waqar Younis	PERSON
+Mohammad Akam England 326	ORGANIZATION

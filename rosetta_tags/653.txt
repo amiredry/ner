@@ -1,0 +1,43 @@
+
+Language Region: 0 1351 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+New Zealand	LOCATION
+Andrew Mehrtens	PERSON
+Wednesday	TEMPORAL:DATE
+Johannesburg	LOCATION
+Saturday	TEMPORAL:DATE
+Simon Culhane	PERSON
+Pretoria	LOCATION
+Saturday	TEMPORAL:DATE
+Mehrtens	PERSON
+Cape Town	LOCATION
+Lock	TITLE
+Ian Jones	PERSON
+Jeff Wilson	PERSON
+Jones	PERSON
+Wilson	PERSON
+Blair Larsen	PERSON
+Glenn Taylor	PERSON
+Jones	PERSON
+Jonah Lomu	PERSON
+Tuesday	TEMPORAL:DATE
+Griqualand West	LOCATION
+Eric Rush	PERSON
+Wilson	PERSON
+Christian Cullen	PERSON
+Jeff Wilson	PERSON
+Walter Little	PERSON
+Frank Bunce	PERSON
+Glen Osborne	PERSON
+Andrew Mehrtens	PERSON
+Justin Marshall	PERSON
+Zinzan Brooke	PERSON
+Josh Kronfeld	PERSON
+Michael Jones	PERSON
+Ian Jones	PERSON
+Robin Brooke	PERSON
+Olo Brown	PERSON
+Sean Fitzpatrick	PERSON
+captain	TITLE
+Craig Dowd	PERSON

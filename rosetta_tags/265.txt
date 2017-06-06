@@ -1,0 +1,8 @@
+
+Language Region: 0 156 English
+Entity	Type
+LISBON	LOCATION
+1996-08-24	TEMPORAL:DATE
+Portuguese	NATIONALITY
+Saturday	TEMPORAL:DATE
+Belenenses 2 Boavista 4	PRODUCT

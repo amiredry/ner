@@ -1,0 +1,21 @@
+
+Language Region: 0 998 English
+Entity	Type
+LONDON	LOCATION
+1996-08-22	TEMPORAL:DATE
+Kenny Dalglish	PERSON
+Thursday	TEMPORAL:DATE
+Blackburn	LOCATION
+English	NATIONALITY
+Blackburn	LOCATION
+Wednesday	TEMPORAL:DATE
+ex-manager	TITLE
+Thursday	TEMPORAL:DATE
+Blackburn	LOCATION
+a half years	TEMPORAL:TIME
+Spain	LOCATION
+Blackburn	LOCATION
+five years	TEMPORAL:TIME
+manager	TITLE
+15 months	TEMPORAL:TIME
+director	TITLE

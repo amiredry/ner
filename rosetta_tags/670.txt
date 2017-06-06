@@ -1,0 +1,14 @@
+
+Language Region: 0 335 English
+Entity	Type
+MADRID	LOCATION
+1996-08-28	TEMPORAL:DATE
+Spanish	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Atletico Madrid 3	PRODUCT
+Juan Lopez	PERSON
+Juan Esnaider	PERSON
+Milinko Pantic	PERSON
+Barcelona	LOCATION
+Hristo Stoichkov	PERSON
+Barcelona	LOCATION

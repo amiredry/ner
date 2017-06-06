@@ -1,0 +1,10 @@
+Israel approves <PERSON>Arafat</PERSON>'s flight to <LOCATION>West Bank</LOCATION> .
+JERUSALEM 1996-08-22
+<LOCATION>Israel</LOCATION> gave Palestinian President <PERSON>Yasser Arafat</PERSON> permission on Thursday to fly over its territory to the <LOCATION>West Bank</LOCATION> , ending a brief Israeli-PLO crisis , an Arafat adviser said .
+" The problem is over .
+The president's aircraft has received permission to pass through Israeli airspace but the president is not expected to travel to the <LOCATION>West Bank</LOCATION> before Monday , " <PERSON>Nabil Abu Rdainah</PERSON> told <ORGANIZATION>Reuters</ORGANIZATION> .
+<PERSON>Arafat</PERSON> had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of <LOCATION>Ramallah</LOCATION> on Thursday but the venue was changed to <LOCATION>Gaza</LOCATION> after Israel denied flight clearance to the Palestinian leader's helicopters .
+Palestinian officials accused right-wing Prime Minister Benjamin Netanyahu of trying to stop the Ramallah meeting by keeping Arafat grounded .
+Arafat subsequently cancelled a meeting between Israeli and PLO officials , on civilian affairs , at the Allenby Bridge crossing between Jordan and the <LOCATION>West Bank</LOCATION> .
+<PERSON>Abu Rdainah</PERSON> said <PERSON>Arafat</PERSON> had decided against flying to the <LOCATION>West Bank</LOCATION> on Thursday , after Israel lifted the ban , because he had a busy schedule in <LOCATION>Gaza</LOCATION> and would not be free until Monday .
+

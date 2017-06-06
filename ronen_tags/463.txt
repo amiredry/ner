@@ -1,0 +1,6 @@
+<LOCATION>Japan</LOCATION><ORGANIZATION>'s Hashimoto leaves Brazil for Peru .</ORGANIZATION>
+BRASILIA 1996-08-26
+Japanese Prime Minister <PERSON>Ryutaro Hashimoto left Brasilia</PERSON> on Monday for Lima , the penultimate stop on a 10-day Latin American tour , a Brazilian Foreign Ministry spokeswoman said .
+Hashimoto , who has already visited Mexico and Chile , spent three days in <LOCATION>Brazil</LOCATION> .
+After Peru , he was due to go to <LOCATION>Costa Rica</LOCATION> .
+

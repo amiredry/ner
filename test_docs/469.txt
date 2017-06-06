@@ -1,0 +1,22 @@
+
+Language Region: 0 870 English
+Entity	Type
+Auckland	LOCATION
+AUCKLAND	LOCATION
+1996-08-27	TEMPORAL:DATE
+Auckland	LOCATION
+North Shore	LOCATION
+9 a.m.	TEMPORAL:TIME
+Tuesday	TEMPORAL:DATE
+New Zealand Press Association	ORGANIZATION
+Senior Sergeant	TITLE
+Dave Pearson	PERSON
+Auckland	LOCATION
+John Grant Fagan	PERSON
+Fagan	PERSON
+Auckland	LOCATION
+Radio New Zealand	ORGANIZATION
+Monday	TEMPORAL:DATE
+Northcote College	ORGANIZATION
+16-year	TEMPORAL:TIME
+Wellington	LOCATION

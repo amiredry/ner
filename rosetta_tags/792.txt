@@ -1,0 +1,30 @@
+
+Language Region: 0 1008 English
+Entity	Type
+Palestinian Authority	ORGANIZATION
+1996-08-28	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+two weeks	TEMPORAL:TIME
+Gaza	LOCATION
+Palestinian	NATIONALITY
+Mohammad Dahman	PERSON
+director	TITLE
+Gaza	LOCATION
+Addameer Prisoners Support Association	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Palestinian	NATIONALITY
+Attorney-General	TITLE
+Khaled al-Qidra	PERSON
+Qidra	PERSON
+Dahman	PERSON
+Palestinian	NATIONALITY
+August 12	TEMPORAL:DATE
+Gaza	LOCATION
+Palestinian	NATIONALITY
+Palestinian Authority	ORGANIZATION
+Nahed Dahlan	PERSON
+Dahman	PERSON
+Palestinian	NATIONALITY
+President	TITLE
+Yasser Arafat	PERSON
+Qidra	PERSON

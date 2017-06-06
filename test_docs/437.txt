@@ -1,0 +1,209 @@
+
+Language Region: 0 1171 English
+Entity	Type
+MONDAY	TEMPORAL:DATE
+U.S.	LOCATION
+NEW YORK	LOCATION
+1996-08-26	TEMPORAL:DATE
+Monday	TEMPORAL:DATE
+U.S.	LOCATION
+National Tennis Centre	ORGANIZATION
+Martina Hingis	PERSON
+Switzerland	LOCATION
+Angeles Montolio	ORGANIZATION
+Spain	LOCATION
+Anne-Gaelle Sidot	ORGANIZATION
+France	LOCATION
+Janette Husarova	PERSON
+Slovakia	LOCATION
+Brenda Schultz-McCarthy	PERSON
+Netherlands	LOCATION
+Nana Miyagi ( Japan	ORGANIZATION
+Aleksandra Olsza	PERSON
+Poland	LOCATION
+Magdalena Maleeva	PERSON
+Bulgaria	LOCATION
+Michael Stich	PERSON
+Germany	LOCATION
+Tommy Haas	PERSON
+Germany	LOCATION
+Sergi Bruguera	PERSON
+Spain	LOCATION
+Kris Goossens	PERSON
+Belgium	LOCATION
+Frederic Vitoux	PERSON
+France	LOCATION
+Ramon Delgado	PERSON
+Paraguay	LOCATION
+Henrietta Nagyova	LOCATION
+Slovakia	LOCATION
+Leon Garcia	PERSON
+Spain	LOCATION
+Asa Carlsson	PERSON
+Sweden	LOCATION
+Gloria Pizzichini	PERSON
+Italy	LOCATION
+Barbara Schett	PERSON
+Austria	LOCATION
+Sabine Appelmans	PERSON
+Belgium	LOCATION
+Cristina Torrens	PERSON
+Valero	ORGANIZATION
+Spain	LOCATION
+Sabine Hack	PERSON
+Germany	LOCATION
+Helena Sukova	PERSON
+Czech Republic	LOCATION
+Yone Kamio	PERSON
+Japan	LOCATION
+
+Language Region: 1171 1237 Romanian
+Entity	Type
+
+Language Region: 1237 1589 English
+Entity	Type
+Maria Jose Gaidano	PERSON
+Argentina	LOCATION
+Melanie Schnell	PERSON
+Austria	LOCATION
+Carlos Moya	PERSON
+Spain	LOCATION
+Scott Humphries	PERSON
+U.S.	LOCATION
+Kenneth Carlsen	PERSON
+Denmark	LOCATION
+Patrick Rafter ( Australia	ORGANIZATION
+Magnus Gustafsson	PERSON
+Sweden	LOCATION
+Carlos Costa	PERSON
+Spain	LOCATION
+
+Language Region: 1589 1690 Romanian
+Entity	Type
+
+Language Region: 1690 1838 English
+Entity	Type
+U.S.	LOCATION
+Karim Alami	PERSON
+Morocco	LOCATION
+Dirk Dier	PERSON
+Germany	LOCATION
+Chuck Adams	PERSON
+U.S.	LOCATION
+
+Language Region: 1838 2019 Italian
+Entity	Type
+Jason Stoltenberg	PERSON
+Australia	LOCATION
+Stefano Pescosolido	PERSON
+Italy	LOCATION
+Arnaud Boetsch	PERSON
+France	LOCATION
+Nicolas Pereira	PERSON
+Venezuela	LOCATION
+
+Language Region: 2019 4217 English
+Entity	Type
+David Prinosil	PERSON
+Germany	LOCATION
+Peter Tramacchi	PERSON
+Australia	LOCATION
+Amanda Coetzer	PERSON
+South Africa	LOCATION
+Anke Huber	PERSON
+Germany	LOCATION
+Anna Kournikova	PERSON
+Russia	LOCATION
+Ludmila Richterova	PERSON
+Czech Republic	LOCATION
+Debbie Graham	PERSON
+U.S.	LOCATION
+Stephanie Deville	PERSON
+Belarus	LOCATION
+Barbara Rittner	PERSON
+Germany	LOCATION
+Katarina Studenikova	PERSON
+Slovakia	LOCATION
+Kristina Brandi	PERSON
+U.S.	LOCATION
+Andrea Glass	PERSON
+Germany	LOCATION
+Ines Gorrochategui	PERSON
+Argentina	LOCATION
+Magdalena Grzybowska	PERSON
+Poland	LOCATION
+Alberto Berasategui	PERSON
+Spain	LOCATION
+Cecil Mamiit	PERSON
+U.S.	LOCATION
+France	LOCATION
+Filip Dewulf	PERSON
+Belgium	LOCATION
+Alex O'Brien	PERSON
+U.S.	LOCATION
+Nicolas Lapentti	PERSON
+Ecuador	LOCATION
+Michael Chang	PERSON
+U.S.	LOCATION
+Jaime Oncins	PERSON
+Brazil	LOCATION
+Barbara Paulus	PERSON
+Austria	LOCATION
+Yi Jing-Qian	PERSON
+China	LOCATION
+Wang Shi-Ting	PERSON
+Taiwan	LOCATION
+Corina	TITLE
+Morariu	PERSON
+U.S.	LOCATION
+Linda Wild	PERSON
+U.S.	LOCATION
+Sung-Hee Park	PERSON
+South Korea	LOCATION
+Sarah Pitkowski	PERSON
+France	LOCATION
+Meghann Shaughnessy	PERSON
+U.S.	LOCATION
+Madagascar	LOCATION
+Elena Makarova	PERSON
+Russia	LOCATION
+Laurence Courtois	PERSON
+Belgium	LOCATION
+Flora Perfetti	PERSON
+Italy	LOCATION
+Leander Paes ( India	ORGANIZATION
+Marcos Ondruska	PERSON
+South Africa	LOCATION
+Jan Siemerink	PERSON
+Netherlands	LOCATION
+Carl-Uwe Steeb	PERSON
+Germany	LOCATION
+Neville Godwin	PERSON
+South Africa	LOCATION
+Tomas Carbonell	PERSON
+Spain	LOCATION
+Jim Grabb	PERSON
+U.S.	LOCATION
+Australia	LOCATION
+France	LOCATION
+Jill Craybas	PERSON
+U.S.	LOCATION
+Japan	LOCATION
+Tatyana Jecmenica ( Yugoslavia	ORGANIZATION
+France	LOCATION
+Christina Singer	PERSON
+Germany	LOCATION
+Jane Chi	PERSON
+U.S.	LOCATION
+Maria Antonio Sanchez Lorenzo	PERSON
+Spain	LOCATION
+Belgium	LOCATION
+Nicole Bradtke	PERSON
+Australia	LOCATION
+Natalia Baudone	PERSON
+Italy	LOCATION
+Jolene Watanabe	PERSON
+U.S.	LOCATION
+Japan	LOCATION
+Jana Kandarr	PERSON
+Germany	LOCATION

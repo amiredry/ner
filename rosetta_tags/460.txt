@@ -1,0 +1,15 @@
+
+Language Region: 0 1353 English
+Entity	Type
+Interacciones	ORGANIZATION
+Mexico	LOCATION
+MEXICO CITY	LOCATION
+1996-08-26	TEMPORAL:DATE
+Interacciones	ORGANIZATION
+Monday	TEMPORAL:DATE
+Economist	TITLE
+Alonso Cervera	PERSON
+Interacciones	ORGANIZATION
+Henry Tricks	PERSON
+Mexico City	LOCATION
+525 728-9560	IDENTIFIER:PHONE_NUMBER

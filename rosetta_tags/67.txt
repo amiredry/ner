@@ -1,0 +1,19 @@
+
+Language Region: 0 1058 English
+Entity	Type
+LONDON	LOCATION
+1996-08-23	TEMPORAL:DATE
+Crohn	PERSON
+Friday	TEMPORAL:DATE
+Swedish	NATIONALITY
+Crohn	PERSON
+Dr	TITLE
+Andrew Wakefield	PERSON
+Royal Free Hospital School of Medicine	ORGANIZATION
+University Hospital	ORGANIZATION
+Uppsala	LOCATION
+Crohn	PERSON
+Wakefield	PERSON
+Lancet	ORGANIZATION
+Crohn	PERSON
+German	NATIONALITY

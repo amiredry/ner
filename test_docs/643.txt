@@ -1,0 +1,46 @@
+
+Language Region: 0 1666 English
+Entity	Type
+Martin Ayres	PERSON
+MANCHESTER , England	LOCATION
+1996-08-28	TEMPORAL:DATE
+Britain	LOCATION
+Chris Boardman	PERSON
+Wednesday	TEMPORAL:DATE
+Boardman	PERSON
+four minutes	TEMPORAL:TIME
+13.353 seconds	TEMPORAL:TIME
+six seconds	TEMPORAL:TIME
+Andrea Collinelli	PERSON
+Italy	LOCATION
+Atlanta	LOCATION
+July	TEMPORAL:DATE
+Collinelli	PERSON
+Boardman	PERSON
+Boardman	PERSON
+Tour de France	LOCATION
+French	NATIONALITY
+GAN	ORGANIZATION
+Manchester	LOCATION
+Briton	NATIONALITY
+Graeme Obree	PERSON
+Atlanta	LOCATION
+Collinelli	PERSON
+Obree	PERSON
+Wednesday	TEMPORAL:DATE
+Chris Boardman	PERSON
+Britain	LOCATION
+Andrea Collinelli	PERSON
+Italy	LOCATION
+Mariano Friedick	PERSON
+U.S.	LOCATION
+Heiko Szonn	PERSON
+Germany	LOCATION
+Francis Moreau	PERSON
+France	LOCATION
+Alexei Markov	PERSON
+Russia	LOCATION
+Michael Sandstod	PERSON
+Denmark	LOCATION
+Edouard Gritsoun	LOCATION
+Russia	LOCATION

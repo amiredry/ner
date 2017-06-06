@@ -1,0 +1,27 @@
+
+Language Region: 0 783 English
+Entity	Type
+NATO	ORGANIZATION
+military chiefs	TITLE
+Iberia	ORGANIZATION
+BRUSSELS	LOCATION
+1996-08-28	TEMPORAL:DATE
+North Atlantic Treaty Organisation	ORGANIZATION
+Spain	LOCATION
+Portugal	LOCATION
+NATO	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+September 8	TEMPORAL:DATE
+chiefs of defence staff	TITLE
+Iceland	LOCATION
+NATO	ORGANIZATION
+General	TITLE
+George Joulwan	PERSON
+Supreme Allied Commander Europe	ORGANIZATION
+General	TITLE
+John Sheehan	PERSON
+Supreme Allied Commander Atlantic	LOCATION
+September 1995	TEMPORAL:DATE
+Belgium	LOCATION
+Luxembourg	LOCATION
+Netherlands	LOCATION

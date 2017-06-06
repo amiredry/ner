@@ -1,0 +1,103 @@
+
+Language Region: 0 66 English Uppercase
+Entity	Type
+SHEFFIELD INTERNATIONAL	ORGANIZATION
+
+Language Region: 66 560 English
+Entity	Type
+SHEFFIELD , England	LOCATION
+1996-08-25	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Czech Republic	LOCATION
+Ashia Hansen	PERSON
+Britain	LOCATION
+Rodica Matescu	PERSON
+Romania	LOCATION
+Deon Hemmings	PERSON
+Jamaica	LOCATION
+55.13 seconds	TEMPORAL:TIME
+Anne Marken	PERSON
+Belgium	LOCATION
+Susan Smith	PERSON
+Ireland	LOCATION
+Isel Lopez ( Cuba	ORGANIZATION
+Louise McPaul	PERSON
+Australia	LOCATION
+Silke Renk	PERSON
+Germany	LOCATION
+
+Language Region: 560 657 Spanish
+Entity	Type
+Cathy Freeman	PERSON
+Australia	LOCATION
+22.53	TEMPORAL:TIME
+Falilat Ogunkoya	PERSON
+Nigeria	LOCATION
+22.58	TEMPORAL:TIME
+
+Language Region: 657 2069 English
+Entity	Type
+Juliet Cuthbert	PERSON
+Jamaica	LOCATION
+Dionne Rose	PERSON
+Jamaica	LOCATION
+Michelle Freeman	PERSON
+Jamaica	LOCATION
+Gillian Russell	PERSON
+Jamaica	LOCATION
+Charmaine Crooks	PERSON
+Canada	LOCATION
+two minutes	TEMPORAL:TIME
+00.42 seconds	TEMPORAL:TIME
+Inez Turner ( Jamaica	ORGANIZATION
+Margaret Crowley	PERSON
+Australia	LOCATION
+Trond Bathel ( Norway	ORGANIZATION
+Pat Manson	PERSON
+U.S.	LOCATION
+Tim Lobinger	PERSON
+Germany	LOCATION
+Tom Pukstys	PERSON
+U.S.	LOCATION
+Steve Backley	PERSON
+Britain	LOCATION
+Nick Nieland	PERSON
+Britain	LOCATION
+Marcel Malone	PERSON
+U.S.	LOCATION
+Kim Graham	PERSON
+U.S.	LOCATION
+Phylis Smith	PERSON
+Britain	LOCATION
+Jeff Williams	PERSON
+U.S.	LOCATION
+Doug Turner	PERSON
+Britain	LOCATION
+John Regis	PERSON
+Britain	LOCATION
+Charles Austin	PERSON
+U.S.	LOCATION
+Tim Forsyth	PERSON
+Australia	LOCATION
+Patrik Sjoberg	PERSON
+Sweden	LOCATION
+Verbjorn Rodal	PERSON
+Norway	LOCATION
+Benson Koech ( Kenya	ORGANIZATION
+Vincent Malakwen ( Kenya	ORGANIZATION
+William Tanui ( Kenya	ORGANIZATION
+John Mayock	PERSON
+Britain	LOCATION
+Tony Whiteman	PERSON
+Britain	LOCATION
+Roger Black	PERSON
+Britain	LOCATION
+Mark Richardson	PERSON
+Britain	LOCATION
+Derek Mills	PERSON
+U.S.	LOCATION
+Osmond Ezinwa ( Nigeria	ORGANIZATION
+Ian Mackie	PERSON
+Britain	LOCATION
+Linford Christie	PERSON
+Britain	LOCATION

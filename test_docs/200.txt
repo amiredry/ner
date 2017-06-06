@@ -1,0 +1,33 @@
+
+Language Region: 0 1272 English
+Entity	Type
+Washington	LOCATION
+Tamil	NATIONALITY
+U.S.	LOCATION
+Sri Lanka	LOCATION
+COLOMBO	LOCATION
+1996-08-23	TEMPORAL:DATE
+Sri Lanka	LOCATION
+Friday	TEMPORAL:DATE
+United States	LOCATION
+U.S.	LOCATION
+Sri Lankan	NATIONALITY
+foreign ministry	ORGANIZATION
+United States	LOCATION
+Sri Lanka	LOCATION
+U.S.	LOCATION
+American	NATIONALITY
+Sri Lanka	LOCATION
+U.S. State Department	ORGANIZATION
+Philip Wilcox	PERSON
+Washington	LOCATION
+Colombo	LOCATION
+Colombo	LOCATION
+Tamil	NATIONALITY
+13-year	TEMPORAL:TIME
+Sri Lankans	NATIONALITY
+United States	LOCATION
+U.S.	LOCATION
+Colombo	LOCATION
+Colombo	LOCATION
+Liberation Tigers of Tamil Eelam	ORGANIZATION

@@ -1,0 +1,35 @@
+
+Language Region: 0 813 English
+Entity	Type
+Arafat	PERSON
+Peres	PERSON
+Gaza	LOCATION
+JERUSALEM	LOCATION
+1996-08-22	TEMPORAL:DATE
+Yasser Arafat	PERSON
+Shimon Peres	PERSON
+Gaza	LOCATION
+Thursday	TEMPORAL:DATE
+Palestinians	NATIONALITY
+Israeli	NATIONALITY
+Palestinian	NATIONALITY
+West Bank	LOCATION
+prime minister	TITLE
+Peres	PERSON
+Arafat	PERSON
+Erez	LOCATION
+Gaza	LOCATION
+Ramallah	LOCATION
+Peres	PERSON
+Palestinian	NATIONALITY
+Israeli	NATIONALITY
+Arafat	PERSON
+Israel	LOCATION
+Palestinian	NATIONALITY
+West Bank	LOCATION
+Peres	PERSON
+Israeli	NATIONALITY
+Prime Minister	TITLE
+Benjamin Netanyahu	PERSON
+Peres	PERSON
+Likud	ORGANIZATION

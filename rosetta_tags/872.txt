@@ -1,0 +1,17 @@
+
+Language Region: 0 395 English
+Entity	Type
+Clinton	PERSON
+NBC	ORGANIZATION
+CHICAGO	LOCATION
+1996-08-29	TEMPORAL:DATE
+Dick Morris	PERSON
+Republican	ORGANIZATION
+U.S.	LOCATION
+President	TITLE
+Bill Clinton	PERSON
+NBC News	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Clinton	PERSON
+president	TITLE
+White House	ORGANIZATION

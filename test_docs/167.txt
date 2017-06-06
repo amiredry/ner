@@ -1,0 +1,27 @@
+
+Language Region: 0 1302 English
+Entity	Type
+AUG 23	TEMPORAL:DATE
+1996-08-23	TEMPORAL:DATE
+Angolan	NATIONALITY
+Friday	TEMPORAL:DATE
+Reuters	ORGANIZATION
+Angolan	NATIONALITY
+Chief of State	TITLE
+UN Security Council	ORGANIZATION
+Angola	LOCATION
+August 25	TEMPORAL:DATE
+Unita	ORGANIZATION
+generals	TITLE
+September 5	TEMPORAL:DATE
+Government of National Unity and Reconciliation	ORGANIZATION
+Unita	ORGANIZATION
+National Assembly	ORGANIZATION
+president	TITLE
+Unita	ORGANIZATION
+Unita	ORGANIZATION
+President	TITLE
+Dos Santos	PERSON
+UN Security Council	ORGANIZATION
+Lusaka Agreement	ORGANIZATION
+SC	ORGANIZATION

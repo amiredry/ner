@@ -1,0 +1,19 @@
+
+Language Region: 0 395 English
+Entity	Type
+AT	ORGANIZATION
+HAMLET	ORGANIZATION
+COMMACK , New York	LOCATION
+1996-08-24	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Andrei Medvedev	PERSON
+Ukraine	LOCATION
+Martin Damm	PERSON
+Czech Republic	LOCATION
+Luke Jensen	PERSON
+Murphy Jensen	PERSON
+U.S.	LOCATION
+Alexander Volkov	PERSON
+Russia	LOCATION
+Handrik Dreekmann	PERSON
+Germany	LOCATION

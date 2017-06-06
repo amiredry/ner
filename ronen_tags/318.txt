@@ -1,0 +1,29 @@
+MOTOR RACING - BELGIAN GRAND PRIX RESULT .
+SPA-FRANCORCHAMPS , Belgium 1996-08-25
+Result of
+Sunday's Belgian Grand Prix motor race :
+1. <PERSON>Michael Schumacher ( Germany ) Ferrari</PERSON> 1 hour 28 minutes
+15.125 seconds ( average speed 208.442 kph )
+2. Jacques Villeneuve ( <LOCATION>Canada</LOCATION> ) Williams 5.602 seconds
+behind
+3. Mika Hakkinen ( Finland ) McLaren 15.710
+4. <PERSON>Jean Alesi ( France ) Benetton</PERSON> 19.125
+5. <PERSON>Damon Hill ( Britain ) Williams</PERSON> 29.179
+6. Gerhard Berger ( <LOCATION>Austria</LOCATION> ) Benetton 29.896
+7. <PERSON>Mika Salo ( Finland ) Tyrrell</PERSON> 1:00.754
+8. Ukyo Katayama ( Japan ) Tyrrell 1:40.227
+9. <PERSON>Ricardo Rosset ( Brazil ) Arrows</PERSON> one lap
+10. <PERSON>Pedro Lamy ( Portugal ) Minardi</PERSON> one lap
+Did not finish :
+11. David Coulthard ( Britain ) McLaren 37 laps completed
+12. Martin Brundle ( Britain ) <LOCATION>Jordan</LOCATION> 34
+13. Eddie Irvine ( Britain ) Ferrari 29
+14. Rubens Barrichello ( <LOCATION>Brazil</LOCATION> ) <LOCATION>Jordan</LOCATION> 29
+15. Pedro Diniz ( Brazil ) Ligier 22
+16. Jos Verstappen ( Netherland ) Arrows 11
+Did not start ( failed to complete one lap ) :
+<PERSON>Olivier Panis ( France ) Ligier</PERSON>
+<PERSON>Johnny Herbert ( Britain ) Sauber</PERSON>
+<PERSON>Heinz-Harald Frentzen ( Germany ) Sauber</PERSON>
+Fastest lap : Berger 1:53.067 ( 221.857 kph )
+

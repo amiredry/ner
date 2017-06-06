@@ -1,0 +1,9 @@
+
+Language Region: 0 125 English
+Entity	Type
+1996-08-24	TEMPORAL:DATE
+Polish	NATIONALITY
+Saturday	TEMPORAL:DATE
+
+Language Region: 125 384 Polish
+Entity	Type

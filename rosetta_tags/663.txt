@@ -1,0 +1,108 @@
+
+Language Region: 0 240 English
+Entity	Type
+WEDNESDAY	TEMPORAL:DATE
+U.S.	LOCATION
+NEW YORK	LOCATION
+1996-08-28	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+U.S. Open Tennis Championships	ORGANIZATION
+National Tennis Centre	ORGANIZATION
+
+Language Region: 240 537 Romanian
+Entity	Type
+
+Language Region: 537 614 Italian
+Entity	Type
+Sandrine Testud	PERSON
+France	LOCATION
+Cristina Torrens-Valero	PERSON
+
+Language Region: 614 2648 English
+Entity	Type
+Andrei Medvedev	PERSON
+Ukraine	LOCATION
+Jean-Philippe Fleurian	PERSON
+France	LOCATION
+David Nainkin	PERSON
+South Africa	LOCATION
+Wayne Ferreira	PERSON
+South Africa	LOCATION
+David Rikl	PERSON
+Czech Republic	LOCATION
+Hicham Arazi	PERSON
+Morocco	LOCATION
+Andrea Gaudenzi	PERSON
+Italy	LOCATION
+Shuzo Matsuoka	PERSON
+Japan	LOCATION
+Felix Mantilla	PERSON
+Spain	LOCATION
+Fernando Meligeni	PERSON
+Brazil	LOCATION
+Jonas Bjorkman	PERSON
+Sweden	LOCATION
+Karol Kucera	ORGANIZATION
+Slovakia	LOCATION
+Jan Kroslak	PERSON
+Slovakia	LOCATION
+Chris Woodruff	PERSON
+U.S.	LOCATION
+Amanda Coetzer	PERSON
+South Africa	LOCATION
+Mariaan de Swardt	LOCATION
+South Africa	LOCATION
+Linda Wild	PERSON
+U.S.	LOCATION
+Kristie Boogert	PERSON
+Netherlands	LOCATION
+Kimberly Po	PERSON
+U.S.	LOCATION
+Kristina Brandi	PERSON
+U.S.	LOCATION
+Helena Sukova	PERSON
+Czech Republic	LOCATION
+Paola Suarez	PERSON
+Argentina	LOCATION
+Monica Seles	PERSON
+U.S.	LOCATION
+Laurence Courtois	PERSON
+Belgium	LOCATION
+Dally Randriantefy ( Madagascar	LOCATION
+Jane Chi	PERSON
+U.S.	LOCATION
+Ines Gorrochategui	PERSON
+Argentina	LOCATION
+Aleksandra Olsza	PERSON
+Poland	LOCATION
+Todd Martin	PERSON
+U.S.	LOCATION
+Younes El Aynaoui	LOCATION
+Morocco	LOCATION
+Sjeng Schalken	LOCATION
+Netherlands	LOCATION
+Gilbert Schaller	PERSON
+Austria	LOCATION
+Michael Tebbutt	PERSON
+Australia	LOCATION
+Richey Reneberg	PERSON
+U.S.	LOCATION
+Paul Haarhuis	PERSON
+Netherlands	LOCATION
+Michael Joyce	PERSON
+U.S	LOCATION
+Barbara Rittner	PERSON
+Germany	LOCATION
+Brenda Schultz-McCarthy	PERSON
+Netherlands	LOCATION
+France	LOCATION
+Grant Stafford	PERSON
+South Africa	LOCATION
+Lisa Raymond	PERSON
+U.S.	LOCATION
+Sarah Pitkowski	PERSON
+France	LOCATION
+Asa Carlsson	PERSON
+Sweden	LOCATION
+Barbara Schett	PERSON
+Austria	LOCATION

@@ -1,0 +1,22 @@
+
+Language Region: 0 654 English
+Entity	Type
+Greek	NATIONALITY
+president dissolves parliament	TITLE
+1996-08-23	TEMPORAL:DATE
+Greek	NATIONALITY
+President	TITLE
+Costis Stephnopoulos	PERSON
+Thursday	TEMPORAL:DATE
+parliament	ORGANIZATION
+September 22	TEMPORAL:DATE
+President	TITLE
+Costis Stephanopoulos	PERSON
+parliament	ORGANIZATION
+Socialist	ORGANIZATION
+Prime Minister	TITLE
+Costas Simitis	PERSON
+Thursday	TEMPORAL:DATE
+European Union	LOCATION
+Turkey	LOCATION
+October	TEMPORAL:DATE

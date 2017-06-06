@@ -1,0 +1,34 @@
+
+Language Region: 0 1423 English
+Entity	Type
+Ivorian	NATIONALITY
+1996-08-28	TEMPORAL:DATE
+Ivorian	NATIONALITY
+third day	TEMPORAL:TIME
+Wednesday	TEMPORAL:DATE
+Raphael Lapke	PERSON
+publication director	TITLE
+Ivorian	NATIONALITY
+Le Populaire	ORGANIZATION
+Monday	TEMPORAL:DATE
+public prosecutor	TITLE
+Reuters	ORGANIZATION
+Ivorian	NATIONALITY
+La Voie	ORGANIZATION
+two-year	TEMPORAL:TIME
+President	TITLE
+Henri Konan Bedie	PERSON
+December	TEMPORAL:DATE
+January	TEMPORAL:DATE
+La Voie	ORGANIZATION
+Bedie	PERSON
+ASEC	ORGANIZATION
+Orlando Pirates	ORGANIZATION
+South Africa	LOCATION
+African	NATIONALITY
+December	TEMPORAL:DATE
+United States	LOCATION
+Abidjan	LOCATION
+Bedie	PERSON
+La Voie	ORGANIZATION
+Bedie	PERSON

@@ -1,0 +1,36 @@
+
+Language Region: 0 1268 English
+Entity	Type
+Afghan	NATIONALITY
+1996-08-25	TEMPORAL:DATE
+Afghanistan	LOCATION
+Salang	LOCATION
+Wednesday	TEMPORAL:DATE
+Kabul Radio	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Afghan	NATIONALITY
+Kabul	LOCATION
+Salang	LOCATION
+Monday	TEMPORAL:DATE
+Tuesday	TEMPORAL:DATE
+Supreme Coordination Council	ORGANIZATION
+warlord General	TITLE
+Abdul Rashid Dostum	PERSON
+Sunday	TEMPORAL:DATE
+Salang	LOCATION
+Afghanistan	LOCATION
+Central Asia	LOCATION
+Dostum	PERSON
+President	TITLE
+Burhanuddin Rabbani	PERSON
+Kabul	LOCATION
+January 1994	TEMPORAL:DATE
+Islami	ORGANIZATION
+Gulbuddin Hekmatyar	PERSON
+prime minister	TITLE
+president	TITLE
+Hekmatyar	PERSON
+prime minister	TITLE
+June	TEMPORAL:DATE
+Rabbani	PERSON
+Kabul	LOCATION

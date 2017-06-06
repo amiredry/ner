@@ -1,0 +1,49 @@
+
+Language Region: 0 385 English
+Entity	Type
+HOLZGERLINGEN , Germany	LOCATION
+1996-08-25	TEMPORAL:DATE
+German	NATIONALITY
+Sunday	TEMPORAL:DATE
+Sebastien Tortelli	PERSON
+France	LOCATION
+Kawasaki	ORGANIZATION
+Bob Moore	PERSON
+U.S.	LOCATION
+Luigi Seguy	PERSON
+France	LOCATION
+Andi Kanstinger	PERSON
+Germany	LOCATION
+Honda	ORGANIZATION
+Nicolas Charlier	PERSON
+France	LOCATION
+Kawasaki	ORGANIZATION
+Erik Camerlengo	PERSON
+Italy	LOCATION
+Yamaha	ORGANIZATION
+
+Language Region: 385 456 Italian
+Entity	Type
+Alex Belometti	PERSON
+Italy	LOCATION
+Honda	ORGANIZATION
+
+Language Region: 456 854 English
+Entity	Type
+Frederic Vialle	PERSON
+France	LOCATION
+Collin Dugmore	PERSON
+South Africa	LOCATION
+Honda	ORGANIZATION
+Camerlengo	PERSON
+Moore	PERSON
+Vialle	PERSON
+Camerlengo	PERSON
+Paul Malin	PERSON
+Britain	LOCATION
+Yamaha	ORGANIZATION
+Vialle	PERSON
+Michele Fanton	PERSON
+Italy	LOCATION
+Kawasaki	ORGANIZATION
+Dugmore	PERSON

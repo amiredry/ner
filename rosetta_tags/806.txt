@@ -1,0 +1,58 @@
+
+Language Region: 0 204 English
+Entity	Type
+ONE-DAY	TEMPORAL:TIME
+MANCHESTER , England	LOCATION
+1996-08-29	TEMPORAL:DATE
+first one-day	TEMPORAL:TIME
+England	LOCATION
+Pakistan	LOCATION
+Thursday	TEMPORAL:DATE
+
+Language Region: 204 308 Pushto
+Entity	Type
+
+Language Region: 308 1421 English
+Entity	Type
+Wasim Akram	PERSON
+Croft 6 Inzamam	LOCATION
+Moin Khan	PERSON
+Salim Malik	PERSON
+4 w	IDENTIFIER:LATITUDE_LONGITUDE
+Mushtaq Ahmed	PERSON
+Waqar Younis	PERSON
+Ata-ur-Rehman	PERSON
+Saqlain Mushtaq	PERSON
+Gough	PERSON
+Mullally	PERSON
+10-3-31	TEMPORAL:DATE
+Headley	PERSON
+Irani	PERSON
+Croft	PERSON
+10-1-36	TEMPORAL:DATE
+England N. Knight	PERSON
+Moin Khan	PERSON
+Wasim Akram	PERSON
+Waqar Younis 48 M. Atherton	PERSON
+Wasim Akram 65 G. Thorpe	PERSON
+Moin Khan	PERSON
+Aamir Sohail 23 M. Maynard	PERSON
+Wasim Akram 41 G. Lloyd	PERSON
+Irani	PERSON
+R. Croft	PERSON
+D. Gough	PERSON
+D. Headley	PERSON
+Wasim Akram	PERSON
+Waqar Younis	PERSON
+Saqlain Mushtaq	PERSON
+10-1-54	TEMPORAL:DATE
+Ata-ur-Rehman	PERSON
+Mushtaq Ahmed	PERSON
+Aamir Sohail	PERSON
+7-1-29	TEMPORAL:DATE
+England	LOCATION
+August 31	TEMPORAL:DATE
+Birmingham	LOCATION
+September 1	TEMPORAL:DATE
+Trent Bridge	PRODUCT
+Nottingham	ORGANIZATION

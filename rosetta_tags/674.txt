@@ -1,0 +1,27 @@
+
+Language Region: 0 1015 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+Thomas Helmer	PERSON
+Juergen Klinsmann	PERSON
+Bayern Munich	ORGANIZATION
+Bayer Leverkusen	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Stuttgart	LOCATION
+Brazilian	NATIONALITY
+Paulo Sergio	PERSON
+Leverkusen	LOCATION
+Alexander Zickler	PERSON
+a minute	TEMPORAL:TIME
+Helmer	PERSON
+Klinsmann	PERSON
+Ruggiero Rizzitelli	PERSON
+Markus Feldhoff	PERSON
+Leverkusen	LOCATION
+Hansa Rostock	LOCATION
+Cologne	LOCATION
+Rhineside	LOCATION
+Sean Dundee	PERSON
+seven minutes	TEMPORAL:TIME
+Karlsruhe	LOCATION
+St Pauli	LOCATION

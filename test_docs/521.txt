@@ -1,0 +1,23 @@
+
+Language Region: 0 68 English Uppercase
+Entity	Type
+RUGBY UNION - GRIQUALAND WEST	LOCATION
+NEW ZEALAND	LOCATION
+
+Language Region: 68 450 English
+Entity	Type
+KIMBERLEY , South Africa	LOCATION
+1996-08-27	TEMPORAL:DATE
+West	LOCATION
+New Zealand	LOCATION
+Tuesday	TEMPORAL:DATE
+West	LOCATION
+Andre Cloete	PERSON
+Leon van der Wath	PERSON
+Boeta Wessels	PERSON
+Wessels	PERSON
+New Zealand	LOCATION
+Scott McLeod	PERSON
+Glen Osborne	PERSON
+Jon Preston	PERSON
+Preston	PERSON

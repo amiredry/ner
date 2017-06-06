@@ -1,0 +1,21 @@
+
+Language Region: 0 636 English
+Entity	Type
+Nicaraguan	NATIONALITY
+president	TITLE
+U.S.	LOCATION
+MANAGUA , Nicaragua	LOCATION
+1996-08-23	TEMPORAL:DATE
+Nicaraguan	NATIONALITY
+President	TITLE
+Violeta Chamorro	PERSON
+United States	LOCATION
+Saturday	TEMPORAL:DATE
+Friday	TEMPORAL:DATE
+Chamorro	NATIONALITY
+Taiwan	LOCATION
+Taipei University Hospital	ORGANIZATION
+Chamorro	NATIONALITY
+Washington	LOCATION
+doctor	TITLE
+Sam Wilson	PERSON

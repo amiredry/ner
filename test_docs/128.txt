@@ -1,0 +1,38 @@
+
+Language Region: 0 2344 English
+Entity	Type
+Russia	LOCATION
+MOSCOW	LOCATION
+1996-08-23	TEMPORAL:DATE
+Russian	NATIONALITY
+Friday	TEMPORAL:DATE
+Russia	LOCATION
+Marina Volkova	PERSON
+State Customs Committee	ORGANIZATION
+Reuters	ORGANIZATION
+Volkova	PERSON
+Russian	NATIONALITY
+$ 1.10 billion	IDENTIFIER:MONEY
+$ 4.9 billion	IDENTIFIER:MONEY
+Russian	NATIONALITY
+$ 61.5 billion	IDENTIFIER:MONEY
+Russian	NATIONALITY
+Volkova	PERSON
+Russian	NATIONALITY
+President	TITLE
+Boris Yeltsin	PERSON
+Volkova	PERSON
+November 1	TEMPORAL:DATE
+Russian	NATIONALITY
+180 days	TEMPORAL:TIME
+Volkova	PERSON
+Volkova	PERSON
+Soviet Union	LOCATION
+Yeltsin	PERSON
+Russian	NATIONALITY
+Russian	NATIONALITY
+Volkova	PERSON
+Russian	NATIONALITY
+Russian	NATIONALITY
+Dmitry Solovyov	PERSON
+Moscow Newsroom	ORGANIZATION

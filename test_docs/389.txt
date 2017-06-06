@@ -1,0 +1,11 @@
+
+Language Region: 0 425 English
+Entity	Type
+Lebanese	NATIONALITY
+TRIPOLI , Lebanon	LOCATION
+1996-08-25	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Lebanon	LOCATION
+parliament	ORGANIZATION
+7 a.m.	TEMPORAL:TIME
+0400 gmt	TEMPORAL:TIME

@@ -1,0 +1,46 @@
+
+Language Region: 0 1260 English
+Entity	Type
+Netanyahu	PERSON
+Weizman	PERSON
+Arafat	PERSON
+JERUSALEM	LOCATION
+1996-08-25	TEMPORAL:DATE
+Israeli	NATIONALITY
+President	TITLE
+Ezer Weizman	PERSON
+Yasser Arafat	PERSON
+Sunday	TEMPORAL:DATE
+Prime Minister	TITLE
+Benjamin Netanyahu	PERSON
+Weizman	PERSON
+Netanyahu	PERSON
+president	TITLE
+Jerusalem	LOCATION
+prime minister	TITLE
+director	TITLE
+president	TITLE
+Israel	LOCATION
+Yedioth Ahronoth	ORGANIZATION
+Weizman	PERSON
+Arafat	PERSON
+Israel	LOCATION
+PLO	ORGANIZATION
+Aryeh Shumer	PERSON
+Weizman	PERSON
+Arafat	PERSON
+Palestinian	NATIONALITY
+Israeli	NATIONALITY
+president	TITLE
+Yedioth Ahronoth	ORGANIZATION
+Netanyahu	PERSON
+Arafat	PERSON
+Weizman	PERSON
+Palestinian	NATIONALITY
+president	TITLE
+Moslem	RELIGION
+Israel	LOCATION
+February	TEMPORAL:DATE
+Weizman	PERSON
+PLO	ORGANIZATION
+Shumer	PERSON

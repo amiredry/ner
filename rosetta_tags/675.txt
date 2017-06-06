@@ -1,0 +1,15 @@
+
+Language Region: 0 130 English
+Entity	Type
+ROME	LOCATION
+1996-08-28	TEMPORAL:DATE
+Italian	NATIONALITY
+Wednesday	TEMPORAL:DATE
+
+Language Region: 130 368 Italian
+Entity	Type
+Monza	LOCATION
+Napoli 1 Chievo 2 Cagliari	LOCATION
+
+Language Region: 368 416 Estonian
+Entity	Type

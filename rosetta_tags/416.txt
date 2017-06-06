@@ -1,0 +1,119 @@
+
+Language Region: 0 65 English Uppercase
+Entity	Type
+ENGLISH	NATIONALITY
+SCOTTISH LEAGUE	ORGANIZATION
+AUG 30	TEMPORAL:DATE
+SEPT 1	TEMPORAL:DATE
+
+Language Region: 65 1011 English
+Entity	Type
+LONDON	LOCATION
+1996-08-26	TEMPORAL:DATE
+English	NATIONALITY
+Scottish	NATIONALITY
+August 30	TEMPORAL:DATE
+September 1	TEMPORAL:DATE
+Friday , August 30	TEMPORAL:DATE
+English	NATIONALITY
+West Bromwich	LOCATION
+Sheffield United	ORGANIZATION
+English	NATIONALITY
+Swansea	LOCATION
+Saturday , August 31	TEMPORAL:DATE
+English	NATIONALITY
+Birmingham	LOCATION
+Barnsley	LOCATION
+Bradford	PERSON
+Tranmere	LOCATION
+Grimsby	LOCATION
+Portsmouth	LOCATION
+Huddersfield	LOCATION
+Crystal Palace , Manchester City	LOCATION
+Charlton	LOCATION
+Norwich	LOCATION
+Wolverhampton , Oldham	LOCATION
+Ipswich	LOCATION
+Port Vale	LOCATION
+Oxford	ORGANIZATION
+Reading	LOCATION
+Stoke	LOCATION
+Southend	LOCATION
+Swindon	LOCATION
+English	NATIONALITY
+Blackpool	LOCATION
+Wycombe	LOCATION
+Bournemouth	LOCATION
+Peterborough	LOCATION
+Bristol Rovers	ORGANIZATION
+Stockport	LOCATION
+Bristol City	LOCATION
+Crewe	LOCATION
+Watford	LOCATION
+Gillingham	LOCATION
+Chesterfield	LOCATION
+Luton	LOCATION
+Rotherham	LOCATION
+Millwall	LOCATION
+Burnley	LOCATION
+Notts County v York	ORGANIZATION
+Plymouth	LOCATION
+Preston	PERSON
+Shrewsbury	LOCATION
+Brentford	LOCATION
+Walsall	LOCATION
+Wrexham	LOCATION
+English	NATIONALITY
+Brighton	LOCATION
+Scunthorpe	LOCATION
+Cambridge	LOCATION
+Cardiff	LOCATION
+Colchester	LOCATION
+Hereford	LOCATION
+Doncaster	LOCATION
+Darlington , Fulham	LOCATION
+
+Language Region: 1011 1080 Norwegian
+Entity	Type
+
+Language Region: 1080 1682 English
+Entity	Type
+Scarborough	PERSON
+Northampton	LOCATION
+Torquay	LOCATION
+Exeter , Wigan	LOCATION
+Chester	PERSON
+Scottish	NATIONALITY
+East Fife	LOCATION
+Clydebank	LOCATION
+Greenock Morton	PERSON
+Partick	LOCATION
+St Mirren , St Johnstone	LOCATION
+Airdrieonians	LOCATION
+Stirling	PERSON
+Dundee	LOCATION
+Scottish	NATIONALITY
+Ayr	LOCATION
+Clyde	PERSON
+Queen	TITLE
+South	LOCATION
+Dumbarton	LOCATION
+Brechin	LOCATION
+Livingston	PERSON
+Hamilton	PERSON
+Stenhousemuir	LOCATION
+Stranraer	LOCATION
+Scottish	NATIONALITY
+Cowdenbeath	LOCATION
+Arbroath	LOCATION
+East Stirling , Inverness	LOCATION
+Alloa	LOCATION
+Montrose	LOCATION
+Ross County	LOCATION
+Queen's	TITLE
+Park	PERSON
+Forfar	LOCATION
+Sunday , September 1	TEMPORAL:DATE
+English	NATIONALITY
+Queens Park Rangers	LOCATION
+Bolton	LOCATION

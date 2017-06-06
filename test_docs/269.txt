@@ -1,0 +1,35 @@
+
+Language Region: 0 353 English
+Entity	Type
+PARIS	LOCATION
+1996-08-24	TEMPORAL:DATE
+French	NATIONALITY
+Saturday	TEMPORAL:DATE
+Nantes 0 Lens 1	PRODUCT
+Smicer	PERSON
+Debbah 39th ) Bastia 1	PRODUCT
+Drobnjak 82nd	ORGANIZATION
+Lille 3	PRODUCT
+Boutoille 47th	PRODUCT
+Becanovic	PERSON
+Rennes	LOCATION
+Guivarc'h 60th	PRODUCT
+Bordeaux 0 Auxerre 0	PRODUCT
+
+Language Region: 353 525 Italian
+Entity	Type
+Metz 2	LOCATION
+Bombarda	PERSON
+Zitelli	PERSON
+
+Language Region: 525 676 English
+Entity	Type
+Wreh 15th	PRODUCT
+Monaco 1	PRODUCT
+Scifo 35th	ORGANIZATION
+Montpellier 0 Cannes 1	PRODUCT
+Charvet	PERSON
+Friday	TEMPORAL:DATE
+Nancy	PERSON
+Paris	LOCATION
+St Germain	LOCATION

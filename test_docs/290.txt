@@ -1,0 +1,39 @@
+
+Language Region: 0 1075 English
+Entity	Type
+Nepal	LOCATION
+Tibet	LOCATION
+king	TITLE
+China	LOCATION
+BEIJING	LOCATION
+1996-08-24	TEMPORAL:DATE
+King	TITLE
+Birendra	PERSON
+Nepal	LOCATION
+China	LOCATION
+Tibetan	NATIONALITY
+Beijing	LOCATION
+China Daily	ORGANIZATION
+Saturday	TEMPORAL:DATE
+King	TITLE
+Birendra	PERSON
+Tibet	LOCATION
+one-week	TEMPORAL:TIME
+China	LOCATION
+Nepalese	NATIONALITY
+Nepal	LOCATION
+Beijing	LOCATION
+four-decade	TEMPORAL:TIME
+Chinese	NATIONALITY
+United States	LOCATION
+Tibetan	NATIONALITY
+King	TITLE
+Birenda	PERSON
+Gyaicain Norbu	PERSON
+chairman	TITLE
+Tibetan	NATIONALITY
+Nepal	LOCATION
+Tibet	LOCATION
+Gyaicain	PERSON
+Nepal	LOCATION
+Tibet	LOCATION

@@ -1,0 +1,16 @@
+
+Language Region: 0 436 English
+Entity	Type
+MANCHESTER , England	LOCATION
+1996-08-28	TEMPORAL:DATE
+Britain	LOCATION
+Chris Boardman	PERSON
+six seconds	TEMPORAL:TIME
+Wednesday	TEMPORAL:DATE
+Boardman	PERSON
+four minutes	TEMPORAL:TIME
+13.353 seconds	TEMPORAL:TIME
+Andrea Collinelli	PERSON
+Italy	LOCATION
+Atlanta	LOCATION
+July 24	TEMPORAL:DATE

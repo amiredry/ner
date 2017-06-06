@@ -1,0 +1,18 @@
+
+Language Region: 0 1197 English
+Entity	Type
+Puerto Rico	LOCATION
+PHILADELPHIA	LOCATION
+1996-08-27	TEMPORAL:DATE
+two-year	TEMPORAL:TIME
+Puerto Rican	NATIONALITY
+Tuesday	TEMPORAL:DATE
+Abyss DeJesus	PERSON
+St.	TITLE
+Christopher Children	PERSON
+Hospital	PERSON
+Carol Norris	PERSON
+Norris	PERSON
+Tuesday	TEMPORAL:DATE
+DeJesus	PERSON
+Philadelphia	LOCATION

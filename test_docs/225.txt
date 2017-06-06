@@ -1,0 +1,26 @@
+
+Language Region: 0 1138 English
+Entity	Type
+RTRS - Australia Senate	ORGANIZATION
+Howard	PERSON
+CANBERRA	LOCATION
+1996-08-23	TEMPORAL:DATE
+Australian	NATIONALITY
+Prime Minister	TITLE
+John Howard	PERSON
+Parliament	ORGANIZATION
+Senate	ORGANIZATION
+Howard	PERSON
+Thursday	TEMPORAL:DATE
+Liberal Party	ORGANIZATION
+Senior ministers	TITLE
+Tuesday	TEMPORAL:DATE
+Senate	ORGANIZATION
+$ 5.6 billion	IDENTIFIER:MONEY
+Telstra	ORGANIZATION
+Senate	ORGANIZATION
+Greens	ORGANIZATION
+Australian Democrats	ORGANIZATION
+Labor Party	ORGANIZATION
+July 31	TEMPORAL:DATE
+Sydney	LOCATION

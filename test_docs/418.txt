@@ -1,0 +1,55 @@
+
+Language Region: 0 2273 English
+Entity	Type
+Mark Gleeson	PERSON
+1996-08-26	TEMPORAL:DATE
+Seychelles	LOCATION
+African Nations	ORGANIZATION
+Indian Ocean	LOCATION
+Mauritius	LOCATION
+Saturday	TEMPORAL:DATE
+Mauritius	LOCATION
+Seychelles	LOCATION
+10 years	TEMPORAL:TIME
+FIFA	ORGANIZATION
+Seychelles	LOCATION
+Mauritian	NATIONALITY
+Andre Caboche	PERSON
+Ashley Mocude	PERSON
+a minute	TEMPORAL:TIME
+Danny Rose	PERSON
+Seychellois	NATIONALITY
+Mauritius	LOCATION
+Malawi	LOCATION
+Mozambique	LOCATION
+Zambia	LOCATION
+Namibia	LOCATION
+Botswana	LOCATION
+Windhoek 6	LOCATION
+African	NATIONALITY
+Cameroon	LOCATION
+Gabon	LOCATION
+Kenya	LOCATION
+German	NATIONALITY
+Bachirou Salou	ORGANIZATION
+Togo	LOCATION
+Congo	LOCATION
+MSV Duisburg	ORGANIZATION
+Bundesliga	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Lome	LOCATION
+Liberia	LOCATION
+Tanzania	LOCATION
+Zaire	LOCATION
+Ethiopia	LOCATION
+Addis Ababa	LOCATION
+Uganda	LOCATION
+Ethiopia	LOCATION
+Uganda	LOCATION
+Angola	LOCATION
+June	TEMPORAL:DATE
+Mauritania	LOCATION
+Benin	LOCATION
+Nouakchott	LOCATION
+Friday	TEMPORAL:DATE
+Benin	LOCATION

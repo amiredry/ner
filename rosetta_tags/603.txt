@@ -1,0 +1,39 @@
+
+Language Region: 0 1632 English
+Entity	Type
+Bangladesh	LOCATION
+Speaker	TITLE
+1996-08-27	TEMPORAL:DATE
+Speaker	TITLE
+Bangladesh	LOCATION
+parliament	ORGANIZATION
+Humayun Rasheed Choudhury	PERSON
+Banglabazar Patrika	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Choudhury	PERSON
+foreign minister	TITLE
+parliament	ORGANIZATION
+July 13	TEMPORAL:DATE
+a month	TEMPORAL:TIME
+Awami League	ORGANIZATION
+Prime Minister Sheikh	TITLE
+Hasina	PERSON
+21 years	TEMPORAL:TIME
+Choudhury	PERSON
+president	TITLE
+U.N. General Assembly	ORGANIZATION
+prime minister Begum	TITLE
+Khaleda Zia	PERSON
+parliament	ORGANIZATION
+Bangladesh Nationalist Party	ORGANIZATION
+BNP	ORGANIZATION
+Awami	ORGANIZATION
+parliament	ORGANIZATION
+MPs	TITLE
+Bogra	LOCATION
+Monday	TEMPORAL:DATE
+Hasina	PERSON
+Dhaka	LOCATION
+Monday	TEMPORAL:DATE
+BNP	ORGANIZATION
+prime minister	TITLE

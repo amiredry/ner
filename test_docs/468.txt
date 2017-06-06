@@ -1,0 +1,15 @@
+
+Language Region: 0 1031 English
+Entity	Type
+Melbourne	LOCATION
+MELBOURNE	LOCATION
+1996-08-26	TEMPORAL:DATE
+Australian	NATIONALITY
+Melbourne	LOCATION
+Monday	TEMPORAL:DATE
+Reuters	ORGANIZATION
+Public Transport Corporation	ORGANIZATION
+Melbourne	LOCATION
+Preston	PERSON
+Bell St Station	LOCATION
+Sydney	LOCATION

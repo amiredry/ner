@@ -1,0 +1,42 @@
+
+Language Region: 0 3861 English
+Entity	Type
+South Africa	LOCATION
+Anton Ferreira CAPE TOWN	PERSON
+1996-08-25	TEMPORAL:DATE
+South Africa	LOCATION
+Archbishop	TITLE
+Desmond Tutu	PERSON
+Truth and Reconciliation Commission	ORGANIZATION
+president	TITLE
+F.W. de Klerk	PERSON
+African National Congress	ORGANIZATION
+Deputy President	TITLE
+Thabo Mbeki	PERSON
+Tutu	PERSON
+Brian Currin	PERSON
+Dirk Coetzee	PERSON
+Tutu	PERSON
+deputy chairman	TITLE
+Alex Boraine	PERSON
+president	TITLE
+P.W. Botha	PERSON
+Currin	PERSON
+Coetzee	PERSON
+December	TEMPORAL:DATE
+Currin	PERSON
+ANC	ORGANIZATION
+de Klerk's National Party	ORGANIZATION
+Freedom Front	ORGANIZATION
+General	TITLE
+Constand Viljoen	PERSON
+South Africans	NATIONALITY
+Boraine	PERSON
+Political scientist	TITLE
+Jannie Gagiano	PERSON
+National Party	ORGANIZATION
+Professor	TITLE
+Tom Lodge	PERSON
+University	ORGANIZATION
+Witwatersrand	ORGANIZATION
+South Africans	NATIONALITY

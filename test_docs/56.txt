@@ -1,0 +1,8 @@
+
+Language Region: 0 149 English
+Entity	Type
+1996-08-22	TEMPORAL:DATE
+Dutch	NATIONALITY
+Thursday	TEMPORAL:DATE
+NEC	ORGANIZATION
+Nijmegen 1 PSV Eindhoven 4	PRODUCT

@@ -1,0 +1,42 @@
+
+Language Region: 0 1683 English
+Entity	Type
+Dutch	NATIONALITY
+Costa Rica	LOCATION
+SAN JOSE , Costa Rica	LOCATION
+1996-08-26	TEMPORAL:DATE
+Dutch	NATIONALITY
+Costa Rica	LOCATION
+$ 1.5 million	IDENTIFIER:MONEY
+Monday	TEMPORAL:DATE
+Humberto Hueite Zyrecha	PERSON
+Jetty Kors	PERSON
+Saturday	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Misael Valerio	PERSON
+Security Ministry	ORGANIZATION
+Nicaragua	LOCATION
+Costa Rica	LOCATION
+Dutchman	NATIONALITY
+Richard Wisinga	PERSON
+Aguas Zarcas de San Carlos	ORGANIZATION
+Costa Rica	LOCATION
+Nicaragua	LOCATION
+Santa Maria de Pocosol	LOCATION
+12 miles	IDENTIFIER:DISTANCE
+20 km	IDENTIFIER:DISTANCE
+Wisinga	PERSON
+$ 1.5 million	IDENTIFIER:MONEY
+Wisinga	PERSON
+Europe	LOCATION
+Swiss	ORGANIZATION
+German	NATIONALITY
+Nicaraguan	NATIONALITY
+Regula Susana Siegfried	PERSON
+Nicola Fleuchaus	PERSON
+71 days	TEMPORAL:TIME
+$ 200,000	IDENTIFIER:MONEY
+Fleuchaus	PERSON
+Julio Cesar Vega Rojas	PERSON
+Costa Rican	NATIONALITY
+Vega	PERSON

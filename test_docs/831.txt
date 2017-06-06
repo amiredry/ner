@@ -1,0 +1,20 @@
+
+Language Region: 0 72 English Uppercase
+Entity	Type
+ND PARTY	ORGANIZATION
+THOMSON	ORGANIZATION
+
+Language Region: 72 471 English
+Entity	Type
+1996-08-29	TEMPORAL:DATE
+Greek	NATIONALITY
+Ogilvy	PERSON
+Mather	ORGANIZATION
+Spot	ORGANIZATION
+Thomson	PRODUCT
+president	TITLE
+Miltiadis Evert	PERSON
+Spot	ORGANIZATION
+Thomson	PRODUCT
+Dimitris Kontogiannis	PERSON
+Athens Newsroom	ORGANIZATION

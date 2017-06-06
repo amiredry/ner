@@ -1,0 +1,62 @@
+
+Language Region: 0 3797 English
+Entity	Type
+Belgium	LOCATION
+Jeremy Lovell	PERSON
+1996-08-24	TEMPORAL:DATE
+Belgian	NATIONALITY
+Saturday	TEMPORAL:DATE
+Europe	LOCATION
+Marc Dutroux	PERSON
+a week	TEMPORAL:TIME
+Saturday	TEMPORAL:DATE
+Ransart	LOCATION
+Mont-sur-Marchienne	LOCATION
+Charleroi	LOCATION
+Dutroux	PERSON
+Belgian	NATIONALITY
+Dutroux	PERSON
+chief prosecutor	TITLE
+Michel Bourlet	PERSON
+Belgian	NATIONALITY
+Friday	TEMPORAL:DATE
+Bourlet	PERSON
+Dutroux	PERSON
+Dutroux	PERSON
+a week	TEMPORAL:TIME
+Charleroi	LOCATION
+a day	TEMPORAL:TIME
+Dutroux	PERSON
+two eight-year	TEMPORAL:TIME
+Julie Lejeune	PERSON
+Melissa Russo	PERSON
+June	TEMPORAL:DATE
+Dutroux	PERSON
+nine months	TEMPORAL:TIME
+Eefje Lambrecks	PERSON
+a year	TEMPORAL:TIME
+Slovakia	LOCATION
+Czech Republic	LOCATION
+Dutroux	PERSON
+Belgian	NATIONALITY
+Bratislava	LOCATION
+Prague	LOCATION
+Dutroux	PERSON
+Michelle Martin	PERSON
+Dutch	NATIONALITY
+74-year	TEMPORAL:TIME
+Dutchman	NATIONALITY
+Eefje	PERSON
+Belgian	NATIONALITY
+Dutroux	PERSON
+Dutroux	PERSON
+Julie	PERSON
+Melissa	PERSON
+Eefje	PERSON
+Dutroux	PERSON
+Dutroux	PERSON
+Julie	PERSON
+Melissa	PERSON
+Justice Minister	TITLE
+Stefaan De Clerck	PERSON
+Dutroux	PERSON

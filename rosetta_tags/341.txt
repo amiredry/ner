@@ -1,0 +1,15 @@
+
+Language Region: 0 147 English
+Entity	Type
+1996-08-25	TEMPORAL:DATE
+
+Language Region: 147 526 Romanian
+Entity	Type
+
+Language Region: 526 650 English
+Entity	Type
+Dinamo	ORGANIZATION
+Bucharest 4 3 0 1 6 2 9	PRODUCT
+
+Language Region: 650 1229 Romanian
+Entity	Type

@@ -1,0 +1,10 @@
+SOCCER <PERSON>- GLORIA BISTRITA</PERSON> BEAT 2-1 F.C. VALLETTA .
+BISTRITA 1996-08-22
+Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( <LOCATION>Malta</LOCATION> ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .
+Scorers :
+<PERSON>Gloria Bistrita - Ilie Lazar</PERSON> ( 32nd ) , Eugen Voica ( 84th )
+F.C. La Valletta - Gilbert Agius ( 24th )
+Attendance : 8,000
+<PERSON>Gloria Bistrita</PERSON> won 4-2 on aggregate and qualified for the first round of the Cup winners Cup .
+REUTER
+

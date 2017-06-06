@@ -1,0 +1,21 @@
+
+Language Region: 0 718 English
+Entity	Type
+Buffett	PERSON
+Property Capital	ORGANIZATION
+WASHINGTON	LOCATION
+1996-08-23	TEMPORAL:DATE
+Omaha	LOCATION
+Warren Buffett	PERSON
+Friday	TEMPORAL:DATE
+Property Capital Trust	ORGANIZATION
+Securities and Exchnage Commission	ORGANIZATION
+Buffett	PERSON
+Boston	LOCATION
+$ 7.65	IDENTIFIER:MONEY
+$ 8.02	IDENTIFIER:MONEY
+$ 6.2 million	IDENTIFIER:MONEY
+Buffett	PERSON
+chairman	TITLE
+Berkshire Hathaway Inc	ORGANIZATION
+U.S.	LOCATION

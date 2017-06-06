@@ -1,0 +1,23 @@
+
+Language Region: 0 975 English
+Entity	Type
+bishop	TITLE
+cabinet of Commandments	ORGANIZATION
+Argentina	LOCATION
+1996-08-27	TEMPORAL:DATE
+Archbishop	TITLE
+Buenos Aires	LOCATION
+Tuesday	TEMPORAL:DATE
+president	TITLE
+Argentina	LOCATION
+Ten Commandments	LOCATION
+president	TITLE
+Archbishop	TITLE
+Antonio Quarracino	PERSON
+cabinet	ORGANIZATION
+ministers	TITLE
+Ten Commandments	LOCATION
+Argentina	LOCATION
+Roman Catholic	RELIGION
+cleric	TITLE
+Quarracino	PERSON

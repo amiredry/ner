@@ -1,0 +1,16 @@
+
+Language Region: 0 597 English
+Entity	Type
+New Zealands South Island	LOCATION
+1996-08-29	TEMPORAL:DATE
+Richter	PERSON
+New Zealands	LOCATION
+South Island	LOCATION
+Thursday	TEMPORAL:DATE
+Television New Zealand	ORGANIZATION
+Waiau	LOCATION
+Nelson	PERSON
+Christchurch	LOCATION
+New Zealand	LOCATION
+Britain	LOCATION
+Japan	LOCATION

@@ -1,0 +1,39 @@
+
+Language Region: 0 289 English
+Entity	Type
+STUTTGART , Germany	LOCATION
+1996-08-25	TEMPORAL:DATE
+European	NATIONALITY
+Sunday	TEMPORAL:DATE
+German Open ( Britain	ORGANIZATION
+Ian Woosnam	PERSON
+Colin Montgomerie	PERSON
+Lee Westwood	PERSON
+
+Language Region: 289 368 Norwegian
+Entity	Type
+
+Language Region: 368 407 Italian
+Entity	Type
+Costantino Rocca	PERSON
+Italy	LOCATION
+
+Language Region: 407 870 English
+Entity	Type
+Andrew Coltart	PERSON
+Wayne Riley ( Australia	ORGANIZATION
+Raymond Russell	PERSON
+Stephen Ames	PERSON
+Trinidad	LOCATION
+Frank Nobilo	PERSON
+New Zealand	LOCATION
+Paul McGinley ( Ireland	ORGANIZATION
+Paul Lawrie	PERSON
+Padraig Harrington ( Ireland	ORGANIZATION
+Retief Goosen	ORGANIZATION
+South Africa	LOCATION
+Jonathan Lomas	PERSON
+Paul Broadhurst	PERSON
+Peter Mitchell	PERSON
+Jim Payne	PERSON
+Russell Claydon	PERSON

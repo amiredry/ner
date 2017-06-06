@@ -1,0 +1,45 @@
+
+Language Region: 0 1776 English
+Entity	Type
+MANCHESTER , England	LOCATION
+1996-08-29	TEMPORAL:DATE
+Glamorgan	LOCATION
+Robert Croft	PERSON
+England	LOCATION
+Pakistan	LOCATION
+first one-day	TEMPORAL:TIME
+Thursday	TEMPORAL:DATE
+Croft	PERSON
+Englishmen	NATIONALITY
+Pakistan	LOCATION
+Aamir Sohail	PERSON
+Wasim Akram	PERSON
+10-1-36	TEMPORAL:DATE
+Ronnie Irani	PERSON
+Allan Mullally	PERSON
+Darren Gough	PERSON
+Dean Headley	PERSON
+Lancashire	LOCATION
+Graham Lloyd	PERSON
+Wasim	PERSON
+Pakistani	NATIONALITY
+Sohail	PERSON
+Saeed Anwar	PERSON
+Anwar	PERSON
+Irani	PERSON
+Mullally	PERSON
+Sohail	PERSON
+Ijaz Ahmed	PERSON
+England	LOCATION
+Sohail	PERSON
+Croft	PERSON
+Wasim	PERSON
+Croft	PERSON
+Ijaz	PERSON
+Irani	PERSON
+Mullally	PERSON
+Gough	PERSON
+Moin Khan	PERSON
+Inzamam-ul-Haq	PERSON
+Salim Malik	PERSON
+Pakistan	LOCATION

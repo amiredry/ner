@@ -1,0 +1,65 @@
+
+Language Region: 0 3031 English
+Entity	Type
+1996-08-25	TEMPORAL:DATE
+Brian McRae	PERSON
+Tyler Houston	LOCATION
+Chicago Cubs	ORGANIZATION
+Atlanta Braves	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Saturday	TEMPORAL:DATE
+Kevin Foster	PERSON
+Foster	PERSON
+Colorado	LOCATION
+Vinny Castilla	PERSON
+Larry Walker	PERSON
+Colorado Rockies	ORGANIZATION
+Pittsburgh Pirates	LOCATION
+Castilla	PERSON
+Marc Wilkins	PERSON
+Colorado	LOCATION
+John Ericks	PERSON
+Florida	LOCATION
+Edgar Renteria	PERSON
+Jesus Tavarez	PERSON
+Florida	LOCATION
+Cincinnati Reds	ORGANIZATION
+Edgar	PERSON
+Tavarez	PERSON
+Edgar	PERSON
+Florida	LOCATION
+manager	TITLE
+John Boles	PERSON
+San Francisco	LOCATION
+Osvaldo Fenandez	PERSON
+Trenidad Hubbard	PERSON
+San Francisco Giants	LOCATION
+Montreal Expos	LOCATION
+Montreal	LOCATION
+Los Angeles	LOCATION
+Greg Gagne	PERSON
+Chad Curtis	LOCATION
+Los Angeles	LOCATION
+Dodgers	ORGANIZATION
+New York Mets	LOCATION
+Dodgers manager	TITLE
+Bill Russell	PERSON
+Mike Piazza	PERSON
+San Diego	LOCATION
+Steve Finley	PERSON
+Jody Reed	PERSON
+San Diego Padres	LOCATION
+Philadelphia Phillies	ORGANIZATION
+Ken Caminiti	PERSON
+RBI	ORGANIZATION
+Padres	ORGANIZATION
+Los Angeles	LOCATION
+Dodgers	ORGANIZATION
+National League West	ORGANIZATION
+Houston	LOCATION
+Jeff Bagwell	PERSON
+Donne Wall	ORGANIZATION
+Houston Astros	ORGANIZATION
+St. Louis	LOCATION
+Astros	ORGANIZATION
+National League Central	ORGANIZATION

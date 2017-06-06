@@ -1,0 +1,71 @@
+
+Language Region: 0 3127 English
+Entity	Type
+AT CANADIAN OPEN	ORGANIZATION
+TORONTO	LOCATION
+1996-08-22	TEMPORAL:DATE
+Australia	LOCATION
+$ 2 million	IDENTIFIER:MONEY
+Canadian	NATIONALITY
+Thursday	TEMPORAL:DATE
+Aussies	NATIONALITY
+Patrick Rafter	PERSON
+American	NATIONALITY
+MaliVai Washington 6	ORGANIZATION
+50 minutes	TEMPORAL:TIME
+Todd Woodbridge	PERSON
+Canadian	NATIONALITY
+Daniel Nestor	PERSON
+Mark Philippoussis	PERSON
+Bohdan Ulihrach	PERSON
+Czech Republic	LOCATION
+Friday	TEMPORAL:DATE
+Wayne Ferreira	PERSON
+South Africa	LOCATION
+Tim Henman	PERSON
+Britain	LOCATION
+three-hour	TEMPORAL:TIME
+Thomas Enqvist	PERSON
+Sweden	LOCATION
+Petr Korda	PERSON
+Czech Republic 6	LOCATION
+Ferreira	PERSON
+Enqvist	PERSON
+Friday	TEMPORAL:DATE
+Americans	NATIONALITY
+Todd Martin	PERSON
+Alex O'Brien	PERSON
+Friday	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+Martin	PERSON
+Cedric Pioline	PERSON
+France	LOCATION
+O'Brien	PERSON
+Mikael Tillstrom	PERSON
+Sweden	LOCATION
+Washington	LOCATION
+Rafter	PERSON
+40s	IDENTIFIER:LATITUDE_LONGITUDE
+Rafter	PERSON
+10 weeks	TEMPORAL:TIME
+9:30	TEMPORAL:TIME
+Rafter	PERSON
+Martin	PERSON
+Pioline	PERSON
+Frenchman	NATIONALITY
+Cedric	PERSON
+26-year	TEMPORAL:TIME
+O'Brien	PERSON
+ATP Tour	PRODUCT
+New Haven	LOCATION
+Los Angeles	LOCATION
+July	TEMPORAL:DATE
+four weeks	TEMPORAL:TIME
+O'Brien	PERSON
+Enqvist	PERSON
+Korda	PERSON
+Javier Sanchez	PERSON
+Spain	LOCATION
+Tuesday	TEMPORAL:DATE
+Enqvist	PERSON
+Petr	PERSON

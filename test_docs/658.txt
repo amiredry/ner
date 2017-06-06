@@ -1,0 +1,35 @@
+
+Language Region: 0 617 English
+Entity	Type
+HONG KONG	LOCATION
+1996-08-28	TEMPORAL:DATE
+Hong Kong	LOCATION
+Wednesday	TEMPORAL:DATE
+Rodney Eyles	PERSON
+Australia	LOCATION
+Zarak Jahan Khan	PERSON
+Pakistan	LOCATION
+Peter Nicol	PERSON
+Scotland	LOCATION
+Julian Wellings	PERSON
+England	LOCATION
+Derek Ryan	PERSON
+Ireland	LOCATION
+Simon Parke ( England	ORGANIZATION
+Chris Walker	PERSON
+England	LOCATION
+Julien Bonetat	PERSON
+France	LOCATION
+Canada	LOCATION
+Ahmed Barada	PERSON
+Egypt	LOCATION
+Amr Shabana	PERSON
+Egypt	LOCATION
+John White	PERSON
+Australia	LOCATION
+Paul Johnson	PERSON
+England	LOCATION
+Tony Hands ( England	ORGANIZATION
+
+Language Region: 617 689 Pushto
+Entity	Type

@@ -1,0 +1,36 @@
+
+Language Region: 0 906 English
+Entity	Type
+Jordanian	NATIONALITY
+PM	TITLE
+Kabariti	PERSON
+Arafat	PERSON
+West Bank	LOCATION
+RAMALLAH , West Bank	LOCATION
+1996-08-29	TEMPORAL:DATE
+Jordanian	NATIONALITY
+Prime Minister	TITLE
+Abdul-Karim al-Kabariti	PERSON
+Palestinian	NATIONALITY
+President	TITLE
+Yasser Arafat	PERSON
+West Bank	LOCATION
+Thursday	TEMPORAL:DATE
+Middle East	LOCATION
+Kabariti	PERSON
+Palestinian	NATIONALITY
+Ramallah	LOCATION
+Arafat	PERSON
+prime minister	TITLE
+Jordan	LOCATION
+Palestinian	NATIONALITY
+West Bank	LOCATION
+Gaza	LOCATION
+Arafat	PERSON
+four-hour	TEMPORAL:TIME
+0900 GMT	TEMPORAL:TIME
+Israeli	NATIONALITY
+Jerusalem	LOCATION
+Jordan	LOCATION
+Petra	ORGANIZATION
+Kabariti	PERSON

@@ -1,0 +1,20 @@
+
+Language Region: 0 465 English
+Entity	Type
+Yeltsin	PERSON
+Russian	NATIONALITY
+MOSCOW	LOCATION
+1996-08-22	TEMPORAL:DATE
+Russian	NATIONALITY
+Boris Yeltsin	PERSON
+Thursday	TEMPORAL:DATE
+president	TITLE
+health minister	TITLE
+Tatyana Dmitrieva	PERSON
+president	TITLE
+a second	TEMPORAL:TIME
+August 9	TEMPORAL:DATE
+Kremlin	ORGANIZATION
+Thursday	TEMPORAL:DATE
+two-day	TEMPORAL:TIME
+Russia	LOCATION

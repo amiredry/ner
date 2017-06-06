@@ -1,0 +1,14 @@
+
+Language Region: 0 717 English
+Entity	Type
+South Korean	NATIONALITY
+SEOUL	LOCATION
+1996-08-23	TEMPORAL:DATE
+South Korea	LOCATION
+Yonsei University	ORGANIZATION
+30 years	TEMPORAL:TIME
+Friday	TEMPORAL:DATE
+professor	TITLE
+nine-day	TEMPORAL:TIME
+North Korea	LOCATION
+Tuesday	TEMPORAL:DATE

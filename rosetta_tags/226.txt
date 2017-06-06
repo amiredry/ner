@@ -1,0 +1,11 @@
+
+Language Region: 0 225 English
+Entity	Type
+Toyota Australia	ORGANIZATION
+MELBOURNE	LOCATION
+1996-08-23	TEMPORAL:DATE
+Friday	TEMPORAL:DATE
+Monday	TEMPORAL:DATE
+Toyota Australia	ORGANIZATION
+Melbourne assembly	ORGANIZATION
+two-week	TEMPORAL:TIME

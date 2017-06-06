@@ -1,0 +1,29 @@
+
+Language Region: 0 1143 English
+Entity	Type
+AT HEERENVEEN	ORGANIZATION
+1996-08-24	TEMPORAL:DATE
+Dutch	NATIONALITY
+Ajax Amsterdam	LOCATION
+Saturday	TEMPORAL:DATE
+Heerenveen	LOCATION
+Ajax	LOCATION
+NAC of Breda	ORGANIZATION
+Eight minutes	TEMPORAL:TIME
+Heerenveen	LOCATION
+Romeo Wouden	PERSON
+Amsterdam	LOCATION
+John Veldman	PERSON
+Edwin van der Sar	PERSON
+Ajax	LOCATION
+Ajax	LOCATION
+Marcio Santos	PERSON
+Jari Litmanen	PERSON
+Marc Overmars	PERSON
+73 minutes	TEMPORAL:TIME
+Danish	NATIONALITY
+Jon Dahl Tomasson	PERSON
+Ajax	LOCATION
+Ajax	LOCATION
+PSV Eindhoven	ORGANIZATION
+Sunday	TEMPORAL:DATE

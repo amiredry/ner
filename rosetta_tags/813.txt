@@ -1,0 +1,15 @@
+
+Language Region: 0 478 English
+Entity	Type
+OLYMPIAKOS	ORGANIZATION
+1996-08-29	TEMPORAL:DATE
+Olympiakos of Greece	LOCATION
+Russia	LOCATION
+Thursday	TEMPORAL:DATE
+Red Star of Yugoslavia	ORGANIZATION
+Alba of Germany	LOCATION
+Benetton	ORGANIZATION
+Italy	LOCATION
+Saturday	TEMPORAL:DATE
+Benetton	ORGANIZATION
+Olympiakos	LOCATION

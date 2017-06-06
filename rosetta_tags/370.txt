@@ -1,0 +1,40 @@
+
+Language Region: 0 1179 English
+Entity	Type
+50 DAYS	TEMPORAL:TIME
+NEW DELHI	LOCATION
+1996-08-25	TEMPORAL:DATE
+Indian	NATIONALITY
+Navjot Singh Sidhu	PERSON
+Sunday	TEMPORAL:DATE
+50-day	TEMPORAL:TIME
+England	LOCATION
+Press Trust of India	ORGANIZATION
+Board of Control for Cricket	ORGANIZATION
+India	LOCATION
+Mohali	LOCATION
+Chandigarh	LOCATION
+Sidhu	PERSON
+Indian	NATIONALITY
+third one-day	TEMPORAL:TIME
+England	LOCATION
+Old Trafford	ORGANIZATION
+Manchester	LOCATION
+May 26	TEMPORAL:DATE
+India	LOCATION
+captain	TITLE
+Mohammed Azharuddin	PERSON
+Azharuddin	PERSON
+Sachin Tendulkar	PERSON
+Sidhu	PERSON
+Singer Cup	PERSON
+Sri Lanka	LOCATION
+Sahara	LOCATION
+Pakistan	LOCATION
+Canada	LOCATION
+Sidhu	PERSON
+October 14	TEMPORAL:DATE
+Australia	LOCATION
+October 10	TEMPORAL:DATE
+New Delhi	LOCATION
+United News of India	ORGANIZATION

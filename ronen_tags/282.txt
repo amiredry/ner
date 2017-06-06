@@ -1,0 +1,6 @@
+Cholera kills 21 in southern <LOCATION>Nigeria</LOCATION> .
+LAGOS 1996-05-28
+An outbreak of cholera has killed 21 people in a week at Ubimini in oil-rich southern <LOCATION>Nigeria</LOCATION> , the <ORGANIZATION>News Agency of Nigeria</ORGANIZATION> reported on Saturday .
+The chairman of the local council , <PERSON>Damian Ejiohuo</PERSON> , said drugs had been rushed to the area to quell the disease and the community needed a safer source of drinking water to prevent future outbreaks .
+Epidemics are common in rural areas of <LOCATION>Nigeria</LOCATION> where piped water is not usually available .
+

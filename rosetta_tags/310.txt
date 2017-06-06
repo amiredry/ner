@@ -1,0 +1,59 @@
+
+Language Region: 0 991 English
+Entity	Type
+AKRON , Ohio	LOCATION
+1996-08-24	TEMPORAL:DATE
+$ 2.1 million	IDENTIFIER:MONEY
+NEC	ORGANIZATION
+World	PRODUCT
+Firestone	ORGANIZATION
+7149 yards	IDENTIFIER:DISTANCE
+U.S.	LOCATION
+Steve Stricker	PERSON
+Australia	LOCATION
+Alexander Cejka	PERSON
+Germany	LOCATION
+Lehman	ORGANIZATION
+Fred Funk	PERSON
+Mark Brooks	PERSON
+Nick Faldo	PERSON
+Britain	LOCATION
+D.A. Weibring 73 69 74 68	PRODUCT
+Tim Herron	PERSON
+Mark O'Meara	PERSON
+Jim Furyk	PERSON
+Hal Sutton	PERSON
+Fred Couples	PERSON
+Japan	LOCATION
+Steve Jones	PERSON
+Paul Goydos	PERSON
+Ernie Els	PERSON
+South Africa	LOCATION
+
+Language Region: 991 1057 Italian
+Entity	Type
+Costantino Rocca	PERSON
+Italy	LOCATION
+Clarence Rose	PERSON
+
+Language Region: 1057 1594 English
+Entity	Type
+Craig Parry	PERSON
+Australia	LOCATION
+Willie Wood	PERSON
+Shigeki Maruyama	PERSON
+Japan	LOCATION
+Anders Forsbrand	PERSON
+Sweden	LOCATION
+South Africa	LOCATION
+Sven Struver	PERSON
+Germany	LOCATION
+Satoshi Higashi	PERSON
+Japan	LOCATION
+Scott McCarron	PERSON
+Stewart Ginn ( Australia	ORGANIZATION
+Steve Schneiter	PERSON
+Paul Stankowski	PERSON
+Seiki Okuda	PERSON
+Japan	LOCATION
+Brad Bryant	PERSON

@@ -1,0 +1,9 @@
+Dreyfus Strategic Munis monthly $ 0.056 / shr .
+NEW YORK 1996-08-29
+Monthly
+Latest Prior
+Amount <CURRENCY>$ 0.056 $ 0.056</CURRENCY>
+Pay Sept 27
+Record Sept 13
+NOTE : Full name of company is <ORGANIZATION>Dreyfus Strategic Municipals Inc .</ORGANIZATION>
+

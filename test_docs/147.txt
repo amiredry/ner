@@ -1,0 +1,82 @@
+
+Language Region: 0 4514 English
+Entity	Type
+1996-08-22	TEMPORAL:DATE
+Oriole	TITLE
+Jamie Moyer	PERSON
+Paul Sorrento	PERSON
+Seattle Mariners	LOCATION
+Baltimore	LOCATION
+Thursday	TEMPORAL:DATE
+Moyer	PERSON
+Mike Devereaux	PERSON
+Brady Anderson	PERSON
+Norm Charlton	PERSON
+Ken Griffey Jr	PERSON
+Edgar Martinez	PERSON
+Orioles starter Rocky Coppinger	PRODUCT
+Jay Buhner	PERSON
+Sorrento	PERSON
+Bobby Bonilla	PERSON
+Sorrento	PERSON
+Mariners	ORGANIZATION
+a month	TEMPORAL:TIME
+American League	ORGANIZATION
+Mariners	ORGANIZATION
+White Sox	ORGANIZATION
+Baltimore	LOCATION
+Red Sox	ORGANIZATION
+Boston	LOCATION
+Moyer	PERSON
+Moyer	PERSON
+Orioles manager	TITLE
+Davey Johnson	PERSON
+Bench coach	TITLE
+Andy Etchebarren	PERSON
+Boston	LOCATION
+Troy O'Leary	PERSON
+Red Sox	ORGANIZATION
+Oakland Athletics	LOCATION
+Boston	LOCATION
+Boston	LOCATION
+Roger Clemens	PERSON
+Matt Stairs	PERSON
+Lee Tinsley	PERSON
+Terry Steinbach	PERSON
+Oakland	LOCATION
+Clemens	PERSON
+Mark Acre	PERSON
+New York	LOCATION
+Garret Anderson	PERSON
+Gary DiSarcina	PERSON
+Jim Edmonds	PERSON
+California Angels	ORGANIZATION
+Yankees	ORGANIZATION
+Kenny Rogers	PERSON
+Yankees	ORGANIZATION
+Chuck Finley	PERSON
+Kansas City	LOCATION
+Travis Fryman	PERSON
+Melvin Nieves	PERSON
+Damion Easley	PERSON
+Detroit Tigers	ORGANIZATION
+Royals	ORGANIZATION
+Tigers	ORGANIZATION
+Justin Thompson	PERSON
+Tim Belcher	PERSON
+Minnesota	LOCATION
+Ken Hill	PERSON
+Rusty Greer	PERSON
+RBI	ORGANIZATION
+Texas Rangers	ORGANIZATION
+Rangers	ORGANIZATION
+Chicago	LOCATION
+Erik Hanson	PERSON
+Alex Fernandez	PERSON
+Jacob Brumfield	PERSON
+Otis Nixon	PERSON
+Toronto Blue Jays	ORGANIZATION
+White Sox	ORGANIZATION
+Toronto	LOCATION
+White Sox	ORGANIZATION
+Hanson	PERSON

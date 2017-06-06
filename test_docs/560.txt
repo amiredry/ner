@@ -1,0 +1,32 @@
+
+Language Region: 0 1118 English
+Entity	Type
+Estonia assembly	ORGANIZATION
+president	TITLE
+TALLINN	LOCATION
+1996-08-27	TEMPORAL:DATE
+Estonian	NATIONALITY
+parliament	ORGANIZATION
+president	TITLE
+Tuesday	TEMPORAL:DATE
+a second	TEMPORAL:TIME
+Lennart Meri	PERSON
+Meri	PERSON
+Arnold Ruutel	PERSON
+parliament	ORGANIZATION
+president	TITLE
+Meri	PERSON
+Ruutel	PERSON
+Meri	PERSON
+a second	TEMPORAL:TIME
+Tuesday	TEMPORAL:DATE
+Monday	TEMPORAL:DATE
+Ruutel	PERSON
+Enn Markvart	PERSON
+chairman	TITLE
+National Election Commission	ORGANIZATION
+parliament	ORGANIZATION
+MPs	TITLE
+parliamentary Speaker	TITLE
+a month	TEMPORAL:TIME
+Soviet	NATIONALITY

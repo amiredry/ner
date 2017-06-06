@@ -1,0 +1,47 @@
+
+Language Region: 0 2195 English
+Entity	Type
+Bhutto	PERSON
+Karachi	LOCATION
+KARACHI , Pakistan	LOCATION
+1996-08-28	TEMPORAL:DATE
+Karachi	LOCATION
+Wednesday	TEMPORAL:DATE
+Pakistani	NATIONALITY
+Prime Minister	TITLE
+Benazir Bhutto	PERSON
+Islamabad	LOCATION
+God	PERSON
+Benazir	PERSON
+Bhutto	PERSON
+Asif Ali ) Zardari	PERSON
+Nawaz Sharif	PERSON
+Pakistan Muslim League	ORGANIZATION
+Sharif	PERSON
+Bhutto	PERSON
+August 14	TEMPORAL:DATE
+Pakistan	LOCATION
+Sharif	PERSON
+Balochistan	LOCATION
+Quetta	LOCATION
+Punjab	LOCATION
+Lahore	LOCATION
+Islamabad	LOCATION
+Karachi	LOCATION
+Sharif	PERSON
+Karachi	LOCATION
+Mohajir National Movement	ORGANIZATION
+MQM	ORGANIZATION
+MQM	ORGANIZATION
+MQM	ORGANIZATION
+MQM	ORGANIZATION
+Moslems	RELIGION
+India	LOCATION
+Sharif	PERSON
+prime minister	TITLE
+Bhutto	PERSON
+October 1993	TEMPORAL:DATE
+Pakistan	LOCATION
+Bhutto	PERSON
+Bhutto	PERSON
+five-year	TEMPORAL:TIME

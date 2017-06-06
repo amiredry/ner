@@ -1,0 +1,7 @@
+
+Language Region: 0 586 English
+Entity	Type
+Korean	NATIONALITY
+SEOUL	LOCATION
+1996-08-23	TEMPORAL:DATE
+Friday	TEMPORAL:DATE

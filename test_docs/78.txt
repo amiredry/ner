@@ -1,0 +1,18 @@
+
+Language Region: 0 678 English
+Entity	Type
+South African	NATIONALITY
+U.S.	LOCATION
+1996-08-22	TEMPORAL:DATE
+South African	NATIONALITY
+American	NATIONALITY
+President	TITLE
+Nelson Mandela	PERSON
+Carlo Hoffmann	PERSON
+11-year	TEMPORAL:TIME
+Robben Island	LOCATION
+Cape Town	LOCATION
+Thursday	TEMPORAL:DATE
+Danielle Murray	PERSON
+Sandusky , Ohio	LOCATION
+Atlantic Ocean	LOCATION

@@ -1,0 +1,16 @@
+
+Language Region: 0 700 English
+Entity	Type
+NZ	LOCATION
+Tonga	NATIONALITY
+1996-08-27	TEMPORAL:DATE
+New Zealand	LOCATION
+Tonga	NATIONALITY
+Tuesday	TEMPORAL:DATE
+North Island	LOCATION
+Tauranga	LOCATION
+Saturday	TEMPORAL:DATE
+New Zealand Press Association	ORGANIZATION
+Nuku'alofa	LOCATION
+Tonga	NATIONALITY
+Tuesday	TEMPORAL:DATE

@@ -1,0 +1,54 @@
+
+Language Region: 0 2923 English
+Entity	Type
+Rains	PERSON
+U.S.	LOCATION
+HRW	ORGANIZATION
+Greg Frost	PERSON
+KANSAS CITY , Mo	LOCATION
+U.S. High Plains	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Texas	LOCATION
+Kansas	LOCATION
+July	TEMPORAL:DATE
+August	TEMPORAL:DATE
+Kim Anderson	PERSON
+marketing economist	TITLE
+Oklahoma State University	ORGANIZATION
+three months	TEMPORAL:TIME
+October 1	TEMPORAL:DATE
+Mark Hodges	PERSON
+executive director	TITLE
+Oklahoma Wheat Commission	ORGANIZATION
+Oklahoma Climatological Survey	ORGANIZATION
+20.19 inches	IDENTIFIER:DISTANCE
+March 1	TEMPORAL:DATE
+August 26 , 1996	TEMPORAL:DATE
+2 inch	IDENTIFIER:DISTANCE
+Howard Johnson	ORGANIZATION
+associate state climatologist	TITLE
+University of Oklahoma	ORGANIZATION
+20.19 inches	IDENTIFIER:DISTANCE
+July	TEMPORAL:DATE
+October 1 , 1995	TEMPORAL:DATE
+March 1 , 1996	TEMPORAL:DATE
+4.6 inches	IDENTIFIER:DISTANCE
+Texas	LOCATION
+Oklahoma	LOCATION
+Rodney Mosier	PERSON
+executive assistant	TITLE
+Texas	LOCATION
+Texas Panhandle	LOCATION
+Mosier	PERSON
+Texas	LOCATION
+Dolly	PERSON
+Kansas	LOCATION
+U.S.	LOCATION
+Sunday	TEMPORAL:DATE
+Monday	TEMPORAL:DATE
+Kansas	LOCATION
+Oklahoma	LOCATION
+Agricultural Statistics Service	ORGANIZATION
+Texas Agricultural Statistics Service	ORGANIZATION
+Greg Frost	PERSON
+816 561-8671	IDENTIFIER:PHONE_NUMBER

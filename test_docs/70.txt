@@ -1,0 +1,17 @@
+
+Language Region: 0 1475 English
+Entity	Type
+LONDON	LOCATION
+1996-08-22	TEMPORAL:DATE
+British	NATIONALITY
+Oxford University	ORGANIZATION
+a day	TEMPORAL:TIME
+Royal College of Physicians	ORGANIZATION
+six weeks	TEMPORAL:TIME
+six-week	TEMPORAL:TIME
+Oxford	ORGANIZATION
+six-month	TEMPORAL:TIME
+British Heart Foundation	ORGANIZATION
+Lichtwer Pharma GmbH	ORGANIZATION
+London	LOCATION
++44 171 542 7950	IDENTIFIER:PHONE_NUMBER

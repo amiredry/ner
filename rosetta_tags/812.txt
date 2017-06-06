@@ -1,0 +1,39 @@
+
+Language Region: 0 1086 English
+Entity	Type
+1996-08-29	TEMPORAL:DATE
+England	LOCATION
+Bruce Grobbelaar	PERSON
+head coach	TITLE
+Zimbabwe	LOCATION
+Zimbabwe Football Association	ORGANIZATION
+ZIFA	ORGANIZATION
+Thursday	TEMPORAL:DATE
+ZIFA	ORGANIZATION
+vice-chairman	TITLE
+Vincent Pamire	PERSON
+Grobbelaar	PERSON
+Tanzania	LOCATION
+Harare	LOCATION
+September 29	TEMPORAL:DATE
+Africa	LOCATION
+African Nations	ORGANIZATION
+Sudan	LOCATION
+Khartoum	LOCATION
+October 5	TEMPORAL:DATE
+Grobbelaar	PERSON
+Zimbabwe	LOCATION
+Switzerland	LOCATION
+Marc Duvillard	PERSON
+Grobbelaar	PERSON
+English	NATIONALITY
+Plymouth Argyle	LOCATION
+Liverpool	LOCATION
+Southampton	LOCATION
+Grobbelaar	PERSON
+Hans Segers	PERSON
+John Fashanu	PERSON
+Malaysian	NATIONALITY
+Heng Suan Lim	PERSON
+English	NATIONALITY
+January	TEMPORAL:DATE

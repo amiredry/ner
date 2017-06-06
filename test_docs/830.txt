@@ -1,0 +1,17 @@
+
+Language Region: 0 368 English
+Entity	Type
+U.S.	LOCATION
+SEP 2	TEMPORAL:DATE
+1996-08-29	TEMPORAL:DATE
+U.S.	LOCATION
+Athens	LOCATION
+Athens	LOCATION
+Thessaloniki	LOCATION
+U.S.	LOCATION
+Greece	LOCATION
+Monday , September 2	TEMPORAL:DATE
+Labour	ORGANIZATION
+U.S.	LOCATION
+George Georgiopoulos	PERSON
+Athens	LOCATION

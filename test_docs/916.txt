@@ -1,0 +1,18 @@
+
+Language Region: 0 926 English
+Entity	Type
+Finns	NATIONALITY
+HELSINKI	LOCATION
+1996-08-29	TEMPORAL:DATE
+Finnish	NATIONALITY
+Thursday	TEMPORAL:DATE
+13-year	TEMPORAL:TIME
+Europe	LOCATION
+Finns	NATIONALITY
+Saturday	TEMPORAL:DATE
+Tampere	LOCATION
+police chief inspector	TITLE
+Ilkka Laasonen	PERSON
+Laasonen	PERSON
+10 years	TEMPORAL:TIME
+Iltalehti	ORGANIZATION

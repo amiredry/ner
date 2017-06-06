@@ -1,0 +1,66 @@
+
+Language Region: 0 3679 English
+Entity	Type
+Lebed	PERSON
+Chechen	NATIONALITY
+Alastair Macdonald	PERSON
+1996-08-26	TEMPORAL:DATE
+Alexander Lebed	PERSON
+Chechen	NATIONALITY
+Boris Yeltsin	PERSON
+Tuesday	TEMPORAL:DATE
+Kremlin	ORGANIZATION
+security chief	TITLE
+two months	TEMPORAL:TIME
+president	TITLE
+Chechen	NATIONALITY
+20-month	TEMPORAL:TIME
+Lebed	PERSON
+Moscow	LOCATION
+Chechnya	LOCATION
+Russia	LOCATION
+Lebed	PERSON
+Russian	NATIONALITY
+Chechen	NATIONALITY
+Grozny	LOCATION
+Moscow	LOCATION
+Sunday	TEMPORAL:DATE
+Russian	NATIONALITY
+Prime Minister	TITLE
+Viktor Chernomyrdin	PERSON
+Monday	TEMPORAL:DATE
+Lebed	PERSON
+Security Council	ORGANIZATION
+Yeltsin	PERSON
+Tuesday	TEMPORAL:DATE
+Yeltsin	PERSON
+Moscow	LOCATION
+Chechnya	LOCATION
+Lebed	PERSON
+Chechnya	LOCATION
+Yeltsin	PERSON
+envoy	TITLE
+Chernomyrdin	PERSON
+Lebed	PERSON
+chief-of-staff	TITLE
+Aslan Maskhadov	PERSON
+Yeltsin	PERSON
+Lebed	PERSON
+Moscow	LOCATION
+Lebed	PERSON
+Moscow	LOCATION
+Maskhadov	PERSON
+Lebed	PERSON
+Russian	NATIONALITY
+commander	TITLE
+Chechens	NATIONALITY
+Russian	NATIONALITY
+Maskhadov	PERSON
+Lebed	PERSON
+Kremlin	ORGANIZATION
+Chernomyrdin	PERSON
+Chechnya	LOCATION
+Russian	NATIONALITY
+Moscow	LOCATION
+North Caucasus	LOCATION
+Lebed	PERSON

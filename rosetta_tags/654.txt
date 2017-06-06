@@ -1,0 +1,18 @@
+
+Language Region: 0 523 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+South African	NATIONALITY
+captain	TITLE
+Giles Bonnet	PERSON
+South African Hockey Association	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Kwazulu-Natal	ORGANIZATION
+Englishman	NATIONALITY
+Gavin Featherstone	PERSON
+South Africa	LOCATION
+Atlanta	LOCATION
+Featherstone	PERSON
+Britain	LOCATION
+captain	TITLE
+Ireland	LOCATION

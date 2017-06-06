@@ -1,0 +1,13 @@
+
+Language Region: 0 622 English
+Entity	Type
+South African	NATIONALITY
+1996-08-22	TEMPORAL:DATE
+South African	NATIONALITY
+two-year	TEMPORAL:TIME
+Thursday	TEMPORAL:DATE
+Louis Booy	PERSON
+Vanderbijlpark	LOCATION
+Johannesburg	LOCATION
+Tuesday	TEMPORAL:DATE
+Johannesburg	LOCATION

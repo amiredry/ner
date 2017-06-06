@@ -1,0 +1,66 @@
+
+Language Region: 0 2608 English
+Entity	Type
+PARIS	LOCATION
+1996-08-28	TEMPORAL:DATE
+Vladimir Smicer	PERSON
+Czech Republic	LOCATION
+Lens	LOCATION
+French	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Smicer	PERSON
+Montpellier	LOCATION
+Cameroon	LOCATION
+Marc-Vivien Foe	PERSON
+Lens	LOCATION
+Paris	LOCATION
+St Germain	LOCATION
+Nantes	LOCATION
+Smicer	PERSON
+Robert Pires	PERSON
+France	LOCATION
+Metz	LOCATION
+Strasbourg	LOCATION
+Pires	PERSON
+French	NATIONALITY
+manager	TITLE
+Aime Jacquet	PERSON
+Mexico	LOCATION
+Saturday	TEMPORAL:DATE
+Parc des Princes	LOCATION
+Pires	PERSON
+Smicer	PERSON
+Foe	PERSON
+five minutes	TEMPORAL:TIME
+Lens	LOCATION
+Foe	PERSON
+Smicer	PERSON
+Montpellier	LOCATION
+Kader Ferhaoui	PERSON
+fourth minute	TEMPORAL:TIME
+Lens	LOCATION
+Jean-Claude Nadon	PERSON
+France	LOCATION
+Tony Vairelles	PERSON
+eighth minute	TEMPORAL:TIME
+Fabien Lefevre	PERSON
+Montpellier	LOCATION
+five minutes	TEMPORAL:TIME
+Nantes	LOCATION
+PSG	LOCATION
+Nantes	LOCATION
+Patrice Loko	PERSON
+Benoit Cauet	PERSON
+Loko	LOCATION
+Brazil	LOCATION
+Leonardo	PERSON
+Panama	LOCATION
+Julio Cesar Dely Valdes	PERSON
+Nantes	LOCATION
+PSG	LOCATION
+two years	TEMPORAL:TIME
+Canaries	ORGANIZATION
+two years	TEMPORAL:TIME
+Auxerre	LOCATION
+Marseille	LOCATION
+Tuesday	TEMPORAL:DATE

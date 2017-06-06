@@ -1,0 +1,24 @@
+
+Language Region: 0 447 English
+Entity	Type
+AT	ORGANIZATION
+HAMLET	ORGANIZATION
+COMMACK , New York	LOCATION
+1996-08-23	TEMPORAL:DATE
+Waldbaum Hamlet	ORGANIZATION
+Friday	TEMPORAL:DATE
+Adrian Voinea	PERSON
+Romania	LOCATION
+Thomas Johansson	PERSON
+Sweden	LOCATION
+Andrei Medvedev	PERSON
+Ukraine	LOCATION
+Jonathan Stark	PERSON
+U.S.	LOCATION
+Martin Damm	PERSON
+Czech Republic	LOCATION
+Michael Joyce	PERSON
+U.S.	LOCATION
+Karol Kucera ( Slovakia	ORGANIZATION
+Michael Chang	PERSON
+U.S.	LOCATION

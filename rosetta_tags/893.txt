@@ -1,0 +1,13 @@
+
+Language Region: 0 580 English
+Entity	Type
+Egypt	LOCATION
+CAIRO	LOCATION
+1996-08-29	TEMPORAL:DATE
+Egyptian	NATIONALITY
+al-Akhbar	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Jewish	RELIGION
+$ 1.5 million	IDENTIFIER:MONEY
+Islamic Museum	LOCATION
+Cairo	LOCATION

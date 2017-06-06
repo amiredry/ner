@@ -1,0 +1,14 @@
+
+Language Region: 0 1816 English
+Entity	Type
+PHILADELPHIA	LOCATION
+1996-08-29	TEMPORAL:DATE
+University of Pennsylvania	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Oct. 1	TEMPORAL:DATE
+Gene Therapy	PERSON
+Jerry Lewis	PERSON
+Labour	ORGANIZATION
+University of Pennsylvania Medical Centre	ORGANIZATION
+University's Institute for Human Gene Therapy	ORGANIZATION
+two weeks	TEMPORAL:TIME

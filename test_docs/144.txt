@@ -1,0 +1,26 @@
+
+Language Region: 0 1197 English
+Entity	Type
+U.S.	LOCATION
+NEW YORK	LOCATION
+1996-08-23	TEMPORAL:DATE
+American	NATIONALITY
+Chanda Rubin	PERSON
+U.S. Open Tennis Championships	ORGANIZATION
+20-year	TEMPORAL:TIME
+Rubin	PERSON
+Rubin	PERSON
+Lindsay Davenport	PERSON
+Davenport	PERSON
+Karina Habsudova	PERSON
+Slovakia	LOCATION
+Habsudova	PERSON
+Rubin	PERSON
+Davenport	PERSON
+U.S. Tennis Association	ORGANIZATION
+Rubin	PERSON
+Australian	NATIONALITY
+Mary Pierce	PERSON
+Meredith McGrath	PERSON
+Australian	NATIONALITY
+Boris Becker	PERSON

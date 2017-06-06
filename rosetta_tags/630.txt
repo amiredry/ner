@@ -1,0 +1,40 @@
+
+Language Region: 0 1434 English
+Entity	Type
+China	LOCATION
+Gabon	LOCATION
+BEIJING	LOCATION
+1996-08-27	TEMPORAL:DATE
+China	LOCATION
+Gabon	LOCATION
+United Nations Human Rights Commission	ORGANIZATION
+Beijing	LOCATION
+China	LOCATION
+President	TITLE
+Jiang Zemin	PERSON
+Monday	TEMPORAL:DATE
+Gabon	LOCATION
+President	TITLE
+Omar Bongo	PERSON
+Xinhua	ORGANIZATION
+Jiang	PERSON
+Central African	NATIONALITY
+China	LOCATION
+Taiwan	LOCATION
+Beijing	LOCATION
+Bongo	PERSON
+China	LOCATION
+Monday	TEMPORAL:DATE
+April	TEMPORAL:DATE
+China	LOCATION
+U.N. Human Rights Commission	ORGANIZATION
+Beijing	LOCATION
+European Union	LOCATION
+United States	LOCATION
+China	LOCATION
+Foreign Ministry	ORGANIZATION
+China	LOCATION
+U.N.	ORGANIZATION
+China	LOCATION
+Xinhua	ORGANIZATION
+West	LOCATION

@@ -1,0 +1,14 @@
+
+Language Region: 0 225 English
+Entity	Type
+RIO DE JANEIRO	LOCATION
+1996-08-22	TEMPORAL:DATE
+Brazilian	NATIONALITY
+Guarani	NATIONALITY
+
+Language Region: 225 318 Italian
+Entity	Type
+
+Language Region: 318 370 Portuguese
+Entity	Type
+Gama 1 Portuguesa 2 Parana	LOCATION

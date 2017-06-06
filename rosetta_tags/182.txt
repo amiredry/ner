@@ -1,0 +1,19 @@
+
+Language Region: 0 560 English
+Entity	Type
+Rwandan	NATIONALITY
+1996-08-23	TEMPORAL:DATE
+Rwandan	NATIONALITY
+Hutu	NATIONALITY
+Zaire	LOCATION
+Rwanda	LOCATION
+Thursday	TEMPORAL:DATE
+Rwandan	NATIONALITY
+Hutu	NATIONALITY
+Friday	TEMPORAL:DATE
+Butare	LOCATION
+executive secretary	TITLE
+Refugees and Democracy	ORGANIZATION
+Rwanda	LOCATION
+RDR	ORGANIZATION
+Rwanda	LOCATION

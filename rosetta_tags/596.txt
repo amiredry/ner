@@ -1,0 +1,28 @@
+
+Language Region: 0 1472 English
+Entity	Type
+Sri Lankan	NATIONALITY
+August 27	TEMPORAL:DATE
+Tuesday	TEMPORAL:DATE
+Sri Lankan	NATIONALITY
+TELO	ORGANIZATION
+Trincomalee	LOCATION
+Chavakachcheri	LOCATION
+Jaffna	LOCATION
+Army	ORGANIZATION
+Tamil	NATIONALITY
+THINAKARAN TULF	ORGANIZATION
+M. Sivasiththamparam	PERSON
+UNP	ORGANIZATION
+parliament	ORGANIZATION
+Excise Commissioner	TITLE
+W.N.F. Chandraratne	PERSON
+LANKADEEPA Tamil Tiger	ORGANIZATION
+President	TITLE
+Chandrika Kumaratunga	PERSON
+Colombo	LOCATION
+DIVAINA Cultural Ministry	ORGANIZATION
+king	TITLE
+Australia	LOCATION
+Ruhunu University	ORGANIZATION
+Colombo	LOCATION

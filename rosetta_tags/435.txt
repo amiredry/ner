@@ -1,0 +1,70 @@
+
+Language Region: 0 3684 English
+Entity	Type
+AT OPEN	ORGANIZATION
+Larry Fine	PERSON
+NEW YORK	LOCATION
+1996-08-26	TEMPORAL:DATE
+Martina Hingis	PERSON
+Australian	NATIONALITY
+Anke Huber	PERSON
+Magdalena Maleeva	PERSON
+Monday	TEMPORAL:DATE
+U.S. Open	ORGANIZATION
+15-year	TEMPORAL:TIME
+Hingis	PERSON
+Stadium Court	LOCATION
+Spain	LOCATION
+Hingis	PERSON
+Spaniard	NATIONALITY
+Flushing Meadows	LOCATION
+Huber	PERSON
+Germany	LOCATION
+Maleeva	PERSON
+Bulgaria	LOCATION
+Huber	PERSON
+Monica Seles	PERSON
+Australian	NATIONALITY
+Amanda Coetzer	PERSON
+South Africa	LOCATION
+Coetzer	PERSON
+Huber	PERSON
+Australian	NATIONALITY
+Coetzer	PERSON
+Huber	PERSON
+a week	TEMPORAL:TIME
+Manhattan Beach	LOCATION
+21-year	TEMPORAL:TIME
+German	NATIONALITY
+Monday	TEMPORAL:DATE
+U.S.	LOCATION
+Aleksandra Olsza	PERSON
+Poland	LOCATION
+18-year	TEMPORAL:TIME
+Olsza	PERSON
+Maleeva	PERSON
+Hingis	PERSON
+Olsza	PERSON
+Swiss	ORGANIZATION
+French	NATIONALITY
+Australian	NATIONALITY
+Hingis	PERSON
+Arantxa Sanchez Vicario	PERSON
+Hingis	PERSON
+Arantxa	PERSON
+Olsza	PERSON
+Maleeva	PERSON
+Olsza	PERSON
+Olsza	PERSON
+Japanese	NATIONALITY
+Brenda Schultz-McCarthy	PERSON
+Netherlands	LOCATION
+Japan	LOCATION
+Nana Miyaga	PERSON
+Czech	NATIONALITY
+Helena Sukova	PERSON
+Yone Kamio	PERSON
+Austrian	NATIONALITY
+Barbara Paulus	PERSON
+Yi Jing-Qian	PERSON
+China	LOCATION

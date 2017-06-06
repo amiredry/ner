@@ -1,0 +1,12 @@
+CRICKET - PAKISTAN 339-4 V ENGLAND - close .
+<PERSON>Saeed Anwar c Croft</PERSON> b Cork 176
+<PERSON>Aamir Sohail c Cork b Croft</PERSON> 46
+<PERSON>Ijaz Ahmed c Stewart</PERSON> b Mullally 61
+Inzamam-ul-Haq c Hussain b Mullally 35
+Salim Malik not out 2
+Asif Mujtaba not out 1
+Extras 18
+Fall of wicket - 1-106 2-239 3-334 4-334
+To bat - Wasim Akram , Moin Khan , Mushtaq Ahmed , Waqar Younis , <PERSON>Mohammad Akam</PERSON>
+England 326 all out
+

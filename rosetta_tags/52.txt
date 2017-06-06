@@ -1,0 +1,23 @@
+
+Language Region: 0 535 English
+Entity	Type
+WEDNESDAY	TEMPORAL:DATE
+NEW YORK	LOCATION
+1996-08-22	TEMPORAL:DATE
+Major League	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+CAPS	LOCATION
+American League California 7 NEW	ORGANIZATION
+Chicago	LOCATION
+Milwaukee	LOCATION
+Oakland	LOCATION
+Seattle	LOCATION
+Texas	LOCATION
+Toronto	LOCATION
+National League	ORGANIZATION
+Florida	LOCATION
+New York	LOCATION
+Cincinnati	LOCATION
+Pittsburgh	LOCATION
+Philadelphia	LOCATION
+Montreal	LOCATION

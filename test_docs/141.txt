@@ -1,0 +1,39 @@
+
+Language Region: 0 721 English
+Entity	Type
+AT CANADIAN OPEN	ORGANIZATION
+TORONTO	LOCATION
+1996-08-22	TEMPORAL:DATE
+Canadian	NATIONALITY
+Thursday	TEMPORAL:DATE
+Wayne Ferreira	PERSON
+South Africa	LOCATION
+Tim Henman	PERSON
+Britain	LOCATION
+Marcelo Rios	PERSON
+Chile	LOCATION
+Daniel Vacek	PERSON
+Czech Republic	LOCATION
+Thomas Enqvist	PERSON
+Sweden	LOCATION
+Petr Korda	PERSON
+Czech Republic	LOCATION
+Australia	LOCATION
+MaliVai Washington	ORGANIZATION
+U.S.	LOCATION
+Todd Martin	PERSON
+U.S.	LOCATION
+Cedric Pioline	PERSON
+France	LOCATION
+Mark Philippoussis	PERSON
+Australia	LOCATION
+Bohdan Ulihrach	LOCATION
+Czech Republic	LOCATION
+Alex O'Brien	PERSON
+U.S.	LOCATION
+Mikael Tillstrom	PERSON
+Sweden	LOCATION
+Todd Woodbridge	PERSON
+Australia	LOCATION
+Daniel Nestor	PERSON
+Canada	LOCATION

@@ -1,0 +1,33 @@
+MOTOCROSS - GERMAN 125CC GRAND PRIX RESULTS .
+HOLZGERLINGEN , Germany 1996-08-25
+Leading results in
+the German 125cc motocross Grand Prix on Sunday :
+First race
+1. <PERSON>Sebastien Tortelli ( France ) Kawasaki</PERSON>
+2. Bob Moore ( U.S. ) <ORGANIZATION>Yamaha</ORGANIZATION>
+3. Luigi Seguy ( <LOCATION>France</LOCATION> ) TM
+4. <PERSON>Andi Kanstinger ( Germany ) Honda</PERSON>
+5. <PERSON>Nicolas Charlier ( France ) Kawasaki</PERSON>
+6. Erik Camerlengo ( <LOCATION>Italy</LOCATION> <ORGANIZATION>) Yamaha</ORGANIZATION>
+Second race
+1. Tortelli
+2. Moore
+3. Alex Belometti ( <LOCATION>Italy</LOCATION> <ORGANIZATION>) Honda</ORGANIZATION>
+4. <PERSON>Frederic Vialle ( France ) Yamaha</PERSON>
+5. Collin Dugmore ( <LOCATION>South Africa</LOCATION> ) <ORGANIZATION>Honda</ORGANIZATION>
+6. Camerlengo
+Overall on day :
+1. Tortelli 40 points
+2. Moore 34
+3. Seguy 24
+4. Vialle 22
+5. Camerlengo 20
+6. Belometti 19
+Final world championship standings :
+1. Tortelli 432 points
+2. <PERSON>Paul Malin ( Britain ) Yamaha</PERSON> 317
+3. Vialle 293
+4. Seguy 192
+5. <PERSON>Michele Fanton ( Italy ) Kawasaki</PERSON> 160
+6. Dugmore 152
+

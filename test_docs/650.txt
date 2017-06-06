@@ -1,0 +1,25 @@
+
+Language Region: 0 980 English
+Entity	Type
+LONDON	LOCATION
+1996-08-28	TEMPORAL:DATE
+Liam Botham	PERSON
+Ian	PERSON
+Wednesday	TEMPORAL:DATE
+Hampshire	LOCATION
+Botham	PERSON
+Mike Gatting	PERSON
+England	LOCATION
+first day	TEMPORAL:TIME
+four-day	TEMPORAL:TIME
+Portsmouth	LOCATION
+Botham	PERSON
+Portsmouth	LOCATION
+Southampton	LOCATION
+John Stephenson	PERSON
+Botham	PERSON
+Portsmouth	LOCATION
+Ian Botham	PERSON
+Australian	NATIONALITY
+captain	TITLE
+Greg Chappell	PERSON

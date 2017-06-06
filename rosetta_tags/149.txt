@@ -1,0 +1,8 @@
+
+Language Region: 0 151 English
+Entity	Type
+LISBON	LOCATION
+1996-08-23	TEMPORAL:DATE
+Portuguese	NATIONALITY
+Friday	TEMPORAL:DATE
+Espinho	LOCATION

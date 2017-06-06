@@ -1,0 +1,26 @@
+
+Language Region: 0 1356 English
+Entity	Type
+Nigeria	LOCATION
+1996-08-28	TEMPORAL:DATE
+Nigerian	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Constitutional Rights Project ( CRP	ORGANIZATION
+William Istafanus	PERSON
+Elisha Shamay	PERSON
+Jerome Egurugbe	PERSON
+ASUU ( Academic Staff Union of Universities	ORGANIZATION
+CRP	ORGANIZATION
+Monday	TEMPORAL:DATE
+Tafawa Balewa University	ORGANIZATION
+ASUU	ORGANIZATION
+Nigeria	LOCATION
+four-month	TEMPORAL:TIME
+Nigeria	LOCATION
+ministers	TITLE
+London	LOCATION
+Wednesday	TEMPORAL:DATE
+Nigeria	LOCATION
+Nigeria	LOCATION
+Britain	LOCATION
+November	TEMPORAL:DATE

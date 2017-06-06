@@ -1,0 +1,20 @@
+
+Language Region: 0 1550 English
+Entity	Type
+1996-08-26	TEMPORAL:DATE
+Polish	NATIONALITY
+Mostostal Zabrze Holding SA	ORGANIZATION
+five-year	TEMPORAL:TIME
+Monday	TEMPORAL:DATE
+Piotr Grabowski	PERSON
+Reuters	ORGANIZATION
+Saturday	TEMPORAL:DATE
+Mostostal	ORGANIZATION
+Grabowksi	PERSON
+Poland	LOCATION
+52-week	TEMPORAL:TIME
+Polish Development Bank ( PBR	ORGANIZATION
+Warsaw	LOCATION
+Grabowski	PERSON
+Warsaw	LOCATION
++48 22 653 9700	IDENTIFIER:PHONE_NUMBER

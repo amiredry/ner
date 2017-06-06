@@ -1,0 +1,31 @@
+
+Language Region: 0 1435 English
+Entity	Type
+Khmer Rouge	ORGANIZATION
+Ieng Sary	PERSON
+Pol Pot	PERSON
+ARANYAPRATHET , Thailand	LOCATION
+1996-08-28	TEMPORAL:DATE
+Khmer Rouge	ORGANIZATION
+Ieng Sary	PERSON
+Wednesday	TEMPORAL:DATE
+Pol Pot	PERSON
+Ieng Sary	PERSON
+Pol Pot	PERSON
+Democratic National United Movement	ORGANIZATION
+DNUM	ORGANIZATION
+Cambodian	NATIONALITY
+Pol Pot	PERSON
+Ta Mok	PERSON
+Son Sen	PERSON
+Reuters	ORGANIZATION
+Khmer	NATIONALITY
+Democratic National United Movement	ORGANIZATION
+Ieng Sary	PERSON
+Cambodia	LOCATION
+Khmer Rouge	ORGANIZATION
+French	NATIONALITY
+Pol Pot	PERSON
+foreign minister	TITLE
+Khmer Rouge	ORGANIZATION
+Cambodia	LOCATION

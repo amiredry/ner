@@ -1,0 +1,36 @@
+
+Language Region: 0 1227 English
+Entity	Type
+PRESS DIGEST - Jordan	LOCATION
+Aug 25	TEMPORAL:DATE
+AMMAN	LOCATION
+1996-08-25	TEMPORAL:DATE
+Jordanian	NATIONALITY
+Sunday	TEMPORAL:DATE
+Reuters	ORGANIZATION
+King	PERSON
+Jordan	LOCATION
+Information Minister	TITLE
+Marwan Muasher	PERSON
+Iraq	LOCATION
+King	PERSON
+Bahrain	LOCATION
+Iraqi	NATIONALITY
+Japanese	NATIONALITY
+foreign minister	TITLE
+AL RAI	ORGANIZATION
+Prime Minister	TITLE
+Abdul-Karim al-Kabariti	PERSON
+Saudi	NATIONALITY
+Prince	TITLE
+Sultan	PERSON
+prime minister	TITLE
+Jordan	LOCATION
+Karak	LOCATION
+Jordan	LOCATION
+Iraqi	NATIONALITY
+Amman	LOCATION
+AD DUSTOUR - Kabariti	PERSON
+parliament	ORGANIZATION
+parliament	ORGANIZATION
+AL	ORGANIZATION

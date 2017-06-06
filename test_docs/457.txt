@@ -1,0 +1,28 @@
+
+Language Region: 0 1078 English
+Entity	Type
+Yeltsin	PERSON
+MOSCOW	LOCATION
+1996-08-26	TEMPORAL:DATE
+Naina Yeltsin	PERSON
+Russian	NATIONALITY
+president	TITLE
+Itar-Tass	ORGANIZATION
+Monday	TEMPORAL:DATE
+Tass	PERSON
+Kremlin	ORGANIZATION
+Saturday	TEMPORAL:DATE
+Central Clinical Hospital	LOCATION
+Mrs	TITLE
+Yeltsin	PERSON
+Sergei Mironov	PERSON
+Tass Naina	PERSON
+Yelena	PERSON
+Tatyana	PERSON
+Boris Yeltsin	PERSON
+a second	TEMPORAL:TIME
+July 3	TEMPORAL:DATE
+Monday	TEMPORAL:DATE
+Yeltsin	PERSON
+Moscow	LOCATION
+Yeltsin	PERSON

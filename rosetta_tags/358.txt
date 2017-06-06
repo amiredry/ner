@@ -1,0 +1,12 @@
+
+Language Region: 0 128 English
+Entity	Type
+1996-08-25	TEMPORAL:DATE
+German	NATIONALITY
+Sunday	TEMPORAL:DATE
+
+Language Region: 128 260 German
+Entity	Type
+MSV Duisberg 0 Bayern Munich 4	ORGANIZATION
+Klinsmann	PERSON
+Zieger	PERSON

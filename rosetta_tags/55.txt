@@ -1,0 +1,9 @@
+
+Language Region: 0 121 English
+Entity	Type
+1996-08-22	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+Dutch	NATIONALITY
+
+Language Region: 121 258 Dutch
+Entity	Type

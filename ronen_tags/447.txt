@@ -1,0 +1,7 @@
+CRICKET - <LOCATION>AUSTRALIA</LOCATION> WIN TOSS , OPT TO <LOCATION>BAT</LOCATION> AGAINST ZIMBABWE .
+COLOMBO 1996-08-26
+<LOCATION>Australia</LOCATION> won the toss and decided to bat against Zimbabwe in the first day-night limited overs match of the Singer World Series tournament on Monday .
+Teams :
+<LOCATION>Australia - Mark</LOCATION> Waugh , <PERSON>Michael Slater</PERSON> , Ricky Ponting , <PERSON>Steve Waugh</PERSON> , Stuart Law , <PERSON>Michael Bevan</PERSON> , <PERSON>Ian Healy</PERSON> ( captain ) , <PERSON>Brad Hogg , Paul Reiffel</PERSON> , <PERSON>Damein Fleming</PERSON> , <PERSON>Glenn McGrath</PERSON> .
+Zimbabwe - Alistair Campbell ( captain ) , Andy Flower , Grant Flower , Guy Whittall , Craig Evans , Eddo Brandes , Heath Streak , <PERSON>Paul Strang</PERSON> , Craig Wishart , Ali Shah , <PERSON>Mark Dekker</PERSON> .
+

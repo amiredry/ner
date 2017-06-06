@@ -1,0 +1,20 @@
+
+Language Region: 0 206 English
+Entity	Type
+BADMINTON - MALAYSIAN OPEN BADMINTON RESULTS	ORGANIZATION
+KUALA LUMPUR	LOCATION
+1996-08-23	TEMPORAL:DATE
+Malaysian	NATIONALITY
+Friday	TEMPORAL:DATE
+
+Language Region: 206 347 Malay
+Entity	Type
+
+Language Region: 347 381 Indonesian
+Entity	Type
+
+Language Region: 381 417 Malay
+Entity	Type
+
+Language Region: 417 488 Indonesian
+Entity	Type

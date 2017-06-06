@@ -1,0 +1,27 @@
+
+Language Region: 0 1711 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+South Africa	LOCATION
+Truth and Reconciliation Commission	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+president	TITLE
+John Allen	PERSON
+Reuters	ORGANIZATION
+President	TITLE
+P.W. Botha	PERSON
+generals	TITLE
+Basie Smit	PERSON
+Johan Van Der Merwe	PERSON
+National Party	ORGANIZATION
+president	TITLE
+F.W. De Klerk	PERSON
+Botha	PERSON
+April	TEMPORAL:DATE
+Allen	PERSON
+30 years	TEMPORAL:TIME
+Nobel	PERSON
+Archbishop	TITLE
+Desmond Tutu	PERSON
+Allen	PERSON
+Monday	TEMPORAL:DATE

@@ -1,0 +1,24 @@
+
+Language Region: 0 558 English
+Entity	Type
+Jordanian	NATIONALITY
+PM	TITLE
+Kabariti	PERSON
+West Bank	LOCATION
+AMMAN	LOCATION
+1996-08-29	TEMPORAL:DATE
+Jordanian	NATIONALITY
+Prime Minister	TITLE
+Abdul-Karim al-Kabariti	PERSON
+Amman	LOCATION
+Thursday	TEMPORAL:DATE
+West Bank	LOCATION
+Ramallah	LOCATION
+Palestinian	NATIONALITY
+President	TITLE
+Yasser Arafat	PERSON
+Middle East	LOCATION
+Petra	ORGANIZATION
+Kabariti	PERSON
+Kabariti	PERSON
+Jordan	LOCATION

@@ -1,0 +1,14 @@
+
+Language Region: 0 757 English
+Entity	Type
+1996-08-29	TEMPORAL:DATE
+Thailand	LOCATION
+Siam Commercial Bank Plc	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Government Housing Bank	ORGANIZATION
+Waterworks Authority	ORGANIZATION
+Siam Commercial Bank	ORGANIZATION
+Reuters	ORGANIZATION
+seven-year	TEMPORAL:TIME
+September 5	TEMPORAL:DATE
+Bangkok	LOCATION

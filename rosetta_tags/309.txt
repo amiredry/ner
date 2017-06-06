@@ -1,0 +1,36 @@
+
+Language Region: 0 2077 English
+Entity	Type
+AKRON	LOCATION
+AKRON , Ohio	LOCATION
+1996-08-25	TEMPORAL:DATE
+Phil Mickelson	PERSON
+World	ORGANIZATION
+Billy Mayfair	PERSON
+Sunday	TEMPORAL:DATE
+Mickelson	PERSON
+Billy Mayfair	PERSON
+Steve Stricker	PERSON
+Duffy Waldorf	PERSON
+Mickelson	PERSON
+Mickelson	PERSON
+10 year	TEMPORAL:TIME
+$ 378,000	IDENTIFIER:MONEY
+Mickelson	PERSON
+$ 1,574,799	IDENTIFIER:MONEY
+Mickelson	PERSON
+Mayfair	PERSON
+five second	TEMPORAL:TIME
+Mickelson	PERSON
+25 feet	IDENTIFIER:DISTANCE
+Mickelson	PERSON
+Mickelson	PERSON
+Mayfair	PERSON
+Mickelson	PERSON
+18 inches	IDENTIFIER:DISTANCE
+six feet	IDENTIFIER:DISTANCE
+Mayfair	PERSON
+five foot	IDENTIFIER:DISTANCE
+Mayfair	PERSON
+Greg Norman	PERSON
+Mickelson	PERSON

@@ -1,0 +1,18 @@
+
+Language Region: 0 97 English Uppercase
+Entity	Type
+AUSTRIA	LOCATION
+SCOTLAND	LOCATION
+EUROPEAN	NATIONALITY
+AMSTETTEN	LOCATION
+1996-08-30	TEMPORAL:DATE
+
+Language Region: 97 319 English
+Entity	Type
+Austria	LOCATION
+Scotland	LOCATION
+European	NATIONALITY
+Friday	TEMPORAL:DATE
+Ewald Brenner	PERSON
+Mario Stieglmair	PERSON
+Ronald Brunmayr	PERSON

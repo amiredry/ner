@@ -1,0 +1,51 @@
+
+Language Region: 0 2103 English
+Entity	Type
+Palestinians	NATIONALITY
+Jerusalem	LOCATION
+JERUSALEM	LOCATION
+1996-08-27	TEMPORAL:DATE
+Palestinian	NATIONALITY
+Jerusalem	LOCATION
+Tuesday	TEMPORAL:DATE
+two-hour	TEMPORAL:TIME
+Israel	LOCATION
+Arab East Jerusalem	LOCATION
+Israeli	NATIONALITY
+Jerusalem	LOCATION
+Old City	LOCATION
+Palestinian	NATIONALITY
+rule Authority	ORGANIZATION
+Old City	LOCATION
+Israeli	NATIONALITY
+Palestinian Authority	ORGANIZATION
+PLO	ORGANIZATION
+Israel	LOCATION
+1000 GMT	TEMPORAL:TIME
+Palestinian	NATIONALITY
+Ahmed Hashem Zighayer	PERSON
+Reuters	ORGANIZATION
+Prime Minister	TITLE
+Benjamin Netanyahu	PERSON
+June	TEMPORAL:DATE
+Authority	ORGANIZATION
+Gaza Strip	LOCATION
+West Bank	LOCATION
+Jerusalem	LOCATION
+Israel	LOCATION
+Palestinian Authority	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+a day	TEMPORAL:TIME
+PLO	ORGANIZATION
+Netanyahu	PERSON
+Jerusalem	LOCATION
+Israel	LOCATION
+Netanyahu	PERSON
+Palestine Liberation Organisation	ORGANIZATION
+PLO	ORGANIZATION
+Israel	LOCATION
+Arab East Jerusalem	LOCATION
+Middle East	LOCATION
+Palestinians	NATIONALITY
+Jerusalem	LOCATION
+Netanyahu	PERSON

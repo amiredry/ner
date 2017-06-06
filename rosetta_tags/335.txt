@@ -1,0 +1,12 @@
+
+Language Region: 0 242 English
+Entity	Type
+AT CANADIAN OPEN	ORGANIZATION
+TORONTO	LOCATION
+1996-08-25	TEMPORAL:DATE
+Canadian	NATIONALITY
+Sunday	TEMPORAL:DATE
+Wayne Ferreira	PERSON
+South Africa	LOCATION
+Todd Woodbridge	PERSON
+Australia	LOCATION

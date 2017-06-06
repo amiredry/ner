@@ -1,0 +1,24 @@
+
+Language Region: 0 896 English
+Entity	Type
+Burundi	LOCATION
+African Cup	ORGANIZATION
+CAIRO	LOCATION
+1996-08-28	TEMPORAL:DATE
+African Football Confederation	ORGANIZATION
+CAF	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Burundi	LOCATION
+African Nations	ORGANIZATION
+Central African Republic	LOCATION
+Burundi	LOCATION
+Bangui	LOCATION
+Central African Republic	LOCATION
+Guinea	LOCATION
+Sierra Leone	LOCATION
+Tunisia	LOCATION
+Burundi	LOCATION
+Central Africa	LOCATION
+Burundi	LOCATION
+African Cup of Nations	ORGANIZATION
+CAF	ORGANIZATION

@@ -1,0 +1,24 @@
+
+Language Region: 0 828 English
+Entity	Type
+Polish	NATIONALITY
+Libya	LOCATION
+TUNIS	LOCATION
+1996-08-22	TEMPORAL:DATE
+Polish	NATIONALITY
+Thursday	TEMPORAL:DATE
+Polish	NATIONALITY
+Libya	LOCATION
+Polish	NATIONALITY
+North African	NATIONALITY
+Libya	LOCATION
+Polish	NATIONALITY
+charge d'affaires	TITLE
+Tripoli	LOCATION
+Tadeusz Awdankiewicz	PERSON
+Reuters	ORGANIZATION
+Poland	LOCATION
+Libya	LOCATION
+Awdankiewicz	PERSON
+Polish	NATIONALITY
+Libya	LOCATION

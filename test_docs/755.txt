@@ -1,0 +1,33 @@
+
+Language Region: 0 725 English
+Entity	Type
+Turkey	LOCATION
+Ciller	PERSON
+Jordan	LOCATION
+ANKARA	LOCATION
+1996-08-28	TEMPORAL:DATE
+Turkish	NATIONALITY
+Foreign Minister	TITLE
+Tansu Ciller	PERSON
+Jordan	LOCATION
+September 3	TEMPORAL:DATE
+June	TEMPORAL:DATE
+Foreign Ministry	ORGANIZATION
+Omer Akbel	PERSON
+Wednesday	TEMPORAL:DATE
+two-day	TEMPORAL:TIME
+Jordanian	NATIONALITY
+Prime Minister	TITLE
+Abdul-Karim al-Kabariti	PERSON
+Turkey	LOCATION
+Jordan	LOCATION
+Middle East	LOCATION
+Middle East	LOCATION
+Akbel	PERSON
+Turkish	NATIONALITY
+Prime Minister	TITLE
+Necmettin Erbakan	PERSON
+Moslem	RELIGION
+Iran	LOCATION
+10-day	TEMPORAL:TIME
+August	TEMPORAL:DATE

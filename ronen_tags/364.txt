@@ -1,0 +1,25 @@
+GOLF - GERMAN OPEN SCORES .
+STUTTGART , Germany 1996-08-25
+<PERSON>Briton Ian Woosnam</PERSON> won
+the German Open golf championship on Sunday after the final
+round was abandoned because of torrential rain .
+Scores after three rounds ( Britain unless stated ) :
+193 Ian Woosnam 64 64 65 .
+199 Thomas Gogele ( <LOCATION>Germany</LOCATION> ) 67 65 67 , <PERSON>Robert Karlsson</PERSON>
+( Sweden ) 67 62 70 , Ian Pyman 66 64 69 , <PERSON>Fernando Roca</PERSON>
+( Spain ) 66 64 69 .
+200 Diego Borrego ( <LOCATION>Spain</LOCATION> ) 69 63 68 , <PERSON>Miguel Angel Martin</PERSON>
+( Spain ) 66 66 68 .
+201 Stephen Ames ( Trinidad ) 68 65 68 , Roger Chapman 72 62 67 ,
+<PERSON>Paul Broadhurst</PERSON> 62 70 69 , Stephen Field 66 65 70 ,
+Carl Suneson ( <LOCATION>Spain</LOCATION> ) 65 66 70
+202 <PERSON>Greg Turner ( New Zealand</PERSON> ) 70 67 65 , <PERSON>Heinz-Peter Thul</PERSON>
+( Germany ) 70 67 65 , Ronan Rafferty 64 72 66 , <PERSON>Barry Lane</PERSON>
+68 67 67 , David Carter 66 69 67 , <PERSON>Michael Jonzon</PERSON> ( Sweden )
+67 67 68 , <PERSON>David Williams</PERSON> 67 67 68
+203 Lee Westwood 66 71 66 , Gary Emerson 68 69 66 , Peter Baker
+70 66 67 , Des Smyth ( Ireland ) 66 69 68 , <PERSON>Paul Lawrie</PERSON>
+66 69 68 , Francisco Cea ( <LOCATION>Spain</LOCATION> ) 68 66 69 , Pedro Linhart
+( Spain ) 67 67 69 , Jonathan Lomas 67 67 69 , <PERSON>Paul Eales</PERSON>
+67 68 68 , Raymond Russell 63 69 71
+

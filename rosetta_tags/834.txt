@@ -1,0 +1,25 @@
+
+Language Region: 0 1488 English
+Entity	Type
+Zaire	LOCATION
+1996-08-29	TEMPORAL:DATE
+Zaire	LOCATION
+National Election Commission	ORGANIZATION
+CNE	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Central African	NATIONALITY
+Kinshasa	LOCATION
+January	TEMPORAL:DATE
+Zaire	LOCATION
+July 1997	TEMPORAL:DATE
+Commission	ORGANIZATION
+Yoka Lye Mudaba	PERSON
+North	LOCATION
+South Kivu , Maniema	LOCATION
+Shaba	LOCATION
+Bandundu	LOCATION
+July	TEMPORAL:DATE
+President	TITLE
+Mobutu Sese Seko	PERSON
+Zaire	LOCATION
+Mobutu	PERSON

@@ -1,0 +1,26 @@
+
+Language Region: 0 1360 English
+Entity	Type
+SAN FRANCISCO	LOCATION
+1996-08-25	TEMPORAL:DATE
+San Francisco Giants	LOCATION
+Barry Bonds	PERSON
+Sunday	TEMPORAL:DATE
+Montreal Expos	LOCATION
+Bonds	PERSON
+Baltimore	LOCATION
+Cal Ripken	PERSON
+California Angels	ORGANIZATION
+Bonds	PERSON
+Friday	TEMPORAL:DATE
+Bonds	PERSON
+Wednesday	TEMPORAL:DATE
+New York	LOCATION
+Thursday	TEMPORAL:DATE
+32-year	TEMPORAL:TIME
+Bonds	PERSON
+RBI	ORGANIZATION
+Chicago Cubs	ORGANIZATION
+Sammy Sosa	PERSON
+Atlanta Braves	ORGANIZATION
+Fred McGriff	PERSON

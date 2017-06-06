@@ -1,0 +1,19 @@
+
+Language Region: 0 636 English
+Entity	Type
+Stallone	PERSON
+1996-08-27	TEMPORAL:DATE
+Actor	TITLE
+Sylvester Stallone	PERSON
+Jennifer Flavin	PERSON
+Tuesday	TEMPORAL:DATE
+Stallone	PERSON
+Sophia Rose	PERSON
+South Miami Hospital	LOCATION
+publicist	TITLE
+Paul Bloch	PERSON
+Stallone	PERSON
+Copland	PERSON
+New York	LOCATION
+New Jersey	LOCATION
+Flavin	PERSON

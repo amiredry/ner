@@ -1,0 +1,33 @@
+
+Language Region: 0 1599 English
+Entity	Type
+Martin Ayres	PERSON
+MANCHESTER , England	LOCATION
+1996-08-30	TEMPORAL:DATE
+Felicia Ballanger	PERSON
+France	LOCATION
+Friday	TEMPORAL:DATE
+Ballanger	PERSON
+Germany	LOCATION
+Annett Neumann	PERSON
+July	TEMPORAL:DATE
+France	LOCATION
+Magali Faure	PERSON
+Tanya Dubnicoff	PERSON
+Canada	LOCATION
+Ballanger	PERSON
+Saturday	TEMPORAL:DATE
+Russia	LOCATION
+Svetlana Samokhalova	PERSON
+American	NATIONALITY
+Jane Quigley	PERSON
+a second	TEMPORAL:TIME
+Russia	LOCATION
+Goulnara Fatkoullina	LOCATION
+Samokhalova	PERSON
+Quigley	PERSON
+Russians	NATIONALITY
+Ingrid Haringa	PERSON
+Netherlands	LOCATION
+Nathalie Lancien	PERSON
+France	LOCATION

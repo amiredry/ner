@@ -1,0 +1,59 @@
+
+Language Region: 0 1490 English
+Entity	Type
+ENGLISH COUNTY CHAMPIONSHIP SCORES	ORGANIZATION
+LONDON	LOCATION
+1996-08-24	TEMPORAL:DATE
+four-day	TEMPORAL:TIME
+English	NATIONALITY
+Saturday	TEMPORAL:DATE
+Durham 326	LOCATION
+S. Campbell 69 ; G. Rose 7	PRODUCT
+R. Harden	PERSON
+Durham	LOCATION
+Third day	TEMPORAL:TIME
+Colchester	LOCATION
+Gloucestershire	LOCATION
+Essex	LOCATION
+G. Gooch 111	PRODUCT
+R. Irani	PERSON
+P. Prichard	PERSON
+D. Robinson	PERSON
+Cardiff	LOCATION
+Kent 255-3	PRODUCT
+M. Walker	PERSON
+C. Hooper	PERSON
+Glamorgan	LOCATION
+Leicester	LOCATION
+Leicestershire 353	LOCATION
+P. Simmons	PERSON
+P. Nixon	PERSON
+J. Bovill	ORGANIZATION
+Hampshire 81-7	PRODUCT
+Northampton	LOCATION
+Sussex	LOCATION
+C. Ambrose	PERSON
+Northamptonshire 361	LOCATION
+K. Curran 117	PRODUCT
+D. Ripley	PERSON
+Trent Bridge	LOCATION
+Nottinghamshire	LOCATION
+G. Archer 143	PRODUCT
+M. Dowman	PERSON
+Surrey	LOCATION
+Worcester	LOCATION
+Warwickshire 310	PRODUCT
+T. Munton	PERSON
+R. Illingworth	PERSON
+K. Spiring	PRODUCT
+Yorkshire	LOCATION
+C. White 181	ORGANIZATION
+R. Blakey	PERSON
+M. Moxon	PERSON
+M. Vaughan	PERSON
+Lancashire 323	ORGANIZATION
+N.	ORGANIZATION
+Fairbrother 86	PRODUCT
+M. Watkinson	PERSON
+D. Gough	PERSON
+N. Fairbrother	PERSON

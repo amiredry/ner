@@ -1,0 +1,55 @@
+
+Language Region: 0 127 English
+Entity	Type
+ENGLISH LEAGUE RESULTS	ORGANIZATION
+LONDON	LOCATION
+1996-08-24	TEMPORAL:DATE
+English	NATIONALITY
+Saturday	TEMPORAL:DATE
+
+Language Region: 127 221 Norwegian
+Entity	Type
+
+Language Region: 221 293 English
+Entity	Type
+Newcastle	LOCATION
+Wednesday	TEMPORAL:DATE
+Nottingham Forest 1 Middlesbrough 1	PRODUCT
+
+Language Region: 293 342 Norwegian
+Entity	Type
+
+Language Region: 342 619 English
+Entity	Type
+Sunday	TEMPORAL:DATE
+Manchester United	ORGANIZATION
+Monday	TEMPORAL:DATE
+Leeds	LOCATION
+1 West	IDENTIFIER:LATITUDE_LONGITUDE
+Oldham	LOCATION
+Ipswich	LOCATION
+Birmingham	LOCATION
+Manchester	LOCATION
+
+Language Region: 619 670 Norwegian
+Entity	Type
+
+Language Region: 670 1445 English
+Entity	Type
+Friday	TEMPORAL:DATE
+Portsmouth 1 Queen's Park	LOCATION
+Rangers 2 Tranmere 3 Grimsby 2	PRODUCT
+Sunday	TEMPORAL:DATE
+Barnsley	LOCATION
+Brentford 3 Luton 2 Bristol City	PRODUCT
+Blackpool	LOCATION
+Rotherham	LOCATION
+Shrewsbury	LOCATION
+Wigan	LOCATION
+Brighton	LOCATION
+Cambridge	LOCATION
+Swansea	LOCATION
+Colchester	LOCATION
+Scunthorpe	LOCATION
+Bristol City	LOCATION
+Blackpool	LOCATION

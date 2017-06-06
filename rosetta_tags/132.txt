@@ -1,0 +1,24 @@
+
+Language Region: 0 292 English
+Entity	Type
+RESULTS AT TOSHIBA CLASSIC	LOCATION
+05:30 GMT	TEMPORAL:TIME
+CARLSBAD , California	LOCATION
+1996-08-22	TEMPORAL:DATE
+$ 450,000	IDENTIFIER:MONEY
+Toshiba	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Conchita Martinez	PERSON
+Spain	LOCATION
+Nathalie Tauziat	PERSON
+France	LOCATION
+
+Language Region: 292 372 Romanian
+Entity	Type
+
+Language Region: 372 463 Slovak
+Entity	Type
+
+Language Region: 463 508 English
+Entity	Type
+Habsudova	PERSON

@@ -1,0 +1,19 @@
+
+Language Region: 0 506 English
+Entity	Type
+France	LOCATION
+1996-08-29	TEMPORAL:DATE
+French	NATIONALITY
+Thursday	TEMPORAL:DATE
+coach	TITLE
+Albert Emon	PERSON
+Club president	TITLE
+Andre Bois	PERSON
+Friday	TEMPORAL:DATE
+Marseille	LOCATION
+Monaco	LOCATION
+Emon	PERSON
+24 hours	TEMPORAL:TIME
+French	NATIONALITY
+Riviera	ORGANIZATION
+Guingamp	LOCATION

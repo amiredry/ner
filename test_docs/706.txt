@@ -1,0 +1,40 @@
+
+Language Region: 0 1584 English
+Entity	Type
+Canada	LOCATION
+Chinese	NATIONALITY
+British Columbia	LOCATION
+1996-08-28	TEMPORAL:DATE
+Canada	LOCATION
+Chinese	NATIONALITY
+Hong Kong	LOCATION
+British	NATIONALITY
+China	LOCATION
+Vancouver Sun	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Garrett Lambert	PERSON
+Canada	LOCATION
+high commissioner	TITLE
+Hong Kong	LOCATION
+Lambert	PERSON
+Canada	LOCATION
+Ottawa	LOCATION
+Chinese	NATIONALITY
+Hong Kong	LOCATION
+Chinese	NATIONALITY
+Britain	LOCATION
+Hong Kong	LOCATION
+China	LOCATION
+June 30 , 1997	TEMPORAL:DATE
+150 years	TEMPORAL:TIME
+Canada	LOCATION
+Minister of Foreign Affairs	TITLE
+Lloyd Axworthy	PERSON
+Hong Kong Gov	LOCATION
+Chris Patten	PERSON
+Canada	LOCATION
+Hong Kong	LOCATION
+China	LOCATION
+Chinese	NATIONALITY
+Hong Kong	LOCATION
+Hong Kong	LOCATION

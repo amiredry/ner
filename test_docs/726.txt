@@ -1,0 +1,30 @@
+
+Language Region: 0 961 English
+Entity	Type
+Costa Rica	LOCATION
+Hashimoto	PERSON
+SAN JOSE , Costa Rica	LOCATION
+1996-08-28	TEMPORAL:DATE
+Richter	PERSON
+Costa Rica	LOCATION
+Wednesday	TEMPORAL:DATE
+Japanese	NATIONALITY
+Prime Minister	TITLE
+Ryutaro Hashimoto	PERSON
+1716 GMT	TEMPORAL:TIME
+10 miles	IDENTIFIER:DISTANCE
+16 km	IDENTIFIER:DISTANCE
+Quepos	LOCATION
+90 miles	IDENTIFIER:DISTANCE
+140 km	IDENTIFIER:DISTANCE
+San Jose	LOCATION
+Costa Rican	NATIONALITY
+Seismologicial Observatory	ORGANIZATION
+seven seconds	TEMPORAL:TIME
+Juan Santamaria airport	LOCATION
+Hashimoto	PERSON
+three-hour	TEMPORAL:TIME
+Latin American	NATIONALITY
+Hashimoto	PERSON
+11 a.m.	TEMPORAL:TIME
+1700 GMT	TEMPORAL:TIME

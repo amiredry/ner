@@ -1,0 +1,16 @@
+
+Language Region: 0 683 English
+Entity	Type
+MANCHESTER CITY MANAGER	LOCATION
+MANCHESTER , England	LOCATION
+1996-08-27	TEMPORAL:DATE
+England	LOCATION
+Alan Ball	PERSON
+manager	TITLE
+Manchester City	LOCATION
+Monday	TEMPORAL:DATE
+July 1995	TEMPORAL:DATE
+premier	TITLE
+Club secretary	TITLE
+Bernard Halford	PERSON
+chairman	TITLE

@@ -1,0 +1,52 @@
+
+Language Region: 0 1203 English
+Entity	Type
+Israel	LOCATION
+Arafat	PERSON
+West Bank	LOCATION
+JERUSALEM	LOCATION
+1996-08-22	TEMPORAL:DATE
+Israel	LOCATION
+Palestinian	NATIONALITY
+President	TITLE
+Yasser Arafat	PERSON
+Thursday	TEMPORAL:DATE
+West Bank	LOCATION
+Israeli	NATIONALITY
+PLO	ORGANIZATION
+Arafat	PERSON
+president	TITLE
+Israeli	NATIONALITY
+president	TITLE
+West Bank	LOCATION
+Monday	TEMPORAL:DATE
+Nabil Abu Rdainah	PERSON
+Reuters	ORGANIZATION
+Arafat	PERSON
+Israeli	NATIONALITY
+prime minister	TITLE
+Shimon Peres	PERSON
+West Bank	LOCATION
+Ramallah	LOCATION
+Thursday	TEMPORAL:DATE
+Gaza	LOCATION
+Israel	LOCATION
+Palestinian	NATIONALITY
+Palestinian	NATIONALITY
+Prime Minister	TITLE
+Benjamin Netanyahu	PERSON
+Ramallah	LOCATION
+Arafat	PERSON
+Arafat	PERSON
+Israeli	NATIONALITY
+PLO	ORGANIZATION
+Allenby Bridge	PRODUCT
+Jordan	LOCATION
+West Bank	LOCATION
+Abu Rdainah	PERSON
+Arafat	PERSON
+West Bank	LOCATION
+Thursday	TEMPORAL:DATE
+Israel	LOCATION
+Gaza	LOCATION
+Monday	TEMPORAL:DATE

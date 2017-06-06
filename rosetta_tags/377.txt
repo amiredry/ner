@@ -1,0 +1,17 @@
+
+Language Region: 0 582 English
+Entity	Type
+Moscow	LOCATION
+MOSCOW	LOCATION
+1996-08-25	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Moscow	LOCATION
+Interfax	ORGANIZATION
+Moscow	LOCATION
+mayor	TITLE
+President	TITLE
+Boris Yeltsin	PERSON
+July	TEMPORAL:DATE
+chief	TITLE
+Alexander Lebed	PERSON
+Chechnya	LOCATION

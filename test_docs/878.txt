@@ -1,0 +1,12 @@
+
+Language Region: 0 692 English
+Entity	Type
+Indians	NATIONALITY
+NEW DELHI	LOCATION
+1996-08-29	TEMPORAL:DATE
+India	LOCATION
+Supreme Court	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Andhra Pradesh	LOCATION
+Justice	TITLE
+K.T. Thomas	PERSON

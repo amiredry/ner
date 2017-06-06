@@ -1,0 +1,12 @@
+
+Language Region: 0 283 English
+Entity	Type
+BARRY , Wales	LOCATION
+1996-08-30	TEMPORAL:DATE
+Wales	LOCATION
+San Marino	LOCATION
+European	NATIONALITY
+Friday	TEMPORAL:DATE
+Wales	LOCATION
+John Hartson	PERSON
+Scott Young	PERSON

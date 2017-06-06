@@ -1,0 +1,18 @@
+
+Language Region: 0 564 English
+Entity	Type
+Kennedy	PERSON
+Phelan	PERSON
+Irish	NATIONALITY
+1996-08-23	TEMPORAL:DATE
+Republic of Ireland	LOCATION
+August 31	TEMPORAL:DATE
+Football Association of Ireland	ORGANIZATION
+Friday	TEMPORAL:DATE
+Liverpool	LOCATION
+Mark Kennedy	PERSON
+Chelsea	LOCATION
+Terry Phelan	PERSON
+Liechenstein	LOCATION
+Damien Lynch	PERSON
+Dublin Newsroom +353 1 6603377	PRODUCT

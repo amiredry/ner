@@ -1,0 +1,16 @@
+
+Language Region: 0 722 English
+Entity	Type
+ALLENTOWN , Pa	LOCATION
+American Corp	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Merrion Insurance Company Inc	ORGANIZATION
+New York	LOCATION
+New York	LOCATION
+New York	LOCATION
+American Corp	ORGANIZATION
+Vermont	LOCATION
+Vermont	LOCATION
+August 30 , 1996	TEMPORAL:DATE
+New York Newsdesk	LOCATION
+212-859-1610	IDENTIFIER:PHONE_NUMBER

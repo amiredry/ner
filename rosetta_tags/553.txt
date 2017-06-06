@@ -1,0 +1,11 @@
+
+Language Region: 0 407 English
+Entity	Type
+African	NATIONALITY
+1996-08-27	TEMPORAL:DATE
+South African	NATIONALITY
+Eugene de Kock	PERSON
+Tuesday	TEMPORAL:DATE
+a day	TEMPORAL:TIME
+De Kock	PERSON
+police colonel	TITLE

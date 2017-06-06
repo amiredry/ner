@@ -1,0 +1,31 @@
+
+Language Region: 0 633 English
+Entity	Type
+France	LOCATION
+Juppe	PERSON
+Greece	LOCATION
+Sep 15	TEMPORAL:DATE
+1996-08-28	TEMPORAL:DATE
+French	NATIONALITY
+Premier	TITLE
+Alain Juppe	PERSON
+Greece	LOCATION
+September 15	TEMPORAL:DATE
+150 years	TEMPORAL:TIME
+French Archaeological Society	ORGANIZATION
+Dimitris Reppas	PERSON
+Wednesday	TEMPORAL:DATE
+Juppe	PERSON
+Greek	NATIONALITY
+Prime Minister	TITLE
+Costas Simitis	PERSON
+Foreign Minister	TITLE
+Theodoros Pangalos	PERSON
+Reppas	PERSON
+French	NATIONALITY
+premier	TITLE
+Archaeological Society	ORGANIZATION
+Greek	NATIONALITY
+prime minister	TITLE
+foreign minister	TITLE
+Reppas	PERSON

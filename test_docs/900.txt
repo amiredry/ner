@@ -1,0 +1,35 @@
+
+Language Region: 0 914 English
+Entity	Type
+Baker	PERSON
+Syria	LOCATION
+March 1995	TEMPORAL:DATE
+WASHINGTON	LOCATION
+1996-08-29	TEMPORAL:DATE
+Secretary of State	TITLE
+James Baker	PERSON
+Syria	LOCATION
+March 1995	TEMPORAL:DATE
+Syria	LOCATION
+Israel	LOCATION
+Washington Post	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Baker	PERSON
+Baker	PERSON
+Clinton	PERSON
+Republican National Convention	ORGANIZATION
+two weeks	TEMPORAL:TIME
+Syria	LOCATION
+Israel	LOCATION
+Baker	PERSON
+March 1995	TEMPORAL:DATE
+GOP	ORGANIZATION
+Israel	LOCATION
+ambassador	TITLE
+Itamar Rabinovich	PERSON
+Post	ORGANIZATION
+Baker	PERSON
+secretary of state	TITLE
+Republican	ORGANIZATION
+President	TITLE
+George Bush	PERSON

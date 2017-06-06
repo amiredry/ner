@@ -1,0 +1,16 @@
+
+Language Region: 0 336 English
+Entity	Type
+PARIS	LOCATION
+1996-08-24	TEMPORAL:DATE
+French	NATIONALITY
+Saturday	TEMPORAL:DATE
+Nantes	LOCATION
+Marseille	LOCATION
+Strasbourg	LOCATION
+Monaco	LOCATION
+Cannes	LOCATION
+Friday	TEMPORAL:DATE
+Nancy	PERSON
+Paris	LOCATION
+St Germain	LOCATION

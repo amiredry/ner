@@ -1,0 +1,325 @@
+
+Language Region: 0 1254 English
+Entity	Type
+BRUSSELS	LOCATION
+1996-08-23	TEMPORAL:DATE
+Brussels	LOCATION
+Friday	TEMPORAL:DATE
+Ilke Wyludda	ORGANIZATION
+Germany	LOCATION
+Ellina Zvereva	PERSON
+Belarus	LOCATION
+Franka Dietzsch	PERSON
+Germany	LOCATION
+Natalya Sadova	PERSON
+Russia	LOCATION
+Mette Bergmann	PERSON
+Norway	LOCATION
+Nicoleta Grasu	PERSON
+Romania	LOCATION
+Olga Chernyavskaya	PERSON
+Russia	LOCATION
+Irina Yatchenko	PERSON
+Belarus	LOCATION
+Ludmila Engquist	PERSON
+Sweden	LOCATION
+12.60 seconds	TEMPORAL:TIME
+Michelle Freeman	PERSON
+Jamaica	LOCATION
+Aliuska Lopez	PERSON
+Cuba	LOCATION
+Dionne Rose	PERSON
+Jamaica	LOCATION
+Brigita Bukovec	PERSON
+Slovakia	LOCATION
+Yulia Graudin	PERSON
+Russia	LOCATION
+Julie Baumann	PERSON
+Switzerland	LOCATION
+Patricia Girard-Leno	PERSON
+France	LOCATION
+Dawn Bowles	PERSON
+U.S.	LOCATION
+Allen Johnson	PERSON
+U.S.	LOCATION
+12.92 seconds	TEMPORAL:TIME
+Colin Jackson	PERSON
+Britain	LOCATION
+Emilio Valle	PERSON
+Cuba	LOCATION
+Sven Pieters	PERSON
+Belgium	LOCATION
+Steve Brown	PERSON
+U.S.	LOCATION
+Frank Asselman	PERSON
+Belgium	LOCATION
+Hubert Grossard	PERSON
+Belgium	LOCATION
+Jonathan N'Senga	PERSON
+Belgium	LOCATION
+Johan Lisabeth	PERSON
+Belgium	LOCATION
+Roberta Brunet	PERSON
+Italy	LOCATION
+14 minutes	TEMPORAL:TIME
+48.96 seconds	TEMPORAL:TIME
+
+Language Region: 1254 1335 Portuguese
+Entity	Type
+Fernanda Ribeiro	PERSON
+Portugal	LOCATION
+Sally Barsosio	PERSON
+
+Language Region: 1335 1886 English
+Entity	Type
+Paula Radcliffe	PERSON
+Britain	LOCATION
+Julia Vaquero	PERSON
+Spain	LOCATION
+Catherine McKiernan	PERSON
+Ireland	LOCATION
+Annette Peters	PERSON
+U.S.	LOCATION
+Pauline Konga	PERSON
+Kenya	LOCATION
+Dennis Mitchell	PERSON
+U.S.	LOCATION
+10.03 seconds	TEMPORAL:TIME
+Donovan Bailey	PERSON
+Canada	LOCATION
+Carl Lewis	PERSON
+U.S.	LOCATION
+Ato Boldon ( Trinidad	ORGANIZATION
+Linford Christie	PERSON
+Britain	LOCATION
+Davidson Ezinwa ( Nigeria	ORGANIZATION
+Jon Drummond	PERSON
+U.S.	LOCATION
+Canada	LOCATION
+Derrick Adkins	PERSON
+U.S.	LOCATION
+
+Language Region: 1886 2154 Italian
+Entity	Type
+Samuel Matete	PERSON
+Rohan Robinson	PERSON
+Australia	LOCATION
+Torrance Zellner	PERSON
+Paul Bruwier	PERSON
+Belgium	LOCATION
+Dusan Kovacs	PERSON
+Calvin Davis	PERSON
+Laurent Ottoz	PERSON
+Italy	LOCATION
+
+Language Region: 2154 2653 English
+Entity	Type
+Marc Dollendorf	PERSON
+Belgium	LOCATION
+Gail Devers	PERSON
+U.S.	LOCATION
+10.84 seconds	TEMPORAL:TIME
+Gwen Torrence	PERSON
+U.S.	LOCATION
+Merlene Ottey	PERSON
+Jamaica	LOCATION
+Mary Onyali ( Nigeria	ORGANIZATION
+Chryste Gaines	PERSON
+U.S.	LOCATION
+Zhanna Pintusevich ( Ukraine	ORGANIZATION
+Irina Privalova	PERSON
+Russia	LOCATION
+Natalia Voronova	PERSON
+Russia	LOCATION
+Juliet Cuthbert	PERSON
+Jamaica	LOCATION
+Regina Jacobs	PERSON
+U.S.	LOCATION
+4 minutes	TEMPORAL:TIME
+01.77 seconds	TEMPORAL:TIME
+Patricia Djate	PERSON
+France	LOCATION
+
+Language Region: 2653 2783 Portuguese
+Entity	Type
+Carla Sacramento	PERSON
+Portugal	LOCATION
+Yekaterina Podkopayeva	PERSON
+Margret Crowley	PERSON
+
+Language Region: 2783 5271 English
+Entity	Type
+Canada	LOCATION
+Sarah Thorsett	PERSON
+U.S.	LOCATION
+Ireland	LOCATION
+Joseph Keter ( Kenya	ORGANIZATION
+8 minutes	TEMPORAL:TIME
+10.02 seconds	TEMPORAL:TIME
+8:15.69 5	PRODUCT
+Larbi El Khattabi	LOCATION
+Morocco	LOCATION
+Michael Johnson	PERSON
+U.S.	LOCATION
+44.29 seconds	TEMPORAL:TIME
+Derek Mills	PERSON
+U.S.	LOCATION
+Maybank	ORGANIZATION
+U.S.	LOCATION
+Davis Kamoga ( Uganda	ORGANIZATION
+Jamie Baulch	PERSON
+Britain	LOCATION
+Sunday	TEMPORAL:DATE
+Bada ( Nigeria	ORGANIZATION
+Samson Kitur ( Kenya	ORGANIZATION
+Mark Richardson	PERSON
+Britain	LOCATION
+Jason Rouser	PERSON
+U.S.	LOCATION
+Frankie Fredericks	PERSON
+Namibia	LOCATION
+19.92 seconds	TEMPORAL:TIME
+Jeff Williams	PERSON
+U.S.	LOCATION
+Jon Drummond	PERSON
+U.S.	LOCATION
+Belgium	LOCATION
+Michael Marsh	PERSON
+U.S.	LOCATION
+Ivan Garcia	PERSON
+Cuba	LOCATION
+Eric Wymeersch	PERSON
+Belgium	LOCATION
+Lamont Smith	PERSON
+U.S.	LOCATION
+Svetlana Masterkova	PERSON
+Russia	LOCATION
+2 minutes	TEMPORAL:TIME
+28.98 seconds	TEMPORAL:TIME
+Maria Mutola	PERSON
+Mozambique	LOCATION
+Malgorzata Rydz	PERSON
+Poland	LOCATION
+Belgium	LOCATION
+2:43.06 5	PRODUCT
+Belgium	LOCATION
+Eleonora Berlanda	PERSON
+Italy	LOCATION
+Belgium	LOCATION
+Jacqueline Martin	PERSON
+Spain	LOCATION
+Mary Onyali ( Nigeria	ORGANIZATION
+22.42 seconds	TEMPORAL:TIME
+Inger Miller	PERSON
+U.S.	LOCATION
+Irina Privalova	PERSON
+Russia	LOCATION
+Natalia Voronova	PERSON
+Russia	LOCATION
+Marina Trandenkova	PERSON
+Russia	LOCATION
+Chandra Sturrup	PERSON
+Bahamas	LOCATION
+Zundra Feagin	PERSON
+U.S.	LOCATION
+Galina Malchugina	PERSON
+Russia	LOCATION
+Cathy Freeman	PERSON
+Australia	LOCATION
+49.48 seconds	TEMPORAL:TIME
+Marie-Jose Perec	PERSON
+France	LOCATION
+Falilat Ogunkoya ( Nigeria	ORGANIZATION
+Pauline Davis	PERSON
+Bahamas	LOCATION
+Fatima Yussuf ( Nigeria	ORGANIZATION
+Maicel Malone	PERSON
+U.S.	LOCATION
+Hana Benesova ( Czech Republic	ORGANIZATION
+Belgium	LOCATION
+Daniel Komen	PERSON
+Kenya	LOCATION
+7 minutes	TEMPORAL:TIME
+25.87 seconds	TEMPORAL:TIME
+Khalid Boulami	PERSON
+Morocco	LOCATION
+Bob Kennedy	PERSON
+U.S.	LOCATION
+El Hassane Lahssini	PERSON
+Morocco	LOCATION
+Noureddine Morceli	PERSON
+Algeria	LOCATION
+Ethiopia	LOCATION
+
+Language Region: 5271 5326 Dutch
+Entity	Type
+
+Language Region: 5326 7085 English
+Entity	Type
+U.S.	LOCATION
+Vladimir Dubrovshchik	PERSON
+Belarus	LOCATION
+Lithuania	LOCATION
+Juergen Schult	PERSON
+Germany	LOCATION
+Vassiliy Kaptyukh	PERSON
+Belarus	LOCATION
+Lithuania	LOCATION
+Michael Mollenbeck	PERSON
+Germany	LOCATION
+Jonathan Edwards	PERSON
+Britain	LOCATION
+Yoelvis Quesada	PERSON
+Cuba	LOCATION
+Brian Wellman	PERSON
+Bermuda	LOCATION
+Kenny Harrison	PERSON
+U.S.	LOCATION
+Gennadi Markov	PERSON
+Russia	LOCATION
+Francis Agyepong	PERSON
+Britain	LOCATION
+Sigurd Njerve	PERSON
+Norway	LOCATION
+Hicham El Guerrouj	LOCATION
+Morocco	LOCATION
+three minutes	TEMPORAL:TIME
+29.05 seconds	TEMPORAL:TIME
+Isaac Viciosa	PERSON
+Spain	LOCATION
+3:33.64 5	PRODUCT
+Ireland	LOCATION
+John Mayock	PERSON
+Britain	LOCATION
+Christophe Impens ( Belgium ) 3:34.13 Women	ORGANIZATION
+Stefka Kostadinova	PERSON
+Bulgaria	LOCATION
+Inga Babakova ( Ukraine	ORGANIZATION
+Alina Astafei	PERSON
+Germany	LOCATION
+Tatyana Motkova	PERSON
+Russia	LOCATION
+Svetlana Zalevskaya	PERSON
+Kazakhstan	LOCATION
+Yelena Gulyayeva	PERSON
+Russia	LOCATION
+Hanna Haugland	PERSON
+Norway	LOCATION
+Olga Boshova	PERSON
+Moldova	LOCATION
+Lithuania	LOCATION
+Salah Hissou	PERSON
+Morocco	LOCATION
+26 minutes	TEMPORAL:TIME
+38.08 seconds	TEMPORAL:TIME
+27:18.84 5	PRODUCT
+Aloys Nizigama	PERSON
+Burundi	LOCATION
+Mathias Ntawulikura	PERSON
+Rwanda	LOCATION
+Abel Anton	PERSON
+Spain	LOCATION
+Kamiel Maase ( Netherlands	ORGANIZATION
+Worku Bekila ( Ethiopia	ORGANIZATION
+Robert Stefko	PERSON
+Slovakia	LOCATION

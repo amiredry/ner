@@ -1,0 +1,26 @@
+
+Language Region: 0 910 English
+Entity	Type
+LONDON	LOCATION
+1996-08-28	TEMPORAL:DATE
+England	LOCATION
+manager	TITLE
+Glen Hoddle	PERSON
+Wednesday	TEMPORAL:DATE
+Liverpool	LOCATION
+Steve McManaman	PERSON
+Robbie Fowler	PERSON
+England	LOCATION
+Moldova	LOCATION
+Sunday	TEMPORAL:DATE
+England	LOCATION
+Kishinev	LOCATION
+Friday	TEMPORAL:DATE
+Hoddle	PERSON
+five weeks	TEMPORAL:TIME
+Hoddle	PERSON
+Darren Anderton	PERSON
+Steve Howey	PERSON
+Paul Gascoigne	PERSON
+Les Ferdinand	PERSON
+David Batty	PERSON

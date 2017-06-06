@@ -1,0 +1,20 @@
+
+Language Region: 0 617 English
+Entity	Type
+FSA	ORGANIZATION
+NEW YORK	LOCATION
+1996-08-28	TEMPORAL:DATE
+Financial Security Assurance	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Paris School District No 7	ORGANIZATION
+$ 2.44 million	IDENTIFIER:MONEY
+St Ansgar Community School District , Iowa	LOCATION
+$ 3.334 million	IDENTIFIER:MONEY
+Avalon Borough , N.J.	LOCATION
+$ 11.4 million	IDENTIFIER:MONEY
+Seaford Union Free School District , N.Y.	LOCATION
+$ 5 million	IDENTIFIER:MONEY
+Akron , Ohio	LOCATION
+$ 6.31 million	IDENTIFIER:MONEY
+U.S. Municipal Desk	ORGANIZATION
+212-859-1650	IDENTIFIER:PHONE_NUMBER

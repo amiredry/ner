@@ -1,0 +1,28 @@
+
+Language Region: 0 1845 English
+Entity	Type
+Zastava	ORGANIZATION
+1996-08-26	TEMPORAL:DATE
+Serbia	LOCATION
+Zastava	ORGANIZATION
+second week	TEMPORAL:TIME
+Monday	TEMPORAL:DATE
+trade union secretary	TITLE
+Dragutin Stanojlovic	PERSON
+June	TEMPORAL:DATE
+July	TEMPORAL:DATE
+Yugoslav	NATIONALITY
+Zastava	ORGANIZATION
+Yugoslavia	LOCATION
+Serbia and Montenegro	LOCATION
+Kragujevac	LOCATION
+Stanojlovic	LOCATION
+Socialist Party	ORGANIZATION
+Serbia	LOCATION
+Socialist Party	ORGANIZATION
+Reuters	ORGANIZATION
+Yugoslav	NATIONALITY
+November 3	TEMPORAL:DATE
+Gordana Kukic	PERSON
+Belgrade Newsroom	ORGANIZATION
++381 11 222 4254	IDENTIFIER:PHONE_NUMBER

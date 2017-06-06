@@ -1,0 +1,17 @@
+
+Language Region: 0 324 English
+Entity	Type
+1996-08-29	TEMPORAL:DATE
+Hong Kong	LOCATION
+Thursday	TEMPORAL:DATE
+Jansher Khan	PERSON
+Pakistan	LOCATION
+Simon Frenz	PERSON
+Germany	LOCATION
+Mark Cairns	PERSON
+England	LOCATION
+Joseph Kneipp	PERSON
+Australia	LOCATION
+
+Language Region: 324 822 Pushto
+Entity	Type

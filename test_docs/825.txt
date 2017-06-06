@@ -1,0 +1,59 @@
+
+Language Region: 0 2336 English
+Entity	Type
+Adrian Warner	PERSON
+1996-08-29	TEMPORAL:DATE
+Michael Johnson	PERSON
+Donovan Bailey	PERSON
+Linford Christie	PERSON
+Jesse Owens	PERSON
+Friday	TEMPORAL:DATE
+Johnson	PERSON
+Britain	LOCATION
+Christie	PERSON
+Thursday	TEMPORAL:DATE
+Bailey	PERSON
+Namibia	LOCATION
+Frankie Fredericks	PERSON
+United States	LOCATION
+Europe	LOCATION
+Africa	LOCATION
+Berlin	LOCATION
+Owens	PERSON
+German	NATIONALITY
+Christie	PERSON
+Canada	LOCATION
+Bailey	PERSON
+American	NATIONALITY
+Johnson	PERSON
+Fredericks	PERSON
+Bailey	PERSON
+Fredericks	PERSON
+Thursday	TEMPORAL:DATE
+Christie	PERSON
+Johnson	PERSON
+Christie	PERSON
+Britain	LOCATION
+European	NATIONALITY
+Christie	PERSON
+Berlin	LOCATION
+American	NATIONALITY
+Thursday	TEMPORAL:DATE
+Christie	PERSON
+Americans	NATIONALITY
+Harrison Dillard	PERSON
+Lindy Remigino	PERSON
+Jim Hines	PERSON
+Trinidad	LOCATION
+Hasely Crawford	PERSON
+Britain	LOCATION
+Allan Wells	PERSON
+Jesse Owens	PERSON
+Owens	PERSON
+Ruth	PERSON
+Gina Tillman	PERSON
+Berlin	LOCATION
+American	NATIONALITY
+Carl Lewis	PERSON
+Friday	TEMPORAL:DATE
+Brussels	LOCATION

@@ -1,0 +1,10 @@
+SOCCER - COSTA RICA AND CHILE DRAW 1-1 IN FRIENDLY .
+LIBERIA , <LOCATION>Costa Rica</LOCATION> 1996-08-26
+<LOCATION>Costa Rica</LOCATION> and <LOCATION>Chile</LOCATION>
+drew 1-1 ( halftime 1-0 ) in a friendly soccer international on
+Sunday .
+Scorers :
+<LOCATION>Costa</LOCATION> <PERSON>Rica - Ronaldo Gonzalez</PERSON> ( 10th minute , penalty
+Chile - Marcelo Salas ( 80th )
+Attendance : 8,000
+

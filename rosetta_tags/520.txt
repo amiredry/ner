@@ -1,0 +1,24 @@
+
+Language Region: 0 985 English
+Entity	Type
+KIRKCALDY , Scotland	LOCATION
+1996-08-27	TEMPORAL:DATE
+Jimmy Thomson	PERSON
+Scotland	LOCATION
+Tuesday	TEMPORAL:DATE
+Raith Rovers	LOCATION
+premier	TITLE
+Thomson	ORGANIZATION
+directors	TITLE
+six months	TEMPORAL:TIME
+Raith	LOCATION
+Rangers	ORGANIZATION
+Celtic	NATIONALITY
+Motherwell	LOCATION
+Saturday	TEMPORAL:DATE
+directors	TITLE
+Raith Rovers FC	LOCATION
+Jimmy Thomson	PERSON
+Jimmy	PERSON
+Thomson	ORGANIZATION
+directors	TITLE

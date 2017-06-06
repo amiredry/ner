@@ -1,0 +1,52 @@
+
+Language Region: 0 2719 English
+Entity	Type
+PRESS DIGEST - Pakistan	LOCATION
+August 29	TEMPORAL:DATE
+Thursday	TEMPORAL:DATE
+Pakistani	NATIONALITY
+Hub	LOCATION
+Gadoon	ORGANIZATION
+High Court	ORGANIZATION
+Tando Allahyar	LOCATION
+Hyderabad	LOCATION
+Nawaz Sharif	PERSON
+Pakistan People's Party	ORGANIZATION
+Prime Minister	TITLE
+Benazir Bhutto	PERSON
+BUSINESS RECORDER - Gas	ORGANIZATION
+Sui Southern Gas	ORGANIZATION
+Sui Northern Gas	ORGANIZATION
+Japan	LOCATION
+Pakistan	LOCATION
+FINANCIAL POST - Armed	ORGANIZATION
+crude oil	PRODUCT
+Gujar Khan	PERSON
+Wednesday	TEMPORAL:DATE
+Pakistan	LOCATION
+$ 244 million	IDENTIFIER:MONEY
+Mohib Textile Mills	ORGANIZATION
+Islamic	RELIGION
+Investment Minister	TITLE
+Asif Ali Zardari	PERSON
+Japanese	NATIONALITY
+Japan	LOCATION
+Karachi Stock Exchange	ORGANIZATION
+prime minister	TITLE
+Shahid Hasan Khan	PERSON
+Area Electricity Boards	ORGANIZATION
+Pakistan	LOCATION
+Muslim Commercial Bank	ORGANIZATION
+Vital Information System	ORGANIZATION
+Duff	PERSON
+Phelps	PERSON
+U.S.	LOCATION
+Bangladesh	LOCATION
+Information Systems Ltd	ORGANIZATION
+Sindh High Court	ORGANIZATION
+Privatisation Commission	ORGANIZATION
+Javedan Cement	ORGANIZATION
+Dadabhoy Investment	ORGANIZATION
+Pakistan	LOCATION
+Iran	LOCATION
+Islamabad	LOCATION

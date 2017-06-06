@@ -1,0 +1,20 @@
+
+Language Region: 0 458 English
+Entity	Type
+GENEVA	LOCATION
+1996-08-23	TEMPORAL:DATE
+European	NATIONALITY
+Friday	TEMPORAL:DATE
+Cup Lyngby	LOCATION
+Denmark	LOCATION
+Belgium	LOCATION
+Casino Graz	PRODUCT
+Austria	LOCATION
+Belgium	LOCATION
+Turkey	LOCATION
+Molenbeek ( Belgium	LOCATION
+Alania Vladikavkaz	LOCATION
+Russia	LOCATION
+Anderlecht ( Belgium	ORGANIZATION
+Cercle Brugge ( Belgium	ORGANIZATION
+Brann Bergen ( Norway	LOCATION

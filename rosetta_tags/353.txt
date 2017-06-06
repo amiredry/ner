@@ -1,0 +1,31 @@
+
+Language Region: 0 1620 English
+Entity	Type
+LISBON	LOCATION
+1996-08-25	TEMPORAL:DATE
+Portuguese	NATIONALITY
+Porto	LOCATION
+Setubal	LOCATION
+Porto	LOCATION
+Mario Jardel	PERSON
+Domingos Oliveira	PERSON
+Domingos	PERSON
+Setubal	LOCATION
+16 minutes	TEMPORAL:TIME
+Chiquinho Conde	PERSON
+Porto	LOCATION
+Polish	NATIONALITY
+keeper	TITLE
+Andrejez Wozniak	PERSON
+Braga	LOCATION
+Rodrigo Carneiro	PERSON
+a second	TEMPORAL:TIME
+Brazilian	NATIONALITY
+Paulao	PERSON
+Helder	PERSON
+Luis Baltasar	PERSON
+captain	TITLE
+Joao Pinto	PERSON
+Braga	LOCATION
+Idalecio	PERSON
+seven minutes	TEMPORAL:TIME

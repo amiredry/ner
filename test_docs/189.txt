@@ -1,0 +1,20 @@
+
+Language Region: 0 889 English
+Entity	Type
+Ecuador	LOCATION
+president	TITLE
+Indians	NATIONALITY
+QUITO , Ecuador	LOCATION
+1996-08-23	TEMPORAL:DATE
+Ecuador	LOCATION
+President	TITLE
+Abdala Bucaram	PERSON
+Indians	NATIONALITY
+president	TITLE
+ambassadors	TITLE
+Bucaram	PERSON
+Thursday	TEMPORAL:DATE
+Indian	NATIONALITY
+Indian	NATIONALITY
+Tuesday	TEMPORAL:DATE
+Bucaram	PERSON

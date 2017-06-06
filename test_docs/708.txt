@@ -1,0 +1,22 @@
+
+Language Region: 0 1021 English
+Entity	Type
+Sierra Leone	LOCATION
+1996-08-28	TEMPORAL:DATE
+Sierra Leonean	LOCATION
+Foindu	LOCATION
+Eastern Region Brigade	ORGANIZATION
+Commander Major	TITLE
+Fallah Sewa	PERSON
+Wednesday	TEMPORAL:DATE
+Sewa	PERSON
+Foindu	LOCATION
+Mano Junction	LOCATION
+Tongo Field	LOCATION
+Freetown	LOCATION
+Monday	TEMPORAL:DATE
+Revolutionary United Front	ORGANIZATION
+April	TEMPORAL:DATE
+Ivory Coast	LOCATION
+February	TEMPORAL:DATE
+RUF	ORGANIZATION

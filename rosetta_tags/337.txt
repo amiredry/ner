@@ -1,0 +1,11 @@
+
+Language Region: 0 301 English
+Entity	Type
+LOME	LOCATION
+1996-08-25	TEMPORAL:DATE
+Togo	LOCATION
+Congo	LOCATION
+African Nations	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Salou Bachirou	LOCATION
+Togo	LOCATION

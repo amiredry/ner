@@ -1,0 +1,12 @@
+
+Language Region: 0 267 English
+Entity	Type
+Nijmeh	PERSON
+TRIPOLI , Lebanon	LOCATION
+1996-08-24	TEMPORAL:DATE
+Nijmeh	PERSON
+Lebanon	LOCATION
+Saudi Arabia	LOCATION
+Asian	NATIONALITY
+Saturday	TEMPORAL:DATE
+Issa Alloush	PERSON

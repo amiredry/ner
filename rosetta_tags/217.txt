@@ -1,0 +1,15 @@
+
+Language Region: 0 535 English
+Entity	Type
+SunGard	ORGANIZATION
+CheckFree	ORGANIZATION
+SAN MATEO , Calif.	LOCATION
+1996-08-23	TEMPORAL:DATE
+SunGard Shareholder Systems Inc	ORGANIZATION
+SunGard Data Systems Inc	ORGANIZATION
+Securities Products Business	ORGANIZATION
+CheckFree Corp	ORGANIZATION
+Friday	TEMPORAL:DATE
+September	TEMPORAL:DATE
+SunGard	ORGANIZATION
+New York	LOCATION

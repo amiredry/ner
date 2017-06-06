@@ -1,0 +1,22 @@
+
+Language Region: 0 639 English
+Entity	Type
+1996-08-25	TEMPORAL:DATE
+Dutch	NATIONALITY
+captain	TITLE
+Danny Blind	PERSON
+Ajax	LOCATION
+David Endt	PERSON
+Sunday	TEMPORAL:DATE
+Endt	PERSON
+Dutch	NATIONALITY
+ANP	ORGANIZATION
+Ajax	LOCATION
+Netherlands	LOCATION
+June	TEMPORAL:DATE
+European	NATIONALITY
+England	LOCATION
+Amsterdam	LOCATION
+Endt	PERSON
+European	NATIONALITY
+Netherlands	LOCATION

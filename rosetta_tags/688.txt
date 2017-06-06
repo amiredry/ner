@@ -1,0 +1,39 @@
+
+Language Region: 0 698 English
+Entity	Type
+BAT	ORGANIZATION
+SRI	ORGANIZATION
+COLOMBO	LOCATION
+1996-08-28	TEMPORAL:DATE
+India	LOCATION
+Sri Lanka	LOCATION
+second day	TEMPORAL:TIME
+Singer	ORGANIZATION
+World	PRODUCT
+Wednesday	TEMPORAL:DATE
+India	LOCATION
+Sachin Tendulkar	PERSON
+captain	TITLE
+Anil Kumble	PERSON
+Ajay Jadeja	PERSON
+Sourav Ganguly	PERSON
+Mohamed Azharuddin	PERSON
+Vinod Kambli	PERSON
+Rahul Dravid	PERSON
+Nayan Mongia	PERSON
+Javagal Srinath	PERSON
+Venkatesh Prasad	PERSON
+Ashish Kapoor	PERSON
+Sri Lanka	LOCATION
+Arjuna Ranatunga	PERSON
+captain	TITLE
+Sanath Jayasuriya	PERSON
+Romesh Kaluwitharana	PERSON
+Asanka Gurusinha	LOCATION
+Aravinda de Silva	PERSON
+Hashan Tillekeratne	PERSON
+Roshan Mahanama	PERSON
+Kumara Dharmasena	PERSON
+Chaminda Vaas	LOCATION
+Muthiah Muralitharan	PERSON
+Ravindra Pushpakumara	PERSON

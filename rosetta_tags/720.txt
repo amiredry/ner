@@ -1,0 +1,61 @@
+
+Language Region: 0 3474 English
+Entity	Type
+Bosnians	NATIONALITY
+Duncan Shiels NAGYATAD	PERSON
+Hungary	LOCATION
+1996-08-28	TEMPORAL:DATE
+Bosnian	NATIONALITY
+Hungary	LOCATION
+Wednesday	TEMPORAL:DATE
+director	TITLE
+Lajos Horvath	PERSON
+Reuters	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Bosnian	NATIONALITY
+September 14	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+Bosnians	NATIONALITY
+Organisation for Security	ORGANIZATION
+Europe	LOCATION
+Sunday	TEMPORAL:DATE
+Hungarian	NATIONALITY
+Moslem	RELIGION
+Hungary	LOCATION
+OSCE	ORGANIZATION
+president	TITLE
+Bosnian	NATIONALITY
+Croat Federation	ORGANIZATION
+Moslems	RELIGION
+Serb	NATIONALITY
+Republika Srbska	ORGANIZATION
+Serbs	NATIONALITY
+Dayton	LOCATION
+Bosnians	NATIONALITY
+Adem Hodzic	PERSON
+Reuters	ORGANIZATION
+Bosnian	NATIONALITY
+Moslems	RELIGION
+president	TITLE
+House of Representatives	ORGANIZATION
+Bosnia-Hercegovina	LOCATION
+Moslem	RELIGION
+Croat Federation	ORGANIZATION
+Republika Srbska	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Hungary	LOCATION
+OSCE	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Husein Micijevic	PERSON
+Hungarian	NATIONALITY
+Seventy eight-year	TEMPORAL:TIME
+Mandolina Zelic	PERSON
+Bosnian Croat	NATIONALITY
+five years	TEMPORAL:TIME
+Reuters	ORGANIZATION
+Maria Szabo	PERSON
+Hungarian	NATIONALITY
+OSCE	ORGANIZATION
+Reuters	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+OSCE	ORGANIZATION

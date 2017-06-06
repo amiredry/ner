@@ -1,0 +1,19 @@
+
+Language Region: 0 144 English
+Entity	Type
+SLOVAK	ORGANIZATION
+BRATISLAVA	LOCATION
+1996-08-26	TEMPORAL:DATE
+Slovak	NATIONALITY
+
+Language Region: 144 401 Slovak
+Entity	Type
+
+Language Region: 401 442 Croatian
+Entity	Type
+
+Language Region: 442 546 English
+Entity	Type
+
+Language Region: 546 1046 Slovak
+Entity	Type

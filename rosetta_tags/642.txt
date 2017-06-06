@@ -1,0 +1,124 @@
+
+Language Region: 0 612 English
+Entity	Type
+MANCHESTER , England	LOCATION
+1996-08-28	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+Chris Boardman	PERSON
+Britain	LOCATION
+Jens Lehman	PERSON
+Germany	LOCATION
+Boardman	PERSON
+Edouard Gritson	LOCATION
+Russia	LOCATION
+Francis Moreau	PERSON
+France	LOCATION
+Heiko Szonn	PERSON
+Germany	LOCATION
+Andrea Collinelli	PERSON
+Italy	LOCATION
+Michael Sandstod	PERSON
+Denmark	LOCATION
+Alexei Markov	PERSON
+Russia	LOCATION
+Mariano Friedick	PERSON
+U.S.	LOCATION
+
+Language Region: 612 706 Italian
+Entity	Type
+Shane Kelly	PERSON
+Australia	LOCATION
+Soren Lausberg	PERSON
+Germany	LOCATION
+
+Language Region: 706 1554 English
+Entity	Type
+Jan Van Eiden	PERSON
+Germany	LOCATION
+Herve Thuet	PERSON
+France	LOCATION
+Grzegorz Krejner	PERSON
+Poland	LOCATION
+Ainars Kiksis	PERSON
+Latvia	LOCATION
+Dimitrios Georgalis	PERSON
+Greece	LOCATION
+Jose Moreno	PERSON
+Spain	LOCATION
+Keiji Kojima	PERSON
+Japan	LOCATION
+Graham Sharman	PERSON
+Australia	LOCATION
+Jose Escuredo	PERSON
+Spain	LOCATION
+Craig MacLean	PERSON
+Britain	LOCATION
+Christian Meidlinger	PERSON
+Austria	LOCATION
+Darren McKenzie-Potter	PERSON
+New Zealand	LOCATION
+Masanaga Shiohara	PERSON
+Japan	LOCATION
+Jean-Pierre Van Zyl	PERSON
+South Africa	LOCATION
+Marty Nothstein	PERSON
+U.S.	LOCATION
+10.982 seconds	TEMPORAL:TIME
+Gary Neiwand	PERSON
+Australia	LOCATION
+Frederic Magne	PERSON
+France	LOCATION
+Pavel Buran	PERSON
+Czech Republic	LOCATION
+Michael Hubner	PERSON
+Germany	LOCATION
+Laurent Gane	PERSON
+France	LOCATION
+Madison	LOCATION
+
+Language Region: 1554 1614 Italian
+Entity	Type
+Silvio Martinelli	PERSON
+Marco Villa	PERSON
+Italy	LOCATION
+
+Language Region: 1614 1647 English
+Entity	Type
+55 minutes	TEMPORAL:TIME
+47.4 seconds	TEMPORAL:TIME
+
+Language Region: 1647 1697 Italian
+Entity	Type
+Scott McGrory	PERSON
+Stephen Pate	PERSON
+Australia	LOCATION
+
+Language Region: 1697 1797 English
+Entity	Type
+Andreas Kappes - Carsten Wolf	PERSON
+Germany	LOCATION
+Kurt Betschart - Bruno Risi	PERSON
+Switzerland	LOCATION
+
+Language Region: 1797 1851 Romanian
+Entity	Type
+
+Language Region: 1851 1901 English
+Entity	Type
+Peter Pieters	PERSON
+Tomas Post	ORGANIZATION
+Netherlands	LOCATION
+
+Language Region: 1901 2002 Danish
+Entity	Type
+
+Language Region: 2002 2054 German
+Entity	Type
+Wolfgang Kotzmann - Franz Stocher	PERSON
+Austria	LOCATION
+
+Language Region: 2054 2111 French
+Entity	Type
+Christophe Capelle	PERSON
+Jean-Michel Monin	PERSON
+France	LOCATION

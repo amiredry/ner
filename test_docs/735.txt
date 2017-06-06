@@ -1,0 +1,30 @@
+
+Language Region: 0 93 English
+Entity	Type
+Water Dist 1 Johnson Cty	PRODUCT
+Kan	ORGANIZATION
+$ 11	IDENTIFIER:MONEY
+
+Language Region: 93 224 English Uppercase
+Entity	Type
+KS	ORGANIZATION
+$ 45,020,000	IDENTIFIER:MONEY
+$ 22,040,000	IDENTIFIER:MONEY
+$ 22,980,000	IDENTIFIER:MONEY
+1996B MOODY's	ORGANIZATION
+S&P	ORGANIZATION
+
+Language Region: 224 261 English
+Entity	Type
+09/05/1996	TEMPORAL:DATE
+
+Language Region: 261 464 English Uppercase
+Entity	Type
+
+Language Region: 464 509 English
+Entity	Type
+A.G. Edwards & Sons , Inc	ORGANIZATION
+
+Language Region: 509 548 Spanish
+Entity	Type
+212-859-1650	IDENTIFIER:PHONE_NUMBER

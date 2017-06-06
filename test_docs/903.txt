@@ -1,0 +1,51 @@
+
+Language Region: 0 4264 English
+Entity	Type
+U.S.	LOCATION
+Leila Corcoran	PERSON
+WASHINGTON	LOCATION
+1996-08-29	TEMPORAL:DATE
+Abraham Lincoln	PERSON
+U.S.	LOCATION
+National Archives	ORGANIZATION
+War Conservation Corps	ORGANIZATION
+two years	TEMPORAL:TIME
+African	NATIONALITY
+American	NATIONALITY
+Washington	LOCATION
+three months	TEMPORAL:TIME
+January 1865	TEMPORAL:DATE
+Washington	LOCATION
+Lincoln	PERSON
+Army	ORGANIZATION
+James	PERSON
+Lincoln	PERSON
+Lewis Martin	PERSON
+Petersburg , Virginia	LOCATION
+July 1864	TEMPORAL:DATE
+John Simon	PERSON
+professor	TITLE
+Southern Illinois University	ORGANIZATION
+Carbondale	LOCATION
+Gen	TITLE
+Ulysses Grant	PERSON
+African	NATIONALITY
+Americans	NATIONALITY
+Simon	PERSON
+Edward Smith	PERSON
+director	TITLE
+American	NATIONALITY
+American University	ORGANIZATION
+Washington	LOCATION
+North	LOCATION
+four years	TEMPORAL:TIME
+Americans	NATIONALITY
+30 years	TEMPORAL:TIME
+United	ORGANIZATION
+Confederacy	LOCATION
+War Conservation Corps	ORGANIZATION
+Director	TITLE
+Budge Weidman	PERSON
+a decade	TEMPORAL:TIME
+National Park Service	ORGANIZATION
+Americans	NATIONALITY

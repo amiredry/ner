@@ -1,0 +1,46 @@
+
+Language Region: 0 317 English
+Entity	Type
+IMOLA , Italy	LOCATION
+1996-08-30	TEMPORAL:DATE
+Friday	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+San Marino	LOCATION
+Michael Doohan	PERSON
+Australia	LOCATION
+Honda	ORGANIZATION
+one minute	TEMPORAL:TIME
+Jean-Michel Bayle	PERSON
+France	LOCATION
+Yamaha 1:50.727 3	PRODUCT
+Norifumi Abe	PERSON
+Japan	LOCATION
+Yamaha 1:50.858	PRODUCT
+
+Language Region: 317 403 Italian
+Entity	Type
+Luca Cadalora	PERSON
+Italy	LOCATION
+Honda	ORGANIZATION
+Alex Criville	PERSON
+Honda	ORGANIZATION
+
+Language Region: 403 632 English
+Entity	Type
+Scott Russell	PERSON
+United States	LOCATION
+Suzuki 1:51.287 7	PRODUCT
+Tadayuki Okada	PERSON
+Japan	LOCATION
+Honda	ORGANIZATION
+1:51.528 8	PRODUCT
+Carlos Checa	PERSON
+Spain	LOCATION
+Honda	ORGANIZATION
+Alexandre Barros	PERSON
+Brazil	LOCATION
+Honda	ORGANIZATION
+1:51.784 10	PRODUCT
+Shinichi Itoh	PERSON
+Japan	LOCATION
+Honda	ORGANIZATION

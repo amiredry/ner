@@ -1,0 +1,23 @@
+
+Language Region: 0 532 English
+Entity	Type
+PRESS DIGEST - Iraq	LOCATION
+Aug 22	TEMPORAL:DATE
+BAGHDAD	LOCATION
+1996-08-22	TEMPORAL:DATE
+Iraqi	NATIONALITY
+Thursday	TEMPORAL:DATE
+Reuters	ORGANIZATION
+Iraq	LOCATION
+President	TITLE
+Saddam Hussein	PERSON
+chairman	TITLE
+Russian	NATIONALITY
+Vladimir Zhirinovsky	PERSON
+Turkish	NATIONALITY
+foreign minister	TITLE
+Turkey	LOCATION
+Baghdad	LOCATION
+November	TEMPORAL:DATE
+Umm Qasr port	LOCATION
+Gulf	LOCATION

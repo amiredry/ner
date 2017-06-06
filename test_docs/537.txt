@@ -1,0 +1,24 @@
+
+Language Region: 0 1231 English
+Entity	Type
+PARIS	LOCATION
+1996-08-27	TEMPORAL:DATE
+European	NATIONALITY
+Marseille	LOCATION
+French	NATIONALITY
+Auxerre	LOCATION
+Tuesday	TEMPORAL:DATE
+Auxerre	LOCATION
+European	NATIONALITY
+Ajax Amsterdam	LOCATION
+Montpellier	LOCATION
+Wednesday	TEMPORAL:DATE
+Marseille	LOCATION
+Metz	LOCATION
+Saturday	TEMPORAL:DATE
+French	NATIONALITY
+Marseille	LOCATION
+German	NATIONALITY
+Andreas Koepke	PERSON
+Auxerre	LOCATION
+Marseille	LOCATION

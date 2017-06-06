@@ -1,0 +1,14 @@
+
+Language Region: 0 131 Romanian
+Entity	Type
+
+Language Region: 131 477 English
+Entity	Type
+Valletta	LOCATION
+Malta	LOCATION
+Thursday	TEMPORAL:DATE
+Gloria Bistrita - Ilie Lazar	PERSON
+Eugen Voica	PERSON
+F.C. La	ORGANIZATION
+Valletta - Gilbert Agius	PERSON
+Bistrita	LOCATION

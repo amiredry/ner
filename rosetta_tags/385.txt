@@ -1,0 +1,15 @@
+
+Language Region: 0 440 English
+Entity	Type
+Saudi Arabia	LOCATION
+Pakistani	NATIONALITY
+DUBAI	LOCATION
+1996-08-25	TEMPORAL:DATE
+Saudi Arabia	LOCATION
+Sunday	TEMPORAL:DATE
+Pakistani	NATIONALITY
+Saudi	NATIONALITY
+Interior Ministry	ORGANIZATION
+Shabir Ahmad Muhammad Jalil	PERSON
+Mecca	LOCATION
+Saudi Arabia	LOCATION

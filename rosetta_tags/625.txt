@@ -1,0 +1,10 @@
+
+Language Region: 0 296 English
+Entity	Type
+Indonesia	LOCATION
+1996-08-27	TEMPORAL:DATE
+Tuesday	TEMPORAL:DATE
+0800 GMT	TEMPORAL:TIME
+seven-day	TEMPORAL:TIME
+14-day	TEMPORAL:TIME
+Jakarta	LOCATION

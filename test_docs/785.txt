@@ -1,0 +1,46 @@
+
+Language Region: 0 2450 English
+Entity	Type
+Japan	LOCATION
+TOKYO	LOCATION
+1996-08-28	TEMPORAL:DATE
+Japan	LOCATION
+Wednesday	TEMPORAL:DATE
+New Party Sakigake	ORGANIZATION
+President	TITLE
+Masayoshi Takemura	PERSON
+finance minister	TITLE
+Takemura	PERSON
+Prime Minister	TITLE
+Ryutaro Hashimoto	PERSON
+Liberal Democratic Party	ORGANIZATION
+LDP	ORGANIZATION
+Social Democratic Party	ORGANIZATION
+Takemura	PERSON
+LDP	ORGANIZATION
+Yukio Hatoyama	PERSON
+Hatoyama	PERSON
+49-year	TEMPORAL:TIME
+prime minister	TITLE
+Tuesday	TEMPORAL:DATE
+Sakigake secretary general	TITLE
+62-year	TEMPORAL:TIME
+Takemura	PERSON
+Tuesday	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+Takemura	PERSON
+Hatoyama	PERSON
+LDP	ORGANIZATION
+Takemura	PERSON
+finance minister	TITLE
+Hatoyama	PERSON
+Social Democrats	ORGANIZATION
+Hatoyama	PERSON
+Hashimoto	PERSON
+eight-month	TEMPORAL:TIME
+Hashimoto	PERSON
+10-day	TEMPORAL:TIME
+Latin American	NATIONALITY
+Saturday	TEMPORAL:DATE
+parliament	ORGANIZATION
+October	TEMPORAL:DATE

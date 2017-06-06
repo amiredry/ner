@@ -1,0 +1,126 @@
+
+Language Region: 0 165 English
+Entity	Type
+1996-08-22	TEMPORAL:DATE
+European	NATIONALITY
+Thursday	TEMPORAL:DATE
+
+Language Region: 165 258 Albanian
+Entity	Type
+
+Language Region: 258 373 English
+Entity	Type
+Lubarskij	PERSON
+Chemlon Humenne	ORGANIZATION
+
+Language Region: 373 547 Italian
+Entity	Type
+Bistrita	LOCATION
+Gloria Bistrita	LOCATION
+Romania	LOCATION
+Valletta	ORGANIZATION
+Malta	LOCATION
+Gloria Bistrita	LOCATION
+Ilie Lazar	PERSON
+Eugen Voica	PERSON
+Valletta	ORGANIZATION
+Gilbert Agius	PERSON
+
+Language Region: 547 905 English
+Entity	Type
+Bistrita	LOCATION
+Chorzow	LOCATION
+Ruch Chorzow	PERSON
+Poland	LOCATION
+Llansantffraid	LOCATION
+Wales	LOCATION
+Arkadiusz Bak	PERSON
+Arwel Jones	PERSON
+Miroslav Bak	PERSON
+Ruch Chorzow	PERSON
+Larnaca	LOCATION
+AEK Larnaca	LOCATION
+Cyprus	LOCATION
+Kotaik Abovyan	PERSON
+Armenia	LOCATION
+
+Language Region: 905 1037 Romanian
+Entity	Type
+
+Language Region: 1037 1235 English
+Entity	Type
+Pavlos Markou	PERSON
+Larnaca	LOCATION
+Siauliai	LOCATION
+Kareda Siauliai	LOCATION
+Lithuania	LOCATION
+Switzerland	LOCATION
+Sion	LOCATION
+
+Language Region: 1235 1318 Estonian
+Entity	Type
+
+Language Region: 1318 1361 Italian
+Entity	Type
+
+Language Region: 1361 1463 English
+Entity	Type
+Norway	LOCATION
+Ireland	LOCATION
+
+Language Region: 1463 1537 Norwegian
+Entity	Type
+
+Language Region: 1537 3252 English
+Entity	Type
+Mark Rutherford	LOCATION
+Sofia	LOCATION
+Levski Sofia ( Bulgaria	ORGANIZATION
+Slovenia	LOCATION
+Ilian Simeonov	PERSON
+Vaduz	LOCATION
+Vaduz ( Liechtenstein	ORGANIZATION
+RAF Riga ( Latvia	ORGANIZATION
+Vaduz	LOCATION
+Daniele Polverino	PERSON
+RAF	ORGANIZATION
+Riga - Agrins Zarins	PRODUCT
+Vaduz	LOCATION
+Luxembourg	LOCATION
+US Luxembourg ( Luxembourg	ORGANIZATION
+Varteks Varazdin ( Croatia	ORGANIZATION
+Drazen Beser	PERSON
+Miljenko Mumler	PERSON
+Jamir Cvetko	PERSON
+Varteks Varazdin	ORGANIZATION
+Torshavn	LOCATION
+Havnar Boltfelag ( Faroe Islands	ORGANIZATION
+Dynamo Batumi ( Georgia	ORGANIZATION
+Batumi	LOCATION
+Prague	LOCATION
+Sparta Prague ( Czech Republic	ORGANIZATION
+Northern Ireland	LOCATION
+Petr Gunda	PERSON
+Lumir Mistr	PERSON
+Horst Siegl	PERSON
+Zdenek Svoboda	PERSON
+Petr Gabriel	PERSON
+Edinburgh	LOCATION
+Scotland	LOCATION
+Belgrade	LOCATION
+Yugoslavia	LOCATION
+Dave McPherson	PERSON
+Vinko Marinovic	PERSON
+Red Star	ORGANIZATION
+Rishon-Lezion	LOCATION
+Chisinau	LOCATION
+Moldova	LOCATION
+Finland	LOCATION
+Azerbaijan	LOCATION
+Skopje	LOCATION
+Sloga Jugomagnat ( Macedonia	ORGANIZATION
+Kispest Honved ( Hungary 1	ORGANIZATION
+Kispest Honved	ORGANIZATION
+
+Language Region: 3252 3489 Romanian
+Entity	Type

@@ -1,0 +1,28 @@
+
+Language Region: 0 671 English
+Entity	Type
+ENGLAND V PAKISTAN FINAL TEST SCOREBOARD	PRODUCT
+LONDON	LOCATION
+1996-08-22	TEMPORAL:DATE
+first day	TEMPORAL:TIME
+England	LOCATION
+Pakistan	LOCATION
+Thursday	TEMPORAL:DATE
+England	LOCATION
+M. Atherton	PERSON
+Waqar Younis	PERSON
+Mushtaq Ahmed 44 N. Hussain	PERSON
+Saeed Anwar	PERSON
+Waqar Younis 12 G. Thorpe	PERSON
+Mohammad Akram 54 J. Crawley	PERSON
+N. Knight	PERSON
+Mushtaq Ahmed 17 C. Lewis	PERSON
+Wasim Akram	PERSON
+R. Croft	PERSON
+D. Cork	PERSON
+Wasim Akram	PERSON
+25-8-61	TEMPORAL:DATE
+Waqar Younis	PERSON
+
+Language Region: 671 933 Pushto
+Entity	Type

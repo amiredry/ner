@@ -1,0 +1,36 @@
+
+Language Region: 0 978 English
+Entity	Type
+Clinton	PERSON
+Ballybunion	LOCATION
+Chicago	LOCATION
+1996-08-22	TEMPORAL:DATE
+U.S.	LOCATION
+President	TITLE
+Bill Clinton	PERSON
+Ballybunion	LOCATION
+Irish	NATIONALITY
+Ballybunion	LOCATION
+America	LOCATION
+Atlantic	LOCATION
+Clinton	PERSON
+Irish	NATIONALITY
+Foreign Minister	TITLE
+Dick Spring	PERSON
+Democratic	ORGANIZATION
+Chicago	LOCATION
+August 26	TEMPORAL:DATE
+Clinton	PERSON
+Ireland	LOCATION
+Dublin	LOCATION
+December 1	TEMPORAL:DATE
+Ballybunion	LOCATION
+Clinton	PERSON
+Democratic	ORGANIZATION
+Kennedys	ORGANIZATION
+Frank Quilter	PERSON
+Chicago	LOCATION
+Clinton	PERSON
+Irish	NATIONALITY
+Northern Ireland	LOCATION
+Ballybunion	LOCATION

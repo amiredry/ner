@@ -1,0 +1,18 @@
+
+Language Region: 0 666 English
+Entity	Type
+Pakistani	NATIONALITY
+Kashmir	LOCATION
+MUZAFFARABAD , Pakistan	LOCATION
+1996-08-25	TEMPORAL:DATE
+Pakistan	LOCATION
+Azad	PERSON
+Kashmir	LOCATION
+Sunday	TEMPORAL:DATE
+Indian	NATIONALITY
+Kashmir	LOCATION
+Moslem	RELIGION
+Kunar river	LOCATION
+Muzaffarabad	LOCATION
+Pakistani	NATIONALITY
+Garhi Habibullah	PERSON

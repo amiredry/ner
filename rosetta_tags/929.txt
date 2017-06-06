@@ -1,0 +1,12 @@
+
+Language Region: 0 413 English
+Entity	Type
+TOKYO	LOCATION
+1996-08-29	TEMPORAL:DATE
+Six months	TEMPORAL:TIME
+September 30 , 1996	TEMPORAL:DATE
+Airport Facilities Co Ltd	ORGANIZATION
+Haneda	ORGANIZATION
+Tokyo	LOCATION
+Itami	PERSON
+Osaka	LOCATION

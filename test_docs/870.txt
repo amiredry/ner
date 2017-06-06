@@ -1,0 +1,15 @@
+
+Language Region: 0 970 English
+Entity	Type
+Florida	LOCATION
+1996-08-29	TEMPORAL:DATE
+Fort Lauderdale	LOCATION
+Pembroke Pines	LOCATION
+Tuesday	TEMPORAL:DATE
+Detective	TITLE
+Earl Feugill	PERSON
+Miami Herald	ORGANIZATION
+Feugill	PERSON
+Green	PERSON
+Pembroke Pines	LOCATION
+90-minute	TEMPORAL:TIME

@@ -1,0 +1,19 @@
+
+Language Region: 0 1157 English
+Entity	Type
+NORTHAMPTON , England	LOCATION
+1996-08-27	TEMPORAL:DATE
+Seve Ballesteros	ORGANIZATION
+Colin Montgomerie	PERSON
+Jose Maria Olazabal	PERSON
+European	NATIONALITY
+Spaniard	NATIONALITY
+a year	TEMPORAL:TIME
+Bordeaux , France	LOCATION
+October 17	TEMPORAL:DATE
+Ballesteros	PERSON
+Olazabal	PERSON
+Montgomerie	PERSON
+Olly	PERSON
+Olazabal	PERSON
+Bordeaux	LOCATION

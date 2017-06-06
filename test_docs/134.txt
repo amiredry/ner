@@ -1,0 +1,7 @@
+
+Language Region: 0 152 English
+Entity	Type
+1996-08-23	TEMPORAL:DATE
+Scottish	NATIONALITY
+Friday	TEMPORAL:DATE
+East Stirling	LOCATION

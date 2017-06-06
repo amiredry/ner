@@ -1,0 +1,24 @@
+
+Language Region: 0 566 English
+Entity	Type
+U.S. ambassador	TITLE
+Saudi Arabia	LOCATION
+DUBAI	LOCATION
+1996-08-29	TEMPORAL:DATE
+Washington	LOCATION
+ambassador	TITLE
+Saudi Arabia	LOCATION
+Wyche Fowler	PERSON
+U.S.	LOCATION
+Riyadh	LOCATION
+Thursday	TEMPORAL:DATE
+Fowler	PERSON
+senator	TITLE
+Wednesday	TEMPORAL:DATE
+President	TITLE
+Bill Clinton	PERSON
+Fowler	PERSON
+Senate	ORGANIZATION
+Fowler	PERSON
+Raymond Mabus	PERSON
+United States	LOCATION

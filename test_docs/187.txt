@@ -1,0 +1,13 @@
+
+Language Region: 0 260 English
+Entity	Type
+CIS	ORGANIZATION
+August 23	TEMPORAL:DATE
+MOSCOW	LOCATION
+1996-08-23	TEMPORAL:DATE
+Commonwealth of Independent States	ORGANIZATION
+August 24	TEMPORAL:DATE
+August 25	TEMPORAL:DATE
+Russian Weather Service	ORGANIZATION
+Friday	TEMPORAL:DATE
+Moscow	LOCATION

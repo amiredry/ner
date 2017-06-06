@@ -1,0 +1,11 @@
+
+Language Region: 0 317 English
+Entity	Type
+1996-08-24	TEMPORAL:DATE
+Friday	TEMPORAL:DATE
+Philippine Basketball Association	ORGANIZATION
+American	NATIONALITY
+Alaska	LOCATION
+Milk beat Purefoods Hotdogs 103-95	PRODUCT
+Ginebra San Miguel	ORGANIZATION
+beat Shell 120-103	PRODUCT

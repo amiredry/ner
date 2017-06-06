@@ -1,0 +1,33 @@
+
+Language Region: 0 1294 English
+Entity	Type
+Granic	PERSON
+Croatia	LOCATION
+Yugoslavia	LOCATION
+1996-08-23	TEMPORAL:DATE
+Yugoslavia	LOCATION
+Croatia	LOCATION
+Friday	TEMPORAL:DATE
+five years	TEMPORAL:TIME
+Balkans	LOCATION
+Croatian	NATIONALITY
+Foreign Minister	TITLE
+Mate Granic	PERSON
+Belgrade airport	LOCATION
+Croatian	NATIONALITY
+Friday	TEMPORAL:DATE
+Yugoslav	NATIONALITY
+1000 GMT	TEMPORAL:TIME
+Thursday	TEMPORAL:DATE
+Yugoslav	NATIONALITY
+Yugoslav	NATIONALITY
+Tanjug	ORGANIZATION
+Yugoslav	NATIONALITY
+Yugoslavia	LOCATION
+five years	TEMPORAL:TIME
+Croatia	LOCATION
+Yugoslavia	LOCATION
+Croatia	LOCATION
+Serbia	LOCATION
+Yugoslavia	LOCATION
+Balkans	LOCATION

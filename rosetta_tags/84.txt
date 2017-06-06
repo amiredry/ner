@@ -1,0 +1,22 @@
+
+Language Region: 0 523 English
+Entity	Type
+Russians	NATIONALITY
+Chechnya	LOCATION
+NOVYE ATAGI	ORGANIZATION
+Russia	LOCATION
+1996-08-22	TEMPORAL:DATE
+Russian	NATIONALITY
+President	TITLE
+Boris Yeltsin	PERSON
+Alexander Lebed	PERSON
+Chechen	NATIONALITY
+rebel chief-of-staff	TITLE
+Aslan Maskhadov	PERSON
+Thursday	TEMPORAL:DATE
+three weeks	TEMPORAL:TIME
+Chechen	NATIONALITY
+Grozny	LOCATION
+Itar-Tass	ORGANIZATION
+Russian	NATIONALITY
+Chechnya	LOCATION

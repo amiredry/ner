@@ -1,0 +1,23 @@
+
+Language Region: 0 1088 English
+Entity	Type
+Iran	LOCATION
+TEHRAN	LOCATION
+1996-08-24	TEMPORAL:DATE
+Iran	LOCATION
+Shiraz	LOCATION
+Resalat	ORGANIZATION
+Saturday	TEMPORAL:DATE
+Iranian	NATIONALITY
+July	TEMPORAL:DATE
+commander	TITLE
+Resalat	ORGANIZATION
+Islamic Revolutionary Court	ORGANIZATION
+Adel prison	LOCATION
+Shiraz	LOCATION
+Iran	LOCATION
+Iran	LOCATION
+Europe	LOCATION
+Afghanistan	LOCATION
+Pakistan	LOCATION
+Golden Crescent	LOCATION

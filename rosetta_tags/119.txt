@@ -1,0 +1,14 @@
+
+Language Region: 0 793 English
+Entity	Type
+$ 524 million	IDENTIFIER:MONEY
+1996-08-22	TEMPORAL:DATE
+New Zealand	LOCATION
+Thursday	TEMPORAL:DATE
+Optimised Deprival Value	ORGANIZATION
+March 31 , 1996	TEMPORAL:DATE
+$ 524.2 million	IDENTIFIER:MONEY
+$ 486.5 million	IDENTIFIER:MONEY
+a year	TEMPORAL:TIME
+Ministry of Commerce	ORGANIZATION
+Wellington	LOCATION

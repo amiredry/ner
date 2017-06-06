@@ -1,0 +1,27 @@
+
+Language Region: 0 1165 English
+Entity	Type
+Norman	PERSON
+SYDNEY	LOCATION
+1996-08-23	TEMPORAL:DATE
+Greg Norman	PERSON
+coach	TITLE
+Butch Harmon	PERSON
+Butch	PERSON
+Norman	PERSON
+Thursday	TEMPORAL:DATE
+World	ORGANIZATION
+Akron , Ohio	LOCATION
+Norman	PERSON
+British	NATIONALITY
+Australian	NATIONALITY
+Akron	LOCATION
+Americans	NATIONALITY
+Billy Mayfair	PERSON
+Paul Goydos	PERSON
+Japan	LOCATION
+Hidemichi Tanaki	PERSON
+Wednesday	TEMPORAL:DATE
+Norman	PERSON
+Norman	PERSON
+Sydney	LOCATION

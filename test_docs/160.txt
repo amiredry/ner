@@ -1,0 +1,79 @@
+
+Language Region: 0 3328 English
+Entity	Type
+Adrian Warner	PERSON
+1996-08-23	TEMPORAL:DATE
+American	NATIONALITY
+Dennis Mitchell	PERSON
+Friday	TEMPORAL:DATE
+Brussels	LOCATION
+U.S.	LOCATION
+10.03 seconds	TEMPORAL:TIME
+Canada	LOCATION
+Donovan Bailey	PERSON
+Linford Christie	PERSON
+Britain	LOCATION
+American	NATIONALITY
+Carl Lewis	PERSON
+Mitchell	PERSON
+Bailey	PERSON
+Zurich	LOCATION
+American	NATIONALITY
+Atlanta	LOCATION
+Bailey	PERSON
+Canadian	NATIONALITY
+Lewis	PERSON
+Atlanta	LOCATION
+Ato Boldon	ORGANIZATION
+Christie	PERSON
+Lewis	PERSON
+Europe	LOCATION
+American	NATIONALITY
+Allen Johnson	PERSON
+12.92 seconds	TEMPORAL:TIME
+Britain	LOCATION
+Colin Jackson	PERSON
+Johnson	PERSON
+U.S.	LOCATION
+Atlanta	LOCATION
+June	TEMPORAL:DATE
+American	NATIONALITY
+Roger Kingdom	PERSON
+Brussels	LOCATION
+Jackson	PERSON
+13.24 seconds	TEMPORAL:TIME
+Sweden	LOCATION
+Ludmila Engquist	PERSON
+Zurich	LOCATION
+12.60 seconds	TEMPORAL:TIME
+Brigita Bukovec	PERSON
+Slovenia	LOCATION
+Jamaican Commonwealth	ORGANIZATION
+Michelle Freeman	PERSON
+Cuban	NATIONALITY
+Aliuska Lopez	PERSON
+Zurich	LOCATION
+Engquist	PERSON
+Golden Four	LOCATION
+Oslo	LOCATION
+Zurich	LOCATION
+Brussels	LOCATION
+Berlin	LOCATION
+Friday	TEMPORAL:DATE
+American	NATIONALITY
+Derrick Adkins	PERSON
+American	NATIONALITY
+Gail Devers	PERSON
+10.84 seconds	TEMPORAL:TIME
+0.10 seconds	TEMPORAL:TIME
+Atlanta	LOCATION
+Jamaican	NATIONALITY
+Merlene Ottey	PERSON
+Devers	PERSON
+Zurich	LOCATION
+Atlanta	LOCATION
+American	NATIONALITY
+Gwen Torrence	PERSON
+Atlanta	LOCATION
+Ottey	PERSON
+Golden Four	LOCATION

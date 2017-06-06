@@ -1,0 +1,16 @@
+
+Language Region: 0 432 English
+Entity	Type
+MANCHESTER , England	LOCATION
+1996-08-28	TEMPORAL:DATE
+Shane Kelly	PERSON
+Australia	LOCATION
+Wednesday	TEMPORAL:DATE
+one minute	TEMPORAL:TIME
+2.777 seconds	TEMPORAL:TIME
+Kelly	PERSON
+Soren Lausgberg	PERSON
+Germany	LOCATION
+a second	TEMPORAL:TIME
+German	NATIONALITY
+Jan Van Eijden	PERSON

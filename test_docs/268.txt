@@ -1,0 +1,19 @@
+
+Language Region: 0 323 English
+Entity	Type
+PARIS	LOCATION
+1996-08-24	TEMPORAL:DATE
+French	NATIONALITY
+Saturday	TEMPORAL:DATE
+Anto Drobnjak	PERSON
+Bastia	LOCATION
+Xavier Gravelaine	PERSON
+Marseille	LOCATION
+Miladin Becanovic	PERSON
+Lille	LOCATION
+Enzo Scifo	PERSON
+Monaco	LOCATION
+Vladimir Smicer	PERSON
+Lens	LOCATION
+Christopher Wreh	PERSON
+Guingamp	LOCATION

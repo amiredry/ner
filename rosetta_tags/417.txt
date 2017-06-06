@@ -1,0 +1,12 @@
+
+Language Region: 0 302 English
+Entity	Type
+LIBERIA , Costa Rica	LOCATION
+1996-08-26	TEMPORAL:DATE
+Costa Rica	LOCATION
+Chile	LOCATION
+Sunday	TEMPORAL:DATE
+Costa Rica	LOCATION
+Ronaldo Gonzalez	PERSON
+Chile	LOCATION
+Marcelo Salas	PERSON

@@ -1,0 +1,14 @@
+
+Language Region: 0 123 English Uppercase
+Entity	Type
+ETHIOPIA	LOCATION
+UGANDA	LOCATION
+AFRICAN	NATIONALITY
+ADDIS ABABA	LOCATION
+1996-08-25	TEMPORAL:DATE
+
+Language Region: 123 288 English
+Entity	Type
+African Nations	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Ethiopia	LOCATION

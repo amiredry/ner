@@ -1,0 +1,10 @@
+
+Language Region: 0 1527 English
+Entity	Type
+18:00 GMT	TEMPORAL:TIME
+Lamonts Apparel Inc	ORGANIZATION
+Seattle	LOCATION
+$ 90 million	IDENTIFIER:MONEY
+$ 20 million	IDENTIFIER:MONEY
+$ 25 million	IDENTIFIER:MONEY
+$ 1 million	IDENTIFIER:MONEY

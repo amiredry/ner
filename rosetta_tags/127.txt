@@ -1,0 +1,19 @@
+
+Language Region: 0 822 English
+Entity	Type
+Albania	LOCATION
+Vatican	LOCATION
+1996-08-23	TEMPORAL:DATE
+Albanian	NATIONALITY
+Vatican	LOCATION
+Albanian	NATIONALITY
+Friday	TEMPORAL:DATE
+Gazeta Shqiptare	ORGANIZATION
+Gjon Buzuku	PERSON
+Rome	LOCATION
+Albanian	NATIONALITY
+Albanians	NATIONALITY
+Musa Hamiti	PERSON
+Vatican	LOCATION
+Tirana	LOCATION
+Gazeta Shqiptare	ORGANIZATION

@@ -1,0 +1,111 @@
+
+Language Region: 0 4006 English
+Entity	Type
+Reuters	ORGANIZATION
+September 4	TEMPORAL:DATE
+LONDON	LOCATION
+1996-08-28	TEMPORAL:DATE
+September 4	TEMPORAL:DATE
+Alexander III	PERSON
+King	TITLE
+Scotland	LOCATION
+King	TITLE
+Scotland	LOCATION
+Florence	PERSON
+Florentine	ORGANIZATION
+Monte Aperto	LOCATION
+Chateaubriand	PRODUCT
+French	NATIONALITY
+ambassador	TITLE
+British	NATIONALITY
+French	NATIONALITY
+Memoires	ORGANIZATION
+d'Outre Tombe	PRODUCT
+Los Angeles	LOCATION
+Spanish	NATIONALITY
+El Pueblo de Nuestra Senora La Reina	LOCATION
+Los Angeles	LOCATION
+Queen	TITLE
+Angels	ORGANIZATION
+Anton Bruckner	PERSON
+Austrian	NATIONALITY
+France	LOCATION
+Second Empire	PRODUCT
+Napoleon III	PERSON
+two days	TEMPORAL:TIME
+Prussian	NATIONALITY
+Skeleton Canyon	LOCATION
+Arizona	LOCATION
+Geronimo	PERSON
+Apache	PRODUCT
+chief	TITLE
+Indian	NATIONALITY
+General	TITLE
+Nelson Miles	PERSON
+French	NATIONALITY
+Darius Milhaud	PERSON
+La Creation	LOCATION
+Madame	TITLE
+Bovary	PERSON
+German	NATIONALITY
+U.S.	LOCATION
+biologist	TITLE
+Max Delbruck	PERSON
+Nobel	PERSON
+Edvard Grieg	PERSON
+Norwegian	NATIONALITY
+Bergen	LOCATION
+U.S.	LOCATION
+director	TITLE
+Edward Dmytryk	PERSON
+Hollywood	LOCATION
+Boy Scout Rally	PRODUCT
+Crystal Palace	LOCATION
+London	LOCATION
+Brussels	LOCATION
+Antwerp	LOCATION
+Belgium	LOCATION
+British	NATIONALITY
+Canadian	NATIONALITY
+Wilhelmina	ORGANIZATION
+Queen	TITLE
+Netherlands	LOCATION
+Juliana	PERSON
+Robert Schuman	PERSON
+French	NATIONALITY
+Prime Minister	TITLE
+Foreign Minister	TITLE
+European Coal and Steel Community	ORGANIZATION
+Forth Road Bridge	LOCATION
+Scotland	LOCATION
+6156 ft	IDENTIFIER:DISTANCE
+3300 ft	IDENTIFIER:DISTANCE
+Queen	TITLE
+Albert Schweitzer	PERSON
+philosopher	TITLE
+Gabon	LOCATION
+J.S. Bach	PERSON
+Nobel	PERSON
+Brotherhood of Nations	ORGANIZATION
+U.S.	LOCATION
+Mark Spitz	PERSON
+East Germany	LOCATION
+United States	LOCATION
+Schumacher	PRODUCT
+Switzerland	LOCATION
+Georges Simenon	PERSON
+character Inspector	TITLE
+Maigret	PERSON
+Bulgaria	LOCATION
+Communist	ORGANIZATION
+Todor Zhivkov	PERSON
+seven years	TEMPORAL:TIME
+Jerusalem	LOCATION
+Israel	LOCATION
+15-month	TEMPORAL:TIME
+King	TITLE
+David	PERSON
+Jewish	RELIGION
+U.N.	ORGANIZATION
+China	LOCATION
+U.N.	ORGANIZATION

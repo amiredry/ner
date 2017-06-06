@@ -1,0 +1,23 @@
+
+Language Region: 0 788 English
+Entity	Type
+Grozny	LOCATION
+Russia	LOCATION
+1996-08-22	TEMPORAL:DATE
+Grozny	LOCATION
+Russian	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Reuters	ORGANIZATION
+Lawrence Sheets	PERSON
+Alkhan-Yurt	ORGANIZATION
+Grozny	LOCATION
+Wednesday	TEMPORAL:DATE
+Russian	NATIONALITY
+security chief	TITLE
+Alexander Lebed	PERSON
+Thursday	TEMPORAL:DATE
+Lebed	PERSON
+Wednesday	TEMPORAL:DATE
+Chechen	NATIONALITY
+Grozny	LOCATION
+August 6	TEMPORAL:DATE

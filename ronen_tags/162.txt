@@ -1,0 +1,11 @@
+SOCCER - JORGE CALLS UP SIX PORTO PLAYERS FOR WORLD CUP QUALIFIER .
+LISBON 1996-08-23
+<LOCATION>Portugal</LOCATION>'s new coach <PERSON>Artur Jorge</PERSON> called up six players from league champions Porto on Friday in an 18-man squad for the opening World Cup qualifier against <LOCATION>Armenia</LOCATION> on August 31 .
+Midfielder Paulo Sousa , recently transferred to Borussia Dortmund from <LOCATION>Italy</LOCATION>'s Juventus , is the only leading member of the Portuguese side from this year's European championships who will not make the trip .
+It will be <PERSON>Jorge</PERSON>'s first game in charge of the national squad since taking over from Antonio Oliveira , who now coaches Porto , at the end of Euro 96 .
+Squad :
+Goalkeepers - Vitor Baia , <PERSON>Rui Correia</PERSON> .
+Defenders - Jorge Costa , <ORGANIZATION>Paulinho Santos , Helder Cristovao , Carlos</ORGANIZATION> Secretario , Dimas Teixeira , <PERSON>Fernando Couto</PERSON> .
+Midfielders - Jose Barroso , <PERSON>Luis Figo , Rui Barros , Rui Costa</PERSON> , <LOCATION>Oceano</LOCATION> Cruz , <PERSON>Ricardo Sa Pinto</PERSON> .
+Forwards - Domingos Oliveira , <PERSON>Joao Vieira Pinto , Jorge Cadete , Antonio Folha</PERSON> .
+

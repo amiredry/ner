@@ -1,0 +1,29 @@
+
+Language Region: 0 1151 English
+Entity	Type
+Egypt	LOCATION
+Britain	LOCATION
+Islamist	RELIGION
+CAIRO	LOCATION
+1996-08-26	TEMPORAL:DATE
+Egypt	LOCATION
+Britain	LOCATION
+Islamists	RELIGION
+London	LOCATION
+Foreign Minister	TITLE
+Amr Moussa	PERSON
+Monday	TEMPORAL:DATE
+Britain	LOCATION
+Moussa	PERSON
+Egypt	LOCATION
+British	NATIONALITY
+Egyptian	NATIONALITY
+Britain	LOCATION
+Islamists	RELIGION
+Moslem	RELIGION
+Egypt	LOCATION
+Islamic	RELIGION
+Islamic	RELIGION
+Cairo	LOCATION
+Egyptian	NATIONALITY
+Britain	LOCATION

@@ -1,0 +1,9 @@
+
+Language Region: 0 170 English
+Entity	Type
+1996-08-23	TEMPORAL:DATE
+German	NATIONALITY
+Friday	TEMPORAL:DATE
+St	ORGANIZATION
+Pauli 4 Schalke 4 Hansa Rostock	PRODUCT
+Hamburg	LOCATION

@@ -1,0 +1,45 @@
+
+Language Region: 0 853 English
+Entity	Type
+1996-08-25	TEMPORAL:DATE
+232-km	IDENTIFIER:DISTANCE
+Swiss	ORGANIZATION
+Sunday	TEMPORAL:DATE
+Andrea Ferrigato	PERSON
+Italy	LOCATION
+5 hours	TEMPORAL:TIME
+51 minutes	TEMPORAL:TIME
+52 seconds	TEMPORAL:TIME
+Michele Bartoli	PERSON
+Italy	LOCATION
+Johan Museeuw	PERSON
+Belgium	LOCATION
+Lance Armstrong	PERSON
+U.S.	LOCATION
+Francesco Casagrande	PERSON
+Italy	LOCATION
+Alessandro Baronti	PERSON
+Italy	LOCATION
+Frank Vandenbroucke	PERSON
+Belgium	LOCATION
+Fabio Baldato	PERSON
+Italy	LOCATION
+11 seconds	TEMPORAL:TIME
+Maurizio Fondriest	PERSON
+Italy	LOCATION
+Laurent Jalabert	PERSON
+France	LOCATION
+Museeuw	PERSON
+Ferrigato 112 3	PRODUCT
+Stefano Zanini	PERSON
+Italy	LOCATION
+Armstrong	PERSON
+Baldato	PERSON
+Alexandre Gontchenkov	PERSON
+Ukraine	LOCATION
+Gabriele Colombo	PERSON
+Italy	LOCATION
+Andrei Tchmil	PERSON
+Ukraine	LOCATION
+Max Sciandri	PERSON
+Britain	LOCATION

@@ -1,0 +1,26 @@
+
+Language Region: 0 128 English
+Entity	Type
+1996-08-28	TEMPORAL:DATE
+Dutch	NATIONALITY
+Wednesday	TEMPORAL:DATE
+
+Language Region: 128 236 Dutch
+Entity	Type
+
+Language Region: 236 264 English
+Entity	Type
+
+Language Region: 264 842 Dutch
+Entity	Type
+
+Language Region: 842 1046 English
+Entity	Type
+Tuesday	TEMPORAL:DATE
+Fortuna Sittard 2	PRODUCT
+Jeffrey 7th	PERSON
+Roest	PERSON
+Heerenveen 4	PRODUCT
+Korneev 15th	PRODUCT
+Hansma	PERSON
+Wouden 70th	PRODUCT

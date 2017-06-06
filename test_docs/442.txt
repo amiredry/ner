@@ -1,0 +1,19 @@
+
+Language Region: 0 279 English
+Entity	Type
+1996-08-26	TEMPORAL:DATE
+Barcelona	LOCATION
+Atletico Madrid	LOCATION
+Spanish	NATIONALITY
+Sunday	TEMPORAL:DATE
+Barcelona - Ronaldo	LOCATION
+Giovanni	PERSON
+Pizzi	PRODUCT
+De la Pena	LOCATION
+
+Language Region: 279 363 Spanish
+Entity	Type
+Atletico Madrid	PERSON
+Esnaider	PERSON
+Pantic	PERSON
+Attendance	PERSON

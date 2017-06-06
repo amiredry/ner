@@ -1,0 +1,68 @@
+
+Language Region: 0 2625 English
+Entity	Type
+1996-08-27	TEMPORAL:DATE
+Ripken	PERSON
+Brady Anderson	PERSON
+Baltimore Orioles	ORGANIZATION
+Oakland Athletics	LOCATION
+Orioles	ORGANIZATION
+Oakland	LOCATION
+Mark Acre	PERSON
+Brady Anderson	PERSON
+Oakland	LOCATION
+manager	TITLE
+Art Howe	PERSON
+Rafael Palmeiro	PERSON
+Bobby Bonilla	PERSON
+Acre	PERSON
+Ripken	PERSON
+Ripken	PERSON
+Orioles	ORGANIZATION
+Chicago White Sox	ORGANIZATION
+Seattle	LOCATION
+Jay Buhner	PERSON
+Seattle Mariners	LOCATION
+New York Yankees	ORGANIZATION
+New York	LOCATION
+starter	TITLE
+Jimmy Key	PERSON
+Seattle	LOCATION
+shortstop	TITLE
+Alex Rodriguez	PERSON
+Yankees	ORGANIZATION
+AL East	LOCATION
+Baltimore	LOCATION
+California	LOCATION
+Tim Wakefield	PERSON
+Mo Vaughn	PERSON
+Troy O'Leary	PERSON
+Boston Red Sox	ORGANIZATION
+California Angels	ORGANIZATION
+Boston	LOCATION
+August 2nd	TEMPORAL:DATE
+Red Sox	ORGANIZATION
+Chicago	LOCATION
+John Jaha	PERSON
+Milwaukee Brewers	ORGANIZATION
+Chicago White Sox	ORGANIZATION
+Angel Miranda	PERSON
+Bob Wickman	PERSON
+Detroit	LOCATION
+Jim Thome	PERSON
+Charles Nagy	PERSON
+a month	TEMPORAL:TIME
+Cleveland	LOCATION
+Indians	NATIONALITY
+Detroit Tigers	ORGANIZATION
+Thome	PERSON
+starter	TITLE
+Felipe Lira	PERSON
+Toronto	LOCATION
+Juan Guzman	PERSON
+Joe Carter	PERSON
+Carlos Delgado	PERSON
+Toronto Blue Jays	ORGANIZATION
+Minnesota Twins	ORGANIZATION
+Toronto	LOCATION
+Guzman	PERSON

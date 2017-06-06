@@ -1,0 +1,21 @@
+
+Language Region: 0 674 English
+Entity	Type
+21-DAY	TEMPORAL:TIME
+LONDON	LOCATION
+1996-08-28	TEMPORAL:DATE
+Jason Weaver	PERSON
+21-day	TEMPORAL:TIME
+Jockey Club	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Weaver	PERSON
+Pontefract	LOCATION
+10 days	TEMPORAL:TIME
+five days	TEMPORAL:TIME
+January 1	TEMPORAL:DATE
+Weaver	PERSON
+St Leger	LOCATION
+Doncaster Cup	LOCATION
+Weaver	PERSON
+English	NATIONALITY
+Mister Baileys	PERSON

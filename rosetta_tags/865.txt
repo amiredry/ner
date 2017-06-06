@@ -1,0 +1,24 @@
+
+Language Region: 0 1297 English
+Entity	Type
+July	TEMPORAL:DATE
+NEW YORK	LOCATION
+1996-08-29	TEMPORAL:DATE
+July	TEMPORAL:DATE
+Conference Board	ORGANIZATION
+Thursday	TEMPORAL:DATE
+July	TEMPORAL:DATE
+June	TEMPORAL:DATE
+July	TEMPORAL:DATE
+U.S.	LOCATION
+Conference Board	ORGANIZATION
+economist	TITLE
+Ken Goldstein	PERSON
+two years	TEMPORAL:TIME
+Goldstein	PERSON
+July	TEMPORAL:DATE
+July , 1995	TEMPORAL:DATE
+New England	LOCATION
+Mountain	LOCATION
+West South	LOCATION
+East North Central region	LOCATION

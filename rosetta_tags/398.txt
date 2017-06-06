@@ -1,0 +1,48 @@
+
+Language Region: 0 5020 English
+Entity	Type
+FEATURE - Fertile Ukraine	ORGANIZATION
+Irene Marushko BATKIVSHCHYNA COLLECTIVE FARM	PERSON
+Ukraine	LOCATION
+1996-08-26	TEMPORAL:DATE
+John Deere	PERSON
+Kiev	LOCATION
+chief agronomist	TITLE
+Ivan Odnosum	PERSON
+God	PERSON
+Ukrainian	NATIONALITY
+June	TEMPORAL:DATE
+Soviet	NATIONALITY
+Ukraine	LOCATION
+Ukraine	LOCATION
+Europe	LOCATION
+Soviet	NATIONALITY
+Josef Stalin	PERSON
+Hryhory Borsuk	PERSON
+Mironivka Wheat Institute	ORGANIZATION
+Ukrainian Academy of Agrarian Sciences	ORGANIZATION
+Western Ukraine	LOCATION
+Mironivka	ORGANIZATION
+Ukraine	LOCATION
+Borsuk	PERSON
+Ukraine	LOCATION
+Ukraine	LOCATION
+Soviet	NATIONALITY
+Kremlin	ORGANIZATION
+Odnosum	PERSON
+Odnosum	PERSON
+Odnosum	PERSON
+Shevchenko	PERSON
+Soviet	NATIONALITY
+Chief Accountant	TITLE
+Natalya Sypron	PERSON
+a year	TEMPORAL:TIME
+$ 800	IDENTIFIER:MONEY
+$ 1,000	IDENTIFIER:MONEY
+Soprun	PERSON
+Borsuk	PERSON
+Ukraine	LOCATION
+Ukraine	LOCATION
+Ukraine	LOCATION
+Borkus	PERSON
+Soviet	NATIONALITY

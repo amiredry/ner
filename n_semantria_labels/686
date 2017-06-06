@@ -1,0 +1,1 @@
+[{"sentiment_polarity": "neutral", "is_about": true, "title": "Sri Lanka", "entity_type": "Place", "evidence": 3, "confident": true, "sentiment_score": 0.0, "label": "Place", "type": "named"}, {"sentiment_polarity": "neutral", "is_about": true, "title": "India", "entity_type": "Place", "evidence": 3, "confident": true, "sentiment_score": 0.0, "label": "Place", "type": "named"}]

@@ -1,0 +1,13 @@
+
+Language Region: 0 469 English
+Entity	Type
+JERUSALEM	LOCATION
+1996-08-28	TEMPORAL:DATE
+Tuesday	TEMPORAL:DATE
+Hapoel Kfar Sava	LOCATION
+Tel Aviv	LOCATION
+Haifa	LOCATION
+Jerusalem	LOCATION
+Jerusalem	LOCATION
+Haifa	LOCATION
+Tel Aviv	LOCATION

@@ -1,0 +1,33 @@
+
+Language Region: 0 1603 English
+Entity	Type
+Surinam	LOCATION
+PARAMARIBO , Surinam	LOCATION
+1996-08-21	TEMPORAL:DATE
+Surinamese	NATIONALITY
+Ronny Brunswijk	PERSON
+Wednesday	TEMPORAL:DATE
+Brunswijk	PERSON
+Freddy Pinas	PERSON
+Surinamese	NATIONALITY
+Netherlands	LOCATION
+Brunswijk	PERSON
+Sunday	TEMPORAL:DATE
+Moengo	LOCATION
+56 miles	IDENTIFIER:DISTANCE
+90 km	IDENTIFIER:DISTANCE
+Paramaribo	LOCATION
+Ro Gajadhar	PERSON
+Jungle Command	ORGANIZATION
+Brunswijk	PERSON
+Pinas	PERSON
+Brunswijk	PERSON
+Brunswijk	PERSON
+Pinas	PERSON
+Brunswijk	PERSON
+two years	TEMPORAL:TIME
+two months	TEMPORAL:TIME
+Brunswijk	PERSON
+Desi Bouterse	PERSON
+French Guiana	LOCATION
+Brunswijk	PERSON

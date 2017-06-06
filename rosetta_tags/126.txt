@@ -1,0 +1,80 @@
+
+Language Region: 0 3403 English
+Entity	Type
+Ukraine	LOCATION
+five-year	TEMPORAL:TIME
+Rostislav Khotin	PERSON
+1996-08-23	TEMPORAL:DATE
+Ukraine	LOCATION
+five years	TEMPORAL:TIME
+Kremlin	ORGANIZATION
+Saturday	TEMPORAL:DATE
+Soviet	NATIONALITY
+Ukraine	LOCATION
+December	TEMPORAL:DATE
+Soviet	NATIONALITY
+three centuries	TEMPORAL:TIME
+Moscow	LOCATION
+Ukraine	LOCATION
+Russian	NATIONALITY
+Russia	LOCATION
+Russia	LOCATION
+Chechnya	LOCATION
+Moldova	LOCATION
+Soviet	NATIONALITY
+Georgia	LOCATION
+Azerbaijan	LOCATION
+Tajikistan	LOCATION
+Ukraine	LOCATION
+five years	TEMPORAL:TIME
+President	TITLE
+Leonid Kuchma	PERSON
+Soviet	NATIONALITY
+a year	TEMPORAL:TIME
+a month	TEMPORAL:TIME
+June	TEMPORAL:DATE
+July	TEMPORAL:DATE
+Kuchma	PERSON
+Ukraina Palace	LOCATION
+Friday	TEMPORAL:DATE
+Adelbert Knobl	PERSON
+International Monetary Fund	ORGANIZATION
+Ukraine	LOCATION
+Thursday	TEMPORAL:DATE
+Russian	NATIONALITY
+Ukraine	LOCATION
+Council of Europe	ORGANIZATION
+NATO	ORGANIZATION
+Ukraine	LOCATION
+China	LOCATION
+Taiwanese	NATIONALITY
+minister	TITLE
+China	LOCATION
+Kiev	LOCATION
+Foreign Minister	TITLE
+Hennady Udovenko	PERSON
+Beijing	LOCATION
+Ukraine	LOCATION
+Russia	LOCATION
+Europe	LOCATION
+West	LOCATION
+East	LOCATION
+European	NATIONALITY
+Ukraine	LOCATION
+Soviet	NATIONALITY
+Russia	LOCATION
+Kuchma	PERSON
+Ukraine	LOCATION
+Russia	LOCATION
+Kuchma	PERSON
+Kiev	LOCATION
+European Union	LOCATION
+European Union	LOCATION
+NATO	ORGANIZATION
+West	LOCATION
+U.S.	LOCATION
+President	TITLE
+Bill Clinton	PERSON
+Ukraine	LOCATION
+Ukraine	LOCATION
+Europe	LOCATION

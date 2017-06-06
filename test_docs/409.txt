@@ -1,0 +1,34 @@
+
+Language Region: 0 814 English
+Entity	Type
+LONDON	LOCATION
+1996-08-26	TEMPORAL:DATE
+Wasim Akram	PERSON
+Pakistan	LOCATION
+England	LOCATION
+Monday	TEMPORAL:DATE
+Wasim	PERSON
+Pakistani	NATIONALITY
+Imran Khan	PERSON
+Kapil Dev	PERSON
+India	LOCATION
+Richard Hadlee	PERSON
+New Zealand	LOCATION
+Ian Botham	PERSON
+England	LOCATION
+Malcolm Marshall	PERSON
+West Indies	LOCATION
+Imran Khan	PERSON
+Pakistan	LOCATION
+Dennis Lillee	PERSON
+Australia	LOCATION
+Bob Willis	PERSON
+England	LOCATION
+Lance Gibbs	PERSON
+West Indies	LOCATION
+Fred Trueman	PERSON
+England	LOCATION
+Courtney Walsh	PERSON
+West Indies	LOCATION
+Wasim Akram	PERSON
+Pakistan	LOCATION

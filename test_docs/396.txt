@@ -1,0 +1,37 @@
+
+Language Region: 0 2652 English
+Entity	Type
+Hasina	PERSON
+Anis Ahmed DHAKA	PERSON
+1996-08-25	TEMPORAL:DATE
+Prime Minister Sheikh	TITLE
+Hasina	PERSON
+Bangladeshi	NATIONALITY
+Bogra	LOCATION
+Sunday	TEMPORAL:DATE
+Awami League	ORGANIZATION
+Bangladesh Nationalist Party	ORGANIZATION
+BNP	ORGANIZATION
+Hasina	PERSON
+Thursday	TEMPORAL:DATE
+Hasina	PERSON
+Bogra	LOCATION
+Sunday	TEMPORAL:DATE
+prime minister	TITLE
+Bogra	LOCATION
+parliament	ORGANIZATION
+Dhaka	LOCATION
+Sunday	TEMPORAL:DATE
+Interior ) Minister	TITLE
+Rafiqul Islam	PERSON
+Dhaka	LOCATION
+Sunday	TEMPORAL:DATE
+Vice-Chancellor Dr.	TITLE
+Emajuddin Ahmed	PERSON
+Saturday	TEMPORAL:DATE
+BNP	ORGANIZATION
+prime minister Begum	TITLE
+Khaleda Zia	PERSON
+Hasina	PERSON
+Dhaka	LOCATION
+Bogra	LOCATION

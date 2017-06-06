@@ -1,0 +1,11 @@
+
+Language Region: 0 183 English
+Entity	Type
+ENGLISH	ORGANIZATION
+LONDON	LOCATION
+1996-08-23	TEMPORAL:DATE
+English	NATIONALITY
+Friday	TEMPORAL:DATE
+Portsmouth	LOCATION
+Queens Park	LOCATION
+Rangers 2 Tranmere 3 Grimsby 2	PRODUCT

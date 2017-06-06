@@ -1,0 +1,15 @@
+
+Language Region: 0 846 English
+Entity	Type
+India	LOCATION
+RBI	ORGANIZATION
+1996-08-22	TEMPORAL:DATE
+Reserve Bank of India	ORGANIZATION
+Governor	TITLE
+Chakravarty Rangarajan	PERSON
+Thursday	TEMPORAL:DATE
+Rangarajan	PERSON
+New Delhi	LOCATION
+Rangarajan	PERSON
+five years	TEMPORAL:TIME
+Bombay	LOCATION

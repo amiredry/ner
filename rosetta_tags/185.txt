@@ -1,0 +1,19 @@
+
+Language Region: 0 608 English
+Entity	Type
+Germany	LOCATION
+Poland	LOCATION
+1996-08-23	TEMPORAL:DATE
+Germany	LOCATION
+Poland	LOCATION
+Friday	TEMPORAL:DATE
+PAP	ORGANIZATION
+Interior Minister	TITLE
+Zbigniew Siemiatkowski	PERSON
+Bernd Schmidbauer	PERSON
+German	NATIONALITY
+Helmut Kohl	PERSON
+Warsaw	LOCATION
+Ministry	ORGANIZATION
+Ryszard Hincza	PERSON
+Polish	NATIONALITY

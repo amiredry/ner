@@ -1,0 +1,31 @@
+
+Language Region: 0 1509 English
+Entity	Type
+S. Africa	LOCATION
+king	TITLE
+Scottish	NATIONALITY
+1996-08-24	TEMPORAL:DATE
+South African	NATIONALITY
+chief	TITLE
+Saturday	TEMPORAL:DATE
+Scotland	LOCATION
+King	TITLE
+Hintsa	PERSON
+chief of President	TITLE
+Nelson Mandela	PERSON
+Xhosa	NATIONALITY
+British	NATIONALITY
+European	NATIONALITY
+Chief	TITLE
+Nicholas Gcaleka	PERSON
+Scotland	LOCATION
+February	TEMPORAL:DATE
+Hintsa	PERSON
+Hintsa	PERSON
+Gcaleka	PERSON
+South Africa	LOCATION
+Highland	LOCATION
+Inverness	LOCATION
+Xhosa	NATIONALITY
+Gcaleka	PERSON
+king	TITLE

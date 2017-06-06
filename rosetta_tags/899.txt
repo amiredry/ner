@@ -1,0 +1,42 @@
+
+Language Region: 0 1888 English
+Entity	Type
+Wall Street Journal	ORGANIZATION
+Aug 29	TEMPORAL:DATE
+NEW YORK	LOCATION
+1996-08-29	TEMPORAL:DATE
+National Basketball Association	ORGANIZATION
+America Online Inc	ORGANIZATION
+United States	LOCATION
+The Wall Street Journal	ORGANIZATION
+Thursday	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+Manhattan	LOCATION
+America Online	ORGANIZATION
+NBA	ORGANIZATION
+NBA	ORGANIZATION
+Baxter International Inc	ORGANIZATION
+Austria	LOCATION
+Immuno International AG	ORGANIZATION
+$ 715	IDENTIFIER:MONEY
+Boeing Co	ORGANIZATION
+$ 5.5 billion	IDENTIFIER:MONEY
+747s	IDENTIFIER:LATITUDE_LONGITUDE
+President	TITLE
+Bill Clinton	PERSON
+Philip Morris Cos Inc	ORGANIZATION
+Salomon Brothers Inc	ORGANIZATION
+International Business Machines Corp	ORGANIZATION
+Sierra Semiconductor Corp	ORGANIZATION
+Red Lion Hotels Inc	ORGANIZATION
+Doubletree Corp	ORGANIZATION
+GTE Corp	ORGANIZATION
+Baby Bells	PRODUCT
+President	TITLE
+Clinton	PERSON
+Securities and Exchange Commission	ORGANIZATION
+H&R Block Inc	ORGANIZATION
+CompuServe Corp	ORGANIZATION
+July	TEMPORAL:DATE
+Federal Trade Commission and Justice Department	ORGANIZATION
+New York	LOCATION

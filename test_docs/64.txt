@@ -1,0 +1,22 @@
+
+Language Region: 0 1461 English
+Entity	Type
+MINNETONKA , Minn	LOCATION
+Home Health Inc	ORGANIZATION
+Thursday	TEMPORAL:DATE
+U.S. Federal District Court	ORGANIZATION
+Minneapolis	LOCATION
+Health Care Financing Administration	ORGANIZATION
+HCFA	ORGANIZATION
+HCFA	ORGANIZATION
+Administrator	TITLE
+Mark Gildea	PERSON
+chief executive officer	TITLE
+Home Health	ORGANIZATION
+Home Health	ORGANIZATION
+U.S. District Court	ORGANIZATION
+Minneapolis	LOCATION
+$ 81,000	IDENTIFIER:MONEY
+Gildea	PERSON
+Chicago Newsdesk	LOCATION
+312-408-8787	IDENTIFIER:PHONE_NUMBER

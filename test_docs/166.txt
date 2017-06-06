@@ -1,0 +1,39 @@
+
+Language Region: 0 1549 English
+Entity	Type
+SRI	ORGANIZATION
+COLOMBO	LOCATION
+1996-08-23	TEMPORAL:DATE
+Sri Lanka	LOCATION
+Australia	LOCATION
+Friday	TEMPORAL:DATE
+Sri Lankans	NATIONALITY
+Sri Lankans	NATIONALITY
+Muttiah Muralitharan	PERSON
+Australia	LOCATION
+Sri Lanka	LOCATION
+captain	TITLE
+Arjuna Ranatunga	PERSON
+Saturday	TEMPORAL:DATE
+Australian	NATIONALITY
+manager	TITLE
+Cam Battersby	PERSON
+Ranatunga	PERSON
+Batterby	PERSON
+Australians	NATIONALITY
+Indian Ocean	LOCATION
+February	TEMPORAL:DATE
+Colombo	LOCATION
+Australia	LOCATION
+August 26	TEMPORAL:DATE
+India	LOCATION
+Zimbabwe	LOCATION
+Battersby	PERSON
+Sri Lankan	NATIONALITY
+Friday	TEMPORAL:DATE
+Saturday	TEMPORAL:DATE
+Australia	LOCATION
+wicketkeeper	TITLE
+Ian Healy	PERSON
+Sri Lanka	LOCATION
+Thursday	TEMPORAL:DATE

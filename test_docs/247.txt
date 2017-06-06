@@ -1,0 +1,71 @@
+
+Language Region: 0 1232 English
+Entity	Type
+SCORES AT WORLD SERIES OF GOLF	LOCATION
+AKRON , Ohio	LOCATION
+1996-08-23	TEMPORAL:DATE
+$ 2.1 million	IDENTIFIER:MONEY
+NEC	ORGANIZATION
+World	PRODUCT
+Friday	TEMPORAL:DATE
+7,149 yard	IDENTIFIER:DISTANCE
+U.S.	LOCATION
+Paul Goydos	PERSON
+Billy Mayfair	PERSON
+Greg Norman	PERSON
+Australia	LOCATION
+Hidemichi Tanaka	PERSON
+Japan	LOCATION
+Steve Stricker	PERSON
+Phil Mickelson	PERSON
+Mark Brooks	PERSON
+Hal Sutton	PERSON
+John Cook	PERSON
+Tim Herron	PERSON
+Justin Leonard	PERSON
+Steve Jones	PERSON
+Nick Faldo	PERSON
+Britain	LOCATION
+Davis Love	ORGANIZATION
+Fred Couples	PERSON
+Fred Funk	PERSON
+Scott Hoch	PERSON
+Ernie Els	PERSON
+South Africa	LOCATION
+Jim Furyk	PERSON
+Corey Pavin	PERSON
+Craig Stadler	PERSON
+Brad Bryant	PERSON
+Tom Lehman	PERSON
+Sven Struver	PERSON
+Germany	LOCATION
+Alexander Cejka	PERSON
+Germany	LOCATION
+Anders Forsbrand	PERSON
+Sweden	LOCATION
+Willie Wood	PERSON
+
+Language Region: 1232 1274 Italian
+Entity	Type
+Costantino Rocca	PERSON
+Italy	LOCATION
+
+Language Region: 1274 1703 English
+Entity	Type
+Stewart Ginn ( Australia	ORGANIZATION
+Wayne Westner	PERSON
+South Africa	LOCATION
+Sigeki Maruyama	PERSON
+Japan	LOCATION
+Mark O'Meara	PERSON
+Loren Roberts	PERSON
+Scott McCarron	PERSON
+Satoshi Higashi	PERSON
+Japan	LOCATION
+Paul Stankowski	PERSON
+Craig Parry	PERSON
+Australia	LOCATION
+Tom Watson	PERSON
+Seiki Okuda	PERSON
+Japan	LOCATION
+Steve Schneiter	PERSON

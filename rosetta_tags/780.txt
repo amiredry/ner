@@ -1,0 +1,24 @@
+
+Language Region: 0 978 English
+Entity	Type
+Shanghai Ek Chor	PERSON
+SHANGHAI	LOCATION
+1996-08-28	TEMPORAL:DATE
+Shanghai	LOCATION
+Ek Chor Motorcycle Co	ORGANIZATION
+Thai	NATIONALITY
+Pudong New Area	LOCATION
+Shanghai	LOCATION
+Xinhua	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+a year	TEMPORAL:TIME
+China	LOCATION
+South America	LOCATION
+Middle East	LOCATION
+Africa	LOCATION
+Shanghai	LOCATION
+Ek Chor	PERSON
+Shanghai Automobile Corporation	ORGANIZATION
+Ek Chor China Motorcycle	ORGANIZATION
+January 1985	TEMPORAL:DATE
+China	LOCATION

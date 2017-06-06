@@ -1,0 +1,57 @@
+
+Language Region: 0 1293 English
+Entity	Type
+ROTTERDAM	LOCATION
+1996-08-26	TEMPORAL:DATE
+Dutch	NATIONALITY
+coach	TITLE
+Guus Hiddink	PERSON
+Monday	TEMPORAL:DATE
+Wim Jonk	PERSON
+14-month	TEMPORAL:TIME
+Brazil	LOCATION
+Amsterdam	LOCATION
+Sunday	TEMPORAL:DATE
+Jean-Paul van Gastel	PERSON
+Hiddink	PERSON
+Danny Blind	PERSON
+Sunday	TEMPORAL:DATE
+Ronald de Boer	PERSON
+Dennis Bergkamp	PERSON
+35-year	TEMPORAL:TIME
+Netherlands	LOCATION
+Dutch	NATIONALITY
+Ajax Amsterdam	LOCATION
+AC Milan	LOCATION
+Edgar Davids	PERSON
+European	NATIONALITY
+England	LOCATION
+Edwin van der Sar	PERSON
+Ajax	LOCATION
+Ed de Goey	PERSON
+Frank de Boer	PERSON
+Ajax	LOCATION
+John Veldman	PERSON
+Ajax	LOCATION
+Jaap Stam	ORGANIZATION
+PSV	ORGANIZATION
+Arthur Numan	PERSON
+PSV	ORGANIZATION
+Michael Reiziger	PERSON
+AC Milan	LOCATION
+Johan de Kock	PERSON
+Schalke	LOCATION
+Richard Witschge	PERSON
+Ajax	LOCATION
+Philip Cocu	PERSON
+PSV	ORGANIZATION
+Wim Jonk	PERSON
+PSV	ORGANIZATION
+Aron Winter	PERSON
+Internazionale	LOCATION
+Jean-Paul van Gastel	PERSON
+Clarence Seedorf	PERSON
+Real Madrid	ORGANIZATION
+
+Language Region: 1293 1429 Norwegian
+Entity	Type

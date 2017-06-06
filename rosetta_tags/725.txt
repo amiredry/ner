@@ -1,0 +1,31 @@
+
+Language Region: 0 1544 English
+Entity	Type
+Colombian	NATIONALITY
+BOGOTA , Colombia	LOCATION
+1996-08-28	TEMPORAL:DATE
+President	TITLE
+Ernesto Samper	PERSON
+Wednesday	TEMPORAL:DATE
+Colombia	LOCATION
+five-year	TEMPORAL:TIME
+Deputy Prosecutor-General	TITLE
+Adolfo Salamanca	PERSON
+Tuesday	TEMPORAL:DATE
+senators	TITLE
+Samper	PERSON
+Liberal Party	ORGANIZATION
+U.S.	LOCATION
+Ambassador	TITLE
+Myles Frechette	PERSON
+Clinton	PERSON
+Colombia	LOCATION
+U.S.	LOCATION
+Samper	PERSON
+a year	TEMPORAL:TIME
+Tuesday	TEMPORAL:DATE
+Colombian	NATIONALITY
+U.S.	LOCATION
+American	NATIONALITY
+Colombia	LOCATION
+Samper	PERSON

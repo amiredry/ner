@@ -1,0 +1,22 @@
+
+Language Region: 0 1312 English
+Entity	Type
+LONDON	LOCATION
+1996-08-22	TEMPORAL:DATE
+U.S.	LOCATION
+Pacific	LOCATION
+New Scientist	ORGANIZATION
+Thursday	TEMPORAL:DATE
+James Harvey	PERSON
+Jennifer Hurley	PERSON
+Moss Landing Marine Laboratories	ORGANIZATION
+California	LOCATION
+Harvey	PERSON
+17-year	TEMPORAL:TIME
+nine-year	TEMPORAL:TIME
+Sake	LOCATION
+six years	TEMPORAL:TIME
+U.S. Navy	ORGANIZATION
+Sake	LOCATION
+Harvey	PERSON
+Monterey , California	LOCATION

@@ -1,0 +1,32 @@
+
+Language Region: 0 1878 English
+Entity	Type
+Thai	NATIONALITY
+PM	TITLE
+Banharn	PERSON
+1996-08-29	TEMPORAL:DATE
+Thailand	LOCATION
+Prime Minister	TITLE
+Banharn Silpa-archa	PERSON
+Thursday	TEMPORAL:DATE
+Rajapat Institute	ORGANIZATION
+Banharn	PERSON
+parliament	ORGANIZATION
+cabinet	ORGANIZATION
+Banharn	PERSON
+13-month	TEMPORAL:TIME
+parliament	ORGANIZATION
+prime minister	TITLE
+Banharn	PERSON
+one year	TEMPORAL:TIME
+General	TITLE
+Chatichai Choonhavan	PERSON
+prime minister	TITLE
+February 1991	TEMPORAL:DATE
+prime minister	TITLE
+Defence Minister	TITLE
+Chavalit Yongchaiyudh	PERSON
+New Aspiration Party	ORGANIZATION
+prime minister	TITLE
+Banharn	PERSON
+Thailand	LOCATION

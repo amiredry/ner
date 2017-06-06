@@ -1,0 +1,42 @@
+
+Language Region: 0 2046 English
+Entity	Type
+Brazil	LOCATION
+Banespa	LOCATION
+1996-08-27	TEMPORAL:DATE
+Brazil	LOCATION
+Sao Paulo	LOCATION
+Banespa	LOCATION
+O Globo	ORGANIZATION
+Central Bank	ORGANIZATION
+Banespa	LOCATION
+December 30	TEMPORAL:DATE
+Banespa	LOCATION
+Sao Paulo	LOCATION
+Central Bank	ORGANIZATION
+Banespa	LOCATION
+December 1994	TEMPORAL:DATE
+Sao Paulo	LOCATION
+Sao Paulo	LOCATION
+state governor	TITLE
+Mario Covas	PERSON
+Sao Paulo	LOCATION
+Banespa	LOCATION
+O Globo	ORGANIZATION
+Sao Paulo	LOCATION
+O Globo	ORGANIZATION
+Bamerindus	LOCATION
+Bamerindus	LOCATION
+Central Bank	ORGANIZATION
+90-day	TEMPORAL:TIME
+a year	TEMPORAL:TIME
+Central Bank	ORGANIZATION
+TBC	ORGANIZATION
+O Globo	ORGANIZATION
+Bamerindus	LOCATION
+Bamerindus	LOCATION
+Brazil	LOCATION
+Bamerindus	LOCATION
+Central Bank	ORGANIZATION
+Fatima Cristina	PERSON
+Sao Paulo	LOCATION

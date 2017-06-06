@@ -1,0 +1,18 @@
+
+Language Region: 0 1653 English
+Entity	Type
+1996-08-26	TEMPORAL:DATE
+Wellman Inc	ORGANIZATION
+Monday	TEMPORAL:DATE
+July 1	TEMPORAL:DATE
+U.S.	LOCATION
+Timothy Reid	PERSON
+vice president of corporate communications	TITLE
+Sunday	TEMPORAL:DATE
+New York Times	ORGANIZATION
+Securities and Exchange Commission	ORGANIZATION
+50 years	TEMPORAL:TIME
+April 1996	TEMPORAL:DATE
+July	TEMPORAL:DATE
+Cleveland Newsdesk	LOCATION
+216-579-0077	IDENTIFIER:PHONE_NUMBER

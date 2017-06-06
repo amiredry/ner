@@ -1,0 +1,62 @@
+
+Language Region: 0 1681 English
+Entity	Type
+Bonn	LOCATION
+Moscow	LOCATION
+1996-08-22	TEMPORAL:DATE
+Germany	LOCATION
+Thursday	TEMPORAL:DATE
+Russian	NATIONALITY
+Chechnya	LOCATION
+Foreign Ministry	ORGANIZATION
+Martin Erdmann	PERSON
+Bonn	LOCATION
+Wolfgang Ischinger	PERSON
+Russian	NATIONALITY
+Chechen	NATIONALITY
+Grozny	LOCATION
+Russian	NATIONALITY
+Erdmann	PERSON
+Reuters	ORGANIZATION
+Ischinger	PERSON
+two-day	TEMPORAL:TIME
+Moscow	LOCATION
+Bonn	LOCATION
+Thursday	TEMPORAL:DATE
+Ischinger	PERSON
+director	TITLE
+Bonn	LOCATION
+foreign ministry	ORGANIZATION
+Ischinger	PERSON
+Russian	NATIONALITY
+deputy foreign ministers	TITLE
+vice defence minister	TITLE
+Russian	NATIONALITY
+Foreign Minister	TITLE
+Yevgeny Primakov	PERSON
+Moscow	LOCATION
+Organisation for Security	ORGANIZATION
+Europe	LOCATION
+OSCE	ORGANIZATION
+Grozny	LOCATION
+Ischinger	PERSON
+Moscow	LOCATION
+German	NATIONALITY
+Foreign Minister	TITLE
+Klaus Kinkel	PERSON
+envoy	TITLE
+Moscow	LOCATION
+Ischinger	PERSON
+Grozny	LOCATION
+commanding general	TITLE
+Moscow	LOCATION
+Kinkel	PERSON
+Wednesday	TEMPORAL:DATE
+President	TITLE
+Boris Yeltsin	PERSON
+security chief	TITLE
+Alexander Lebed	PERSON
+Moscow	LOCATION
+Tim Goldiman	PERSON
+OSCE	ORGANIZATION
+Chechnya	LOCATION

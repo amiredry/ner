@@ -1,0 +1,37 @@
+
+Language Region: 0 1843 English
+Entity	Type
+MILAN	LOCATION
+1996-08-25	TEMPORAL:DATE
+Gabriel Batistuta	PERSON
+Sunday	TEMPORAL:DATE
+Italian	NATIONALITY
+Milan	LOCATION
+Florence	LOCATION
+Batistuta	PERSON
+Sweden	LOCATION
+Stefan Schwarz	PERSON
+Batistuta	PERSON
+Franco Baresi	PERSON
+Montenegrin	NATIONALITY
+Dejan Savicevic	PERSON
+Francesco Toldo	PERSON
+Batistuta	PERSON
+French	NATIONALITY
+Marcel Desailly	PERSON
+Boca Juniors	LOCATION
+Fiorentina	LOCATION
+Milan	LOCATION
+coach	TITLE
+Oscar Tabarez	PERSON
+Batistuta	PERSON
+Fiorentina	LOCATION
+Fiorentina	LOCATION
+Milan	LOCATION
+George Weah	PERSON
+Italian	NATIONALITY
+Roberto Baggio	PERSON
+Dutch	NATIONALITY
+Edgar Davids	PERSON
+Milan	LOCATION
+September 8	TEMPORAL:DATE

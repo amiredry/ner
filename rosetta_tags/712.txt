@@ -1,0 +1,34 @@
+
+Language Region: 0 1265 English
+Entity	Type
+New Liberia Council	ORGANIZATION
+chief	TITLE
+Tuesday	TEMPORAL:DATE
+1996-08-28	TEMPORAL:DATE
+Ruth Perry	PERSON
+Liberia	LOCATION
+State Council	ORGANIZATION
+Tuesday	TEMPORAL:DATE
+Council	ORGANIZATION
+Perry	PERSON
+Liberian	NATIONALITY
+Senate	ORGANIZATION
+Monrovia	LOCATION
+August 22	TEMPORAL:DATE
+West African	NATIONALITY
+Nigeria	LOCATION
+Abuja	LOCATION
+five days	TEMPORAL:TIME
+State Council	ORGANIZATION
+vice-chairmen	TITLE
+Charles Taylor	PERSON
+Alhadji Kromah	PERSON
+Liberia	LOCATION
+Taylor	PERSON
+Monrovia	LOCATION
+April	TEMPORAL:DATE
+January	TEMPORAL:DATE
+May 30	TEMPORAL:DATE
+West African	NATIONALITY
+American	NATIONALITY
+Liberia	LOCATION

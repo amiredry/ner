@@ -1,0 +1,17 @@
+
+Language Region: 0 595 English
+Entity	Type
+MILAN	LOCATION
+1996-08-29	TEMPORAL:DATE
+Italian	NATIONALITY
+judge	TITLE
+Thursday	TEMPORAL:DATE
+Genoa	LOCATION
+Lecce	LOCATION
+Italian	NATIONALITY
+Genoa	LOCATION
+Sampdoria	LOCATION
+Genoa	LOCATION
+Saturday	TEMPORAL:DATE
+Lecce	LOCATION
+Jonathan Bachini	PERSON

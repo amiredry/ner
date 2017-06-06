@@ -1,0 +1,42 @@
+
+Language Region: 0 2235 English
+Entity	Type
+India	LOCATION
+China	LOCATION
+Pakistan	LOCATION
+NEW DELHI	LOCATION
+1996-08-22	TEMPORAL:DATE
+India	LOCATION
+Thursday	TEMPORAL:DATE
+New Delhi	LOCATION
+Pakistan	LOCATION
+China	LOCATION
+Foreign Minister	TITLE
+I.K. Gujral	PERSON
+India	LOCATION
+Geneva	LOCATION
+Pakistan	LOCATION
+China	LOCATION
+India	LOCATION
+China	LOCATION
+Britain	LOCATION
+France	LOCATION
+Russia	LOCATION
+United States	LOCATION
+India	LOCATION
+India	LOCATION
+Pakistan	LOCATION
+Gujral	PERSON
+India	LOCATION
+Gujral	PERSON
+India	LOCATION
+India	LOCATION
+United Nations General Assembly	ORGANIZATION
+Gujral	PERSON
+Gujral	PERSON
+India	LOCATION
+Geneva	LOCATION
+Gujral	PERSON
+India	LOCATION
+New Delhi	LOCATION
+India	LOCATION

@@ -1,0 +1,29 @@
+
+Language Region: 0 1780 English
+Entity	Type
+Mexican	NATIONALITY
+05:53 GMT	TEMPORAL:TIME
+CHILPANCINGO , Mexico	LOCATION
+1996-08-28	TEMPORAL:DATE
+Wednesday	TEMPORAL:DATE
+Mexican	NATIONALITY
+Guerrero	LOCATION
+mayor	TITLE
+Acatepec	LOCATION
+310 miles	IDENTIFIER:DISTANCE
+500 km	IDENTIFIER:DISTANCE
+Mexico City	LOCATION
+Mexico	LOCATION
+National Human Rights Commission	ORGANIZATION
+Oct. 6	TEMPORAL:DATE
+Mayor	TITLE
+Antonio Gonzalez Garcia	PERSON
+Revolutionary Workers ' Party	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+French	NATIONALITY
+Agir Ensemble	LOCATION
+Droits de l'Homme	LOCATION
+governor	TITLE
+Angel Aguirre	PERSON
+Popular Revolutionary Army	ORGANIZATION
+Aguirre	PERSON

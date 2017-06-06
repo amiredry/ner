@@ -1,0 +1,69 @@
+
+Language Region: 0 3927 English
+Entity	Type
+Clinton	PERSON
+Michael Conlon CHICAGO	PERSON
+1996-08-29	TEMPORAL:DATE
+President	TITLE
+Bill Clinton	PERSON
+Democratic	ORGANIZATION
+a second	TEMPORAL:TIME
+Thursday	TEMPORAL:DATE
+Clinton	PERSON
+10-week	TEMPORAL:TIME
+Dick Morris	PERSON
+Thursday	TEMPORAL:DATE
+Star	ORGANIZATION
+Morris	PERSON
+$ 200	IDENTIFIER:MONEY
+Clinton	PERSON
+White House	ORGANIZATION
+Dick Morris	PERSON
+Clinton	PERSON
+two years	TEMPORAL:TIME
+Morris	PERSON
+Democrats	ORGANIZATION
+Clinton	PERSON
+Dole	PERSON
+Senator	TITLE
+Dianne Feinstein	PERSON
+California Democrat	ORGANIZATION
+Clinton	PERSON
+president	TITLE
+Feinstein	PERSON
+Clinton	PERSON
+Democratic	ORGANIZATION
+8 p.m. EDT	TEMPORAL:TIME
+50-year	TEMPORAL:TIME
+president	TITLE
+Republicans	ORGANIZATION
+Clinton	PERSON
+Bob Dole	PERSON
+Santa Barbara , California	LOCATION
+Dole	PERSON
+Morris	PERSON
+Clinton	PERSON
+Clinton	PERSON
+Morris	PERSON
+President	TITLE
+Clinton	PERSON
+Republican	ORGANIZATION
+Democrat	ORGANIZATION
+Dole	PERSON
+Clinton	PERSON
+Friday	TEMPORAL:DATE
+Democratic	ORGANIZATION
+a second	TEMPORAL:TIME
+Franklin D. Roosevelt	PERSON
+Clinton	PERSON
+Thursday	TEMPORAL:DATE
+Hillary Rodham Clinton	PERSON
+ABC	ORGANIZATION
+American	NATIONALITY
+four years	TEMPORAL:TIME
+four years	TEMPORAL:TIME
+November 5	TEMPORAL:DATE
+Clinton	PERSON
+Dole	PERSON
+Dole	PERSON
+Clinton	PERSON

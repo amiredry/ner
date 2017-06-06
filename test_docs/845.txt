@@ -1,0 +1,15 @@
+
+Language Region: 0 804 English
+Entity	Type
+Romania	LOCATION
+1996-08-29	TEMPORAL:DATE
+Romania	LOCATION
+Bucharest	LOCATION
+Thursday	TEMPORAL:DATE
+a decade	TEMPORAL:TIME
+Emanuil Ceausu	PERSON
+Bucharest	LOCATION
+Victor Babes hospital	LOCATION
+a week	TEMPORAL:TIME
+Romania	LOCATION
+central Africa	LOCATION

@@ -1,0 +1,19 @@
+
+Language Region: 0 635 English
+Entity	Type
+Dutch	NATIONALITY
+Costa Rica	LOCATION
+SAN JOSE , Costa Rica	LOCATION
+1996-08-26	TEMPORAL:DATE
+Dutch	NATIONALITY
+Costa Rica	LOCATION
+$ 1.5 million	IDENTIFIER:MONEY
+Monday	TEMPORAL:DATE
+Humberto Hueite Zyrecha	PERSON
+Jetty Kors	PERSON
+Saturday	TEMPORAL:DATE
+Sunday	TEMPORAL:DATE
+Misael Valerio	PERSON
+Security Ministry	ORGANIZATION
+Nicaragua	LOCATION
+Costa Rica	LOCATION

@@ -1,0 +1,10 @@
+
+Language Region: 0 411 English
+Entity	Type
+Unitog Co	ORGANIZATION
+Barrington Research Associates Inc	ORGANIZATION
+Friday	TEMPORAL:DATE
+Unitog Co	ORGANIZATION
+Alexander Paris	PERSON
+Chicago	LOCATION
+312-408-8787	IDENTIFIER:PHONE_NUMBER

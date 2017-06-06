@@ -1,0 +1,13 @@
+
+Language Region: 0 323 English
+Entity	Type
+PARIS	LOCATION
+1996-08-28	TEMPORAL:DATE
+French	NATIONALITY
+Wednesday	TEMPORAL:DATE
+Nantes	LOCATION
+Cannes	LOCATION
+Monaco	LOCATION
+Strasbourg	LOCATION
+Tuesday	TEMPORAL:DATE
+Marseille	LOCATION

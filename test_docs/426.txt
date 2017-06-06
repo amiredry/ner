@@ -1,0 +1,45 @@
+
+Language Region: 0 1838 English
+Entity	Type
+Brian Homewood RIO DE JANEIRO	PRODUCT
+1996-08-26	TEMPORAL:DATE
+Brazilian	NATIONALITY
+Sunday	TEMPORAL:DATE
+Russia	LOCATION
+Sao Paulo	LOCATION
+Andre	PERSON
+Santos	PERSON
+Narciso	PERSON
+Sao Paulo airport	LOCATION
+Rio de Janeiro	LOCATION
+Brazilian Football Confederation	ORGANIZATION
+CBF	ORGANIZATION
+Rio	LOCATION
+Moscow	LOCATION
+Brazil	LOCATION
+Russia	LOCATION
+Wednesday	TEMPORAL:DATE
+Sao Paulo	LOCATION
+Santos	PERSON
+three hours	TEMPORAL:TIME
+Santos	PERSON
+Narciso	PERSON
+Jean	PERSON
+Sao Paulo	LOCATION
+Sao Paulo	LOCATION
+Juventude	LOCATION
+Spain	LOCATION
+Spain	LOCATION
+Monday	TEMPORAL:DATE
+Sao Paulo	LOCATION
+Tuesday	TEMPORAL:DATE
+Curitiba	LOCATION
+one hour	TEMPORAL:TIME
+Atletico Paranaense	LOCATION
+Brazilian	NATIONALITY
+Tulio	PERSON
+Zagalo	PERSON
+Netherlands	LOCATION
+Sunday	TEMPORAL:DATE
+Bahia	LOCATION
+Tulio	PERSON

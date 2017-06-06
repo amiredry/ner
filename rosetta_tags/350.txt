@@ -1,0 +1,60 @@
+
+Language Region: 0 2828 English
+Entity	Type
+1996-08-25	TEMPORAL:DATE
+Rafael Palmeiro	PERSON
+Roberto Alomar	PERSON
+Baltimore Orioles	ORGANIZATION
+California	LOCATION
+American League	ORGANIZATION
+Saturday	TEMPORAL:DATE
+Mike Devereaux	PERSON
+Kyle Abbott	PERSON
+Alomar	PERSON
+Brady Anderson	PERSON
+Palmeiro	PERSON
+Alomar	PERSON
+Boston	LOCATION
+Darren Bragg	PERSON
+Randy Johnson	PERSON
+Boston Red Sox	ORGANIZATION
+Seattle	LOCATION
+Bragg	PERSON
+Cleveland	LOCATION
+Kevin Seitzer	PERSON
+David Hulse	PERSON
+Milwaukee Brewers	ORGANIZATION
+Cleveland	LOCATION
+Indians	NATIONALITY
+Bob Wickman	PERSON
+New York Yankees	ORGANIZATION
+Friday	TEMPORAL:DATE
+Milwaukee	LOCATION
+Minnesota	LOCATION
+Marty Cordova	PERSON
+Matt Lawton	PERSON
+Frankie Rodriguez	PERSON
+a month	TEMPORAL:TIME
+Minnesota Twins	ORGANIZATION
+Texas Rangers	ORGANIZATION
+Rodriguez	PERSON
+New York	LOCATION
+Wally Whitehurst	PERSON
+two years	TEMPORAL:TIME
+Paul O'Neill	PERSON
+New York Yankees	ORGANIZATION
+Oakland Athletics	LOCATION
+Whitehurst	PERSON
+Triple	LOCATION
+Columbus	LOCATION
+Wednesday	TEMPORAL:DATE
+St. Louis Cardinals	LOCATION
+May 28th , 1994	TEMPORAL:DATE
+San Diego Padres	LOCATION
+Kansas City	LOCATION
+Jose Rosado	PERSON
+Michael Tucker	PERSON
+Kansas City Royals	ORGANIZATION
+Detroit Tigers	ORGANIZATION
+Rosado	PERSON
+21-year	TEMPORAL:TIME

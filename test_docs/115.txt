@@ -1,0 +1,70 @@
+
+Language Region: 0 3831 English
+Entity	Type
+Mother	TITLE
+Teresa	PERSON
+CALCUTTA	LOCATION
+1996-08-22	TEMPORAL:DATE
+Mother	TITLE
+Teresa	PERSON
+Saint	LOCATION
+Nobel	PERSON
+Albanian	NATIONALITY
+God	PERSON
+Roman Catholic	RELIGION
+Indian	NATIONALITY
+Thursday	TEMPORAL:DATE
+doctor	TITLE
+Mother	TITLE
+Teresa	PERSON
+Tuesday	TEMPORAL:DATE
+Mother	TITLE
+Teresa	PERSON
+Calcutta	LOCATION
+Nobel	PERSON
+Bharat Ratna	PERSON
+Jewel of India	ORGANIZATION
+A year	TEMPORAL:TIME
+Vatican	LOCATION
+Mother	TITLE
+Teresa	PERSON
+California	LOCATION
+Rome	LOCATION
+August	TEMPORAL:DATE
+New Delhi	LOCATION
+April	TEMPORAL:DATE
+Mother	TITLE
+Teresa	PERSON
+Agnes Goinxha Bejaxhiu	PERSON
+Albanian	NATIONALITY
+Skopje	LOCATION
+Serbia	LOCATION
+August 27 , 1910	TEMPORAL:DATE
+Calcutta	LOCATION
+Loretto Abbey	LOCATION
+Dublin	LOCATION
+India	LOCATION
+Calcutta	LOCATION
+September , 1946	TEMPORAL:DATE
+Vatican	LOCATION
+Dublin	LOCATION
+American	NATIONALITY
+Calcutta	LOCATION
+December 1949	TEMPORAL:DATE
+Teresa	PERSON
+France	LOCATION
+Saint Therese	PERSON
+Jesus	PERSON
+India	LOCATION
+Mother	TITLE
+Teresa	PERSON
+Hindu	RELIGION
+Calcutta	LOCATION
+Nirmal Hriday	PERSON
+a year	TEMPORAL:TIME
+Roman Catholic	RELIGION
+India	LOCATION
+British	NATIONALITY
+Mother	TITLE
+Teresa	PERSON
+Catholics	RELIGION

@@ -1,0 +1,22 @@
+
+Language Region: 0 1066 English
+Entity	Type
+Atlantic City	LOCATION
+ATLANTIC CITY , N.J.	LOCATION
+1996-08-29	TEMPORAL:DATE
+Atlantic City	LOCATION
+Thursday	TEMPORAL:DATE
+$ 690,000	IDENTIFIER:MONEY
+Showboat Hotel and Casino	LOCATION
+Richard Andrews	PERSON
+Andrews	PERSON
+A second	TEMPORAL:TIME
+Sunday	TEMPORAL:DATE
+New York	LOCATION
+Jerry Schein	PERSON
+Somerset Jewellers	LOCATION
+Charles McGilley	PERSON
+Schein	PERSON
+$ 650,000	IDENTIFIER:MONEY
+$ 40,000	IDENTIFIER:MONEY
+Andrews	PERSON

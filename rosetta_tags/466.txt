@@ -1,0 +1,16 @@
+
+Language Region: 0 69 Spanish
+Entity	Type
+Banco de Mexico	ORGANIZATION
+MEXICO	LOCATION
+1996-08-26	TEMPORAL:DATE
+
+Language Region: 69 347 English
+Entity	Type
+Banco de Mexico	ORGANIZATION
+Monday	TEMPORAL:DATE
+9 days	TEMPORAL:TIME
+3 days	TEMPORAL:TIME
+1 day	TEMPORAL:TIME
+Mexico City	LOCATION
+525 728-9559	IDENTIFIER:PHONE_NUMBER

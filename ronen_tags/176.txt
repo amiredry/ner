@@ -1,0 +1,9 @@
+CRICKET - PAKISTAN 229-1 V ENGLAND - close .
+<PERSON>Saeed Anwar</PERSON> not out 116
+<PERSON>Aamir Sohail c Cork b Croft</PERSON> 46
+Ijaz Ahmed not out 58
+Extras 9
+Fall of wicket - 1-106
+To bat - Inzamam-ul-Haq , <PERSON>Salim Malik , Asif Mujtaba</PERSON> , Wasim Akram , Moin Khan , Mushtaq Ahmed , Waqar Younis , <PERSON>Mohammad Akam</PERSON>
+England 326 all out
+

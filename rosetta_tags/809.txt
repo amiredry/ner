@@ -1,0 +1,47 @@
+
+Language Region: 0 934 English
+Entity	Type
+ENGLISH COUNTY CHAMPIONSHIP SCORES	ORGANIZATION
+LONDON	LOCATION
+1996-08-29	TEMPORAL:DATE
+English	NATIONALITY
+Thursday	TEMPORAL:DATE
+Tunbridge Wells	PERSON
+Nottinghamshire	LOCATION
+Kent London	PERSON
+Warwickshire 195	PRODUCT
+C. Lewis	PERSON
+Surrey	LOCATION
+Sussex	LOCATION
+W. Athey 111	PRODUCT
+Lancashire Leeds ( Headingley	ORGANIZATION
+Yorkshire	LOCATION
+M. Moxon	PERSON
+R. Blakey	ORGANIZATION
+Essex	LOCATION
+Chester	PERSON
+Glamorgan 259 ( P. Cottey	ORGANIZATION
+M. Saggers	PERSON
+Durham 114 ( S. Watkin	ORGANIZATION
+Chesterfield	LOCATION
+W. Weston 100	PRODUCT
+V. Solanki	PERSON
+Derbyshire 166-1	PRODUCT
+K. Barnett 83	PRODUCT
+Portsmouth	LOCATION
+J. Pooley 106	PRODUCT
+M. Ramprakash	PERSON
+Hampshire 232	PRODUCT
+R.	ORGANIZATION
+Fay 4	PRODUCT
+D. Millns	PERSON
+Leicestershire	LOCATION
+Bristol	LOCATION
+Gloucestershire 183 ( J.	ORGANIZATION
+
+Language Region: 934 977 Norwegian
+Entity	Type
+
+Language Region: 977 1000 English
+Entity	Type
+Curran	PERSON

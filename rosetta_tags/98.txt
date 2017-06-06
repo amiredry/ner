@@ -1,0 +1,13 @@
+
+Language Region: 0 1312 English
+Entity	Type
+Turkish	NATIONALITY
+1996-08-22	TEMPORAL:DATE
+Turkish	NATIONALITY
+Thursday	TEMPORAL:DATE
+IMKB-100	ORGANIZATION
+Wednesday	TEMPORAL:DATE
+Burcin Mavituna	PERSON
+Isbank	LOCATION
+Cukurova	ORGANIZATION
+Istanbul Newsroom	ORGANIZATION

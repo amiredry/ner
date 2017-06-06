@@ -1,0 +1,41 @@
+
+Language Region: 0 2853 English
+Entity	Type
+Richard Finn	PERSON
+NEW YORK	LOCATION
+1996-08-28	TEMPORAL:DATE
+Andrei Medvedev	PERSON
+clown prince	TITLE
+Wednesday	TEMPORAL:DATE
+Medvedev	PERSON
+Frenchman	NATIONALITY
+Jean-Philippe Fleurian	PERSON
+U.S. Open	ORGANIZATION
+Medvedev	PERSON
+22-year	TEMPORAL:TIME
+Medvedev	PERSON
+Medvedev	PERSON
+Medvedev	PERSON
+two years	TEMPORAL:TIME
+three years	TEMPORAL:TIME
+Medvedev	PERSON
+French	NATIONALITY
+Medvedev	PERSON
+Ukrainian	NATIONALITY
+two months	TEMPORAL:TIME
+Medvedev	PERSON
+Medvedev	PERSON
+Australian	NATIONALITY
+coach	TITLE
+Bob Brett	PERSON
+Medvedev	PERSON
+Long Island	LOCATION
+Medvedev	PERSON
+77-minute	TEMPORAL:TIME
+Fleurian	PERSON
+Medvedev	PERSON
+Fleurian	PERSON
+Medvedev	PERSON
+Fleurian	PERSON
+a second	TEMPORAL:TIME
+Medvedev	PERSON

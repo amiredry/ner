@@ -1,0 +1,15 @@
+
+Language Region: 0 986 English
+Entity	Type
+Croatian	NATIONALITY
+1996-08-26	TEMPORAL:DATE
+Croatian	NATIONALITY
+Monday	TEMPORAL:DATE
+Friday	TEMPORAL:DATE
+15 day	TEMPORAL:TIME
+Zagreb	LOCATION
+Croatia	LOCATION
+Tuesday	TEMPORAL:DATE
+German	NATIONALITY
+Kolumbina Bencevic	ORGANIZATION
+Zagreb Newsroom	LOCATION

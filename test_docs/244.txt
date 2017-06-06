@@ -1,0 +1,20 @@
+
+Language Region: 0 183 English
+Entity	Type
+RESULTS AT TOSHIBA CLASSIC	LOCATION
+CARLSBAD , California	LOCATION
+1996-08-24	TEMPORAL:DATE
+$ 450,000	IDENTIFIER:MONEY
+Toshiba	ORGANIZATION
+Friday	TEMPORAL:DATE
+
+Language Region: 183 265 Italian
+Entity	Type
+Arantxa Sanchez Vicario	PERSON
+Katarina Studenikova	PERSON
+
+Language Region: 265 356 Czech
+Entity	Type
+
+Language Region: 356 424 Romanian
+Entity	Type

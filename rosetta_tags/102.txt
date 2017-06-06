@@ -1,0 +1,81 @@
+
+Language Region: 0 3765 English
+Entity	Type
+U.S.	LOCATION
+Nazi	ORGANIZATION
+German	NATIONALITY
+Andrew Gray	PERSON
+HAMBURG , Germany	LOCATION
+1996-08-22	TEMPORAL:DATE
+Hamburg	LOCATION
+U.S.	LOCATION
+Nazi	ORGANIZATION
+Gary Lauck	PERSON
+Thursday	TEMPORAL:DATE
+four years	TEMPORAL:TIME
+Germany	LOCATION
+United States	LOCATION
+Lauck	PERSON
+Lincoln , Nebraska	LOCATION
+43-year	TEMPORAL:TIME
+German	NATIONALITY
+Lauck	PERSON
+German	NATIONALITY
+German	NATIONALITY
+Nazism	LOCATION
+Lauck	PERSON
+Germany	LOCATION
+Lauck	PERSON
+20 years	TEMPORAL:TIME
+judge	TITLE
+Guenter Bertram	PERSON
+Germany	LOCATION
+Bertram	PERSON
+Lauck	PERSON
+Hitler	PERSON
+Nazi	ORGANIZATION
+Jews	RELIGION
+Lauck	PERSON
+prosecutor	TITLE
+Bernd Mauruschat	PERSON
+five-year	TEMPORAL:TIME
+Nazi	ORGANIZATION
+Germany	LOCATION
+Lauck	PERSON
+U.S	LOCATION
+Interior Minister	TITLE
+Manfred Kanther	PERSON
+Nazism	LOCATION
+Social Democrats	ORGANIZATION
+Lauck	PERSON
+Bertram	PERSON
+an hour	TEMPORAL:TIME
+Lauck	PERSON
+National Socialists	ORGANIZATION
+Nazis	ORGANIZATION
+American	NATIONALITY
+Germany	LOCATION
+Denmark	LOCATION
+attorney	TITLE
+Hans-Otto Sieg	PERSON
+German	NATIONALITY
+judge	TITLE
+United States	LOCATION
+Bertram	PERSON
+Lauck	PERSON
+Nazism	LOCATION
+National Socialist German Workers ' Party Foreign Organisation	ORGANIZATION
+AO	ORGANIZATION
+German	NATIONALITY
+Hitler	PERSON
+Nazi	ORGANIZATION
+three-month	TEMPORAL:TIME
+AO	ORGANIZATION
+National Socialist	ORGANIZATION
+Jews	RELIGION
+Lauck	PERSON
+Denmark	LOCATION
+German	NATIONALITY
+Lauck	PERSON
+a half years	TEMPORAL:TIME
+15 months	TEMPORAL:TIME

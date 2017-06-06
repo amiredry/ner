@@ -1,0 +1,37 @@
+
+Language Region: 0 1441 English
+Entity	Type
+Egypt	LOCATION
+Sudanese	NATIONALITY
+CAIRO	LOCATION
+1996-08-22	TEMPORAL:DATE
+Egyptian	NATIONALITY
+Sudanese	NATIONALITY
+Egyptian	NATIONALITY
+President	TITLE
+Hosni Mubarak	PERSON
+Thursday	TEMPORAL:DATE
+Egypt	LOCATION
+Sudanese	NATIONALITY
+Moslem	RELIGION
+Mubarak	PERSON
+Addis Ababa	LOCATION
+U.N. Security Council	ORGANIZATION
+Sudanese	NATIONALITY
+Khartoum	LOCATION
+Addis Ababa	LOCATION
+November	TEMPORAL:DATE
+Sudan	LOCATION
+Sudan	LOCATION
+Ethiopia	LOCATION
+Sudan	LOCATION
+Sudanese	NATIONALITY
+Turabi	PERSON
+Mubarak	PERSON
+Hassan al-Turabi	PERSON
+National Islamic Front	ORGANIZATION
+Sudanese	NATIONALITY
+Sudanese	NATIONALITY
+Mubarak	PERSON
+Egypt	LOCATION
+Sudanese	NATIONALITY

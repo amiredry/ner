@@ -1,0 +1,51 @@
+
+Language Region: 0 102 English Uppercase
+Entity	Type
+1996-08-26	TEMPORAL:DATE
+
+Language Region: 102 607 English
+Entity	Type
+Monday	TEMPORAL:DATE
+Tommi Makinen	PERSON
+Finland	LOCATION
+Mitsubishi Lancer	ORGANIZATION
+4 hours	TEMPORAL:TIME
+4 minutes	TEMPORAL:TIME
+13 seconds	TEMPORAL:TIME
+Juha Kankkunen	PERSON
+Finland	LOCATION
+Toyota Celica	ORGANIZATION
+46 seconds	TEMPORAL:TIME
+Jarmo Kytolehto	PERSON
+Finland	LOCATION
+Ford Escort	ORGANIZATION
+2:37	TEMPORAL:TIME
+Marcus Gronholm	PERSON
+Finland	LOCATION
+Toyota Celica	ORGANIZATION
+2:42	TEMPORAL:TIME
+Kenneth Eriksson	PERSON
+Sweden	LOCATION
+Subaru Impreza	ORGANIZATION
+3:22	TEMPORAL:TIME
+Thomas Radstrom	PERSON
+Sweden	LOCATION
+Toyota Celica	ORGANIZATION
+Sebastian Lindholm	PERSON
+Finland	LOCATION
+Ford Escort	ORGANIZATION
+5:17	TEMPORAL:TIME
+Lasse Lampi	PERSON
+Finland	LOCATION
+Mitsubishi Lancer	ORGANIZATION
+12:01	TEMPORAL:TIME
+
+Language Region: 607 709 Portuguese
+Entity	Type
+Rui Madeira	PERSON
+Portugal	LOCATION
+Toyota	ORGANIZATION
+16:34	TEMPORAL:TIME
+Angelo Medeghini	PERSON
+Subaru	ORGANIZATION
+18:28	TEMPORAL:TIME

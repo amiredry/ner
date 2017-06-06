@@ -1,0 +1,40 @@
+
+Language Region: 0 1530 English
+Entity	Type
+ABDERDEEN , Scotland	LOCATION
+1996-08-30	TEMPORAL:DATE
+French	NATIONALITY
+Antoine Kombouare	PERSON
+$ 467,000	IDENTIFIER:MONEY
+Aberdeen	LOCATION
+Swiss	ORGANIZATION
+Sion	LOCATION
+Scottish	NATIONALITY
+premier	TITLE
+Friday	TEMPORAL:DATE
+Kombouare	PERSON
+two-year	TEMPORAL:TIME
+Morton	PERSON
+Scottish	NATIONALITY
+Tuesday	TEMPORAL:DATE
+Aberdeen	LOCATION
+Sion	LOCATION
+Aberdeen	LOCATION
+manager	TITLE
+Roy Aitken	PERSON
+Antoine	PERSON
+Europe	LOCATION
+32-year	TEMPORAL:TIME
+Nantes	LOCATION
+Paris	LOCATION
+St Germain	LOCATION
+PSG	LOCATION
+David Ginola	PERSON
+English	NATIONALITY
+premier	TITLE
+Newcastle	LOCATION
+Scotland	LOCATION
+David	PERSON
+Aberdeen	LOCATION
+Kombouare	PERSON
+Aberdeen	LOCATION

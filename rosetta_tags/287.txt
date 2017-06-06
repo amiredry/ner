@@ -1,0 +1,29 @@
+
+Language Region: 0 1129 English
+Entity	Type
+Sudan	LOCATION
+KHARTOUM	LOCATION
+1996-08-24	TEMPORAL:DATE
+Sudanese	NATIONALITY
+Sudanese	NATIONALITY
+Eritrea	LOCATION
+Saturday	TEMPORAL:DATE
+al-Ingaz al-Watani	ORGANIZATION
+Banat	LOCATION
+Kassala	LOCATION
+Eritrea	LOCATION
+Kassala	LOCATION
+Eritrea	LOCATION
+Eritrea	LOCATION
+Sudan	LOCATION
+Eritrean	NATIONALITY
+Sudanese	NATIONALITY
+Eritrea	LOCATION
+Eritrea	LOCATION
+Sudan	LOCATION
+Eritrea	LOCATION
+National Democratic Alliance	ORGANIZATION
+Sudanese	NATIONALITY
+Eritrean	NATIONALITY
+Asmara	LOCATION
+Sudanese	NATIONALITY
